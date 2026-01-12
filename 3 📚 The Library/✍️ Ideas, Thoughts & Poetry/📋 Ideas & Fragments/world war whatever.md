@@ -1,0 +1,1 @@
+<span style="color:#000ff;">world war whatever</span>

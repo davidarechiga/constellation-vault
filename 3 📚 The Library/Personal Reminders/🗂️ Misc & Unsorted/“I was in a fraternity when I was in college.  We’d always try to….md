@@ -1,0 +1,3 @@
+“I was in a fraternity when I was in college.  We’d always try to be funny and shoot each other down.  And I never really stopped being that way.  I’ve been sarcastic my whole life.  I always had something witty to say.  I didn’t care whose feelings got hurt as long as I got a good laugh.  I didn’t care much about maintaining relationships.  It was ‘take it or leave it.’  But I got lung cancer recently, and nobody came to visit me when I was in the hospital.  That really got me thinking.  I don’t take my relationships for granted anymore.  I’m much more careful with my words now.  I don’t want to upset anybody.  I listen a lot more.  I try to appreciate everyone who takes the time to speak to me.”
+
+Unknown

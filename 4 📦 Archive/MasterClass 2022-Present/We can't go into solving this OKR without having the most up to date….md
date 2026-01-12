@@ -1,0 +1,4 @@
+We can't go into solving this OKR without having the most up to date information. We should really take a status of what are the actually requirements of onboarding currently. In this key result, it's important to not thing about how to fix or automate just yet, but rather who's involved, what does it involve, and how/when does it happen. Who, what, when, where, and how, gather all the information.
+
+This likely means, a meeting internally to make sure we understand our workflow, any gotchas with it, and "special conditions" (such as Task-Us), etc. Once we have a full understanding of ours, we should schedule time with People-Ops to start the discovery process and develop a Lucidchart/<a href="https://draw.io/" rel="noopener" class="external-link" target="_blank"><u>Draw.I</u></a>O of the workflow, the pieces, stakeholders, etc.
+˚d

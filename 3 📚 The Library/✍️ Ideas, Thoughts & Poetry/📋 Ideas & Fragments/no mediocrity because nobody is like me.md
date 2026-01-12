@@ -1,0 +1,1 @@
+no mediocrity because nobody is like me

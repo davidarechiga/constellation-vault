@@ -1,0 +1,55 @@
+# Freshservice Training
+
+Dashboard
+- Widgets
+- up to 5 other dashboards
+	- each agent can have their own
+- Navigation Bar
+	- Can be collapsed
+- Admin
+	- General Settings
+		- setting and forgetting
+	- HelpDesk Productivity
+		- Workflow Automator
+		- Supervisor
+			- time-based automation
+		- Business Rules
+			- change behavior of forms
+		- Closure Rules
+		- Scenario Automations
+			- agents can make their own
+		- Form Templates
+			- agents can make their own
+		- Canned Responses
+			- agents can make their own
+	- IT Ops Management
+		- Alerts management
+	- Asset Management
+	- User Management
+		- Agents
+			- Forms
+				- can be modified and customized in user fields
+					- can be nested and dynamic
+					- cannot remove default fields but can be hidden with business fields
+		- Requesters
+			- Can be created as they email or submit forms
+			- VIP
+			- Verified
+			- Unverified
+			- Deactivated
+			- Blocked
+			- Requester Forms
+				- can be modified and customized in user fields
+					- can be nested and dynamic
+					- cannot remove default fields but can be hid with business fields
+			- Can use the **discovery** to map fields
+		- Department Form
+		- Agent Groups
+			- Business Hours define SLA
+			- Group Automations
+			- You can create groups based on criteria like smart groups
+		- Requester Groups
+			- Announcements can be targeted to requester or agent groups
+		- Roles
+			- Default roles can not be edited
+				- you can clone and edit

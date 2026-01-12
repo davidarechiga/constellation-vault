@@ -1,0 +1,1 @@
+<span style="color:#000ff;">Bass I usually cut to 30. Guitars 150 and around, vocals 75ish</span>

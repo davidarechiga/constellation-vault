@@ -1,0 +1,1 @@
+# it’s important to highlight the commonalities in notes by bolding the text

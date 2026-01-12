@@ -1,0 +1,36 @@
+# History Of Psychology
+
+- Began as a deliberate attempt to start a new science. Saw how other sciences were evolving and wanted to evolve the studies of mental processes
+	- They started using the scientific method
+- A good scientific question is interesting and answerable
+- 1879: first psyche lab in Leipzig Germany by Wilhelm Wundt (voont)
+- He asked subjects to ***Introspect - look within themselves***
+- Wundt’s Student Edward Titchener developed ***structuralism - an attempt to describe the structures that compose the mind***
+- At the same time, William James was working on what the mind does, not what it is.
+- ***Functionalism - to learn how people produce useful behaviors***
+	- How can people strengthen good habits
+	- Can someone attend to more than one item at a time>
+	- How do people recognize that they have seen something before
+	- How does an intention lead to an action
+- Mostly inspired later researchers to address the questions he posed.
+- Psychological function - the mathematical description of the relationship between the physical stimulus and it’s perceived properties
+	- Demonstrated the feasibility of scientific research on psychological questions
+- Darwin - evolution by natural selection
+- Comparative psychologists - specialists who compare different animal species
+	- Measuring animal intelligence turned out more difficult than it sounded because there are many variances in brilliance
+	- Francis Galton, a cousin of Darwin, examined human intelligence
+	- Simple sensory and motor tasks
+	- Measurements were unsatisfactory
+- Rise of Behavorism
+	- Behaviorism - a field of psychology that concentrates on observable behaviorist and not mental processes.
+	- Founded by John B. Watson
+- From Freud to Modern Clinical Psychology
+	- Freud popularized psychotherapy, analyzing patients dreams and memories and tracing back to childhood experiences
+	- Clinical Psychology developed out of the demand for treatment after World War II. Psychiatrists couldn’t handle the demand.
+- Recent Trends
+	- Basic Research - seeks theoretical knowledge for it’s own sake
+	- Applied knowledge- deals with practical problems such as how to help children with learning disbilities
+	- Mutual supportive
+	- Brain scanning enables researchers to examine brain activity without opening the skull
+	- Neuroscience influences psychology
+	- Positive psychology

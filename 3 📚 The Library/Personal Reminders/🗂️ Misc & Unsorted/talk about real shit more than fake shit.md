@@ -1,0 +1,1 @@
+talk about real shit more than fake shit

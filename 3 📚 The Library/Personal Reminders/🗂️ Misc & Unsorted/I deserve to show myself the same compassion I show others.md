@@ -1,0 +1,1 @@
+I deserve to show myself the same compassion I show others

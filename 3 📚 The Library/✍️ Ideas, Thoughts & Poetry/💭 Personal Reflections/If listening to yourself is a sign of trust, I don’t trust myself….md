@@ -1,0 +1,1 @@
+If listening to yourself is a sign of trust, I don’t trust myself. Last week we talked about the power of listening to yourself. Our wants and needs and everything in between. I often listen to intently to my wants but don’t really give my needs the time of day.

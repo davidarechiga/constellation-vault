@@ -1,0 +1,1 @@
+love is wanting more for them then they want for themselves

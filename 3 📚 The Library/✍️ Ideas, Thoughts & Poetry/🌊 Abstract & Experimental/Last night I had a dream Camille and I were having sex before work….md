@@ -1,0 +1,3 @@
+Last night I had a dream Camille and I were having sex before work and Michael Carneal came asking for Alek they wanted to jam. I walked through my apartment that kinda resembled mar it’s apartment,I went to the bathroom where two
+Crabs were battling, I wondered where they came from
+And if Camille had seem this. Then they came after me and I killed them with the roller blades I had on. I went outside to a parking lot where shannon la rue was and she asked me about what I’m doing to de stress

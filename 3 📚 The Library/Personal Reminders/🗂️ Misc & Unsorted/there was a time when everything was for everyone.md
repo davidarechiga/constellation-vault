@@ -1,0 +1,1 @@
+there was a time when everything was for everyone

@@ -1,0 +1,1 @@
+<span style="color:#000ff;">You were all I found as I dug deeper, you started to come around but you took what you could and left town.</span>

@@ -1,0 +1,13 @@
+<span style="color:#000ff;">There are three states of being. Not knowing, action and completion.</span>
+<span style="color:#000ff;">Accept that everything is a draft. It helps to get it done.</span>
+<span style="color:#000ff;">There is no editing stage.</span>
+<span style="color:#000ff;">Pretending you know what you’re doing is almost the same as knowing what you are doing, so just accept that you know what you’re doing even if you don’t and do it.</span>
+<span style="color:#000ff;">Banish procrastination. If you wait more than a week to get an idea done, abandon it.</span>
+<span style="color:#000ff;">The point of being done is not to finish but to get other things done.</span>
+<span style="color:#000ff;">Once you’re done you can throw it away.</span>
+<span style="color:#000ff;">Laugh at perfection. It’s boring and keeps you from being done.</span>
+<span style="color:#000ff;">People without dirty hands are wrong. Doing something makes you right.</span>
+<span style="color:#000ff;">Failure counts as done. So do mistakes.</span>
+<span style="color:#000ff;">Destruction is a variant of done.</span>
+<span style="color:#000ff;">If you have an idea and publish it on the internet, that counts as a ghost of done.</span>
+<span style="color:#000ff;">Done is the engine of more.</span>

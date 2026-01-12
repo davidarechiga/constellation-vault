@@ -1,0 +1,38 @@
+- Washing dishes
+- Loading/unloading the dishwasher
+- Cooking or preparing meals
+- Packing lunches
+- Sweeping or vacuuming the kitchen and eating area
+- Feeding pets and getting them fresh water
+- Walking the dog
+- Taking out the trash
+- Clearing the counters and putting things away
+- Making the bed
+- Vacuuming all rugs and carpets
+- Sweeping or vacuuming and mopping all hard floors
+- Dusting shelves and window sills
+- Cleaning the bathrooms
+- Scrubbing all sinks, drains and faucets
+- Changing out hand and kitchen towels
+- Changing out bedding
+- Doing laundry
+- Planning weekly meals
+- Grocery shopping
+- Watering plants
+- Rolling out the garbage and recycling bins
+- Mowing the lawn
+- Cleaning all windows and mirrors
+- Cleaning out the refrigerator
+- Tossing out expired pantry food
+- Cleaning out the oven and microwave
+- Changing the HVAC filter
+- Dusting the blinds or shutters
+- Vacuuming or steaming the curtains
+- Vacuuming furniture
+- Cleaning the walls
+- Dusting the baseboards
+- Organizing the closets
+- Bathing the pets
+- Washing the car
+- Vacuuming out the car
+- Weeding the garden

@@ -1,0 +1,2 @@
+<span style="color:#000ff;">putting more layers on a painting will help define the subject and give life to the finer details that will help people understand.</span>
+<span style="color:#000ff;">create an emotion</span>

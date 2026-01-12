@@ -1,0 +1,1 @@
+# I turned in my assignment and I immediately felt a sense of relief. This is a sign that if I finish my assignments early, I can feel those sign of relief early so I can feel less anxious through the week.

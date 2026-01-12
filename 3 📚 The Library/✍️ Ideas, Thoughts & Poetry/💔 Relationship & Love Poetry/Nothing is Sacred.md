@@ -1,0 +1,9 @@
+<span style="color:#000ff;">Nothing is Sacred</span>
+<span style="color:#000ff;">until we feel it in our bones</span> 
+<span style="color:#000ff;">the wind in her hair</span> 
+<span style="color:#000ff;">whispers softly</span>
+<span style="color:#000ff;">I believe you're the one for me</span>
+<span style="color:#000ff;">let’s get married</span>
+<span style="color:#000ff;">safe to say it’s too soon</span>
+<span style="color:#000ff;">but the fires burning</span>
+<span style="color:#000ff;">and your parents will never approve</span>

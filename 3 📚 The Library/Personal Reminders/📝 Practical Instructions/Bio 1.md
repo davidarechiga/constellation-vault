@@ -1,0 +1,3 @@
+Bio
+
+“Growing up in Southern California, Archie was always a tinkerer, pulling apart electronics, learning about each component and repairing as needed. Because of this, it was only natural that Archie started working at the Apple Store, repairing iPhones and MacBooks. After 12 years, Archie left Apple to pursue a career in Corporate IT/Cybersecurity. When Archie isn’t protecting enterprise computer networks, he is playing guitar in an indie rock band, traveling with his girlfriend looking for the world’s best coffee, and riding his bicycle around Brooklyn.”

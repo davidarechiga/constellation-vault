@@ -1,0 +1,6 @@
+Thoughts on California by Blink-182
+
+4/30/2016
+
+
+after only a handful of listens, I have this song on repeat. I have been a blink 182 fan since Dammit and this song is not a letdown. in my opinion, this is exactly what 2016 blink should sound like. do I miss Tom Delonge? absolutely but this song is back to basics for a couple of reasons. firstly, basic song structure. they wasted no time getting to the chorus with a fantastic pre chorus. this song is formulaic in a way that few can pull off and is a return to form (phased drum intro, palm muted bridge.) They took all the best parts of blink and made a hit that is radio friendly again. secondly, Mark plays a major part in driving this song, something that was pretty much absent in recent records. Two criticisms: “Life is too short to last long” is too generic. could have been more meaningful. Also Matt’s and Mark’s voices are really similar and it’s hard to tell them apart. Overall, I am excited for this new era of blink and I have high expectations for this record from hearing this single.

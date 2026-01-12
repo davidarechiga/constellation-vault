@@ -1,0 +1,1 @@
+Weird shaped stickers

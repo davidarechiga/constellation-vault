@@ -1,0 +1,1 @@
+Intrinsic belief that my goals are possible.

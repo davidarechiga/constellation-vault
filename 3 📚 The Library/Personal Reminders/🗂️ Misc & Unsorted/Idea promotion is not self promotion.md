@@ -1,0 +1,1 @@
+# Idea promotion is not self promotion

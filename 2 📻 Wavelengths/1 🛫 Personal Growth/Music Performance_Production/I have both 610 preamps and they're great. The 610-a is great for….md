@@ -1,0 +1,1 @@
+I have both 610 preamps and they're great. The 610-a is great for box and bass and electric, the 610-b is great for acoustics and electrics. The 1176 collection is totally essential for me. I use them all for different things. The Ampex and Studer tapes are amazing. The Pultec collection is another essential for me. I use the pultecs on guitars almost exclusively.

@@ -1,0 +1,1 @@
+Depression stops me from making real connections with anyone. Turns every one into an enemy. the passed couple weeks, I’ve been forgetful and absent minded. Never really focusing on one thing but living in a general world of isolation. Am I ever truly open? What does it mean to connect?

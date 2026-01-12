@@ -1,0 +1,1 @@
+it’s either ok or you’re dead

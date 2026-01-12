@@ -1,0 +1,1 @@
+guitar → gain stage → frequency → modulation → time → amp

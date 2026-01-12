@@ -1,0 +1,159 @@
+# Module 4 Notes
+
+## From Reading
+### 6.1 Classical Conditioning
+- Researches wanted to get away from structuralism because it didn’t explain anything
+- They researchers advocated for **Behaviorism** - the positing that psychology should concern itself only with what people and other animals do and the circumstances in which they do it
+- **stimulus-response psychology** - the attempt to explain behavior in terms of how each stimulus-response triggers a response
+- Behaviorists now
+	- they believe behavior is a product of not only the current stimuli but also the individual’s history of experiences, plus such factors of wakefulness or sleepiness
+- Greatest challenge is to explain learning
+- **Pavlov and Classical Conditioning**
+	- **Pavlov Noticed a dogs drool just before feeding**
+	- **unconditioned reflexes -** automatic connections between a stimulus such as food and a response such as secreting digestive juices
+	- Classical Conditioning
+		- the process by which an organism learns a new association between two stimuli - a neutral stimulus and one that already evokes a reflexive response
+		- Pavlovian Conditioning
+		- UCS - food
+		- UCR - salivation
+		- NS - Metronome before conditioning
+		- CS - Metronome after conditioning
+		- CR - Salivating
+		- **Acquisition**
+			- press that establishes a strengthens a conditioned response
+		- Extinction
+			- to extinguish a classically conditioned response, repeatedly present the conditioned stimuli (CS) without the unconditional stimulus (UCS)
+			- This is not a complete obliteration, just a suppression
+		- There is a chance for **Spontaneous recovery**
+				- temporary return of an extinguished response after a delay.
+		- Stimulus Generalization
+			- extensional of a conditioned response from the training stimulus to a similar stimuli
+		- Discrimination
+			- response differently to stimuli that predict different outcomes
+- **Drug Tolerance as an Example of Classical Conditioning**
+	- Drug Tolerance
+		- Users of certain drugs experience progressively weaker effects after taking the drugs repeatedly.
+		- People drinking alcohol in a familiar setting experience less cognitive impairment than those drinking it in an unfamiliar setting
+- **The Blocking Effect**
+	- previously established association to one stimulus blocks the formation of an association to the added stimulus.
+
+
+### 6.2 Operant Conditioning
+- **learning curve** - graph of the changes in behavior that occur over the course of learning
+- reinforcement
+	- the process of increasing the future probability of the most recent response more 
+- law of effect
+	- of several responses made to the same situation, those which are accompanied or closely followed by satisfaction to the animal will, other things being equal, be more firmly connected with the situation, so that when it recurs, they will be more likely to recur.
+- Operant Conditioning (instrumental conditioning)
+	- the process of changing behavior by providing a reinforcer after a response
+	- the difference is the procedure
+	- the subjects behavior proves an outcome that affects future behavior 
+		- in classical conditioning, the subjects behavior has no effect on the outcome.
+- Classical conditioning applies to mainly visceral responses (internal organs)
+- **Reinforcement and Punishment**
+	- a useful way of defining reinforcement relies on the concept of equilibrium
+	- disequilibrium principle
+		- anything that prevents activity produces disequilibrium and an opportunity to return to equilibrium is reinforcing
+	- Primary reinforcers
+		- (unconditioned reinforcers) are reinforcing because of their own properties
+	- Secondary Reinforcers
+		- (Conditional reinforcers) became reinforcing by association with something else
+	- Food is a primary reinforcer, money is a secondary reinforcer
+	- Punishment
+	- Categories of Reinforcement and Punishment
+- Additional Phenomena of Operant Conditioning
+	- extinction
+		- occurs if responses stop producing reinforcements
+	- Gereralization
+		- The more similar a new stimulus is to the original reinforced stimulus, the more likely is the same response
+	- Discrimination and Discriminative stimuli
+		- if reinforcement officers for responding to one stimulus and not another
+		- you smile and greet someone you think you know but realize it is someone else, you learn to recognize difference between the two people.
+		- discriminative stimulus
+			- indicates which response is appropriate or inapropiate
+- B.F. Skinner and Shaping of Responses
+	- always sought explanations in terms of reinforcement histories rather than mental processes.
+	- **Shaping Behavior**
+		- establishing a new response by reinforcing successive approximations to it
+		- small amounts of conditioning in a direction you would like
+	- Chaining behavior
+		- sequenced reinforcing, each one with the opportunity to engage in the next one
+		- starts with behavior like eating
+		- done in almost a reverse order
+	- **Schedules of Reinforcement**
+		- provide reinforcement for Evaery correct response
+	- **Intermittent Reinformceent**
+		- rules for the delivery of reinforcement
+	- **Fixed ratio Schedule**
+		- provides reinforcement only after a certain (fixed) number of correct responses
+	- Variable-ration schedule
+		- provides reinforcement after a variable number of correct responses.
+			- Job Applications
+			- Gambling
+	- **Fixed Interval Schedule**
+		- provides reinforcement for the first response after a specific time interval
+			- Feeding  River is a fixed internal schedule
+	- **Variable Interval schedule**
+		- reinforcement is available after a variable amount of time.
+			- slow but steady
+			- checking Facebook or email is a good example
+	- **Extinction of Responses Reinforced on Different Schedules**
+		- two friends, Beth is trustworthy and Becky is 50/50
+			- you lose trust after with Beth first because it is a bigger change
+	- **Applications of Operant Conditioning**
+		- Persuasion
+- Behavior modification 
+	- psychologist removes reinforcement for unwanted behaviors and provides reinforcements for more acceptable behaviors.
+### 6.3 Variations of learning
+- Preparedness
+	- the concept that evolution has prepared us to learn some associations more easily than others
+- Conditioned taste aversion
+	- associated a good with illness
+- Sensitive Period
+	- learns most readily during the first year of life.
+	- learning occurs even with no response
+	- trial and error process
+- Social Learning
+	- we learn about many behaviors by observing the behaviors of others
+	- Modeling and imitation
+		- other people’s behavior provides information
+- Vicarious Reinforcement and Punishment
+	- substituting someone else’s experience for your own
+- Self-efficacy in Social Learning
+	- the belief of being able to perform the task successfully
+		- role models
+- Self-Reinforcement  and Self-Punishment
+
+ **(error reading attachment)**
+
+ **(error reading attachment)**
+
+## Notes from Classical Conditioning Presentation:
+- Pavlov - Baby Albert
+	- A child and the loud noise behind it
+- Classical Conditioning
+	- Unconditional Stimulus - Stressor
+	- Unconditional Response - stress anxiety to stressor
+	- Neutral Stimulus/Conditioned stimulus - environmental cue
+	- Conditional response - stress anxiety to environmental cue
+- Nuances to Learning
+	- Learning Curves
+	- Forgetting Curves
+	- Extinction
+	- Spontaneous Recovery - gone for a while and now the researcher came back
+	- Heightened Sensitivity
+- Classical Conditioning
+	- Not as permanent as we thought
+	- Different Forms:
+		- Trace - NS -> (pause) -> UCS -> UCR
+			- the NS must end for this to be trace
+		- Delayed Conditioning - NS -> + UCS ->
+			- The NS must be sustained for this to be delayed
+		- Simultaneous Conditioning - NS + UCS -> UCR
+			- The NS and UCS occur exactly at the same time
+		- Backward Conditioning - UCS -> UCR -> NS
+- Other Related Discoveries
+	- when NS is unfamiliar, conditioning happens more rapidly
+	- Conditioning is easier for specific species and pairs (Dogs with smell, birds with vision)
+	- generalization - responding to similar CS
+	- discrimination - occurs when organisms do not respond to new stimulus as if it were the same as the CS

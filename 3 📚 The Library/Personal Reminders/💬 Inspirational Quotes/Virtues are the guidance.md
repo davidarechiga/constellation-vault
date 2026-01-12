@@ -1,0 +1,1 @@
+<span style="color:#000ff;">Virtues are the guidance</span>

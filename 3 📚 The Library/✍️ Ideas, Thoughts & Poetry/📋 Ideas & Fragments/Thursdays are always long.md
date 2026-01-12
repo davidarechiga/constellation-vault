@@ -1,0 +1,1 @@
+Thursdays are always long

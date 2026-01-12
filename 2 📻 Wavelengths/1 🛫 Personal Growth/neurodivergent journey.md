@@ -1,0 +1,13 @@
+For World Mental Health Day, I wanted to speak a little bit about my mental health journey and how neurodivergence played a much bigger role than I realized growing up. Although I didn’t know it at the time, my journey started in elementary school. 
+
+From the moment I started having conversations, I’ve had a speech impediment. It wasn’t completely debilitating but it was enough that, in second and third grade, most kids thought I would be a famous rapper or DJ. Because of this I started to feel different. When the class began reading aloud, I would scramble to look ahead in the text, counting the rows of students and aligning it with each paragraph so I knew exactly which paragraph I was supposed to read. When we got to the paragraph, I found that I wasn’t present with the material, but outside myself, worried about what the class thought.
+
+Throughout my adolescence into adulthood, my anxiety with introducing myself became so painful that created a nickname for myself, “Archie”. This anxiety spread through my life making it very hard to open up to even my family and closest friends. I struggled to get ahead, thinking, “this role has too much speaking, that role talks on the phone too much for me”, thinking, why is everyone moving through their careers so much faster than me. On top of this, I found myself forgetting ALOT. 
+
+In 2016, I met the woman who would become my first girlfriend and eventually my wife, Camille, and although we fell in love almost instantly, this brought it’s own discovery (trouble with executive function). There was a clear difference in the way she and I processed information. She is a molecular and cell biologist, able to lay out an order of operations I could only dream of.
+
+After years of talk therapy, I started to feel I needed something more and, through Included Health, I found a clinical psychologist. After 3 days of intensive evaluation just 2 months ago, I was diagnosed with ADHD, found a psychiatrist and started taking an antidepressant which helps with the anxiety and depression. 
+
+I say this now because I always had ADHD and was always very sensitive to outside stimulation. This led to anxiety and depression and the overall feeling that I was different. I didn’t know what neurodivergence was until I joined a team (MasterClass) where neurodivergence was not only embraced but celebrated though an official Employee Resource Group and benefits that supported the neurodivergent journey. I finally know what equity feels like. This journey is different for everyone. 
+
+Paraphrasing Alicia Keys, “Only you have what you have and the world needs what you have.”

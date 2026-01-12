@@ -1,0 +1,1 @@
+1. Recognizing shame and it’s triggers

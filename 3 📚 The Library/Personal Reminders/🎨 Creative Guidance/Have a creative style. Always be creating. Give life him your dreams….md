@@ -1,0 +1,1 @@
+<span style="color:#000ff;">Have a creative style. Always be creating. Give life him your dreams. Never settle for what's in front of you. Demand a more passionate standard of living and simple necessities. Everything should be colorful no matter what mood.</span>

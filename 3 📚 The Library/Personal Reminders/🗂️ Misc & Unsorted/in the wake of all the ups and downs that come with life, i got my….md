@@ -1,0 +1,1 @@
+in the wake of all the ups and downs that come with life, i got my room cleaned. first time really since moving to new york. i also decided i am no longer an alcohol drinker.

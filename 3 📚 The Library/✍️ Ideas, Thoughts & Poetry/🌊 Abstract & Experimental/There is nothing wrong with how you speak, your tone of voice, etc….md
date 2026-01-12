@@ -1,0 +1,1 @@
+# There is nothing wrong with how you speak, your tone of voice, etc. I just don’t like it, it’s not soothing for me. Makes me more anxious.

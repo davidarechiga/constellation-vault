@@ -1,0 +1,1 @@
+The moment when time disappears and life reappears

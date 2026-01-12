@@ -1,0 +1,1 @@
+Life’s not meant to be any way
