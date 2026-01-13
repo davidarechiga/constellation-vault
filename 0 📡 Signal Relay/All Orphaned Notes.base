@@ -1,4 +1,15 @@
 views:
+  - type: cards
+    name: Orphans Card View
+    filters:
+      and:
+        - "!file.links"
+        - "!file.backlinks"
+        - '!file.path.containsAny("4 📦 Archive")'
+    sort:
+      - property: file.mtime
+        direction: DESC
+    cardSize: 230
   - type: table
     name: Table
     filters:
@@ -7,15 +18,5 @@ views:
     sort:
       - property: file.name
         direction: ASC
-  - type: cards
-    name: Orphans Card View
-    filters:
-      and:
-        - "!file.links"
-        - "!file.backlinks"
-    sort:
-      - property: file.mtime
-        direction: DESC
-    cardSize: 230
   - type: table
     name: View
