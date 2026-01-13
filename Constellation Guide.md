@@ -63,7 +63,7 @@ Constellation is organized using the **PARA method** - a system that organizes i
 
 #### Knowledge Hubs (Your Navigation System)
 - **[[Career Development Hub]]** - Creative technologist path
-- **[[Music Ecosystem Hub]]** - All music-related content
+- **[[🎵 Music & Audio Production]]** - All music-related content
 - **[[Creative Expression Hub]]** - Creative work and expression
 - **[[Wellness Hub]]** - Health, mindfulness, nutrition
 - **[[Family & Parenting Hub]]** - Family practices and parenting
@@ -135,7 +135,7 @@ Your main command center featuring:
 Hub files are your navigation centers - they connect related content across Projects, Areas, and Resources.
 
 **How to Use Hubs:**
-1. Start at a hub (e.g., [[Music Ecosystem Hub]])
+1. Start at a hub (e.g., [[🎵 Music & Audio Production]])
 2. Browse the organized sections
 3. Click wikilinks to jump to specific notes
 4. Use the "Recent Activity" dataview to see latest work
@@ -143,7 +143,7 @@ Hub files are your navigation centers - they connect related content across Proj
 
 **All Hubs:**
 - [[Career Development Hub]] - Career path and development
-- [[Music Ecosystem Hub]] - All music content
+- [[🎵 Music & Audio Production]] - All music content
 - [[Creative Expression Hub]] - Creative work
 - [[Wellness Hub]] - Health and wellness
 - [[Family & Parenting Hub]] - Family practices
@@ -343,7 +343,7 @@ Your music content is spread across PARA categories (by design):
 - Reference library
 - DJing, music theory, learning materials
 
-**Navigation Hub:** [[Music Ecosystem Hub]]
+**Navigation Hub:** [[🎵 Music & Audio Production]]
 - Connects all three locations
 - Organized sections for Production, Performance, DJing, etc.
 - Recent activity dataview
@@ -474,7 +474,7 @@ exercise::
 
 ### "I want to write poetry"
 
-1. Open [[Music Ecosystem Hub]] or [[Creative Expression Hub]]
+1. Open [[🎵 Music & Audio Production]] or [[Creative Expression Hub]]
 2. Navigate to [[✍️ Ideas, Thoughts & Poetry]]
 3. Create new note in appropriate folder:
    - Song lyrics? → Song Lyrics & Music Writing
@@ -487,7 +487,7 @@ exercise::
 ### "I'm working on the album"
 
 1. Open Home dashboard
-2. Navigate to [[Music Ecosystem Hub]]
+2. Navigate to [[🎵 Music & Audio Production]]
 3. Click [[2 Music Release (In Progress)|Current Album Release]]
 4. Access all album-related notes
 5. Link to lyrics from Poetry collection
@@ -539,7 +539,7 @@ exercise::
 
 ### Key Hubs
 - [[Career Development Hub]] - Career path
-- [[Music Ecosystem Hub]] - All music
+- [[🎵 Music & Audio Production]] - All music
 - [[Wellness Hub]] - Health & wellness
 - [[Creative Expression Hub]] - Creative work
 

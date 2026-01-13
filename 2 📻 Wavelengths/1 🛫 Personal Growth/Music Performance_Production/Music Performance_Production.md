@@ -8,7 +8,7 @@ Your complete music production knowledge base - techniques, gear, and creative r
 
 ## Active Projects
 
-- [[Music Ecosystem Hub]] - Master hub for all music
+- [[🎵 Music & Audio Production]] - Master hub for all music
 - [[(Overview) 2025 Release Schedule]] - Current release plan
 - [[album release checklist]]
 
@@ -107,6 +107,6 @@ SORT file.name ASC
 
 ## Related
 
-- [[Music Ecosystem Hub]] - Complete music hub
+- [[🎵 Music & Audio Production]] - Complete music hub
 - [[Creative Expression Hub]] - All creative work
 - [[✍️ Ideas, Thoughts & Poetry]] - Lyrics and inspiration

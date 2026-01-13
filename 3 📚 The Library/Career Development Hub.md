@@ -152,7 +152,7 @@ Your career skills connect to other life areas:
 | Hub | Connection |
 |-----|------------|
 | [[Creative Expression Hub]] | Design is creative work |
-| [[Music Ecosystem Hub]] | Album artwork, visual identity |
+| [[🎵 Music & Audio Production]] | Album artwork, visual identity |
 | [[Wellness Hub]] | Work-life balance, burnout prevention |
 | [[Partnership Hub]] | Career impacts family planning |
 

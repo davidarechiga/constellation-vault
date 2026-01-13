@@ -71,5 +71,5 @@ SORT file.name ASC
 ## Related
 
 - [[Creative Expression Hub]] - All creative work
-- [[Music Ecosystem Hub]] - Use poetry as lyrics for [[Only Talks 2 Ghosts]]
+- [[🎵 Music & Audio Production]] - Use poetry as lyrics for [[Only Talks 2 Ghosts]]
 - [[(Overview) 2025 Release Schedule]] - Upcoming releases that could use these lyrics

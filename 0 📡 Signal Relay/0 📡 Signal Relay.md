@@ -84,7 +84,7 @@ month:
 
 | | |
 |---|---|
-| [[Creative Expression Hub\|Creative]] | [[Music Ecosystem Hub\|Music]] |
+| [[Creative Expression Hub\|Creative]] | [[🎵 Music & Audio Production\|Music]] |
 | [[Wellness Hub\|Wellness]] | [[Career Development Hub\|Career]] |
 | [[Family & Parenting Hub\|Family]] | [[Partnership Hub\|Partnership]] |
 

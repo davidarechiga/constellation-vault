@@ -117,6 +117,6 @@ A collection of poetic fragments and ideas that could inspire songs, visuals, or
 
 ## Related Hubs
 
-- [[Music Ecosystem Hub]] - Deep dive into music
+- [[🎵 Music & Audio Production]] - Deep dive into music
 - [[Wellness Hub]] - Creative energy and self-care
 - [[Career Development Hub]] - Design career transition

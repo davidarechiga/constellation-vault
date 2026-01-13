@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"4 📦 Archive\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13515579
+      }
+    },
+    {
+      "query": "path:\"0 📡 Signal Relay\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3984186
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.16145399305556,
+  "lineSizeMultiplier": 1.07106770833333,
+  "collapse-forces": false,
+  "centerStrength": 0.800868055555556,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.003992729570372,
+  "close": false
+}
