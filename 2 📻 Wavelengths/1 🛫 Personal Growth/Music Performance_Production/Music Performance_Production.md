@@ -2,6 +2,8 @@
 
 Your complete music production knowledge base - techniques, gear, and creative resources.
 
+> 📖 **Quick Reference:** [[🎵 Music Production Reference]] - Complete index of all production techniques and resources
+
 ---
 
 ## Active Projects

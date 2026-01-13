@@ -2,6 +2,8 @@
 
 A comprehensive collection of observations, qualities, and insights about Camille.
 
+> 📖 **Quick Reference:** [[💕 Relationship Reference]] - Complete index of relationship activities, ideas, and resources
+
 ---
 
 ## 🌟 Things I Love About Camille

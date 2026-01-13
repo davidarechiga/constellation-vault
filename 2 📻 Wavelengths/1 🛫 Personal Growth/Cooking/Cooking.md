@@ -2,6 +2,8 @@
 
 Your complete recipe collection and cooking knowledge base.
 
+> 📖 **Quick Reference:** [[🍳 Recipe Index]] - Complete index of all recipes and cooking resources
+
 ---
 
 ## Meal Planning
