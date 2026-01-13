@@ -1,0 +1,110 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "name": "Reminders",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/2523BEDF-E92A-4ADF-AE53-081B2446EDBC/",
+      "color": "#5DCBE8",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Work Tasks",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/67D56A28-2C1A-427D-8BF3-E77E6C372030/",
+      "color": "#CC73E1",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Scheduling Purposes",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/705874CD-8FAB-4647-BE5B-1F97163B382C/",
+      "color": "#CC73E1",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Calendar Inbox",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/80C6A015-C811-4187-A059-DE9269179B5F/",
+      "color": "#FF8D28",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Us",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/BF3377AE-58B4-44C9-BEA9-8D14813B8DAC/",
+      "color": "#FF2968",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Camille's Birthday",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/FC1C5118-3B61-4D6B-988B-8336BC227C98/",
+      "color": "#1BADF8",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "David",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/M2CD-3-1-F1A99242-4624-4C10-9845-A386516A0834/",
+      "color": "#55F607",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Work",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/299e07433d3c8dc6d3005f4207dc328fdbde06829f0283c7fef3dc5c65d02987/",
+      "color": "#A2845E",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "🍎Werk🍎",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/affc70da38fc5d4461e8790479e73f7e0f7f23a4cbc13b0b46f9755745db4df9/",
+      "color": "#FF9500",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "NYSCF Work Schedule",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/930313e063a95b9eab0f5f718bc16c58f8601bfd62c7d09800724b17949f2286/",
+      "color": "#E6C800",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    },
+    {
+      "type": "caldav",
+      "name": "Doctor’s Appointments",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/210884361/calendars/774cb350bdeea4dac25acfab78190382ba90071edbcbb665cce65473e24b1eb9/",
+      "color": "#63DA38",
+      "username": "darechiga@icloud.com",
+      "password": "bxac-cgih-yacv-yaff"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
