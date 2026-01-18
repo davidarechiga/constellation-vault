@@ -1,0 +1,1 @@
+<span style="color:#000ff;">Art is in the blood; takes the strangest forms.</span>

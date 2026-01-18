@@ -1,0 +1,1 @@
+It seems I can stare into your eyes forever

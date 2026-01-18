@@ -1,0 +1,1 @@
+1. Wiping hands on pants to “clean” & Dry

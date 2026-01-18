@@ -1,0 +1,1 @@
+Stores make models of the sets. Characters can be hand drawn, could use a green screen and iPhone to shoot.Stores make models of the sets. Characters can be hand drawn, could use a green screen and iPhone to shoot.

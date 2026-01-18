@@ -1,0 +1,1 @@
+I may not always understand Camille and the way she does things but I can always give her respect because respect is what she deserves and is what I want in return.

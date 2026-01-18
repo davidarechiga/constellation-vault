@@ -1,0 +1,1 @@
+believe in the path ahead of you even if it’s only one step

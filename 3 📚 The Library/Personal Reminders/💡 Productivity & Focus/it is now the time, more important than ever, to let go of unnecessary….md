@@ -1,0 +1,2 @@
+it is now the time, more important than ever, to let go of unnecessary things that do not allow for my progress. it is also important to define these aspects of my life. defining my priorities will give me attainable goals for the future and for my career. love is always possible and it is not important to declare anything to the world.
+the more i see Facebook posts about donald trump, the more see him as a human being. I have said words that I’ve wanted to take back and i’ve had thoughts that i wish could disappear.

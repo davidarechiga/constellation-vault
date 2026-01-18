@@ -1,0 +1,4 @@
+I got super high off the pen and went to guitar center to play synths and now I’m having a hard time living in the moment and really anxious about my day. Calming myself now in union square. After sitting with myself and reading Jerry’s post about letting ourselves be loved, I reminded myself today is today. I am what I do today. I have what I need to accomplish my goals. Whether they are goals for today or something long term, I have the skills to accomplish anything. As I get anxious about my past or my future, know there is a space that exists in the now where past and present do not matter. Be calm like a still lake in the now. You are water, whether you are in the form of a still lake, a bumbling creak, a gushing river rapid, a waterfall, or a vast open ocean. Remind yourself you are fluid. Trust yourself because you are strong.
+
+Sincerely,
+Union Square Chess Club, NY 2018

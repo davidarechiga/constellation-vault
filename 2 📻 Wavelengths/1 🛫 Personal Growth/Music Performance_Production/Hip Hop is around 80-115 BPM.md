@@ -1,0 +1,30 @@
+- Hip Hop is around 80-115 BPM
+- Triphop / Downtempo around 90-110 BPM
+- Concert marches are typically ~120 BPM.
+- House varies between 118 and 135 BPM
+	- UK garage/2-step is usually between 130-135 BPM
+	- UK funky is around 130 BPM
+- Techno 120-160 BPM
+	- Generally around 120-135
+	- Acid Techno 135-150
+	- Schranz around 150
+- Dubstep is around ~~140 BPM~~ 70's to 100 (mostly 80-90)
+	- *Dubstep is not 140 BPM. I don't know why that number gets thrown around, but most dubstep is from the 70's to 100, with most falling in-between 80 and 90. In many songs it's often for a double-time break to happen, at which point it will reach 140~200, respectively, but it shouldn't be timed that way.* – [n_b](https://music.stackexchange.com/users/33439/n-b)
+	- *Dubstep is 70 - 75 BPM, which is equivalent to 140 - 150 BPM depending on if you count the snare on the 2 and 4 or the 3 of the measure.
+	- I don't know what kind of music you refer to as Dubstep [rant moved below]
+- Screamers are usually 130-150 BPM
+- Hardstyle is around 150 BPM
+- Juke/Footwork is around 160 BPM
+- Drum and Bass averages a BPM of 160-180
+	- Oldschool jungle is around 160-170
+	- Drum & Bass and Drumstep and Neurofunk 170-180
+- Grime 140 BPM
+Some of the basic tempo markings
+- Largo is 40-60 BPM
+- Larghetto is 60-66 BPM
+- Adagio is 66-76 BPM
+- Andante is 76-108 BPM
+- Moderato is 108-120 BPM
+- Allegro is 120-168 BPM
+- Presto is 168-200 BPM
+- Prestissimo is 200+ BPM

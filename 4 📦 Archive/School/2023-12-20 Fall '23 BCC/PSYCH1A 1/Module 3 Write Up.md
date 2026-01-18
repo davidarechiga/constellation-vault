@@ -1,0 +1,7 @@
+# Module 3 Write Up
+
+1. Please provide two different 4-6 sentence descriptions of pieces of information that you saw/heard from this section's presentation that you found interesting. In these descriptions, cover what the topic discussed and detail why you found these facts interesting. Note: you should NOT directly quote anything (use your own words). --5 points (2.5 points per topic, half of the credit is for the amount of content covered, the other half is for the clarity of your description) *Note: If your topic isn't related to what was covered, you will receive no credit for this section.
+
+2. Provide two different 4-8 sentence summary of separate interesting topics or experiments discussed in the text that we DID NOT cover in the presentation. Detail why you found it interesting, and try to relate it to your own life. Again, DO NOT directly quote the text, use your own words. --5 points (2.5 points per topic, half of the credit is for the amount of content covered, the other half is for the clarity of your description) *Note: If your topic isn't related to what was covered, or covers something from the presentations, you will receive no credit for this section.
+
+3. Let's pretend that you just saw a firework show.  Walk through all of the parts of your eye and how they were used/necessary in order for you to sense the lights from the show. --5 points (3 points will be earned by covering all of the parts that we discussed in detail, the other 2 points can be earned by correctly discussion the path the light takes)

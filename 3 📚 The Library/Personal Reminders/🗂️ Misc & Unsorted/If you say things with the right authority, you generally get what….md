@@ -1,0 +1,1 @@
+<span style="color:#000ff;">If you say things with the right authority, you generally get what you want.</span>

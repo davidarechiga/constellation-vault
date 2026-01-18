@@ -1,0 +1,1 @@
+<span style="color:#000ff;">Your journey has molded you for the greater good. It was exactly what it needed to be. Don't think you've lost time. It took each and every situation you have encountered to bring you to the now and now is the right time.</span>

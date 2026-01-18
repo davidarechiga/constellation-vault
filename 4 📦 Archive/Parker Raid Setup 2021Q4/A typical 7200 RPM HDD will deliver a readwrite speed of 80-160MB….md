@@ -1,0 +1,4 @@
+A typical 7200 RPM HDD will deliver a read/write speed of 80-160MB/s. On the other hand, a typical SSD will deliver read/write speed of between 200 MB/s to 550 MB/s.
+
+
+The SSDs will be much faster but could also have a shorter lifespan as dictated by how many writes are performed on the drive. In a raid 5 system, there needs to be a lot of writes to each disk to keep the redundancy. A typical 7200 RPM HDD will deliver a read/write speed of 80-160MB/s. On the other hand, a typical SSD will deliver read/write speed of between 200 MB/s to 550 MB/s. so you will see a big performance increase but may see a shorter lifespan.

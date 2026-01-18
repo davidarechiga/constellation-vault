@@ -1,0 +1,2 @@
+Hey guys! I'm wondering if anyone or someone knows someone who is looking for a room by March (preferably long term). I have an extra room in my apartment and need it filled June 1st. The apartment is a 3 bed, 1 bath with kitchen and living room. Location is in lefferts gardens / flatbush (3 minute walk to 2/5 Winthrop and a 15 minute walk to the prospect park Q stop. Room is $825+utilities ($80-100.) DM me for more details. This will be a 1 year lease with credit check and employment verification (paycheck stubs). 
+<pics coming soon> — at ￼Prospect Lefferts Gardens.

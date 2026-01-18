@@ -1,0 +1,50 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/Prenatal Meetings.md",
+      "timestamp": 1768767053912
+    },
+    {
+      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/Childbirth Intensive Alta Bates.md",
+      "timestamp": 1768767005612
+    },
+    {
+      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/1 Baby Prep - Cyrus.md",
+      "timestamp": 1768765256853
+    },
+    {
+      "filepath": "0 📡 Signal Relay/0 📡 Signal Relay.md",
+      "timestamp": 1768765242061
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

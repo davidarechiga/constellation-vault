@@ -1,0 +1,1 @@
+explosion of a dying star

@@ -1,0 +1,1 @@
+Who was outside the house when we got back from Joseph’s?

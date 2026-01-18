@@ -1,0 +1,85 @@
+Healthcare Comparison - Adding Cyrus,,,
+Date Created:,2026-01-07,,
+Decision Deadline:,[Enter date],,
+,,,
+PLAN INFORMATION,,,
+Category,My Plan (Cigna Health),Wife's Plan,Difference
+Plan Type,PPO,,[Formula]
+,,,
+MONTHLY PREMIUMS,,,
+Current (Employee + Spouse),,,[Formula]
+With Cyrus (Employee + Spouse + 1 Child),,,[Formula]
+Additional Monthly Cost,,,[Formula]
+Additional Annual Cost,,,[Formula]
+,,,
+ANNUAL COSTS,,,
+Individual Deductible,,,[Formula]
+Family Deductible,,,[Formula]
+Individual Out-of-Pocket Max,,,[Formula]
+Family Out-of-Pocket Max,,,[Formula]
+,,,
+CO-PAYS,,,
+Primary Care Visit,,,[Formula]
+Specialist Visit,,,[Formula]
+Urgent Care,,,[Formula]
+Emergency Room,,,[Formula]
+Prescription - Generic,,,[Formula]
+Prescription - Brand,,,[Formula]
+Prescription - Specialty,,,[Formula]
+,,,
+ADDITIONAL BENEFITS,,,
+HSA/FSA Eligible,,[Enter Yes/No],
+Employer HSA Contribution,,,[Formula]
+Pediatric Vision/Dental Included,,[Enter Yes/No],
+,,,
+PROVIDER NETWORK,,,
+Preferred Pediatrician In Network?,,[Enter Yes/No],
+Preferred Hospital In Network?,,[Enter Yes/No],
+Well-child Visits Covered?,,[Enter Yes/No],
+Immunizations Covered?,,[Enter Yes/No],
+,,,
+COST SCENARIOS,,,
+Scenario 1: Low Usage (preventive only),,,
+Annual Premium (Monthly × 12),,,[Formula]
+Co-pays (estimate),0,0,
+Total Annual Cost,,,[Formula]
+,,,
+Scenario 2: Moderate Usage,,,
+Annual Premium,,,[Formula]
+Estimated Co-pays (3 visits × co-pay),,,
+Prescriptions (2 × generic co-pay),,,
+Total Annual Cost,,,[Formula]
+,,,
+Scenario 3: High Usage (hit deductible),,,
+Annual Premium,,,[Formula]
+Family Deductible,,,[Formula]
+Total Annual Cost,,,[Formula]
+,,,
+RECOMMENDED DECISION,,,
+Best Option Based on Low Usage:,,[Formula],
+Best Option Based on Moderate Usage:,,[Formula],
+Best Option Based on High Usage:,,[Formula],
+,,,
+ACTION ITEMS,Status,,
+Contact my HR/benefits portal,Not Started,,
+Contact wife's HR/benefits portal,Not Started,,
+Verify pediatrician is in-network,Not Started,,
+Check specialists in-network,Not Started,,
+Review plan documents,Not Started,,
+Calculate HSA tax savings,Not Started,,
+Make final decision,Not Started,,
+Submit enrollment changes,Not Started,,
+,,,
+NOTES,,,
+Pros of My Plan:,,,
+-,,,
+-,,,
+Cons of My Plan:,,,
+-,,,
+-,,,
+Pros of Wife's Plan:,,,
+-,,,
+-,,,
+Cons of Wife's Plan:,,,
+-,,,
+-,,,

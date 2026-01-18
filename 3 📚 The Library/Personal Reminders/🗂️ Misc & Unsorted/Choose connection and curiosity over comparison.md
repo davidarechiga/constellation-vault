@@ -1,0 +1,1 @@
+## Choose connection and curiosity over comparison

@@ -1,0 +1,1 @@
+It would be nice to have Living Room cold storage for my laptop or as a dock for the TV. I envision a camera either on the coffee table or on top of the TV. If it’s corporate like enterprise enterprise level if it’s enterprise go on top of the TV if it’s iPhone or laptop camera, it can go on the coffee table.

@@ -1,0 +1,27 @@
+# To make a good decision...
+
+you need to have a sense of two things: 
+1. how different choices change the likelihood of different outcomes
+2. how desirable each of those outcomes is. 
+
+In other words, as Ajay Agrawal, Joshua Gans, and Avi Goldfarb have written, decision making requires both prediction and judgment.
+But how do you get better at either? We’ve published volumes on this subject —here are a few of my favorites — but there are three rules that stand out. Following them will improve your ability to predict the effects of your choices and assess their desirability.
+
+## Rule #1: Be less certain.
+Nobel-prize-winning psychologist Daniel Kahneman has said that overconfidence is the bias he’d eliminate first if he had a magic wand. It’s ubiquitous, particularly among men, the wealthy, and even experts. Overconfidence is not a universal phenomenon — it depends on factors including culture and personality — but the chances are good that you’re more confident about each step of the decision-making process than you ought to be.
+So, the first rule of decision making is to just be less certain — about everything. Think choice A will lead to outcome B? It’s probably a bit less likely than you believe. Think outcome B is preferable to outcome C? You’re probably too confident about that as well.
+Once you accept that you’re overconfident, you can revisit the logic of your decision. What else would you think about if you were less sure that A would cause B, or that B is preferable to C? Have you prepared for a dramatically different outcome than your expected one?
+You can also practice aligning your level of your confidence to the chance that you’re correct. Try out quizzes like this one or this one. You’ll realize that while it’s not possible to always be right, it’s totally possible to become less overconfident.
+
+## Rule #2: Ask “How often does that typically happen?”
+Kahneman tells a story of a time when he was collaborating on a textbook and asked his coauthors to estimate the date on which they’d complete their first draft. Everyone, including Kahneman, said somewhere between 18 months and two and a half years. Then he asked one of those coauthors, who had been involved in countless textbook projects, how long it typically took. In fact, the collaborator answered, 40% of groups never finished the book, and he couldn’t think of a project that had finished within seven years. This was a textbook about rationality, and the coauthor had answered without thinking about previous cases. That person’s mistake, and the point of Kahneman’s story, is that they should have thought about how long similar projects typically take.
+In general, research suggests, the best starting point for predictions ­— a key input into decision making — is to ask “How often does that typically happen?” If you are considering funding a startup, you might ask: What percentage of startups fail? (Or, what percentage succeed?) If your company is considering an acquisition, it should start by asking how often acquisitions enhance the acquirer’s value or otherwise further its goals.
+
+This rule, known as the base rate, comes up a lot in the research on prediction, but it might be helpful for the judgment side of decision making, too. If you think outcome B is preferable to outcome C, you might ask: How often has that historically been the case? For instance, if you’re thinking about starting a company, and you’re weighing the possibility of spending years on a company that will fail against staying in your current job, you might ask: How often do entrepreneurs who fail end up wishing they’d stayed at their previous job?
+The idea with both prediction and judgment is to get away from the “inside view,” where the specifics of the decision overwhelm your analysis. Instead, you want to take the “outside view,” where you start with similar cases before considering the specifics of your individual case.
+
+## Rule #3: Think probabilistically — and learn some basic probability.
+The first two rules can be implemented right away; this one takes a bit of time. But it’s worth it. Research has shown that even relatively basic training in probability makes people better forecasters and helps them avoid certain cognitive biases.
+If you’re not comfortable with probability, there’s no better investment to improve your decision making than spending even 30 minutes to an hour learning about it. You can start with Khan Academy’s introduction on coin flipping.
+Improving your ability to think probabilistically will help you with the first two rules. You’ll be able to better express your uncertainty and to numerically think about “How often does this usually happen?” The three rules together are more powerful than any of them alone.
+Even though these rules are all things you can start using relatively quickly, mastering them takes practice. In fact, after you use them for a little while, you may become overconfident about your ability to make decisions. Great decision makers don’t follow these rules only when facing a particularly difficult choice; they return to them all the time. They recognize that even seemingly easy decisions can be hard — and that they probably know less than they think.

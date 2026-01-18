@@ -1,0 +1,95 @@
+# <u>Wedding To Do’s</u>
+
+
+- [ ] update spreadsheet
+	- [ ] Add vendors pricing, decorations
+	- [ ] Add phone numbers
+	- [x] Unofficial RSVP column
+- [ ] Discuss table serving order with Delectables Catering and send doc to Stephany
+- [ ] Write place card and pin for Aiden
+	- [ ] Put in bag 10
+- [ ] Send doc to April and Stephany regarding placements of all decor and styling
+- [ ] Send E-invite to your he first round of Trolley Riders at Hilton
+	- [ ] Make sure phone #’s for all guests accounted for
+- [ ] Send E-invite to your the second round of Trolley Riders at Hilton
+	- [ ] Make sure phone #’s for all guests accounted for
+- [ ] Send list of names at location and phone #’s for Trolley riders getting picked up before Hilton
+- [ ] Design cocktail sign
+- [ ] Photo of River and Photo from Fabien
+- [ ] Write Vows
+	- [ ] Camille
+	- [ ] David
+- [ ] Website
+	- [ ] Get head shots
+	- [x] Finalize guest lists & RSVPs for events
+	- [x] Upload engagement photo pictures
+- [ ] ~~Order food for Lala Karaoke~~
+- [x] Print photo of Michelle and send size to Stephany for frame
+- [x] Order Table cards and seating chart
+- [x] Make final payments to vendors
+	- [x] Rehearsal Dinner Catering
+	- [x] Get the Picture
+	- [x] Venue
+	- [x] Reception Catering
+	- [x] Photography
+	- [x] String quartet
+- [x] Think about rehearsal menu for Pinellas- Order from Florribean? 
+	- [ ] Brooke and Ron - no pork or red meat
+	- [ ] Briana - no red meat
+	- [ ] Suzanne - vegan no gluten
+	- [ ] Nsayi - no soy
+- [x] Book Hair and Makeup for Mom and I
+- [x] Solidify speakers for speech
+	- [x] Jerry
+	- [x] Ronald
+	- [x] Abraham
+	- [x] Lauren
+	- [x] Dani
+- [x] Write up script for Ron’s Officiant Speech 
+- [x] Send thank you cards for bridal shower
+- [x] Get final decor
+	- [x] Glass beads for vase
+	- [x] Guestbook sign
+	- [x] Gifts and cards sign
+	- [x] Remembrance plaque
+	- [x] Basket for cards
+	- [x] Guestbook & pens
+- [x] Finalize Processional Order
+	- [ ] Denise Fulmore, Ivy Ramcharan, (Yolanda Floro & Vernon Floro Sr.), (Oscar & Gabi),
+	- [ ] Ron followed by David, (Abe & Lauren), (Savannah & Joseph), (Suzanne & Alek), (Dani & Dustin), (Michaella & Dan), (Britney & Josh), (H.T. & Brandon)
+	- [ ] (Sophie& Brock)
+	- [ ] (Ronald Fulmore & Camille)
+- [x] Check out Floor Plan
+	- [x] Start ordering Table decor
+- [x] Watch Bali YouTube vid and make a to-do list
+- [x] Create seating chart 
+- [x] Order tablecloths and Napkins
+- [x] Order fans for guests
+- [x] Order get ready outfits & fans for bridal party
+- [x] Select music for 4 string quartet 
+- [x] Add vendors to Stephany Perry portal
+- [x] Order Cakes from Milkbar
+- [x] Book Hair and Makeup for Bridal Party
+- [x] Decide location of first look photos 
+- [x] Purchase bandino’s for groomsmen
+- [x] Schedule phone consultation with Creative Touches
+- [x] Order flowers for bridal party and wedding
+- [x] Order & design pins
+- [x] Add vendors to Nova portal
+- [x] Mail Invites
+- [x] Send gifts to HT and Dani
+- [x] Send out additional Save the dates
+- [x] Finalize Invites + Website
+- [x] Mail Florals home
+- [x] Email Delectables w) appetizer updates
+	- [x] ask about guest count timeline & napkins
+	- [x] remove coffee- switch to iced tea bar
+	- [x] Pick out 5 appetizers
+- [x] Book AirBnb for St. Pete
+- [x] Start travel-themed registry W Amazon 
+- [x] Set up profile on Stephany's Planner Site
+- [x] Schedule. call with taproom
+	- [x] Lock in reservation
+- [x] Lock-in Lala Ater Party
+- [x] Lock-in photo booth car + reservation
+- [x] Order return labels

@@ -1,0 +1,10 @@
+<span style="color:#000ff;">Staring at the screen makes my eyes wander.</span>
+<span style="color:#000ff;">easy taking paper</span>
+<span style="color:#000ff;">and keeping more</span>
+<span style="color:#000ff;">a challenge</span>
+<span style="color:#000ff;">my brain understanding</span>
+<span style="color:#000ff;">humans</span>
+<span style="color:#000ff;">how  they bury</span>
+<span style="color:#000ff;">insecurities</span>
+<span style="color:#000ff;">stand perfect</span>
+<span style="color:#000ff;">and free</span>

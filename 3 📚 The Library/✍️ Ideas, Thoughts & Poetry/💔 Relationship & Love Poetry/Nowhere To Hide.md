@@ -1,0 +1,5 @@
+Nowhere To Hide
+
+Within itself, the city is inescapable. The fact is you can't go anywhere without someone being there. I'm only when I'm in my apartment. Even the parks have late night runners. There are empty trains but you don't want to ride them unless you have a longing to throw your guts up. New York has a way of teaching you how to keep to yourself. In Los Angeles, you get used to being in others' business in a friendly social way. New York City is friendly in a different way. It's friendly in a "hey you look like you need help, I'm here for you" way. A "talk to me if you have something worth saying or don't talk to me at all" kind of way, which I'm falling in love with. I'm slowing starting to understand why people say this city will eat you up and spit you up but the meaning is still a blur.
+
+<span style="font-family:.SFUIText-Bold;"><b>Music: Third Eye Blind - Dopamine</b></span>

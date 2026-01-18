@@ -1,0 +1,1 @@
+lately i've been having a hard time setting priorities. this stems from having really loose goals that can sometimes seem very distant. I am a really hard critic on myself which can be very demotivating.

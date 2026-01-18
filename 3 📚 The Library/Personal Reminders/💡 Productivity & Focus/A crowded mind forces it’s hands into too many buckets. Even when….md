@@ -1,0 +1,5 @@
+<span style="color:#000ff;">A crowded mind forces it’s hands into too many buckets. Even when organized, losing track of details is expected when ideas can’t be kept within arms reach. As of late, I continue to build a foundation of good habits that will help me become a role model for not only my future children but my future grandchildren as well.</span> 
+ 
+<span style="color:#000ff;">today I took home the fact that there are enough people in this world, with good intentions, quality traits like supportive that i could not mess with all the bull shit i meet on a day to day basis in LA.</span>
+ 
+<span style="color:#000ff;">Im getting really good at explaining my vision of Half & Half Studios. I need to develop a business plan that is informative, concise and straight to the point, simple, authentic</span>

@@ -1,0 +1,1 @@
+The subway lights are much too bright for my current state of mind

@@ -1,0 +1,1 @@
+Gosh I’m such a mess, unwilling to grow up. I’m as dependent as I am independent. Dependent on the sadness reactions of a past life. Let the past in and it will consume you. Look too far ahead and you’ll forget your own body. It’s never too late you remind yourself you’re alive with a beating pulse. A rhythm born inside that will only end when you do.

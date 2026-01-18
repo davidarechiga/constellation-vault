@@ -1,0 +1,25 @@
+This is a highly visible role functioning as the face of IT Support for Nasdaq Senior Executives. The work environment is dynamic, robust, and demanding of quality results through proven problem and time management.
+The Executive Technology Support Specialist reports to the Director of Executive Technology Support.
+- Establishes trust and maintain a high level of confidentiality for all VIP operation activities/tasks
+- Provides IT support while carrying an Executive Presence when at the office, remotely, while traveling and during company related events/activities
+- Acts as an advisor to the Executives who anticipates their corporate setup requirements at an individual level
+- Identifies, establishes and maintains solid relationships with Senior Executives and their Executive Assistants
+- Works with Executive Assistants to support IT initiatives for Executive needs, including travel and other offsite engagements
+- Willing to travel to provide Senior Executive support on occasion (e.g. home support)
+- Builds IT portfolio for each Executive according to his/her specific corporate setup requirements
+- Ensures IT portfolio for each Executive meets all security controls, monitoring, alerting and resiliency configurations
+- Provides subject matter expertise on MS Office 365 support, including Outlook, OneDrive and MS Teams
+- Works with the Director of Executive Technology Support to develop innovative/creative/cutting edge IT support solutions that will enhance Nasdaq Executives’ end user experience
+- Participates in both internal and external projects that are broad in scope and closely tied to the organizational strategy
+- Installs, upgrades, images and supports company desktops/laptops/MacBook hardware
+- Supports mobile devices management, including Mobile Iron cloud enrollment, iOS/Android upgrades, app support and troubleshooting skills
+- Supports printer management, including standard fix of hardware, software, and networking issues
+- Supports conference room AV (Audio/Video) settings, including SIP/PSTN, microphone, camera, and general connectivity issues
+- Maintains a working understanding of networking concepts such as TCP/IP, DNS, DHCP and VPN
+- Provides IT/AV conference support for onsite/offsite presentations, events, and meetings including wireless networking, telephony, projectors, speakers, clickers, and closed-network printer setups
+- Maintains documentation such as training materials and standard operating procedures
+- Assists with Root Cause Corrective Analysis investigations
+- Trains end users about hardware/software tools such as MS Teams, Zoom, MFA, etc.
+- Runs administrative management of equipment purchase, inventory and refresh
+- Education Required: Degree qualified in Computer Science, MIS or other related discipline, or equivalent work experience in Desktop Support or Computer Operations.
+- Experience Required: At least 6 years

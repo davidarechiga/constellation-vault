@@ -1,0 +1,104 @@
+# Wedding Guest Addresses:
+- Home Base: 2035 28th Ave n Saint Petersburg
+- Dani, Sophie, Oscar, Gabby: 1121 21st Ave N, St. Petersburg, FL 33704, USA
+- Jenna, Brigham, Michaella, and Gian: Cordova Inn
+- Lauren & Alana: 2300 2nd Avenue South, St Petersburg, FL 33712
+- Suzanne & Nsayi: 1010 14th St N, St. Petersburg, FL 33705
+- Jax, Dan, and Cibeles: 805 14th Street North, St. Petersburg, FL 33705, United States
+- Savannah Mewes: 635 5th Avenue North St Petersburg, Florida
+- Joseph & Briana : The Vinoy 501 5th Ave NE, St. Petersburg
+- Abraham & Victoria, Trish, Joey G: 1020 13th Street North, St. Petersburg, FL
+- Josh & Lindsay: 3790 Beach Drive Southeast, St Petersburg, FL 33705, United States
+- Brandon & Shelby: 10090 86th Way North, Seminole, Florida, United States
+- Matthew & Kendra: TBD
+- Alek & Eli: TBD
+- Dustin & Jen: 1826 7th Ave S, St. Petersburg, FL 33712, USA
+
+### Phone # Contacts to give Driver:
+- Adam Wilcox: +1 (321) 288-9181
+- Gian Belledonne: +1 (786) 608-3873
+- Cibeles: (321) 295-1578
+- Nsayi: +1 (503) 351-7639
+- Victoria: 
+- Briana: 310-993-9742
+- Jenna Hall: +1 (505) 210-0073
+- Trisha: l
+
+- <u>People @ Tru By Hilton:</u>
+- Group 1: bridal Party —>Dali—>Venue
+	- [ ] David 
+	- [ ] Josh H.
+	- [ ] Brandon M.
+	- [ ] Dan G.
+	- [ ] Dustin W.
+	- [ ] Abe V.
+	- [ ] Joseph W.
+	- [ ] HT Lindsey
+	- [ ] Camille
+	- [ ] Lauren M. 
+	- [ ] Savannah W.
+	- [ ] Suzanne O.
+	- [ ] Britney A.
+	- [ ] Michaella L.
+	- [ ] Dani S.
+	- [ ] Sophie 
+	Group 1.2 (pickup family during photos beginning): Need to be ready by 3:00
+	- [ ] Denise Fulmore
+	- [ ] Ron Fulmore
+	- [ ] Brooke
+	- [ ] Leo & Brock
+	- [ ] Mia?
+	- [ ] Ronald Fulmore
+	- [ ] Oscar Arechiga
+	- [ ] Gabi
+	- [ ] Ivy?
+	- [ ] Vernon Floro Sr.
+
+- Group 2: Need to be ready by 4:15
+	- [ ] Gian
+	- [ ] Jenna Hall
+	- [ ] Brigham Hartley
+	- [ ] Briana Weng - 310-993-9742
+	- [ ] Adam Wilcox
+	- [ ] Trish
+	- [ ] Joey
+	- [ ] Victoria
+	- [ ] Jax
+	- [ ] Cibeles
+	- [ ] Nsayi
+	Hilton: Bus arrives 4:50, 4:55 departure to Nova
+	- [ ] Vernon Floro II
+	- [ ] Mailodie
+	- [ ] Ava F
+	- [ ] Kaia F
+	- [ ] Renee W.
+	- [ ] Stephen W
+	- [ ] Sam
+	- [ ] Elaina
+	- [ ] Michelle H.
+	- [ ] Aaron H.
+	- [ ] Aiden H.
+	- [ ] Avril
+	- [ ] Hope
+	- [ ] Dillion Hutson
+	- [ ] Daniel Paull
+	- [ ] Annett Jones
+	- [ ] Arlene Hunter
+	- [ ] Peter Hunter
+- Group 3: Bus arrives back at Hilton 5:10, 5:15 departure to Nova
+	- [ ] Jeff Gore
+	- [ ] Dana
+	- [ ] Lauren Price
+	- [ ] Mark Price
+	- [ ] Brendan Selly
+	- [ ] Molly Margaret
+	- [ ] Cora Fulmore
+	- [ ] Harry Fulmore
+	- [ ] Melissa Fulmore-Hardwick
+	- [ ] Jerald Fulmore-Hardwick
+	- [ ] Ronnie King
+	- [ ] Mae King
+	- [ ] Jessica Wallace
+	- [ ] Douglas Wallace
+	- [ ] Courtney Girlie
+	- [ ] Carolyn GaylesKofi Baffour

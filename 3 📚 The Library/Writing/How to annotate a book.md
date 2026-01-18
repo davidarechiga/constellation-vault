@@ -1,0 +1,14 @@
+## How to annotate a book
+
+**Prepare before reading**
+1. **Read the front and back jackets of the book.** This will give you some background information on the author and the text, which will prepare you for what to expect while reading.
+2. Check to see if there is a glossary, map, or other tool included in the book that can be referenced while reading.
+3. **Find a review or summary of the book.** This will help you approach the book from a thematic and analytical standpoint from the onset.
+4. **Determine your purpose.** If you are reading the book for a class, for example, review the syllabus and/or any assignments that you have been given. If you have been given a list of study questions or vocabulary words, then review those and keep them on hand. If you are reading the book for pleasure, consider what drew you to the book in the first place. What do you wish to gain from reading the text?
+**Annotate while reading**
+1. **Highlight key information.** This includes important characters, ideas, events, and/or terms. Use a highlighter color that is not too distracting or dark so that the text is still legible. I would suggest you to use a pencil to mark information as it does not make the book very untidy for others to read.
+2. **Use brackets to single out important paragraphs/sections.** If the text is too long to highlight, bracketing it will help you determine which parts are worth going back and re-reading.
+3. **Write notes in the margins.** If you chose to highlight or bracket a section, be sure to use a pen or pencil to write the significance of the text in the margins so that you can quickly remember why you highlighted a particular section without having to re-read the entire chapter or section.
+4. **Look up words you don't know.** Have a dictionary on-hand to look up words or terms that you don't understand. You may want to write the definition into the margins so that you don't forget them when you go back and re-read. This will help you build up your vocabulary at the same time. Generally we forget new words we read in a book. Maintaining notes for new words will help you in future.
+5. **Summarize the end of each chapter or section.** To keep your memory fresh, consider writing a short summary at the very end of each chapter that sums up the important events, ideas and concepts that were discussed in the chapter. This will help you in improving your writing skills at the same time.
+6. **Use sticky stickers or other colorful stickers in between pages.** You may use colorful stickers in between the pages to write important points and stick them or leave them on the page itself. It will help you to recollect the gist of the important page in the near future whenever you will be coming back to the book.
