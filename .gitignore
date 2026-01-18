@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Smart Connections plugin
+.smart-env/
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
