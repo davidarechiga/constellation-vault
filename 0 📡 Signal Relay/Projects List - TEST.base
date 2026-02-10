@@ -1,0 +1,210 @@
+filters:
+  and:
+    - file.hasTag("project")
+formulas:
+  categoryIcon: if(category=="creative","🎨",if(category=="work","💼",if(category=="studio","🎬",if(category=="family","👶",if(category=="personal","🏠",if(category=="education","📚","📁"))))))
+  statusBadge: if(status=="active","🟢",if(status=="on-hold","⏸️",if(status=="completed","✅",if(status=="cancelled","❌","⚪"))))
+  priorityBadge: if(priority=="high","🚨",if(priority=="medium","🔼","🔽"))
+  daysUntilCompletion: if(deadline, ((number(date(deadline)) - number(today())) / 86400000).floor(), null)
+  daysSinceLastUpdate: ((number(now()) - number(file.mtime)) / 86400000).floor()
+  completionMonth: if(!deadline, "📅 Unscheduled", date(deadline).format("MMM yyyy"))
+  daysStale: if(formula.daysSinceLastUpdate > 45, "🚨 " + formula.daysSinceLastUpdate + "d", if(formula.daysSinceLastUpdate > 30, "⚠️ " + formula.daysSinceLastUpdate + "d", formula.daysSinceLastUpdate + "d"))
+  taskCount: length(filter(filter(app.vault.getMarkdownFiles(), (f) => f.hasTag("task")), (t) => contains(t.frontmatter.projects, "[[" + this.file.basename + "]]")))
+  urgencyScore: (if(priority=="high",3,if(priority=="medium",2,1))) * (100 - progress) / 100 * (1 / max(1, formula.daysUntilCompletion + 30))
+  relatedCount: if(!related-files, 0, length(related-files))
+views:
+  - type: table
+    name: 🎯 Active Dashboard
+    filters:
+      and:
+        - status == "active"
+    order:
+      - file.name
+      - category
+      - owner
+      - progress
+      - current-focus
+      - next-action
+      - formula.daysUntilCompletion
+      - last-updated
+    sort:
+      - property: last-updated
+        direction: ASC
+      - property: progress
+        direction: DESC
+      - property: title
+        direction: ASC
+      - property: priority
+        direction: DESC
+      - property: formula.daysUntilCompletion
+        direction: ASC
+    columnSize:
+      note.title: 194
+  - type: table
+    name: 📅 Timeline View
+    filters:
+      and:
+        - status != "completed"
+        - status != "cancelled"
+        - status != "archived"
+    groupBy:
+      property: formula.completionMonth
+      direction: ASC
+    order:
+      - title
+      - formula.categoryIcon
+      - progress
+      - phase
+      - dependencies
+      - owner
+      - time-estimate
+    sort:
+      - property: deadline
+        direction: ASC
+    columnSize:
+      note.title: 385
+    calendarView: multiMonthYear
+    weekNumbers: true
+  - type: table
+    name: ⏸️ On Hold & Blocked
+    filters:
+      and:
+        - or:
+            - status == "on-hold"
+            - dependencies != null
+    order:
+      - title
+      - status
+      - dependencies
+      - last-updated
+      - formula.daysSinceLastUpdate
+      - owner
+    sort:
+      - property: last-updated
+        direction: ASC
+  - type: table
+    name: 🔄 Phase-Based Projects
+    filters:
+      and:
+        - phase != null
+    groupBy:
+      property: title
+      direction: ASC
+    order:
+      - phase
+      - progress
+      - deadline
+      - next-action
+    sort:
+      - property: category
+        direction: ASC
+  - type: table
+    name: 🔄 Recently Updated
+    filters:
+      and: []
+    order:
+      - title
+      - formula.statusBadge
+      - category
+      - last-updated
+      - owner
+    sort:
+      - property: last-updated
+        direction: DESC
+  - type: table
+    name: 🚨 Needs Attention
+    filters:
+      and:
+        - status == "active"
+        - formula.daysSinceLastUpdate > 30
+    order:
+      - title
+      - formula.priorityBadge
+      - formula.daysStale
+      - current-focus
+      - owner
+    sort:
+      - property: formula.daysSinceLastUpdate
+        direction: DESC
+  - type: table
+    name: ⚡ High-Priority Focus
+    filters:
+      and:
+        - priority == "high"
+        - status == "active"
+    order:
+      - title
+      - progress
+      - current-focus
+      - next-action
+      - formula.taskCount
+      - formula.daysUntilCompletion
+      - owner
+    sort:
+      - property: formula.daysUntilCompletion
+        direction: ASC
+  - type: table
+    name: 👥 By Category & Owner
+    filters:
+      and:
+        - status != "cancelled"
+        - status != "archived"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - title
+      - status
+      - progress
+      - time-estimate
+      - collaborators
+      - next-action
+    sort:
+      - property: priority
+        direction: DESC
+  - type: table
+    name: 📋 All Unfinished
+    filters:
+      and:
+        - status != "completed"
+        - status != "archived"
+        - status != "cancelled"
+    order:
+      - title
+      - formula.statusBadge
+      - progress
+      - formula.priorityBadge
+      - category
+      - formula.daysUntilCompletion
+      - owner
+      - deadline
+      - time-estimate
+    sort:
+      - property: status
+        direction: ASC
+      - property: priority
+        direction: DESC
+      - property: formula.daysUntilCompletion
+        direction: ASC
+    columnSize:
+      title: 220
+      formula.categoryIcon: 125
+  - type: table
+    name: ✅ Archive
+    filters:
+      and:
+        - or:
+            - status == "completed"
+            - status == "archived"
+    groupBy:
+      property: file.ctime
+      direction: DESC
+    order:
+      - file.name
+      - category
+      - completion-date
+      - progress
+      - time-estimate
+    sort:
+      - property: completion-date
+        direction: DESC

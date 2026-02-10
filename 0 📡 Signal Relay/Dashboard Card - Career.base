@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.name == "6 Career Transition 2026"
+views:
+  - type: table
+    name: Next Action
+    filters:
+      and: []
+    order:
+      - next-action
+      - deadline
+    sort:
+      - property: deadline
+        direction: ASC

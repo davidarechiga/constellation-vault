@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"priorities-header","type":"text","text":"## 🎯 TOP 3 PRIORITIES","x":-400,"y":-50,"width":300,"height":60},
+		{"id":"priority-1-title","type":"text","text":"1️⃣ **Baby Prep - Cyrus**","x":-400,"y":80,"width":480,"height":50},
+		{"id":"priority-1-action","type":"file","file":"0 📡 Signal Relay/Dashboard Card - Baby Prep.base","x":-400,"y":140,"width":480,"height":80},
+		{"id":"priority-2-title","type":"text","text":"2️⃣ **Career Transition**","x":-400,"y":240,"width":480,"height":50},
+		{"id":"priority-2-action","type":"file","file":"0 📡 Signal Relay/Dashboard Card - Career.base","x":-400,"y":300,"width":480,"height":80},
+		{"id":"priority-3-title","type":"text","text":"3️⃣ **Camille**","x":-400,"y":400,"width":480,"height":50},
+		{"id":"priority-3-action","type":"file","file":"0 📡 Signal Relay/Dashboard Card - Camille.base","x":-400,"y":460,"width":480,"height":80},
+		{"id":"project-career","type":"file","file":"1 🔨 The Foundry/6 Career Transition 2026/6 Career Transition 2026.md","x":536,"y":80,"width":384,"height":255},
+		{"id":"project-household","type":"file","file":"2 📻 Wavelengths/5 🏡 Household/Household Routines.md","x":536,"y":367,"width":384,"height":223},
+		{"id":"tasks-header","type":"text","text":"## 📋 ALL TASKS","x":-200,"y":660,"width":300,"height":60},
+		{"id":"tasks-base","type":"file","file":"0 📡 Signal Relay/Signal Relay Dashboard.base","x":-200,"y":760,"width":300,"height":120},
+		{"id":"title","type":"text","text":"# 📡 SIGNAL RELAY\n\n## This Week's Dashboard","x":-400,"y":-300,"width":1320,"height":120,"color":"3"},
+		{"id":"project-music","type":"file","file":"1 🔨 The Foundry/Ongoing Active Projects.md","x":126,"y":367,"width":384,"height":223},
+		{"id":"project-baby","type":"file","file":"1 🔨 The Foundry/1 Baby Prep - Cyrus/1 Baby Prep - Cyrus.md","x":126,"y":80,"width":384,"height":255},
+		{"id":"projects-header","type":"text","text":"## 📊 ACTIVE PROJECTS","x":126,"y":-50,"width":300,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.name == "1 Baby Prep - Cyrus"
+views:
+  - type: table
+    name: Next Action
+    filters:
+      and: []
+    order:
+      - next-action
+      - deadline
+    sort:
+      - property: deadline
+        direction: ASC
