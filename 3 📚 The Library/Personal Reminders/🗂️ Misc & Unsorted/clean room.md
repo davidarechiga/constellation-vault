@@ -1,5 +1,0 @@
-- [ ] clean room
-- [ ] clean kitchen
-- [ ] clean out fridge
-- [ ] do laundry
-- [ ] organize and throw stuff away
