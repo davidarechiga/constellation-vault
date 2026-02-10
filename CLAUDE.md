@@ -10,15 +10,15 @@ This is an Obsidian vault named "Constellation" - a personal knowledge managemen
 
 The vault uses the ACE organizational framework with Constellation-themed folder names:
 
-- **The Observatory/** (Atlas) — Knowledge space. Notes organized by connections, not categories.
+- **A - The Observatory/** (Atlas) — Knowledge space. Notes organized by connections, not categories.
   - `MOCs/` — Maps of Content (topic index notes: Music, Health, Creative Work, Cooking, Career, Family)
   - `Sources/` — Book notes, articles, literature notes (includes Book Notes, ChatGPT sources)
   - All other subfolders — Topic-based knowledge (Design, Music, Hobbies, Writing, etc.)
-- **Signal Relay/** (Calendar) — Time-based entries and daily workflow.
+- **C - Signal Relay/** (Calendar) — Time-based entries and daily workflow.
   - `Daily/` — Daily notes
   - `Weekly/` — Weekly reviews
   - Folder note serves as the main navigation hub and dashboard
-- **The Foundry/** (Efforts) — All active work: projects, life areas, tasks, and dashboards.
+- **E - The Foundry/** (Efforts) — All active work: projects, life areas, tasks, and dashboards.
   - `Active/` — Current projects with deadlines (Baby Prep, Music, Pixel Glitch, Frameloop, Career, Constellation Mobile)
   - `Ongoing/` — Life areas requiring continuous attention (Personal Growth, Camille, River, Cyrus, Household)
   - `Someday/` — Future/paused projects
@@ -28,7 +28,6 @@ The vault uses the ACE organizational framework with Constellation-themed folder
 - **Attachments/** — Media files and embedded resources
 - **Templates/** — Note templates (Daily Note, Weekly Review, etc.)
 - **TaskNotes/** — Plugin folder for TaskNotes system config
-- **The Observatory/** — See above (Atlas)
 
 ## Obsidian Plugins
 
@@ -50,7 +49,7 @@ The vault uses these community plugins:
 The vault uses a dual system for task organization:
 
 ### TaskNotes (Primary Task Files)
-Individual task files stored in `The Foundry/Tasks/[Project Name]/` with the following structure:
+Individual task files stored in `E - The Foundry/Tasks/[Project Name]/` with the following structure:
 
 **Frontmatter metadata:**
 ```yaml
@@ -93,11 +92,11 @@ projects:
 - **Completed view** — Archive of finished tasks with modification date
 
 **Key .base files:**
-- `Signal Relay Dashboard.base` — All tasks across projects (in `The Foundry/Dashboard/`)
-- `baby-prep-tasks.base` — Baby prep tasks (in `The Foundry/Active/1 Baby Prep - Cyrus/`)
-- `career-tasks.base` — Career tasks (in `The Foundry/Active/6 Career Transition 2026/`)
-- `relationship-tasks.base` — Relationship tasks (in `The Foundry/Ongoing/2 🥰 Camille/`)
-- `Projects List.base` — All projects tagged with `#project` (in `The Foundry/Dashboard/`)
+- `Signal Relay Dashboard.base` — All tasks across projects (in `E - The Foundry/Dashboard/`)
+- `baby-prep-tasks.base` — Baby prep tasks (in `E - The Foundry/Active/1 Baby Prep - Cyrus/`)
+- `career-tasks.base` — Career tasks (in `E - The Foundry/Active/6 Career Transition 2026/`)
+- `relationship-tasks.base` — Relationship tasks (in `E - The Foundry/Ongoing/2 🥰 Camille/`)
+- `Projects List.base` — All projects tagged with `#project` (in `E - The Foundry/Dashboard/`)
 
 ### How They Work Together
 
@@ -111,7 +110,7 @@ projects:
 - Obsidian uses wikilinks: `[[Note Title]]` to create bidirectional links between notes
 - Links are resolved by note title, not file path
 - The vault emphasizes connected thinking through liberal use of links between related concepts
-- **MOCs** (Maps of Content) in `The Observatory/MOCs/` serve as topic indexes — use these to discover notes by topic
+- **MOCs** (Maps of Content) in `A - The Observatory/MOCs/` serve as topic indexes — use these to discover notes by topic
 
 ## Working with Notes
 
@@ -119,8 +118,8 @@ When creating or modifying notes in this vault:
 - Use wikilink syntax `[[Note Title]]` for internal links, not markdown links
 - Match the organizational structure:
   - **Signal Relay** for daily/weekly time-based notes
-  - **The Foundry/Active** for project-specific content
-  - **The Foundry/Ongoing** for life area content
+  - **E - The Foundry/Active** for project-specific content
+  - **E - The Foundry/Ongoing** for life area content
   - **The Observatory** for reference/knowledge notes
 - Notes may contain Dataview queries or task syntax from the tasks plugin
 - Task syntax uses checkbox format: `- [ ]` (incomplete), `- [x]` (complete)
@@ -195,7 +194,7 @@ David has expressed: "I really need assistance staying on top of things" - be pr
 
 - `Weekly Dashboard.canvas` → Test in `Weekly Dashboard - TEST.canvas`
 - `Projects List.base` → Test in `Projects List - TEST.base`
-- Main dashboard files in `The Foundry/Dashboard/`
+- Main dashboard files in `E - The Foundry/Dashboard/`
 - Template files in `Templates/`
 - Any `.base` files used in production
 

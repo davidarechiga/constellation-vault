@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"priorities-header","type":"text","text":"## 🎯 TOP 3 PRIORITIES","x":-400,"y":-50,"width":300,"height":60},
+		{"id":"priority-1-tasks","type":"file","file":"E - The Foundry/Active/1 Baby Prep - Cyrus/baby-prep-tasks.base","x":-400,"y":140,"width":1320,"height":400},
+		{"id":"priority-2-title","type":"text","text":"2️⃣ **Career Transition**","x":-400,"y":570,"width":1320,"height":50},
+		{"id":"priority-1-title","type":"text","text":"1️⃣ **Baby Prep - Cyrus**","x":-400,"y":40,"width":1320,"height":50},
+		{"id":"priority-2-tasks","type":"file","file":"E - The Foundry/Active/6 Career Transition 2026/career-tasks.base","x":-400,"y":660,"width":1320,"height":400},
+		{"id":"priority-3-title","type":"text","text":"3️⃣ **Camille**","x":-400,"y":1090,"width":1320,"height":50},
+		{"id":"priority-3-tasks","type":"file","file":"E - The Foundry/Ongoing/2 🥰 Camille/relationship-tasks.base","x":-400,"y":1180,"width":1320,"height":400},
+		{"id":"project-baby","type":"file","file":"E - The Foundry/Active/1 Baby Prep - Cyrus/1 Baby Prep - Cyrus.md","x":-400,"y":1720,"width":384,"height":255},
+		{"id":"project-career","type":"file","file":"E - The Foundry/Active/6 Career Transition 2026/6 Career Transition 2026.md","x":40,"y":1720,"width":384,"height":255},
+		{"id":"project-music","type":"file","file":"E - The Foundry/Ongoing Active Projects.md","x":480,"y":1720,"width":384,"height":255},
+		{"id":"project-household","type":"file","file":"E - The Foundry/Ongoing/5 🏡 Household/Household Routines.md","x":-400,"y":2010,"width":384,"height":223},
+		{"id":"project-relationship","type":"file","file":"E - The Foundry/Ongoing/2 🥰 Camille/Relationship - Camille.md","x":40,"y":2010,"width":384,"height":223},
+		{"id":"projects-header","type":"text","text":"## 📊 ACTIVE PROJECTS","x":-400,"y":1620,"width":300,"height":60},
+		{"id":"title","type":"text","text":"# 📡 SIGNAL RELAY\n\n## This Week's Dashboard","x":-400,"y":-220,"width":1320,"height":120,"color":"3"}
+	],
+	"edges":[]
+}
