@@ -1,4 +1,33 @@
+---
+tags: [project]
+title: "Frameloop"
+status: active
+category: creative
+priority: medium
+owner: David
+start-date: 2026-01-15
+last-updated: 2026-02-08
+progress: 25
+deadline: 2026-06-30
+current-focus: Transport & Playback Engine, Image Upload & Display (Phases 2-3)
+next-action: Complete playback engine with BPM-synced timing
+time-estimate: 6 months
+deliverables:
+  - Browser-based frame looper MVP
+  - 4-track image/video compositor
+  - BPM-synced playback engine
+  - Shape morphing system
+  - Strobe effects
+  - Export to video/GIF
+phase: Phase 2-3 (Transport & Playback)
+collaborators: [David]
+related-files: ["[[pixel glitch creative studio]]", "[[Phase Summary - YouTube]]", "[[Frameloop - Future Features]]"]
+codebase: ~/Dropbox/1_projects/frameloop
+---
+
 # Frameloop - Project Roadmap
+
+> **Task Syntax:** See [[Task Syntax Quick Reference]] for formatting
 
 ## Project Overview
 Browser-based image and video frame looper for live visual performance. Similar to Ableton Live's session view but for visuals. Features 4 independent image tracks plus a main output track, synchronized to BPM with comprehensive controls.
@@ -194,87 +223,29 @@ App
 
 ## Development Phases
 
-### Phase 1: Foundation & Core Setup
-- [x] Set up React project with Zustand
-- [x] Implement Zustand store
-- [x] Build basic component structure
-- [x] Basic responsive layout (CSS Grid/Flexbox)
-- [x] Static UI only, no functionality
+### Phase 1: Foundation & Core Setup ✅
 
-### Phase 2: Transport & Playback Engine
-- [ ] Connect Transport controls to store
-- [ ] Implement play/stop functionality
-- [ ] Build BPM-based timing engine
-- [ ] Beat counter/grid system
+### Phase 2: Transport & Playback Engine ⏫ CURRENT
 
-### Phase 3: Image Upload & Display
-- [ ] Image upload functionality per track
-- [ ] Generate static thumbnails
-- [ ] Store image data in Zustand
-- [ ] Display images in canvas (no effects)
-- [ ] Basic layer compositing (stack order)
+### Phase 3: Image Upload & Display ⏫ CURRENT
 
-### Phase 4: Basic Track Controls
-- [ ] Visibility toggle
-- [ ] Fade in/out buttons
-- [ ] Loop length selector (1-64 beats)
-- [ ] Track reordering (drag & drop)
-- [ ] Apply controls to canvas output
+### Phase 4: Basic Track Controls 🔼
 
-### Phase 5: Strobe Effect
-- [ ] Strobe toggle per track
-- [ ] Interval selector
-- [ ] Sync to BPM timing
+### Phase 5: Strobe Effect 🔼
 
-### Phase 6: Shape System - Basic
-- [ ] Shape selection UI (checkboxes)
-- [ ] Drag to reorder shapes
-- [ ] Morph interval selector
-- [ ] Color/Mask mode toggle
-- [ ] Hex color input
-- [ ] Render single static shape
-- [ ] Shape morphing animation
-- [ ] BPM-synced morphing
+### Phase 6: Shape System - Basic 🔼
 
-### Phase 7: Main Output Controls
-- [ ] Opacity slider
-- [ ] Brightness slider
-- [ ] Contrast slider
-- [ ] Strobe (same as track)
-- [ ] Shape overlay (same as track)
-- [ ] Color grading controls
+### Phase 7: Main Output Controls 🔼
 
-### Phase 8: Canvas & Aspect Ratio
-- [ ] Aspect ratio switching
-- [ ] Canvas collapse/expand
-- [ ] Full-width canvas when expanded
-- [ ] Preview/export aspect sync toggle
+### Phase 8: Canvas & Aspect Ratio 🔽
 
-### Phase 9: Timeline & Arrangement
-- [ ] Expandable timeline per track
-- [ ] Timeline ruler with beat markers
-- [ ] Clip placement on timeline
-- [ ] Playhead scrubbing
+### Phase 9: Timeline & Arrangement 🔽
 
-### Phase 10: Automation
-- [ ] Parameter selector dropdown
-- [ ] Click-to-add automation points
-- [ ] Drag points to edit
-- [ ] Snap to beat grid
-- [ ] Automation playback
+### Phase 10: Automation 🔽
 
-### Phase 11: Export Functionality
-- [ ] Export resolution selector
-- [ ] Calculate export duration
-- [ ] Render to video (WebM/MP4)
-- [ ] Render to animated GIF
-- [ ] Progress indicator
+### Phase 11: Export Functionality 🔽
 
-### Phase 12: Polish & Testing
-- [ ] UI polish and responsive refinements
-- [ ] Performance optimization
-- [ ] Cross-browser testing
-- [ ] Bug fixes
+### Phase 12: Polish & Testing 🔽
 
 ---
 

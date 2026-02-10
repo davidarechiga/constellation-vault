@@ -1,6 +1,7 @@
 # Claude Code Mobile Setup
 
-Access Claude Code from your iPhone to work with your Obsidian vault, using your old Mac/PC as an always-on home server.
+> Access Claude Code from your iPhone to work with your Obsidian vault, using your old Mac/PC as an always-on home server.
+> **Task Syntax:** See [[Task Syntax Quick Reference]] for formatting
 
 ---
 
@@ -16,10 +17,6 @@ Access Claude Code from your iPhone to work with your Obsidian vault, using your
 
 ### 1. Prepare the Old Mac/PC
 
-- [ ] Decide which machine to use (Mac preferred since vault syncs via iCloud)
-- [ ] Set it up in a location where it can stay on (low noise area, good ventilation)
-- [ ] Configure power settings to prevent sleep/shutdown
-- [ ] Enable auto-login after power outages (optional but helpful)
 
 ### 2. Install Claude Code on the Server
 
@@ -37,10 +34,6 @@ claude
 
 ### 3. Install Tailscale (Secure Remote Access)
 
-- [ ] Create free Tailscale account at https://tailscale.com
-- [ ] Install Tailscale on the server Mac/PC
-- [ ] Install Tailscale on your iPhone
-- [ ] Both devices join the same Tailnet (private network)
 
 This gives you a secure connection from anywhere - no port forwarding or VPN complexity.
 
@@ -54,9 +47,6 @@ This gives you a secure connection from anywhere - no port forwarding or VPN com
 
 ### 5. Set Up iPhone
 
-- [ ] Install **Termius** (recommended) or **Blink Shell** from App Store
-- [ ] Install **Tailscale** from App Store and sign in
-- [ ] Add SSH connection in Termius:
   - Host: `[server-name]` (Tailscale hostname, e.g., `davids-mac`)
   - Username: your Mac username
   - Authentication: password or SSH key
@@ -103,10 +93,6 @@ Most Bluehost users have shared hosting which won't support Claude Code.
 
 ## Verification Checklist
 
-- [ ] Can SSH into server from iPhone over Tailscale
-- [ ] Claude Code runs and authenticates on server
-- [ ] Can access and edit Obsidian vault files
-- [ ] Changes sync back to iPhone Obsidian app
 
 ---
 

@@ -35,18 +35,8 @@ A 9-week mindfulness-based childbirth and parenting program (MBCP) designed to c
 ## Action Items
 
 ### This Week (Week 1)
-- [ ] Complete 15-minute Awareness of Breathing practice (6 days)
-- [ ] Read *Mindful Birthing* Introduction
-- [ ] Read Chapter 1: Everything is Changing!
-- [ ] Read Chapter 2: Inner Preparation for Childbirth and Beyond
-- [ ] Read Chapter 3: The World in a Raisin
-- [ ] Read Chapter 4: The Breath: A Friend for Life
-- [ ] Watch Jon Kabat-Zinn's [9 Attitudes of Mindfulness](https://www.youtube.com/watch?v=2n7FOBFMvXg) video
 
 ### Ongoing
-- [ ] Research breast pumps (noted 5/29 in [[Daily Practices & Reminders]])
-- [ ] Establish daily meditation routine
-- [ ] Practice mindful eating (raisin exercise)
 
 ---
 

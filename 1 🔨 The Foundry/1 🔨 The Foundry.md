@@ -1,20 +1,10 @@
-
 ## Active Projects
 
 ![[Ongoing Active Projects]]
-
-## Open Tasks by Priority
-```tasks
-not done
-path includes 1 🔨 The Foundry
-group by filename
-limit 25
-```
-
 ## Recently Updated
 ```dataview
 TABLE file.mtime as "Modified"
-FROM "1 🔨 The Foundry"
+FROM "1 🔨 The Foundry/Active"
 WHERE file.name != this.file.name
 SORT file.mtime DESC
 LIMIT 10

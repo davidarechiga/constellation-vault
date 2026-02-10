@@ -18,15 +18,6 @@
 
 Information to gather from HR/Benefits Portal:
 
-- [ ] Monthly premium for employee + spouse + child (my plan)
-- [ ] Monthly premium for employee + spouse + child (wife's plan)
-- [ ] Annual deductible (individual and family)
-- [ ] Out-of-pocket maximum (individual and family)
-- [ ] Co-pay amounts (primary care, specialist, urgent care, ER)
-- [ ] Prescription drug coverage details
-- [ ] Network coverage (in-network providers near you)
-- [ ] HSA/FSA eligibility and employer contributions
-- [ ] Pediatric coverage specifics
 
 ---
 
@@ -157,14 +148,6 @@ Information to gather from HR/Benefits Portal:
 
 ## ✅ Action Items
 
-- [ ] Contact my HR/benefits portal for exact costs
-- [ ] Contact wife's HR/benefits portal for exact costs
-- [ ] Verify pediatrician is in-network for both plans
-- [ ] Check if any specialists we use are in-network
-- [ ] Review plan documents/summaries of benefits
-- [ ] Calculate HSA tax savings if applicable
-- [ ] Make final decision by [deadline]
-- [ ] Submit enrollment changes
 
 ---
 

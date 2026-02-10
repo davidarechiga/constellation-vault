@@ -63,6 +63,7 @@
 - **A**lternatives - What other options exist?
 - **I**ntuition - What does your gut say?
 - **N**o/Not Now - Can we wait?
+- **N**othing
 
 ### Emotional Health
 - **Baby blues**: Common, usually resolves on its own
