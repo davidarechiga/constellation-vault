@@ -162,7 +162,7 @@ Your career skills connect to other life areas:
 
 ```dataview
 TABLE file.mtime as "Modified"
-FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Career Development - Creative Technologist" OR "The Observatory/🎨 Design & Creative Work" OR "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Computer Science"
+FROM "The Foundry/Ongoing/1 🛫 Personal Growth/Career Development - Creative Technologist" OR "The Observatory/🎨 Design & Creative Work" OR "The Foundry/Ongoing/1 🛫 Personal Growth/Computer Science"
 WHERE file.name != this.file.name
 SORT file.mtime DESC
 LIMIT 10

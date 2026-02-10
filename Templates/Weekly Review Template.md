@@ -30,7 +30,7 @@ TABLE WITHOUT ID
   stretch as "🤸",
   drawing as "🎨",
   camille_checkin as "💕"
-FROM "0 📡 Signal Relay/Daily"
+FROM "Signal Relay/Daily"
 WHERE file.ctime >= date(today) - dur(7 days)
 SORT file.name DESC
 ```

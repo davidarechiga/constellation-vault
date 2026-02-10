@@ -151,7 +151,7 @@ See [[3 📚 Resource (Interests & Building Blocks)/🎵 Music & Audio Productio
 
 ```dataview
 TABLE file.mtime as "Modified"
-FROM "1 🔨 The Foundry/Active/2 Music Releases" OR "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Music Performance_Production" OR "The Observatory/🎵 Music & Audio Production"
+FROM "The Foundry/Active/2 Music Releases" OR "The Foundry/Ongoing/1 🛫 Personal Growth/Music Performance_Production" OR "The Observatory/🎵 Music & Audio Production"
 WHERE file.name != this.file.name
 SORT file.mtime DESC
 LIMIT 10

@@ -1,3 +1,0 @@
-- [ ] mandar - computer back up.
-- [ ] Vassvi Peripheral pick up
-- [ ] Retirement Project
