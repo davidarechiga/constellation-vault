@@ -1,6 +1,0 @@
-- [x] Claudia
-- [x] Alex
-- [ ] Rithu
-- [ ] Kahmina and Ade
-- [x] John and Meghan
-- [ ] Nafisa

@@ -96,7 +96,7 @@ Your complete music production knowledge base - techniques, gear, and creative r
 ## All Music Notes
 ```dataview
 LIST
-FROM "2 📻 Wavelengths/1 🛫 Personal Growth/Music Performance_Production"
+FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Music Performance_Production"
 WHERE file.name != "Music Performance_Production"
 SORT file.name ASC
 ```

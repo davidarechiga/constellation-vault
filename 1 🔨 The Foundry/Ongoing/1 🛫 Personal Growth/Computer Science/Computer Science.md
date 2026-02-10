@@ -32,7 +32,7 @@ Your programming and computer science learning resources.
 ## All Programming Notes
 ```dataview
 LIST
-FROM "2 📻 Wavelengths/1 🛫 Personal Growth/Computer Science"
+FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Computer Science"
 WHERE file.name != "Computer Science"
 SORT file.name ASC
 ```

@@ -74,7 +74,7 @@ Your IT career knowledge base - experience, certifications, job search, and prof
 ## All IT Career Notes
 ```dataview
 LIST
-FROM "2 📻 Wavelengths/1 🛫 Personal Growth/IT Career Development"
+FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/IT Career Development"
 WHERE file.name != "IT Career Development"
 SORT file.name ASC
 ```

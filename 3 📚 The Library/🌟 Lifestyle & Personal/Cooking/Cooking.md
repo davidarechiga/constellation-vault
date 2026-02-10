@@ -90,7 +90,7 @@ Your complete recipe collection and cooking knowledge base.
 ## All Recipes
 ```dataview
 LIST
-FROM "2 📻 Wavelengths/1 🛫 Personal Growth/Cooking"
+FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Cooking"
 WHERE file.name != "Cooking"
 SORT file.name ASC
 ```

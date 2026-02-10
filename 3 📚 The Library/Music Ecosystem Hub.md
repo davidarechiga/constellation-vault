@@ -5,7 +5,7 @@
 ## Quick Navigation
 
 **Active Work:**
-- [[2 Music Release (In Progress)|Current Album Release]] - Only Talks 2 Ghosts (Project)
+- [[2 Music Releases|Current Album Release]] - Only Talks 2 Ghosts (Project)
 - [[Music Performance_Production|Performance & Production Area]] - Ongoing music development (Area)
 
 **Reference Library:**
@@ -151,7 +151,7 @@ See [[3 📚 Resource (Interests & Building Blocks)/🎵 Music & Audio Productio
 
 ```dataview
 TABLE file.mtime as "Modified"
-FROM "1 🔨 The Foundry/2 Music Release (In Progress)" OR "2 📻 Wavelengths/1 🛫 Personal Growth/Music Performance_Production" OR "3 📚 The Library/🎵 Music & Audio Production"
+FROM "1 🔨 The Foundry/Active/2 Music Releases" OR "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Music Performance_Production" OR "3 📚 The Library/🎵 Music & Audio Production"
 WHERE file.name != this.file.name
 SORT file.mtime DESC
 LIMIT 10

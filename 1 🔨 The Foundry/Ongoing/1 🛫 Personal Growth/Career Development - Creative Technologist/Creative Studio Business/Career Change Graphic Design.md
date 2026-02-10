@@ -61,7 +61,7 @@ These projects let you practice and build your portfolio:
 ## All Design Notes
 ```dataview
 LIST
-FROM "2 📻 Wavelengths/1 🛫 Personal Growth/Career Change Graphic Design"
+FROM "1 🔨 The Foundry/Ongoing/1 🛫 Personal Growth/Career Change Graphic Design"
 WHERE file.name != "Career Change Graphic Design"
 SORT file.name ASC
 ```
