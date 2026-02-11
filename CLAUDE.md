@@ -13,6 +13,10 @@ The vault uses the ACE organizational framework with Constellation-themed folder
 - **A - The Observatory/** (Atlas) — Knowledge space. Notes organized by connections, not categories.
   - `MOCs/` — Maps of Content (topic index notes: Music, Health, Creative Work, Cooking, Career, Family)
   - `Sources/` — Book notes, articles, literature notes (includes Book Notes, ChatGPT sources)
+  - `Documentation/` — System docs, Constellation Guide, and Templates
+  - `Archive/` — Completed or inactive items
+  - `Attachments/` — Media files and embedded resources
+  - `TaskNotes/` — Plugin folder for TaskNotes system config and default views
   - All other subfolders — Topic-based knowledge (Design, Music, Hobbies, Writing, etc.)
 - **C - Signal Relay/** (Calendar) — Time-based entries and daily workflow.
   - `Daily/` — Daily notes
@@ -24,10 +28,8 @@ The vault uses the ACE organizational framework with Constellation-themed folder
   - `Someday/` — Future/paused projects
   - `Dashboard/` — Canvas dashboards, .base views, hub files (Weekly Dashboard, Signal Relay Dashboard, Projects List)
   - `Tasks/` — TaskNotes system organized by project subfolder
-- **Archive/** — Completed or inactive items
-- **Attachments/** — Media files and embedded resources
-- **Templates/** — Note templates (Daily Note, Weekly Review, etc.)
-- **TaskNotes/** — Plugin folder for TaskNotes system config
+
+The vault root contains **only** the three ACE folders plus `CLAUDE.md`.
 
 ## Obsidian Plugins
 
@@ -195,7 +197,7 @@ David has expressed: "I really need assistance staying on top of things" - be pr
 - `Weekly Dashboard.canvas` → Test in `Weekly Dashboard - TEST.canvas`
 - `Projects List.base` → Test in `Projects List - TEST.base`
 - Main dashboard files in `E - The Foundry/Dashboard/`
-- Template files in `Templates/`
+- Template files in `A - The Observatory/Documentation/Templates/`
 - Any `.base` files used in production
 
 ## File Paths

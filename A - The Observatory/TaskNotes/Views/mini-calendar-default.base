@@ -42,11 +42,8 @@ formulas:
   timeTrackedFormatted: if(timeEntries, if(list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) >= 60, (list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) / 60).floor() + "h " + (list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) % 60).round() + "m", list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0).round() + "m"), "0m")
   dueDateDisplay: if(!due, "", if(date(due).date() == today(), "Today", if(date(due).date() == today() + "1d", "Tomorrow", if(date(due).date() == today() - "1d", "Yesterday", if(date(due) < today(), formula.daysUntilDue * -1 + "d ago", if(date(due) <= today() + "7d", date(due).format("ddd"), date(due).format("MMM D")))))))
 views:
-  - type: tasknotesKanban
-    name: Kanban Board
-    groupBy:
-      property: status
-      direction: ASC
+  - type: tasknotesMiniCalendar
+    name: Due
     order:
       - status
       - priority
@@ -59,6 +56,17 @@ views:
       - file.name
       - recurrence
       - complete_instances
-    options:
-      columnWidth: 280
-      hideEmptyColumns: false
+    sort:
+      - property: due
+        direction: ASC
+    dateProperty: due
+  - type: tasknotesMiniCalendar
+    name: Scheduled
+    order: []
+    dateProperty: scheduled
+  - type: tasknotesMiniCalendar
+    name: Created
+    dateProperty: file.ctime
+  - type: tasknotesMiniCalendar
+    name: Modified
+    dateProperty: file.mtime

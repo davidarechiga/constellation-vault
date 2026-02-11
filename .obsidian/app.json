@@ -1,8 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "rightToLeft": false,
-  "attachmentFolderPath": "Attachments",
-  "defaultViewMode": "preview",
-  "autoConvertHtml": false
+  "attachmentFolderPath": "A - The Observatory/Attachments",
+  "defaultViewMode": "source",
+  "autoConvertHtml": false,
+  "promptDelete": false
 }

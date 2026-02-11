@@ -22,25 +22,12 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
+  "recentFilesStore": [],
+  "bookmarkedFileStore": [
     {
-      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/Prenatal Meetings.md",
-      "timestamp": 1768767053912
-    },
-    {
-      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/Childbirth Intensive Alta Bates.md",
-      "timestamp": 1768767005612
-    },
-    {
-      "filepath": "1 🔨 The Foundry/1 Baby Prep - Cyrus/1 Baby Prep - Cyrus.md",
-      "timestamp": 1768765256853
-    },
-    {
-      "filepath": "0 📡 Signal Relay/0 📡 Signal Relay.md",
-      "timestamp": 1768765242061
+      "filepath": "A - The Observatory/TaskNotes/Views/tasks-default.base"
     }
   ],
-  "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": false,
