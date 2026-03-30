@@ -9,7 +9,5 @@
 # macOS
 .DS_Store
 
-# Claude Code — track skills/rules/hooks but exclude local settings
-.claude/settings.local.json
-.claude/plans/
-.claude/todos/
+# Claude Code (synced via Obsidian Sync instead of git)
+.claude/
