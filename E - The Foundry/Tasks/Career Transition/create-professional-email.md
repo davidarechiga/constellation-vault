@@ -2,13 +2,13 @@
 tags:
   - task
   - career
-title: "Create Professional Email"
+title: Create Professional Email
 status: open
 priority: high
-due: "2026-02-10"
+due: 2026-02-10
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Create Professional Email
@@ -25,7 +25,7 @@ projects:
 
 **Done when**: Professional email active, signature configured, tested, and updated across all career materials.
 
-**Related**: [[6 Career Transition 2026]] • [[Update Resume]]
+**Related**: [[Career Transition 2026]] • [[Update Resume]]
 
 ---
 

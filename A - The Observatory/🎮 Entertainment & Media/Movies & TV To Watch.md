@@ -154,4 +154,4 @@ As of 07/15/2025
 
 ---
 
-*Related notes: [[10 Video Games I'm Playing or Want to Play]], [[Comedians I want to see]], [[Concert Going Database]]*
+*Related notes: [[Video Games I'm Playing or Want to Play]], [[Comedians I want to see]], [[Concert Going Database]]*

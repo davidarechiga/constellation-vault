@@ -48,3 +48,21 @@ Maintaining connection and quality time with Camille, especially during the busy
 - [[Things I can do to light Camilles eyes up]]
 - [[All the Reasons Why...]]
 - [[Activities I love and want to share with Camille!]]
+
+---
+
+## Fair Play Card: Marriage & Romance
+
+> Full ownership: I notice when we need connection, plan for it, and make it happen — without waiting for Camille to initiate.
+
+- **Conception:** Notice when things feel off, when we've slipped into "roommate mode," when Camille needs more presence from me
+- **Planning:** Plan date nights, intentional conversations, trips, or small gestures proactively — not reactively
+- **Execution:** Follow through; initiate affection, quality time, and check-ins
+
+**MSC (Minimum Standard of Care):**
+- At least one intentional date or quality connection per week
+- I don't wait for Camille to initiate — I lead
+- When I notice disconnection, I name it and act within 48 hours
+- The relationship is not on autopilot during newborn chaos — it gets protected time
+
+*Reference: [[My Fair Play Cards - CPE + MSC]]*

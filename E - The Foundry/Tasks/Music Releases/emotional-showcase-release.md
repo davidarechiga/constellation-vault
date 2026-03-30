@@ -2,13 +2,13 @@
 tags:
   - task
   - music
-title: "Emotional Showcase EP Release"
+title: Emotional Showcase EP Release
 status: open
 priority: high
-due: "2026-04-30"
+due: 2026-04-30
 owner: David
 projects:
-  - "[[2 Music Releases]]"
+  - "[[Music Releases]]"
 ---
 
 # Emotional Showcase EP Release
@@ -34,4 +34,4 @@ projects:
 
 **Done when**: EP live on Spotify, Apple Music, Bandcamp, and YouTube with artwork and teaser content published.
 
-**Related**: [[2 Music Releases]] • [[Album Visual Concepts]] • [[album release checklist]]
+**Related**: [[Music Releases]] • [[Album Visual Concepts]] • [[album release checklist]]

@@ -2,13 +2,13 @@
 tags:
   - task
   - studio
-title: "Refresh Portfolio Website"
+title: Refresh Portfolio Website
 status: open
 priority: normal
-due: "2026-09-30"
+due: 2026-09-30
 owner: David
 projects:
-  - "[[Pixel Glitch Studio Operations]]"
+  - "[[pixelglitch creative studio]]"
 ---
 
 # Refresh Portfolio Website
@@ -22,4 +22,4 @@ projects:
 
 **Done when**: Website updated with Frameloop case study, music release visuals, and at least 1 testimonial. Site is presentable for job interviews and client pitches.
 
-**Related**: [[Pixel Glitch Studio Operations]] • [[Frameloop]] • [[2 Music Releases]] • [[Career Transition 2026]]
+**Related**: [[pixelglitch creative studio]] • [[Frameloop]] • [[Music Releases]] • [[Career Transition 2026]]

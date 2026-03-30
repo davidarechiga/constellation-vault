@@ -3,13 +3,15 @@ tags:
   - task
   - baby
   - critical
-title: "Baby Gear & Essentials"
-status: open
+title: Baby Gear & Essentials
+status: done
 priority: high
-due: "2026-02-15"
+due: 2026-02-15
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:50:40.957-07:00
+completedDate: 2026-03-08
 ---
 
 # Baby Gear & Essentials

@@ -1,4 +1,0 @@
-# Ramen
-
-Broth
-Noodles

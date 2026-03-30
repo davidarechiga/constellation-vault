@@ -34,7 +34,7 @@
 
 ### Career Transition 2026
 **Status:** Active - Preparation Phase | **Priority:** High
-**Main File:** [[6 Career Transition 2026]]
+**Main File:** [[Career Transition 2026]]
 **Target Role:** Creative Technologist / Design Engineer
 **Target Start Date:** June 2026
 **Task Enrichment:** ✅ Completed - All 5 career tasks enriched with detailed action steps
@@ -156,11 +156,11 @@ From [[Organize Life]]:
 
 ## 💼 Career Development
 
-**NOTE:** Career tasks have been migrated to dedicated project: [[6 Career Transition 2026]]
+**NOTE:** Career tasks have been migrated to dedicated project: [[Career Transition 2026]]
 **All career tasks are now enriched with detailed action steps and context.**
 
 ### Job Application Prep (MIGRATED)
-*These tasks have been moved to [[6 Career Transition 2026]] with full enrichment:*
+*These tasks have been moved to [[Career Transition 2026]] with full enrichment:*
 - ~~Make new email~~ → Migrated ✅
 - ~~Update resume~~ → Migrated ✅
 - ~~Complete values sheet (career assessment)~~ → Migrated ✅

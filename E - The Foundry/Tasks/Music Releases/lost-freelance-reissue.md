@@ -2,13 +2,13 @@
 tags:
   - task
   - music
-title: "The Lost Freelance Album Reissue"
+title: The Lost Freelance Album Reissue
 status: open
 priority: low
-due: "2026-11-01"
+due: 2026-11-01
 owner: David
 projects:
-  - "[[2 Music Releases]]"
+  - "[[Music Releases]]"
 ---
 
 # The Lost Freelance Album Reissue
@@ -25,4 +25,4 @@ projects:
 
 **Done when**: Reissue live on all platforms with new artwork, metadata updated, marketing campaign launched.
 
-**Related**: [[2 Music Releases]] • [[album release checklist]]
+**Related**: [[Music Releases]] • [[album release checklist]]

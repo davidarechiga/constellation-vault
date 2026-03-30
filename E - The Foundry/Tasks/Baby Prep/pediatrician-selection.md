@@ -2,13 +2,15 @@
 tags:
   - task
   - baby
-title: "Pediatrician Selection"
-status: open
+title: Pediatrician Selection
+status: done
 priority: normal
-due: "2026-02-22"
+due: 2026-02-22
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:51:55.992-07:00
+completedDate: 2026-03-08
 ---
 
 # Pediatrician Selection

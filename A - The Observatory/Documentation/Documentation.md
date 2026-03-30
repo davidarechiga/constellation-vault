@@ -7,6 +7,7 @@ System knowledge and configuration for the Constellation vault.
 ## Contents
 
 - **[[Constellation Guide]]** - Overview of the vault system and methodology
+- **[[Wiki De Arechiga]]** - Family wiki: operations manual, reference database, and knowledge base
 - **Templates/** - Note templates (Daily Note, Weekly Review, Project Template, etc.)
 
 ---

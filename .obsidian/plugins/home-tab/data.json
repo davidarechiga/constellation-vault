@@ -22,10 +22,15 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Constellation/Constellation.md",
+      "timestamp": 1774899206572
+    }
+  ],
   "bookmarkedFileStore": [
     {
-      "filepath": "A - The Observatory/TaskNotes/Views/tasks-default.base"
+      "filepath": "Constellation/A - The Observatory/TaskNotes/Views/tasks-default.base"
     }
   ],
   "searchDelay": 0,

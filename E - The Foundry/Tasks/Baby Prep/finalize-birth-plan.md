@@ -2,13 +2,15 @@
 tags:
   - task
   - baby
-title: "Finalize Birth Plan"
-status: open
+title: Finalize Birth Plan
+status: done
 priority: normal
-due: "2026-02-22"
+due: 2026-02-22
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:50:56.988-07:00
+completedDate: 2026-03-08
 ---
 
 # Finalize Birth Plan

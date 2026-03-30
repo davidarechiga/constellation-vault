@@ -3,13 +3,14 @@ tags:
   - task
   - baby
 title: Pack Hospital Bag
-status: open
+status: done
 priority: high
 due: 2026-02-11
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
-dateModified: 2026-02-08T16:52:35.213-08:00
+dateModified: 2026-03-08T11:50:23.452-07:00
+completedDate: 2026-03-08
 ---
 
 # Pack Hospital Bag

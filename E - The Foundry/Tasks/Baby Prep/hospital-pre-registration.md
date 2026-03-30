@@ -3,13 +3,15 @@ tags:
   - task
   - baby
   - critical
-title: "Hospital Pre-Registration"
-status: open
+title: Hospital Pre-Registration
+status: done
 priority: high
-due: "2026-02-15"
+due: 2026-02-15
 owner: Camille
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:50:49.814-07:00
+completedDate: 2026-03-08
 ---
 
 # Hospital Pre-Registration

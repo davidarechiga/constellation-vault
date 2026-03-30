@@ -2,13 +2,14 @@
 tags:
   - task
   - baby
-title: "Infant Care Basics Practice"
+title: Infant Care Basics Practice
 status: open
 priority: normal
-due: "2026-03-01"
+due: 2026-03-01
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:56:45.112-07:00
 ---
 
 # Infant Care Basics Practice
@@ -20,10 +21,10 @@ projects:
 - [ ] Practice one-handed diaper changes (common in real scenarios)
 
 ## Swaddling
-- [ ] Watch swaddling tutorial videos
-- [ ] Practice swaddling technique with receiving blankets
-- [ ] Learn swaddle blanket method
-- [ ] Practice hip-healthy swaddling (legs can bend and spread)
+- [x] Watch swaddling tutorial videos
+- [x] Practice swaddling technique with receiving blankets
+- [x] Learn swaddle blanket method
+- [x] Practice hip-healthy swaddling (legs can bend and spread)
 
 ## Bathing
 - [ ] Learn sponge bath technique for first weeks

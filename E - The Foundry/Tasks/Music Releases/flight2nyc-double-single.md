@@ -2,13 +2,13 @@
 tags:
   - task
   - music
-title: "Flight2NYC Double Single Release"
+title: Flight2NYC Double Single Release
 status: open
 priority: normal
-due: "2026-06-30"
+due: 2026-06-30
 owner: David
 projects:
-  - "[[2 Music Releases]]"
+  - "[[Music Releases]]"
 ---
 
 # Flight2NYC Double Single Release
@@ -25,4 +25,4 @@ projects:
 
 **Done when**: Both singles live on all streaming platforms with artwork and social media posts.
 
-**Related**: [[2 Music Releases]] • [[album release checklist]]
+**Related**: [[Music Releases]] • [[album release checklist]]

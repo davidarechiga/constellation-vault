@@ -2,8 +2,13 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "rightToLeft": false,
-  "attachmentFolderPath": "A - The Observatory/Attachments",
-  "defaultViewMode": "source",
+  "attachmentFolderPath": "Constellation/A - The Observatory/Attachments",
+  "defaultViewMode": "preview",
   "autoConvertHtml": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": "daily",
+  "newFileLocation": "folder",
+  "livePreview": true,
+  "newFileFolderPath": "Constellation/C - Signal Relay/Inbox",
+  "focusNewTab": true
 }

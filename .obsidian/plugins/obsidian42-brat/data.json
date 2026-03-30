@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "derek-larson14/obsidian-claude-anywhere",
+    "petersolopov/obsidian-claude-ide"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "derek-larson14/obsidian-claude-anywhere",
+      "version": ""
+    },
+    {
+      "repo": "petersolopov/obsidian-claude-ide",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

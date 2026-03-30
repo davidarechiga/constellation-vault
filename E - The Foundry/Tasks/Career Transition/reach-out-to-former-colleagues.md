@@ -3,13 +3,13 @@ tags:
   - task
   - career
   - networking
-title: "Reach Out to Former Colleagues"
+title: Reach Out to Former Colleagues
 status: open
 priority: normal
-due: "2026-02-28"
+due: 2026-02-28
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Reach Out to Former Colleagues
@@ -45,7 +45,7 @@ projects:
 
 **Done when**: 10-15 former colleagues contacted, conversations scheduled with those who respond, and thank you follow-ups sent.
 
-**Related**: [[6 Career Transition 2026]] • [[Research Target Companies]] • [[Complete LinkedIn Profile]]
+**Related**: [[Career Transition 2026]] • [[Research Target Companies]] • [[Complete LinkedIn Profile]]
 
 ---
 

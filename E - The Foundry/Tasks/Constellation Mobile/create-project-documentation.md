@@ -22,4 +22,4 @@ projects:
 
 **Done when**: Written setup guide complete, case study ready for portfolio/interviews.
 
-**Related**: [[Constellation Mobile]] • [[Career Transition 2026]] • [[Pixel Glitch Studio Operations]]
+**Related**: [[Constellation Mobile]] • [[Career Transition 2026]] • [[pixelglitch creative studio]]

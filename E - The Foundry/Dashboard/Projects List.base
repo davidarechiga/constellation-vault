@@ -220,8 +220,7 @@ views:
       - property: formula.daysUntilCompletion
         direction: ASC
     columnSize:
-      title: 220
-      formula.categoryIcon: 125
+      note.progress: 86
   - type: table
     name: ✅ Archive
     filters:

@@ -2,13 +2,15 @@
 tags:
   - task
   - baby
-title: "Complete Nursery Setup"
-status: open
+title: Complete Nursery Setup
+status: done
 priority: normal
-due: "2026-02-22"
+due: 2026-02-22
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T23:17:26.912-07:00
+completedDate: 2026-03-08
 ---
 
 # Complete Nursery Setup

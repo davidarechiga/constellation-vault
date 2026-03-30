@@ -1,17 +1,18 @@
 {
-  "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "",
-    "folder": "0 📥 Home & Inbox/Daily Notes",
+    "format": "YYYY-MM-DD",
+    "folder": "Constellation/C - Signal Relay/Daily",
+    "template": "Constellation/A - The Observatory/Documentation/Templates/Daily Note Template",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "Constellation/A - The Observatory/Documentation/Templates/Weekly Review Template.md",
+    "folder": "Constellation/C - Signal Relay/Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",

@@ -2,13 +2,13 @@
 tags:
   - task
   - studio
-title: "Build Community Presence"
+title: Build Community Presence
 status: open
 priority: low
-due: "2026-12-31"
+due: 2026-12-31
 owner: David
 projects:
-  - "[[Pixel Glitch Studio Operations]]"
+  - "[[pixelglitch creative studio]]"
 ---
 
 # Build Community Presence
@@ -22,4 +22,4 @@ projects:
 
 **Done when**: Active in at least 2 communities, 3+ meaningful connections with musicians or VJs, 1 open-source contribution.
 
-**Related**: [[Pixel Glitch Studio Operations]] • [[2 Music Releases]] • [[Frameloop]] • [[Perform A Live Set]]
+**Related**: [[pixelglitch creative studio]] • [[Music Releases]] • [[Frameloop]] • [[Perform A Live Set]]

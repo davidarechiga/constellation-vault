@@ -2,13 +2,15 @@
 tags:
   - task
   - baby
-title: "Book a Massage with Ronit"
-status: open
+title: Book a Massage with Ronit
+status: done
 priority: normal
-due: "2026-02-15"
+due: 2026-02-15
 owner: Camille
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:51:23.017-07:00
+completedDate: 2026-03-08
 ---
 
 # Book a Massage with Ronit

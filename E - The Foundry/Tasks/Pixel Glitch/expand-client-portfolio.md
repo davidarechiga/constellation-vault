@@ -2,13 +2,13 @@
 tags:
   - task
   - studio
-title: "Expand Client Portfolio"
+title: Expand Client Portfolio
 status: open
 priority: normal
-due: "2026-06-30"
+due: 2026-06-30
 owner: David
 projects:
-  - "[[Pixel Glitch Studio Operations]]"
+  - "[[pixelglitch creative studio]]"
 ---
 
 # Expand Client Portfolio
@@ -23,4 +23,4 @@ projects:
 
 **Done when**: 2-3 new client projects secured, service packages documented, at least 1 case study published.
 
-**Related**: [[Pixel Glitch Studio Operations]] • [[Pixel Glitch Brand Aesthetic Guidelines]]
+**Related**: [[pixelglitch creative studio]] • [[Pixel Glitch Brand Aesthetic Guidelines]]

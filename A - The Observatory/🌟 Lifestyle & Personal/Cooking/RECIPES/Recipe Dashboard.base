@@ -1,0 +1,67 @@
+filters:
+  and:
+    - file.hasTag("recipe")
+formulas:
+  difficultyBadge: if(difficulty=="easy","🟢",if(difficulty=="medium","🟡",if(difficulty=="hard","🔴","—")))
+  triedBadge: if(tried==true,"✅","🔲")
+  totalTime: if(prepTime && cookTime, prepTime + cookTime, if(prepTime, prepTime, if(cookTime, cookTime, null)))
+  timeDisplay: if(formula.totalTime, formula.totalTime + " min", "—")
+  ratingDisplay: if(rating==5,"⭐⭐⭐⭐⭐",if(rating==4,"⭐⭐⭐⭐",if(rating==3,"⭐⭐⭐",if(rating==2,"⭐⭐",if(rating==1,"⭐","—")))))
+  daysSinceLastMade: if(lastMade, ((number(now()) - number(date(lastMade))) / 86400000).floor(), null)
+views:
+  - type: table
+    name: All Recipes
+    order:
+      - title
+      - formula.difficultyBadge
+      - formula.triedBadge
+      - formula.ratingDisplay
+      - formula.timeDisplay
+      - servings
+    sort:
+      - property: rating
+        direction: DESC
+  - type: table
+    name: Quick Meals (≤ 45 min)
+    filters:
+      and:
+        - file.hasTag("recipe")
+        - formula.totalTime <= 45
+    order:
+      - title
+      - formula.difficultyBadge
+      - formula.timeDisplay
+      - formula.triedBadge
+    sort:
+      - property: formula.totalTime
+        direction: ASC
+  - type: table
+    name: Untried
+    filters:
+      and:
+        - file.hasTag("recipe")
+        - tried != true
+    order:
+      - title
+      - formula.difficultyBadge
+      - formula.timeDisplay
+      - tags
+    sort:
+      - property: difficulty
+        direction: ASC
+  - type: table
+    name: Favorites
+    filters:
+      and:
+        - file.hasTag("recipe")
+        - tried == true
+        - rating >= 4
+    order:
+      - title
+      - formula.ratingDisplay
+      - formula.timeDisplay
+      - formula.difficultyBadge
+      - lastMade
+    sort:
+      - property: rating
+        direction: DESC

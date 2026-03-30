@@ -2,13 +2,13 @@
 tags:
   - task
   - career
-title: "Update Resume for Creative Technologist Roles"
+title: Update Resume for Creative Technologist Roles
 status: open
 priority: high
-due: "2026-02-15"
+due: 2026-02-15
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Update Resume for Creative Technologist Roles
@@ -40,7 +40,7 @@ projects:
 
 **Done when**: Resume updated with recent projects, reflects Creative Technologist positioning, feedback incorporated, proofread, and exported in multiple formats.
 
-**Related**: [[6 Career Transition 2026]] • [[Resume - Creative Technologist]] • [[Career Development Hub]]
+**Related**: [[Career Transition 2026]] • [[Resume - Creative Technologist]] • [[Career Development Hub]]
 
 ---
 

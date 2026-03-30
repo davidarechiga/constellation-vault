@@ -1,15 +1,13 @@
 ---
 tags:
   - task
-  - baby
-  - critical
+  - safety
 title: "CPR/First Aid Certification"
 status: open
 priority: high
-due: "2026-02-15"
+due: "2026-04-15"
 owner: Shared
-projects:
-  - "[[1 Baby Prep - Cyrus]]"
+projects: []
 ---
 
 # CPR/First Aid Certification
@@ -22,11 +20,11 @@ projects:
 - [ ] Review infant choking procedures
 - [ ] Practice on infant mannequin
 
-**Why critical**: Essential life-saving skills for newborn care. Must be completed by Week 37 (Feb 15) in case of early arrival. Hospital may require proof of CPR knowledge for discharge.
+**Why critical**: Essential life-saving skills now that Cyrus is here. Both parents should be certified in infant CPR and first aid.
 
 **Done when**: Both David & Camille have completed infant CPR/First Aid certification and received certification cards.
 
-**Related**: [[1 Baby Prep - Cyrus]] • [[Childbirth Intensive Alta Bates]]
+**Related**: [[Cyrus Nasir Arechiga]]
 
 ---
 

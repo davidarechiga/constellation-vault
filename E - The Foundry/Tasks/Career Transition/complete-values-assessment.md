@@ -2,13 +2,13 @@
 tags:
   - task
   - career
-title: "Complete Values/Career Assessment"
+title: Complete Values/Career Assessment
 status: open
 priority: normal
-due: "2026-02-08"
+due: 2026-02-08
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Complete Values/Career Assessment
@@ -26,7 +26,7 @@ projects:
 
 **Done when**: Career values document completed with priorities ranked, non-negotiables identified, and ideal role characteristics defined.
 
-**Related**: [[6 Career Transition 2026]] • [[Career Development Hub]]
+**Related**: [[Career Transition 2026]] • [[Career Development Hub]]
 
 ---
 
@@ -66,7 +66,7 @@ projects:
 
 ## Context from Career Transition Notes
 
-From [[6 Career Transition 2026]]:
+From [[Career Transition 2026]]:
 - **Target Role**: Creative Technologist / Design Engineer
 - **Key Skills**: React, React Native, TypeScript, Canvas API, Zustand, Figma, design systems
 - **Timeline**: Feb prep → March light applications → April-May active phase

@@ -1,0 +1,29 @@
+# Claude Code ignore patterns for Constellation vault
+# Reduces token usage by excluding non-note content from Glob/Grep operations
+
+# Obsidian system files and plugin JS bundles
+.obsidian/
+
+# Media and binary attachments
+A - The Observatory/Attachments/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp3
+*.mp4
+*.mov
+*.m4a
+*.zip
+
+# Canvas files are large JSON blobs — read directly by path when needed
+*.canvas
+
+# Archives — not relevant to active work
+A - The Observatory/Archive/
+E - The Foundry/Archive/
+
+# Trash
+.trash/

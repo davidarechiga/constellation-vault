@@ -2,13 +2,13 @@
 tags:
   - task
   - career
-title: "Complete LinkedIn Profile"
+title: Complete LinkedIn Profile
 status: open
 priority: high
-due: "2026-02-15"
+due: 2026-02-15
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Complete LinkedIn Profile
@@ -50,7 +50,7 @@ projects:
 
 **Done when**: LinkedIn profile fully updated, professional headshot added, skills current, "Open to Work" badge active, and engagement strategy initiated.
 
-**Related**: [[6 Career Transition 2026]] • [[Update Resume]] • [[Get Professional Headshots]]
+**Related**: [[Career Transition 2026]] • [[Update Resume]] • [[Get Professional Headshots]]
 
 ---
 

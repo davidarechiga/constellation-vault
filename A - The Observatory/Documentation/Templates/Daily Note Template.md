@@ -1,21 +1,18 @@
-## 🌙 Tonight's Prep (Complete Night Before)
+---
+tags:
+  - daily
+---
 
-> Do these tonight to set yourself up for success tomorrow morning
+## 📝 Notes
 
-### ⏰ Time-Sensitive
 
-### 👕 Clothing & Gear
+---
 
-### 🍳 Food Prep
+## 🎯 Top 3 Priorities
 
-### 📋 Mental Prep
-  1. ________________________________
-  2. ________________________________
-  3. ________________________________
-
-### 🏠 Environment Setup
-
-### ✅ Final Check
+1.
+2.
+3.
 
 ---
 
@@ -29,6 +26,25 @@
 
 ### Evening
 - **[TIME]** | [Activity]
+
+---
+
+### Tasks
+
+
+---
+
+### 📊 Energy Check-ins
+
+**Morning Energy:** ___/10
+**Midday Energy:** ___/10
+**Evening Energy:** ___/10
+
+---
+
+## 📖 Journal
+
+*What happened today? Who did I talk to? Any decisions made? How did I feel?*
 
 ---
 
@@ -46,24 +62,15 @@ camille_checkin::
 
 > [!tip] Mark completed habits with `1` or `true`. Leave blank or `0` if not done.
 
----
+### 🃏 Fair Play (Daily Cards)
 
-### Tasks
+fair_play_dishes::
+fair_play_tidying::
+fair_play_mail::
+fair_play_river_walk::
+fair_play_camille_romance::
 
-
----
-
-### 📊 Energy Check-ins
-
-**Morning Energy:** ___/10
-**Midday Energy:** ___/10
-**Evening Energy:** ___/10
-
----
-
-### Notes
-
-
+> [!tip] See [[Fair Play Accountability]] for weekly card schedule and MSC standards.
 
 ---
 
@@ -80,4 +87,21 @@ camille_checkin::
 
 ---
 
-#daily
+## 🌙 Prep For Tomorrow
+
+> Set yourself up for success — complete these tonight
+
+### ⏰ Time-Sensitive
+
+### 👕 Clothing & Gear
+
+### 🍳 Food Prep
+
+### 📋 Mental Prep
+  1. ________________________________
+  2. ________________________________
+  3. ________________________________
+
+### 🏠 Environment Setup
+
+### ✅ Final Check

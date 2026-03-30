@@ -1,5 +1,5 @@
 ---
-status: open
+status: done
 priority: high
 tags:
   - task
@@ -8,16 +8,18 @@ tags:
 projects:
   - "[[1 Baby Prep - Cyrus]]"
 due: 2026-02-11
+completedDate: 2026-02-21
 taskSourceType: taskNotes
 owner: David
+dateModified: 2026-02-10T16:23:05.855-08:00
 ---
 
 # Car Seat Installation
 
-- [ ] Review car seat manual (Cybex Cloud Q)
-- [ ] Watch installation video for 2022 Kia Seltos
-- [ ] Install base using LATCH system or seatbelt method
-- [ ] Perform "inch test" (should not move >1 inch side-to-side)
+- [x] Review car seat manual (Cybex Cloud Q)
+- [x] Watch installation video for 2022 Kia Seltos
+- [x] Install base using LATCH system or seatbelt method
+- [x] Perform "inch test" (should not move >1 inch side-to-side)
 - [ ] Test with infant doll for harness adjustment
 - [ ] Schedule professional inspection (optional but recommended)
 

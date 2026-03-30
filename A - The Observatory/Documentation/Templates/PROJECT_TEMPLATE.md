@@ -1,166 +1,153 @@
+<%*
+const folderPath = tp.file.folder(true);
+const projectName = tp.file.title;
+const baseContent = `filters:
+  and:
+    - file.hasTag("task")
+    - file.path.contains("${folderPath}")
+formulas:
+  priorityWeight: if(priority=="none",0,if(priority=="low",1,if(priority=="normal",2,if(priority=="high",3,999))))
+  daysUntilDue: if(due, ((number(date(due)) - number(today())) / 86400000).floor(), null)
+  daysSinceModified: ((number(now()) - number(file.mtime)) / 86400000).floor()
+  isOverdue: due && date(due) < today() && status != "done"
+  isDueToday: due && date(due).date() == today()
+  isDueThisWeek: due && date(due) >= today() && date(due) <= today() + "7d"
+  dueDateCategory: if(!due, "No due date", if(date(due) < today(), "Overdue", if(date(due).date() == today(), "Today", if(date(due).date() == today() + "1d", "Tomorrow", if(date(due) <= today() + "7d", "This week", "Later")))))
+  urgencyScore: if(!due, formula.priorityWeight, formula.priorityWeight + max(0, 10 - formula.daysUntilDue))
+  dueDateDisplay: if(!due, "", if(date(due).date() == today(), "Today", if(date(due).date() == today() + "1d", "Tomorrow", if(date(due).date() == today() - "1d", "Yesterday", if(date(due) < today(), formula.daysUntilDue * -1 + "d overdue", if(date(due) <= today() + "7d", date(due).format("ddd"), date(due).format("MMM D")))))))
+  priorityEmoji: if(priority=="high","⏫",if(priority=="normal","🔼",if(priority=="low","🔽","⚪")))
+  statusDisplay: if(status=="done","✅ Done",if(status=="in-progress","🔄 In Progress",if(status=="open","📋 Open","⚪ None")))
+views:
+  - type: tasknotesKanban
+    name: 📋 All Tasks
+    filters:
+      and:
+        - status != "done"
+    groupBy:
+      property: priority
+      direction: ASC
+    order:
+      - status
+      - priority
+      - due
+      - owner
+      - projects
+      - file.tags
+      - file.name
+    sort:
+      - property: formula.urgencyScore
+        direction: DESC
+    hideEmptyColumns: true
+  - type: tasknotesTaskList
+    name: 🚨 Urgent & Overdue
+    filters:
+      and:
+        - status != "done"
+        - or:
+            - formula.isOverdue
+            - formula.isDueToday
+            - formula.isDueThisWeek
+    order:
+      - status
+      - priority
+      - due
+      - owner
+      - file.name
+    sort:
+      - property: formula.urgencyScore
+        direction: DESC
+  - type: table
+    name: ✅ Completed
+    filters:
+      and:
+        - status == "done"
+    order:
+      - title
+      - priority
+      - due
+      - owner
+    sort:
+      - property: file.mtime
+        direction: DESC
+`;
+await app.vault.create(folderPath + "/tasks.base", baseContent);
+_%>
 ---
-tags: [project]
-title: "[Project Name]"
-status: active | planning | on-hold | completed
-category: creative | work | studio | family | personal | education
-priority: high | medium | low
-owner: David | Camille | Shared
-start-date: YYYY-MM-DD
-last-updated: YYYY-MM-DD
-progress: 0-100
-deadline: YYYY-MM-DD
-current-focus: "What you're actively working on"
-next-action: "What needs to happen next"
-time-estimate: "X weeks" or "X months"
-deliverables: ["Deliverable 1", "Deliverable 2"]
-collaborators: [David, Camille]
-related-files: ["[[Related Doc 1]]", "[[Related Doc 2]]"]
+tags:
+  - project
+title: <% tp.file.title %>
+status: someday
+priority: normal
+owner: David
+deadline:
+progress: 0
+current-focus:
+next-action:
+time-estimate:
+deliverables:
+related-files:
 ---
 
-# [Project Name]
+# <% tp.file.title %>
 
-> **Quick Access:** [[Related Doc 1]] | [[project-name-tasks.base|Tasks]] | [[Related Doc 2]]
-> **Target Date:** YYYY-MM-DD
+> **Quick Access:** [[Constellation/E - The Foundry/Someday/YoCatchPhrase/tasks.base|Tasks]]
+> **Target Date:**
 
 ---
 
-## 📊 Project Status
+## Overview
 
-**Status:** Active | Planning | On Hold | Complete
-**Priority:** High | Medium | Low
-**Completion:** ~XX%
-**Owner:** David | Camille | Shared
+[2-3 sentences on what this project is and why it matters]
 
-[2-3 sentence description of project scope and why it matters]
-
-**What's Done:**
-- ✅ [Completed item]
-- ✅ [Completed item]
-- ✅ [Completed item]
-
-**Current Focus:**
-- 🚨 [High priority item] (Due: Date)
-- 🔼 [Normal priority item] (Due: Date)
-- 🔽 [Low priority item] (Due: Date)
+**Done when:**
+- [ ] [Specific measurable outcome 1]
+- [ ] [Specific measurable outcome 2]
 
 ---
 
-## 📅 Timeline at a Glance
+## 📋 Tasks
 
-| Phase/Week | Date | Key Milestones |
-|-----------|------|-----------------|
-| Phase 1 | [Date range] | [Milestone 1], [Milestone 2] |
-| Phase 2 | [Date range] | [Milestone 3], [Milestone 4] |
-| Phase 3 | [Date range] | ✅ Project Complete |
-
-**Critical Path:** [When key dependencies must be complete]
+![[Constellation/E - The Foundry/Someday/YoCatchPhrase/tasks.base]]
 
 ---
 
-## 📋 Tasks & Active Work
+## 📅 Timeline
 
-![[project-name-tasks.base]]
-
-### Timeline Reference
-
-| Deadline | Owner | Tasks |
-|----------|-------|-------|
-| [Date] | David/Camille | [[task-1\|Task 1]] • [[task-2\|Task 2]] |
-| [Date] | David/Camille | [[task-3\|Task 3]] • [[task-4\|Task 4]] |
-
----
-
-## ✅ Key Deliverables
-
-- [ ] [Major deliverable 1]
-- [ ] [Major deliverable 2]
-- [ ] [Major deliverable 3]
-- [ ] [Major deliverable 4]
+| Phase | Date | Milestones |
+|-------|------|------------|
+| Phase 1 | | |
+| Phase 2 | | |
 
 ---
 
 ## 🔗 Related Notes & Resources
 
-**Project Documentation:**
-- [[Related Note 1]] - [Description]
-- [[Related Note 2]] - [Description]
-
-**External Resources:**
-- [Resource 1](URL)
-- [Resource 2](URL)
-
-**Dependencies:**
-- Blocked by: [[Other Project]]
-- Blocks: [[Other Project]]
+- [[Related Note]] - [Description]
 
 ---
 
-## 📞 Key Contacts & Information
+## 📝 Notes & Decisions
 
-| Who/What | Details | Notes |
-|----------|---------|-------|
-| [Contact Name] | Phone/Email | Availability |
-| [Contact Name] | Phone/Email | Availability |
+### <% tp.date.now("YYYY-MM-DD") %> — Project Created
 
----
-
-## 📚 Learning & Resources *(if applicable)*
-
-### Classes / Training
-- ✅ [Completed course]
-- ⏳ [In progress course] - [Progress]
-
-### Certifications
-- [Cert 1] (Due: Date)
-- [Cert 2] (Due: Date)
+-
 
 ---
 
-## 💰 Budget & Resources *(if applicable)*
+## 💰 Budget *(if applicable)*
 
-**Budget Allocation:**
-- [Category]: $[Amount]
-- [Category]: $[Amount]
-
-**Current Spend:** $[Amount] of $[Total]
+**Budget:** $
 
 ---
 
-## 📝 Decisions & Planning Sessions
-
-### [Date] — [Session Title]
-
-**Decisions Made:**
-- [Decision 1] - [Rationale]
-- [Decision 2] - [Rationale]
-
-**Key Takeaways:**
-- [Learning 1]
-- [Learning 2]
-
 ---
 
-## ⚠️ Project-Specific Checklists *(customize as needed)*
+> [!warning] Promoting to Active?
+> When moving this project to `E - The Foundry/Active/`, update the `file.path.contains` filter in `tasks.base` to match the new folder path.
 
-### [Major Phase] Checklist
+> [!note] Archiving this project?
+> 1. Set `status: done` or `status: canceled` in frontmatter
+> 2. Move folder to `E - The Foundry/Archive/`
+> 3. No other changes needed — it will automatically drop out of all active dashboards
 
-- [ ] [Specific action item 1]
-  - [ ] Sub-step
-  - [ ] Sub-step
-- [ ] [Specific action item 2]
-  - [ ] Sub-step
-  - [ ] Sub-step
-
----
-
-## 🎯 Completion Criteria
-
-This project is complete when:
-- [ ] [Specific measurable outcome 1]
-- [ ] [Specific measurable outcome 2]
-- [ ] [Specific measurable outcome 3]
-
----
-
-*Last Updated: YYYY-MM-DD*
-*Project Hub Template v1.0*
+*Last Updated: <% tp.date.now("YYYY-MM-DD") %>*

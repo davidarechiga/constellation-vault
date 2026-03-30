@@ -1,4 +1,18 @@
+---
+tags:
+  - weekly-review
+week: "{{date:YYYY-[W]WW}}"
+---
+
 # Week of {{date:YYYY-MM-DD}}
+
+## ⚠️ Overdue & Carry-Forward Tasks
+
+> Populated by /weekly — tasks still open from last week
+
+-
+
+---
 
 ## 🎯 Week in Review
 
@@ -17,38 +31,32 @@
 
 ---
 
-## 📊 Habit Review
+## 📊 Habit Consistency
 
-**This Week's Consistency:**
-
-```dataview
-TABLE WITHOUT ID
-  file.name as "Day",
-  gratitude as "🙏",
-  meditation as "🧘",
-  exercise as "🏃",
-  stretch as "🤸",
-  drawing as "🎨",
-  camille_checkin as "💕"
-FROM "C - Signal Relay/Daily"
-WHERE file.ctime >= date(today) - dur(7 days)
-SORT file.name DESC
-```
+| Habit | M | T | W | Th | F | Sa | Su |
+|---|---|---|---|---|---|---|---|
+| 🙏 Gratitude | | | | | | | |
+| 🧘 Meditation | | | | | | | |
+| 🕯️ Candle | | | | | | | |
+| 🏃 Exercise | | | | | | | |
+| 🤸 Stretch | | | | | | | |
+| 🎨 Drawing | | | | | | | |
+| 💕 Camille Check-in | | | | | | | |
 
 **Habit Insights:**
-- What worked well this week?
-- What got in the way?
-- Adjustments for next week:
+- What worked:
+- What got in the way:
+- Adjustment for next week:
 
 ---
 
 ## 🎨 Project Progress
 
-### Baby Prep - Cyrus
+### Music Releases
 - Progress this week:
 - Next steps:
 
-### Music Release
+### Career Transition
 - Progress this week:
 - Next steps:
 
@@ -56,30 +64,16 @@ SORT file.name DESC
 - Progress this week:
 - Next steps:
 
-### Visual Synthesis
+### Constellation Mobile
 - Progress this week:
 - Next steps:
 
 ---
 
-## 💡 Creative & Learning
-
-### Creative Output
-- Songs/poetry written:
-- Design work completed:
-- Code projects:
-
-### Learning
-- What did I learn this week?
-- Resources discovered:
-- Skills practiced:
-
----
-
-## 👥 Relationships & Connection
+## 👥 Relationships
 
 ### Camille
-- Quality time together:
+- Quality time:
 - Check-ins completed:
 - Highlights:
 
@@ -89,37 +83,27 @@ SORT file.name DESC
 
 ---
 
-## 💼 Career Development
-
-### Creative Technologist Path
-- Portfolio updates:
-- Skills developed:
-- Applications/outreach:
-
----
-
 ## ⚡ Energy & Wellness
 
-### Physical Health
-- Exercise consistency:
-- Sleep quality:
-- Nutrition notes:
+**Avg Morning Energy:** ___/10
+**Avg Evening Energy:** ___/10
 
-### Mental/Emotional
-- Stress level: ___/10
-- Overall mood:
-- Self-care practices:
+- Sleep quality:
+- Exercise consistency:
+- Mental/emotional notes:
 
 ---
 
-## 🔮 Week Ahead Planning
+## 🔮 Week Ahead
 
 ### Top 3 Priorities for Next Week
+> Populated by /weekly
+
 1.
 2.
 3.
 
-### Scheduled Events/Appointments
+### Scheduled Events
 - **Monday:**
 - **Tuesday:**
 - **Wednesday:**
@@ -129,6 +113,19 @@ SORT file.name DESC
 
 ### Intention for Next Week
 
+
+---
+
+## 🧵 Threads
+
+*What themes showed up across areas this week? Look for patterns connecting projects, relationships, and personal growth.*
+
+- Theme:
+- Where it appeared:
+- What it might mean:
+
+### New note connections
+- [[]] ↔ [[]]
 
 ---
 

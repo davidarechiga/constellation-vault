@@ -2,13 +2,15 @@
 tags:
   - task
   - baby
-title: "Watch Birthing Videos"
-status: open
+title: Watch Birthing Videos
+status: done
 priority: normal
-due: "2026-02-13"
+due: 2026-02-13
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
+dateModified: 2026-03-08T11:51:35.511-07:00
+completedDate: 2026-03-08
 ---
 
 # Watch Birthing Videos

@@ -1,14 +1,16 @@
 ---
 tags:
-  - task
   - music
-title: "Only Talks 2 Ghosts Album Release"
+  - musicrelease
+  - task
+title: Only Talks 2 Ghosts Album Release
 status: open
 priority: high
-due: "2026-08-15"
+due: 2026-08-15
 owner: David
 projects:
-  - "[[2 Music Releases]]"
+  - "[[Music Releases]]"
+dateModified: 2026-03-21T10:35:51.738-07:00
 ---
 
 # Only Talks 2 Ghosts Album Release
@@ -18,12 +20,12 @@ projects:
 > The big one. First full album in 9 years. First draft finished August 2024.
 
 ## Pre-Production
-- [ ] Song selection finalized (cut to album length)
-- [ ] Arrangements finalized
-- [ ] Recording sessions scheduled
+- [x] Song selection finalized (cut to album length)
+- [x] Arrangements finalized
+- [x] Recording sessions scheduled
 
 ## Production
-- [ ] Recording complete
+- [x] Recording complete
 - [ ] Mixing complete
 - [ ] Mastering complete
 
@@ -46,4 +48,4 @@ Songs explore intergenerational patterns, trauma, and healing:
 
 **Done when**: Full album live on all major streaming platforms with artwork, marketing campaign launched, and social media presence.
 
-**Related**: [[2 Music Releases]] • [[Themes of Only Talks 2 Ghosts]] • [[Album Roadmap]] • [[Dan Gore's Feedback]] • [[Tarot Card Illustrations]]
+**Related**: [[Music Releases]] • [[Themes of Only Talks 2 Ghosts]] • [[Album Roadmap]] • [[Dan Gore's Feedback]] • [[Tarot Card Illustrations]]

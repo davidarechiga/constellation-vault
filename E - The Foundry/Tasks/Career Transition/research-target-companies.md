@@ -3,13 +3,13 @@ tags:
   - task
   - career
   - research
-title: "Research 5 Target Companies"
+title: Research 5 Target Companies
 status: open
 priority: normal
-due: "2026-02-28"
+due: 2026-02-28
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Research 5 Target Companies
@@ -76,7 +76,7 @@ Choose companies that align with your values:
 
 **Done when**: 5 target companies identified, researched, and documented with pros/cons for each. Hiring managers or team leads identified on LinkedIn.
 
-**Related**: [[6 Career Transition 2026]] • [[Complete Values Assessment]] • [[Reach Out to Former Colleagues]]
+**Related**: [[Career Transition 2026]] • [[Complete Values Assessment]] • [[Reach Out to Former Colleagues]]
 
 ---
 

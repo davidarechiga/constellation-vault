@@ -1,4 +1,4 @@
-# Projects Base - Complete Setup ✅
+a# Projects Base - Complete Setup ✅
 
 **Updated:** February 8, 2026
 **Status:** All 10 projects now discoverable in projects.base
@@ -239,10 +239,10 @@ The base automatically highlights:
 
 ## 📚 Related Resources
 
-- **Main Guide:** [[Projects.md]]
-- **Setup Details:** [[Projects Setup Summary.md]]
-- **Consolidated List:** [[Consolidated List of Projects.md]]
-- **Template:** [[Templates/PROJECT_TEMPLATE.md]]
+- **Main Guide:** [[Constellation/E - The Foundry/Dashboard/Projects]]
+- **Setup Details:** [[Projects Setup Summary]]
+- **Consolidated List:** [[Consolidated List of Projects]]
+- **Template:** [[PROJECT_TEMPLATE]]
 
 ---
 

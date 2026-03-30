@@ -96,6 +96,6 @@ This creates bidirectional links and makes task counts visible in the projects b
 
 ## 📚 Related Resources
 
-- [[PROJECT_TEMPLATE.md|Project Template]]
-- [[0 📡 Signal Relay|Dashboard]]
+- [[PROJECT_TEMPLATE|Project Template]]
+- [[C - Signal Relay|Dashboard]]
 - [[0 📡 Signal Relay/Tasks|TaskNotes System]]

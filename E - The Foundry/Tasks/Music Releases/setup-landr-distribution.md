@@ -2,13 +2,13 @@
 tags:
   - task
   - music
-title: "Set Up LANDR Distribution"
+title: Set Up LANDR Distribution
 status: open
 priority: high
-due: "2026-03-01"
+due: 2026-03-01
 owner: David
 projects:
-  - "[[2 Music Releases]]"
+  - "[[Music Releases]]"
 ---
 
 # Set Up LANDR Distribution
@@ -22,4 +22,4 @@ projects:
 
 **Done when**: LANDR account active, test upload verified, ready to submit Emotional Showcase.
 
-**Related**: [[2 Music Releases]] • [[Music Distribution Research]]
+**Related**: [[Music Releases]] • [[Music Distribution Research]]

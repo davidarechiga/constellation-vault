@@ -2,13 +2,13 @@
 tags:
   - task
   - career
-title: "Get Professional Headshots"
+title: Get Professional Headshots
 status: open
 priority: normal
-due: "2026-02-20"
+due: 2026-02-20
 owner: David
 projects:
-  - "[[6 Career Transition 2026]]"
+  - "[[Career Transition 2026]]"
 ---
 
 # Get Professional Headshots
@@ -47,7 +47,7 @@ projects:
 
 **Done when**: Professional headshots taken, final images selected and received, and photos updated across LinkedIn, resume, and email signature.
 
-**Related**: [[6 Career Transition 2026]] • [[Update Resume]] • [[Complete LinkedIn Profile]]
+**Related**: [[Career Transition 2026]] • [[Update Resume]] • [[Complete LinkedIn Profile]]
 
 ---
 

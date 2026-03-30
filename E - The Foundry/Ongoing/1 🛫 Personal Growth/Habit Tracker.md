@@ -96,6 +96,6 @@ summary:
 
 ## Related
 
-- [[Templates/Daily Note Template]] - Template for daily notes
+- [[Daily Note Template]] - Template for daily notes
 - [[Daily Practices & Reminders]] - Daily rituals
 - [[Wellness Hub]] - Health hub

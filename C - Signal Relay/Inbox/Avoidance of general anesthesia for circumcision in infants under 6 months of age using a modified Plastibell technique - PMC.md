@@ -1,0 +1,2 @@
+Avoidance of general anesthesia for circumcision in infants under 6 months of age using a modified Plastibell technique - PMC
+[Avoidance of general anesthesia for circumcision in infants under 6 months of age using a modified Plastibell technique - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6456470/)

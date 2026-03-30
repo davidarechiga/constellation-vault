@@ -1,0 +1,59 @@
+filters:
+  and:
+    - file.hasTag("task")
+    - file.hasTag("ancestry")
+    - file.path.contains("E - The Foundry/Tasks/Ancestry Research")
+formulas:
+  priorityWeight: if(priority=="none",0,if(priority=="low",1,if(priority=="normal",2,if(priority=="high",3,999))))
+  daysUntilDue: if(due, ((number(date(due)) - number(today())) / 86400000).floor(), null)
+  isOverdue: due && date(due) < today() && status != "done"
+  isDueToday: due && date(due).date() == today()
+  isDueThisWeek: due && date(due) >= today() && date(due) <= today() + "7d"
+  dueDateDisplay: if(!due, "", if(date(due).date() == today(), "Today", if(date(due).date() == today() + "1d", "Tomorrow", if(date(due) < today(), formula.daysUntilDue * -1 + "d overdue", if(date(due) <= today() + "7d", date(due).format("ddd"), date(due).format("MMM D"))))))
+  urgencyScore: if(!due, formula.priorityWeight, formula.priorityWeight + max(0, 10 - formula.daysUntilDue))
+  priorityEmoji: if(priority=="high","⏫",if(priority=="normal","🔼",if(priority=="low","🔽","⚪")))
+  statusDisplay: if(status=="done","✅ Done",if(status=="in-progress","🔄 In Progress",if(status=="open","📋 Open","⚪ None")))
+views:
+  - type: tasknotesTaskList
+    name: 📋 All Tasks
+    filters:
+      and:
+        - status != "done"
+    order:
+      - status
+      - priority
+      - due
+      - file.name
+    sort:
+      - property: formula.urgencyScore
+        direction: DESC
+    enableSearch: true
+  - type: tasknotesKanban
+    name: 🗂️ By Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - priority
+      - due
+      - file.name
+    sort:
+      - property: formula.urgencyScore
+        direction: DESC
+    options:
+      columnWidth: 280
+      hideEmptyColumns: false
+    columnOrder: '{"note.status":["open","in-progress","done","none"]}'
+  - type: table
+    name: ✅ Completed
+    filters:
+      and:
+        - status == "done"
+    order:
+      - title
+      - priority
+      - due
+    sort:
+      - property: file.mtime
+        direction: DESC
