@@ -35,15 +35,28 @@ David needs help staying on top of tasks. When new tasks or projects come up:
 4. Organize by deadline and suggest priority levels
 5. Offer to create project hubs for multi-task initiatives
 
-## Sandbox-First Protocol
+## Safety Net
 
-**CRITICAL:** When modifying dashboard files, Canvas files, `.base` files, or core system files, ALWAYS use sandbox/TEST versions first.
+The vault is a git repository. All files — including `.base`, Canvas, and system docs — can be freely edited. If something breaks, run `git checkout -- <file>` to restore it. No sandbox copies needed.
 
-1. Create `-TEST` or `- TEST` suffixed copies before making changes
-2. Explicitly tell David: "I've updated the TEST version. Please verify it works before I migrate to production."
-3. Wait for confirmation before touching production files
+## Agent Navigation
 
-**Files requiring sandbox-first:** `Weekly Dashboard.canvas`, `Projects List.base`, all `.base` files in `E - The Foundry/Dashboard/`, templates in `A - The Observatory/Documentation/Templates/`.
+When navigating the vault, follow these pointers:
+
+| Goal | Where to look |
+|------|--------------|
+| Find tasks | `E - The Foundry/Tasks/_index.md` → project subfolder |
+| Today's daily note | `C - Signal Relay/Daily/YYYY-MM-DD.md` — construct from current date, don't rely on index links |
+| Log a decision / note | Today's daily note `## 📝 Notes`, or the relevant project hub |
+| Find knowledge / reference | `A - The Observatory/_index.md` → topic subfolder |
+| Find active projects | `E - The Foundry/Active/_index.md` |
+| Find life areas | `E - The Foundry/Ongoing/_index.md` |
+| Check project dashboards | `E - The Foundry/Dashboard/Projects List.base` |
+| Agent context for skills | `A - The Observatory/Documentation/Agent Context/` |
+
+**What agents can freely edit:** daily notes, task files, project hubs, `_index.md` files, `.base` files, Canvas files — the vault is git-tracked, so everything is recoverable.
+
+**Read-only:** Templates in `A - The Observatory/Documentation/Templates/` — copy them, don't edit the originals.
 
 ## Index Files
 

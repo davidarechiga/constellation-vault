@@ -10,8 +10,8 @@ created: 2026-03-25
 
 ## Today & This Week
 
-- **Today's daily note:** [[2026-03-25]]
-- **This week's weekly note:** [[2026-W13]]
+- **Today's daily note:** [[2026-03-30]]
+- **This week's weekly note:** [[2026-W14]]
 - **Inbox (sort loose notes here):** `C - Signal Relay/Inbox/` → use `/organize-inbox`
 
 ## Folder Structure
@@ -42,4 +42,4 @@ created: 2026-03-25
 ## Next Week Focus
 ```
 
-*Update "Today" and "This week" links each day/week.*
+*These links go stale — agents should always construct the current path directly: `C - Signal Relay/Daily/YYYY-MM-DD.md`*

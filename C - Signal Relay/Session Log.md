@@ -1,5 +1,30 @@
 Chronological log of Claude Code sessions in this vault.
 
+### 2026-03-30 (2) — Convert vault-restructure-todo from TaskNote to note
+**Worked on:**
+- Located `vault-restructure-todo.md` in `E - The Foundry/Tasks/Projects/`
+- Converted frontmatter: removed `status`, `priority`, `due`, `owner`, `projects` fields; changed tags to `note, project`
+- Moved file to `A - The Observatory/Documentation/`
+- Added entry to `Documentation.md` contents list
+- Cleaned up reference in `Tasks/_index.md`
+
+**Files touched:** [[vault-restructure-todo]], [[Documentation]]
+**Decisions:** Vault restructure doc is reference/planning material, not a discrete task — lives in Observatory/Documentation
+**Next:** Continue vault restructure cleanup tasks
+
+### 2026-03-30 — Git setup + vault snapshot
+**Worked on:**
+- Diagnosed missing folders on main Mac (Obsidian Sync delay, resolved by relaunch)
+- Saved vault structure snapshot to memory (2026-03-30 state of all three ACE folders)
+- Committed all pending vault changes to git (84 files, Observatory notes + structure)
+- Installed GitHub CLI (`gh`), authenticated, connected to existing `constellation-vault` private repo
+- Force-pushed local history to GitHub, replacing old January automated backups
+- Removed `mcp-server` binary (58MB) from git tracking, added to `.gitignore`, pushed cleanup
+
+**Files touched:** `.gitignore`
+**Decisions:** Keep `constellation-vault` repo private (can go public later); ignore plugin binaries in git
+**Next:** Consider setting up auto-commit hook or periodic git snapshots
+
 ### 2026-03-29 (2) — Wired exercise routine into morning/evening/weekly skills
 **Worked on:**
 - Read [[Exercise Routine]] (6-day gym plan: Mon=Push, Tue=Cardio+Core, Wed=Pull, Thu=Active Recovery, Fri=Legs, Sat=Full Body, Sun=Rest)
@@ -33,7 +58,7 @@ Chronological log of Claude Code sessions in this vault.
 - Created running task file tracking all post-restructure cleanup work
 - Identified 5 categories: Git commits, index files, wikilinks, plugin cleanup, polish
 
-**Files touched:** [[vault-restructure-todo]]
+**Files touched:** [[Vault Restructure Plan]]
 **Decisions:** Stored as a TaskNote in `Tasks/Projects/` so it lives in the task system and shows up in dashboards; updated `Tasks/_index.md` to point to it
 **Next:** Work through git commits — start with `.obsidian/` changes, then the Archive/Attachment deletions
 

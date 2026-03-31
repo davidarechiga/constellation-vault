@@ -1,14 +1,8 @@
 ---
 tags:
-  - task
+  - note
   - project
 title: Vault Restructure — Running Todo
-status: in-progress
-priority: high
-due:
-owner: David
-projects:
-  - "[[Constellation Guide]]"
 ---
 
 ## Why This Matters
@@ -38,9 +32,9 @@ The ACE restructure (Atlas/Calendar/Efforts) is largely complete in the file sys
 - [ ] Final `git status` should be clean
 
 ### Index Files (`_index.md`)
-- [ ] Verify `A - The Observatory/_index.md` reflects Archive, Attachments, Templates moved in
-- [ ] Verify `E - The Foundry/Tasks/_index.md` is up to date
-- [ ] Verify `C - Signal Relay/_index.md` exists and is current
+- [x] Verify `A - The Observatory/_index.md` reflects Archive, Attachments, Templates moved in
+- [x] Verify `E - The Foundry/Tasks/_index.md` is up to date
+- [x] Verify `C - Signal Relay/_index.md` exists and is current
 - [ ] Add `_index.md` to any subfolders missing one
 
 ### Wikilinks & References
@@ -54,7 +48,7 @@ The ACE restructure (Atlas/Calendar/Efforts) is largely complete in the file sys
 - [ ] Verify `keep-the-rhythm` plugin still works (backups deleted)
 
 ### Post-Restructure Polish
-- [ ] Update `Constellation.md` — change Last updated date from 2026-03-25
+- [x] Update `Constellation.md` — change Last updated date from 2026-03-25
 - [ ] Archive any notes in `C - Signal Relay/Inbox/` that piled up during restructure
 - [ ] Confirm `E - The Foundry/Dashboard/` canvas and `.base` files still load correctly
 

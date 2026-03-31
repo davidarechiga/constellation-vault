@@ -23,7 +23,7 @@ Task files use TaskNotes frontmatter (`status`, `priority`, `due`, `owner`, `pro
 | `Tasks/Music Releases/` | Music release tasks |
 | `Tasks/Personal/` | Personal growth tasks |
 | `Tasks/Pixel Glitch/` | Pixel Glitch tasks |
-| `Tasks/Projects/` | Cross-project tasks — incl. [[vault-restructure-todo]] |
+| `Tasks/Projects/` | Cross-project tasks |
 | `Tasks/Relationship/` | Relationship tasks (Camille) |
 | `Tasks/frmwrk_/` | frmwrk_ project tasks |
 
