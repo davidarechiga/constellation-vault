@@ -9,7 +9,7 @@ title: Vault Restructure — Running Todo
 The ACE restructure (Atlas/Calendar/Efforts) is largely complete in the file system, but git has ~1,942 unstaged changes and several loose ends remain before the vault is fully clean and committed. A second phase of organization simplification follows — covering folder consolidation, naming cleanup, and tag/link strategy — to make the vault leaner and easier to navigate long-term.
 
 ## Done When
-- [ ] Git repo is fully committed and clean
+- [x] Git repo is fully committed and clean
 - [ ] All `_index.md` files reflect the current folder structure
 - [ ] No orphaned wikilinks or broken references
 - [ ] `Constellation.md` home note is accurate
@@ -22,14 +22,14 @@ The ACE restructure (Atlas/Calendar/Efforts) is largely complete in the file sys
 ## Task Breakdown
 
 ### Git / Version Control
-- [ ] Review and commit `.obsidian/` config changes (plugin updates, removed plugins)
+- [x] Review and commit `.obsidian/` config changes (plugin updates, removed plugins)
   - Removed: `actions-uri`, `obsidian-full-calendar`, `obsidian-tasks-plugin`, `obsidian-tracker`, `smart-connections`
   - Updated: `folder-notes`, `homepage`, `quickadd`, `templater`, `omnisearch`, etc.
-- [ ] Commit deletion of `.keep-the-rhythm/` backups
-- [ ] Commit all Archive file deletions (moved into Observatory in Phase 8)
-- [ ] Commit all Attachment file deletions
-- [ ] Commit remaining vault note moves/renames
-- [ ] Final `git status` should be clean
+- [x] Commit deletion of `.keep-the-rhythm/` backups
+- [x] Commit all Archive file deletions (moved into Observatory in Phase 8)
+- [x] Commit all Attachment file deletions
+- [x] Commit remaining vault note moves/renames
+- [x] Final `git status` should be clean
 
 ### Index Files (`_index.md`)
 - [x] Verify `A - The Observatory/_index.md` reflects Archive, Attachments, Templates moved in
