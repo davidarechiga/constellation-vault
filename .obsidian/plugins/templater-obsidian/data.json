@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Constellation/A - The Observatory/Documentation/Templates",
+  "templates_folder": "A - The Observatory/Documentation/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Constellation/E - The Foundry/Active/Music Releases",
-      "template": "Constellation/A - The Observatory/Documentation/Templates/Ableton Project Template.md"
+      "folder": "E - The Foundry/Active/Music Releases",
+      "template": "A - The Observatory/Documentation/Templates/Ableton Project Template.md"
     },
     {
       "folder": "/",

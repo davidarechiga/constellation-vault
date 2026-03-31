@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "A - The Observatory/Documentation/Templates/Daily Note Template.md",
-      "timestamp": 1774916475062
+      "filepath": "A - The Observatory/Documentation/vault-restructure-todo.md",
+      "timestamp": 1774920104761
     },
     {
-      "filepath": "A - The Observatory/Documentation/Templates/New Note Template.md",
-      "timestamp": 1774916458869
+      "filepath": "C - Signal Relay/Session Log.md",
+      "timestamp": 1774920044726
     },
     {
-      "filepath": "A - The Observatory/🎵 Music & Audio Production/🎵 Music & Audio Production.md",
-      "timestamp": 1774916342561
+      "filepath": "E - The Foundry/Ongoing/_index.md",
+      "timestamp": 1774919831434
     },
     {
-      "filepath": "A - The Observatory/🎨 Design & Creative Work/Design/Design.md",
-      "timestamp": 1774916329355
+      "filepath": "Constellation.md",
+      "timestamp": 1774919639262
+    },
+    {
+      "filepath": "A - The Observatory/Documentation/Agent Context/system-rules.md",
+      "timestamp": 1774919464708
     }
   ],
   "bookmarkedFileStore": [],
