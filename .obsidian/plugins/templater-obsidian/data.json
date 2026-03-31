@@ -19,8 +19,8 @@
       "template": "Constellation/A - The Observatory/Documentation/Templates/Ableton Project Template.md"
     },
     {
-      "folder": "Constellation",
-      "template": "Constellation/A - The Observatory/Documentation/Templates/New Note Template.md"
+      "folder": "/",
+      "template": "A - The Observatory/Documentation/Templates/New Note Template.md"
     }
   ],
   "enable_file_templates": false,

@@ -24,15 +24,23 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Constellation/Constellation.md",
-      "timestamp": 1774899206572
-    }
-  ],
-  "bookmarkedFileStore": [
+      "filepath": "A - The Observatory/Documentation/Templates/Daily Note Template.md",
+      "timestamp": 1774916475062
+    },
     {
-      "filepath": "Constellation/A - The Observatory/TaskNotes/Views/tasks-default.base"
+      "filepath": "A - The Observatory/Documentation/Templates/New Note Template.md",
+      "timestamp": 1774916458869
+    },
+    {
+      "filepath": "A - The Observatory/🎵 Music & Audio Production/🎵 Music & Audio Production.md",
+      "timestamp": 1774916342561
+    },
+    {
+      "filepath": "A - The Observatory/🎨 Design & Creative Work/Design/Design.md",
+      "timestamp": 1774916329355
     }
   ],
+  "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": false,
