@@ -11,3 +11,6 @@
 
 # Claude Code (synced via Obsidian Sync instead of git)
 .claude/
+
+# Large binaries
+.obsidian/plugins/mcp-tools/bin/
