@@ -22,16 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "C - Signal Relay/Session Log.md",
-      "timestamp": 1775017833897
-    },
-    {
-      "filepath": "A - The Observatory/Documentation/Vault Restructure Plan.md",
-      "timestamp": 1775016568678
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
