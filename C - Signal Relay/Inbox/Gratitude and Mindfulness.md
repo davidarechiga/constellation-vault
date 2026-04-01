@@ -48,6 +48,14 @@ Family
 Coworks
 Anyone that has left a positivity energy with you.
 
+### Incorporate Gratitude
+- Start a gratitude journal
+- write a gratitude letter
+- nightly gratitude exercise
+- practice mindfulness
+- daily affirmations
+
+
 ## Related
 
 <!-- Wikilinks to connected notes, e.g. [[Topic MOC]], [[Project Hub]] -->
