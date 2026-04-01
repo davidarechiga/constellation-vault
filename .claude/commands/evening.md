@@ -54,6 +54,31 @@ Build these lists:
 
 Ignore `status: done` tasks.
 
+## Step 3.5: Identify Tomorrow's Workout
+
+Read `A - The Observatory/🌟 Lifestyle & Personal/Exercise Routine.md`.
+
+Map tomorrow's day of week to the schedule:
+- Monday → Push (Chest · Shoulders · Triceps)
+- Tuesday → Cardio + Core
+- Wednesday → Pull (Back · Biceps)
+- Thursday → Active Recovery (Mobility · Flexibility)
+- Friday → Legs
+- Saturday → Full Body / Functional
+- Sunday → Full Rest (no structured training)
+
+Hold in working memory:
+- **Tomorrow's workout name and type**
+- **Recommended gym window:** Morning before Cyrus's awake window (7:00–8:15am) or afternoon nap window — whichever fits
+- **Newborn modifier:** If it's been a rough sleep week, drop RPE to 6 and treat Saturday as optional full rest
+
+**In tomorrow's note:**
+- Add the workout as a morning or nap-window schedule block
+- In Prep For Tomorrow (Clothing & Gear): "Set out gym clothes and bag"
+- In Prep For Tomorrow (Food Prep): "Prep pre-workout snack (carbs + protein, ready 60–90 min before gym)"
+
+**Skip workout block only if:** it's Sunday, OR the day looks overloaded with Layer 1–3 priorities that can't flex.
+
 ## Step 4: Read Ongoing Life Areas
 Read the main hub file for each life area in `E - The Foundry/Ongoing/`:
 - `1 🛫 Personal Growth/`
