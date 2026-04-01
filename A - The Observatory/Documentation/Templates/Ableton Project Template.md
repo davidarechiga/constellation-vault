@@ -8,11 +8,11 @@ type: project
 status: active
 related:
   - "[[🎨 Design & Creative Work]]"
-created: <% tp.date.now("YYYY-MM-DD") %>
-modified: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-03-31
+modified: 2026-03-31
 ---
 
-# <% tp.file.title %>
+# Decide whether or not to renew archiedonuts.com
 
 > **BPM:** &nbsp;&nbsp;&nbsp; **Key:** &nbsp;&nbsp;&nbsp; **Genre/Vibe:** &nbsp;&nbsp;&nbsp; **References:**
 
@@ -149,4 +149,4 @@ modified: <% tp.date.now("YYYY-MM-DD") %>
 
 | Date | Notes |
 |------|-------|
-| <% tp.date.now("YYYY-MM-DD") %> | Project started |
+| 2026-03-31 | Project started |

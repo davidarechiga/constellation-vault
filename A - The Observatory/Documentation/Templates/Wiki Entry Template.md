@@ -2,13 +2,13 @@
 tags:
   - wiki
   - family
-wiki-category: <% tp.system.suggester(["operations", "reference", "knowledge"], ["operations", "reference", "knowledge"]) %>
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %>
+wiki-category: null
+created: 2026-03-31
+updated: 2026-03-31
 owner: David
 ---
 
-# <% tp.file.title %>
+# Decide whether or not to renew archiedonuts.com
 
 ## Overview
 

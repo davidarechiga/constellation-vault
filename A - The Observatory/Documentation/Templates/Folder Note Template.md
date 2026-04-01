@@ -1,11 +1,11 @@
 ---
 cssclasses:
   - folder-note
-title: <% tp.file.title %>
+title: Decide whether or not to renew archiedonuts.com
 tags:
   -
 description:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-03-31
 ---
 
 <!-- Purpose: one sentence explaining what lives in this folder -->
