@@ -9,8 +9,8 @@
 # macOS
 .DS_Store
 
-# Claude Code (synced via Obsidian Sync instead of git)
-.claude/
+# Claude Code — sync skills/rules/hooks via git, keep local settings out
+.claude/settings.local.json
 
 # Large binaries
 .obsidian/plugins/mcp-tools/bin/
