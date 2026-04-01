@@ -3,8 +3,8 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "",
-  "autoCreate": false,
+  "templatePath": "Constellation/A - The Observatory/Documentation/Templates/Folder Note Template.md",
+  "autoCreate": true,
   "autoCreateFocusFiles": true,
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
@@ -16,7 +16,7 @@
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
-  "openInNewTab": false,
+  "openInNewTab": true,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
   "folderNoteName": "{{folder_name}}",
@@ -63,7 +63,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "folder_overview",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas",
@@ -80,7 +80,7 @@
   "excludeFolderDefaultSettings": {
     "type": "folder",
     "path": "",
-    "id": "eed12736-6ef0-49fc-8734-63299a3d4009",
+    "id": "46d8b2cf-650e-40da-b75e-800b99a78bf4",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -96,7 +96,7 @@
   "excludePatternDefaultSettings": {
     "type": "pattern",
     "path": "",
-    "id": "689c4530-5b3a-42bb-9046-76f64e6631bb",
+    "id": "893fdb09-8794-45e8-994c-bb7a356fe578",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -113,7 +113,7 @@
   "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
-  "deleteFilesAction": "trash",
+  "deleteFilesAction": "obsidianTrash",
   "openSidebar": {
     "mobile": false,
     "desktop": true
@@ -126,6 +126,5 @@
   "firstTimeInsertOverview": true,
   "fvGlobalSettings": {
     "autoUpdateLinks": false
-  },
-  "hideFolderNoteNameInPath": false
+  }
 }
