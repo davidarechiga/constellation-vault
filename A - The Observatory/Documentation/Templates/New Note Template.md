@@ -4,8 +4,8 @@ tags:                   # lowercase, e.g. #reference #idea #person
 type:                   # note | reference | moc | source | person | place
 status: draft           # draft | active | complete | archived
 related:                # [[Wikilink]] to related notes
-created: <% tp.date.now("YYYY-MM-DD") %>
-modified: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-03-31
+modified: 2026-03-31
 ---
 
 ## Summary
