@@ -9,5 +9,7 @@
   "slash-complete",
   "tasknotes",
   "templater-obsidian",
+  "claude-code-ide",
+  "claude-anywhere",
   "obsidian-git"
 ]
