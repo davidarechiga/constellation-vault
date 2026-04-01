@@ -16,12 +16,17 @@ modified: 2026-03-31
 
 ### Understanding Gratitude
 #### Appreciation
-Actively recognizing the positives a
+Actively recognizing the positives aspects and the people in your life. What is valuable to use
 #### Acknowledgement
+Constantly acknowledge the positives in my life. sets the stage for a deeper exploration
 #### Admiration
+Admiring qualities of myself.
 #### Affection
 
-Gratitude is an opportunity.
+### Toxic Positivity
+To engage in these ideals can belittle or dismiss some
+
+**Gratitude is an opportunity.**
 
 ## Related
 
