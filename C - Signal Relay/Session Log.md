@@ -1,5 +1,25 @@
 Chronological log of Claude Code sessions in this vault.
 
+### 2026-03-31 — Implemented Claude Code + Obsidian workflow from Reddit guide
+**Worked on:**
+- Found and summarized the "Claude Code + Obsidian" Reddit guide (clipped to Sources)
+- Audited synced Claude config — discovered skills existed in `.claude/skills/` but were in wrong location for slash commands
+- Created `.claude/commands/` with all 8 skills as flat `.md` files (morning, evening, weekly, organize-inbox, session-persist, vault-navigator, therapy-prep, couples-prep)
+- Created `.claude/commands/resume.md` — new skill to load CLAUDE.md + Session Log context at session start
+- Created `.claude/settings.json` with `SessionEnd` hook registration (syncs via git; `.local.json` is gitignored)
+- Resolved git merge conflict in `.obsidian/community-plugins.json` (merged local plugin list + remote's claude-code-ide, claude-anywhere)
+- Set Obsidian Git auto push/pull to 2 minutes
+
+**Files touched:** [[Session Log]], `.claude/commands/` (9 files), `.claude/settings.json`
+
+**Decisions:**
+- `Stop` hook → `SessionEnd`: Stop fires after every response (noisy/expensive); SessionEnd fires once on exit — correct for session logging
+- Skills in `.claude/skills/` are for organization reference; `.claude/commands/` is what Claude Code actually reads for slash commands
+- Hook registered in `.claude/settings.json` (not `.local.json`) so it syncs to all machines via git
+- `$HOME` used in hook path (not `/Users/dee/`) for cross-machine portability
+
+**Next:** Run `/resume` at the start of the next session to verify context loading works
+
 ### 2026-03-30 (2) — Convert vault-restructure-todo from TaskNote to note
 **Worked on:**
 - Located `vault-restructure-todo.md` in `E - The Foundry/Tasks/Projects/`
