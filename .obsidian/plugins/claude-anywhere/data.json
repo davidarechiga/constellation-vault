@@ -1,6 +1,6 @@
 {
   "remoteServer": "ws://100.103.148.43:8765",
-  "vaultPath": "/Users/davidarechiga/Constellation",
+  "vaultPath": "/Users/dee/Constellation",
   "defaultFolder": "",
   "enableRemoteAccess": true,
   "autoStartServer": true,
