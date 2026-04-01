@@ -41,8 +41,12 @@ To engage in these ideals can belittle or dismiss someones experience or invalid
 "Choose joy."
 
 ### Comparison Culture
-Pay attention to comparison prompts and patterns. It's important to understand the cues as 
+Pay attention to comparison prompts and patterns. It's important to understand the cues as they can be compared to core values
 
+### Gratitude for People
+Family
+Coworks
+Anyone that has left a positivity energy with you.
 
 ## Related
 
