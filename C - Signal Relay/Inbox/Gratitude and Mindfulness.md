@@ -23,10 +23,24 @@ Constantly acknowledge the positives in my life. sets the stage for a deeper exp
 Admiring qualities of myself.
 #### Affection
 
-### Toxic Positivity
-To engage in these ideals can belittle or dismiss some
-
 **Gratitude is an opportunity.**
+
+### Toxic Positivity
+To engage in these ideals can belittle or dismiss someones experience or invalidate them.
+
+**Examples:**
+"Everything happens for a reason!"
+"Just stay positive!"
+"Good vibes only."
+"At least you have your health."
+"Other people have it worse."
+"You'll get through this — you're so strong!"
+"Don't worry, be happy!"
+"This is a blessing in disguise."
+"Failure is just a stepping stone to success!"
+"Choose joy."
+
+### Comparison Culture
 
 ## Related
 
