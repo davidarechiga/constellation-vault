@@ -2,7 +2,7 @@
 name: evening
 description: Use this skill when the user runs "/evening", asks to plan for tomorrow, wants to prep for the next day, or wants an end-of-day planning session. Scans the vault for open tasks, recent activity, and project context, then fills "Prep For Tomorrow" in today's note and seeds tomorrow's daily note.
 version: 1.0.0
-allowed-tools: [Read, Glob, Grep, Bash, Write, Edit]
+allowed-tools: [Read, Glob, Grep, Bash, Write, Edit, mcp__claude_ai_Google_Calendar__gcal_list_events]
 ---
 
 # Evening Planning Skill
@@ -53,6 +53,19 @@ Build these lists:
 - **Recurring**: `due: recurring-daily` or `due: recurring-weekly` AND `owner: David`
 
 Ignore `status: done` tasks.
+
+## Step 3b: Fetch Tomorrow's Calendar Events
+
+Query Google Calendar for all events tomorrow across all four calendars **IN PARALLEL**:
+- `archiestencils@gmail.com` (primary)
+- `nidh4nig04oh7n3d0mk3qu5v5ap3i8cj@import.calendar.google.com` ("Us" iCloud)
+- `1573o4fug6vf32jf6afku7a8q0hr0b8s@import.calendar.google.com` ("David iCloud")
+- `cfulmore@berkeley.edu` (Camille/Berkeley)
+
+Use `timeMin=YYYY-MM-DDT00:00:00`, `timeMax=YYYY-MM-DDT23:59:59` (tomorrow's date), `timeZone=America/Los_Angeles`.
+
+Collect all events, deduplicate by summary+start time, sort chronologically.
+Hold in working memory: title, start time, end time, calendar source.
 
 ## Step 3.5: Identify Tomorrow's Workout
 

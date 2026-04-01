@@ -2,7 +2,7 @@
 name: weekly
 description: Use this skill when the user runs "/weekly", asks for a weekly review, wants to reflect on the week, or wants to plan next week. Scans the past 7 days of daily notes and tasks, then writes a weekly summary and next-week focus to the current weekly note.
 version: 1.0.0
-allowed-tools: [Read, Glob, Grep, Bash, Write, Edit]
+allowed-tools: [Read, Glob, Grep, Bash, Write, Edit, mcp__claude_ai_Google_Calendar__gcal_list_events]
 ---
 
 # Weekly Review Skill

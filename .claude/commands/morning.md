@@ -2,7 +2,7 @@
 name: morning
 description: Use this skill when the user runs "/morning" or asks for a morning briefing, morning check-in, or wants to know what to focus on today. Generates a prioritized morning briefing AND writes a full scheduled day into today's daily note.
 version: 2.0.0
-allowed-tools: [Read, Write, Edit, Glob, Grep, Bash]
+allowed-tools: [Read, Write, Edit, Glob, Grep, Bash, mcp__claude_ai_Google_Calendar__gcal_list_events]
 argument-hint: [date]
 ---
 
@@ -47,6 +47,19 @@ find "$HOME/Constellation/E - The Foundry/Active" -name "*.md" -not -name ".*" -
 ```
 Flag any active project whose most recently modified file is 5+ days old as **"going stale"**.
 
+## Step 5b: Fetch Today's Calendar Events
+
+Query Google Calendar for all events today across all four calendars **IN PARALLEL**:
+- `archiestencils@gmail.com` (primary)
+- `nidh4nig04oh7n3d0mk3qu5v5ap3i8cj@import.calendar.google.com` ("Us" iCloud)
+- `1573o4fug6vf32jf6afku7a8q0hr0b8s@import.calendar.google.com` ("David iCloud")
+- `cfulmore@berkeley.edu` (Camille/Berkeley)
+
+Use `timeMin=YYYY-MM-DDT00:00:00`, `timeMax=YYYY-MM-DDT23:59:59`, `timeZone=America/Los_Angeles`.
+
+Collect all events into a single list, deduplicate by summary+start time, and sort chronologically.
+For each event note: title, start time, end time, calendar source.
+
 ## Step 6: Synthesize Priorities
 
 Use this reasoning order to determine the **Top 3 for Today**:
@@ -68,14 +81,15 @@ Translate priorities into a realistic time-blocked schedule. Use these defaults 
 - **Evening (5–9):** Life areas (Camille, River, Cyrus), self-care, wind-down
 
 **Scheduling logic:**
-- Place the single most important task as a **morning deep work block** with a specific time (e.g., 9:00–11:00am)
-- Place any appointments or fixed events at their actual times
+- Place **confirmed calendar events** (from Step 5b) as FIXED blocks at their actual times — these are non-negotiable anchors
+- Build deep work and task blocks in the gaps around those fixed events
+- Place the single most important task as a **morning deep work block** with a specific time (e.g., 9:00–11:00am), unless a calendar event already occupies that window
 - Place admin/email/career tasks in afternoon
 - Place recurring life area tasks (River walk, check-in with Camille) in evening
-- If therapy, calls, or appointments are mentioned anywhere in the note or yesterday's journal — include them as fixed blocks
 - Pad 30min between major blocks
 - Include a lunch break (12:00–1:00pm)
 - Keep it realistic — max 3 deep work blocks per day
+- If no calendar events were found, fall back to the default day shape
 
 **Output format for each block:**
 ```
@@ -89,6 +103,9 @@ Translate priorities into a realistic time-blocked schedule. Use these defaults 
 
 📖 Yesterday: [1-sentence summary of what happened / who David talked to]
 [Skip if no journal found]
+
+📅 Today: [Time] [Event title] · [Time] [Event title]
+[Skip entirely if no calendar events found]
 
 ⚠️  Overdue ([count]): [Task] ([N]d) · [Task] ([N]d)
 [Skip if nothing overdue]
@@ -155,7 +172,9 @@ Keep it to one line — just the card names as a quick mental checklist.
 
 ## Step 10: Flag Prep For Tomorrow (if relevant)
 
-If there is a known appointment, task, or event tomorrow (found in yesterday's journal or task due dates), add a brief note to the **⏰ Time-Sensitive** section of "Prep For Tomorrow" at the bottom of today's note — only if that section is empty.
+If there is a known appointment, task, or event tomorrow (found in yesterday's journal, task due dates, or tomorrow's Google Calendar events), add a brief note to the **⏰ Time-Sensitive** section of "Prep For Tomorrow" at the bottom of today's note — only if that section is empty.
+
+To check tomorrow's calendar, query the same four calendars used in Step 5b with tomorrow's date range.
 
 Example:
 ```
