@@ -41,6 +41,7 @@ To engage in these ideals can belittle or dismiss someones experience or invalid
 "Choose joy."
 
 ### Comparison Culture
+Pay attention to comparison prompts and patterns. It's important to understand the cues as 
 
 
 ## Related
