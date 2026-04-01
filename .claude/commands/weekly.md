@@ -75,6 +75,21 @@ For each of: gratitude, meditation, candle, exercise, stretch, drawing, camille_
 
 Note which habits are strong (≥5/7) vs. needs attention (<4/7).
 
+## Step 7b: Fetch Next Week's Calendar Events
+
+Query Google Calendar for the upcoming 7 days (Monday through Sunday of next week) across all four calendars **IN PARALLEL**:
+- `archiestencils@gmail.com` (primary)
+- `nidh4nig04oh7n3d0mk3qu5v5ap3i8cj@import.calendar.google.com` ("Us" iCloud)
+- `1573o4fug6vf32jf6afku7a8q0hr0b8s@import.calendar.google.com` ("David iCloud")
+- `cfulmore@berkeley.edu` (Camille/Berkeley)
+
+Use `timeMin=next Monday T00:00:00`, `timeMax=next Sunday T23:59:59`, `timeZone=America/Los_Angeles`.
+
+Collect events, deduplicate, and group by day. Note:
+- Fixed appointments (therapy, medical, school events)
+- Recurring commitments (weekly classes, standing meetings)
+- High-density days (3+ events) — these constrain deep work availability
+
 ## Step 8: Synthesize Weekly Summary
 
 Determine:
@@ -100,6 +115,7 @@ Be specific and actionable. Synthesize from:
 - High priority work with upcoming deadlines
 - Projects that went stale and need a nudge
 - Life area responsibilities flagged during the week
+- **Calendar density** (from Step 7b): if certain days are appointment-heavy, recommend scheduling deep work on lighter days
 
 ### One Open Question or Decision
 Surface the most important unresolved question or decision David needs to make next week.
@@ -184,6 +200,9 @@ Top 3 Next Week:
 
 Habits to watch: [any below 4/7]
 Stale projects: [any red status]
+
+📅 Next week: [Day]: [Event] · [Day]: [Event]
+[Skip entirely if no calendar events found for next week]
 
 Weekly note written to: C - Signal Relay/Weekly/[filename]
 ```

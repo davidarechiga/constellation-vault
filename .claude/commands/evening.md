@@ -82,7 +82,7 @@ Map tomorrow's day of week to the schedule:
 
 Hold in working memory:
 - **Tomorrow's workout name and type**
-- **Recommended gym window:** Morning before Cyrus's awake window (7:00–8:15am) or afternoon nap window — whichever fits
+- **Recommended gym window:** Morning before Cyrus's awake window (7:00–8:15am) or afternoon nap window — whichever fits; skip the window if a calendar event already occupies it and suggest the other instead
 - **Newborn modifier:** If it's been a rough sleep week, drop RPE to 6 and treat Saturday as optional full rest
 
 **In tomorrow's note:**
@@ -129,10 +129,12 @@ Also check:
 Be opinionated. Three items only.
 
 ### Schedule Suggestion
-Suggest morning/afternoon/evening time blocks based on task types:
-- Deep focus work → morning
+Build blocks around **confirmed calendar events** (from Step 3b) as fixed anchors first, then fill remaining time with tasks:
+- Confirmed calendar events → placed at their actual times
+- Deep focus work → morning (in available gaps)
 - Meetings, communications, errands → afternoon
 - Prep, planning, light tasks → evening
+- If no calendar events, fall back to task-type defaults
 
 ### Tonight's Prep For Tomorrow
 Concrete actions David should do tonight to set up tomorrow:
@@ -149,7 +151,8 @@ Find today's daily note: `C - Signal Relay/Daily/[today].md`
 If it exists, fill the **Prep For Tomorrow** section with the tonight prep items from Step 6. Format:
 ```
 ### ⏰ Time-Sensitive
-- [Any time-critical prep, e.g., "Set alarm for 6am"]
+- [Confirmed calendar events for tomorrow, e.g., "Dr. Tami at 3pm — join via SimplePractice link"]
+- [Any other time-critical prep, e.g., "Set alarm for 6am"]
 
 ### 👕 Clothing & Gear
 - [What to set out]
@@ -191,15 +194,16 @@ Check if `C - Signal Relay/Daily/[tomorrow].md` exists.
 ```
 
 ### Schedule for Today
+Place confirmed calendar events (from Step 3b) as fixed blocks first, then fill remaining slots with suggested task blocks:
 ```
 ### Morning
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 
 ### Afternoon
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 
 ### Evening
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 ```
 
 ### Tasks
