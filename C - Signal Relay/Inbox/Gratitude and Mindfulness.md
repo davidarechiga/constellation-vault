@@ -54,7 +54,9 @@ Anyone that has left a positivity energy with you.
 - nightly gratitude exercise
 - practice mindfulness
 - daily affirmations
+Witness Me
 
+Something I rarely thank myself for is not giving up when things get hard.
 
 ## Related
 
