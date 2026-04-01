@@ -42,6 +42,7 @@ To engage in these ideals can belittle or dismiss someones experience or invalid
 
 ### Comparison Culture
 
+
 ## Related
 
 <!-- Wikilinks to connected notes, e.g. [[Topic MOC]], [[Project Hub]] -->
