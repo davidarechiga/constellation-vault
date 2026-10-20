@@ -5,7 +5,7 @@ Prepared October 19, 2026. Nothing in this packet has been submitted to Canvas. 
 ## Immediate checklist
 
 - [ ] Social Media Marketing: determine what the instructor expects for **Welcome – Social Media Marketing**. The visible assignment page supplies class links but no response prompt.
-- [ ] BUS 10: personalize and post the **Shark Tank preferences** response before the discussion closes October 21 at 11:00 a.m.
+- [x] BUS 10: personalize and post the **Shark Tank preferences** response before the discussion closes October 21 at 11:00 a.m.
 - [ ] BUS 10: finish the already-started **Module 2 Practice Quiz** after reviewing Appendix A and Chapter 4.
 - [ ] BUS 10: prepare for and take **Exam #1** only when ready.
 - [ ] BUS 10: personalize the **Hondo case analysis**, then write two genuine peer replies.
