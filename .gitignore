@@ -14,3 +14,6 @@
 
 # Large binaries
 .obsidian/plugins/mcp-tools/bin/
+
+# Claude Code worktrees
+.claude/worktrees/

@@ -142,12 +142,14 @@
     "contexts": "contexts",
     "projects": "projects",
     "attachments": "attachments",
+    "assignees": "assignees",
     "timeEstimate": "timeEstimate",
     "completedDate": "completedDate",
     "dateCreated": "dateCreated",
     "dateModified": "dateModified",
     "recurrence": "recurrence",
     "recurrenceAnchor": "recurrence_anchor",
+    "recurrenceOriginalDate": "recurrence_original_date",
     "recurrenceParent": "recurrence_parent",
     "occurrenceDate": "occurrence_date",
     "occurrenceMaterialization": "occurrence_materialization",
@@ -334,7 +336,7 @@
     "includeObsidianLink": true,
     "defaultReminderMinutes": null
   },
-  "lastSeenVersion": "4.13.10",
+  "lastSeenVersion": "4.15.0",
   "modalFieldsConfig": {
     "version": 1,
     "fields": [
@@ -468,6 +470,11 @@
       }
     ]
   },
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2026-11-02",
   "hideIdentifyingTagsMode": "all",
   "occurrenceFilenameTemplate": "",
   "occurrenceFilenameTemplateProperty": "occurrenceFilenameTemplate",
