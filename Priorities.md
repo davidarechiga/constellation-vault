@@ -11,7 +11,7 @@ updated: 2026-11-02
 
 ## Right now (this week)
 
-1. **Catch up in school** ❓ Status unknown since the Oct 19 [[Catch Up Plan]]. Still open then: BUS 10 Module 2 & 3 practice quizzes, Exam #1, the Hondo case analysis + 2 peer replies, and SMM "Intro to SMM and Twitter" (due Oct 26).
+1. **Catch up in school** Dave is *not* caught up (Nov 2). A couple of items from the Oct 19 [[Catch Up Plan]] are done; the rest are still open: BUS 10 Module 2 & 3 practice quizzes, Exam #1, the Hondo case analysis + 2 peer replies, and SMM "Intro to SMM and Twitter" (was due Oct 26). BUS 10 meets live on Zoom **Mon/Wed 6:30–7:45pm** (log attendance in Zoom chat). Make progress before each class.
 2. **Family baseline** Present with Cyrus and Camille; household cards held. This is the floor, not a project.
 3. ❓
 
