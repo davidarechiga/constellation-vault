@@ -22,7 +22,20 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "conflict-files-obsidian-git.md",
+      "timestamp": 1775075336245
+    },
+    {
+      "filepath": "C - Signal Relay/Daily/2026-03-27.md",
+      "timestamp": 1775075336145
+    },
+    {
+      "filepath": "C - Signal Relay/Daily/2026-03-31.md",
+      "timestamp": 1775075215624
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

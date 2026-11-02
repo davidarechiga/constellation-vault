@@ -2,7 +2,7 @@
 name: evening
 description: Use this skill when the user runs "/evening", asks to plan for tomorrow, wants to prep for the next day, or wants an end-of-day planning session. Scans the vault for open tasks, recent activity, and project context, then fills "Prep For Tomorrow" in today's note and seeds tomorrow's daily note.
 version: 1.0.0
-allowed-tools: [Read, Glob, Grep, Bash, Write, Edit]
+allowed-tools: [Read, Glob, Grep, Bash, Write, Edit, mcp__claude_ai_Google_Calendar__gcal_list_events]
 ---
 
 # Evening Planning Skill
@@ -54,6 +54,19 @@ Build these lists:
 
 Ignore `status: done` tasks.
 
+## Step 3b: Fetch Tomorrow's Calendar Events
+
+Query Google Calendar for all events tomorrow across all four calendars **IN PARALLEL**:
+- `archiestencils@gmail.com` (primary)
+- `nidh4nig04oh7n3d0mk3qu5v5ap3i8cj@import.calendar.google.com` ("Us" iCloud)
+- `1573o4fug6vf32jf6afku7a8q0hr0b8s@import.calendar.google.com` ("David iCloud")
+- `cfulmore@berkeley.edu` (Camille/Berkeley)
+
+Use `timeMin=YYYY-MM-DDT00:00:00`, `timeMax=YYYY-MM-DDT23:59:59` (tomorrow's date), `timeZone=America/Los_Angeles`.
+
+Collect all events, deduplicate by summary+start time, sort chronologically.
+Hold in working memory: title, start time, end time, calendar source.
+
 ## Step 3.5: Identify Tomorrow's Workout
 
 Read `A - The Observatory/🌟 Lifestyle & Personal/Exercise Routine.md`.
@@ -69,7 +82,7 @@ Map tomorrow's day of week to the schedule:
 
 Hold in working memory:
 - **Tomorrow's workout name and type**
-- **Recommended gym window:** Morning before Cyrus's awake window (7:00–8:15am) or afternoon nap window — whichever fits
+- **Recommended gym window:** Morning before Cyrus's awake window (7:00–8:15am) or afternoon nap window — whichever fits; skip the window if a calendar event already occupies it and suggest the other instead
 - **Newborn modifier:** If it's been a rough sleep week, drop RPE to 6 and treat Saturday as optional full rest
 
 **In tomorrow's note:**
@@ -116,10 +129,12 @@ Also check:
 Be opinionated. Three items only.
 
 ### Schedule Suggestion
-Suggest morning/afternoon/evening time blocks based on task types:
-- Deep focus work → morning
+Build blocks around **confirmed calendar events** (from Step 3b) as fixed anchors first, then fill remaining time with tasks:
+- Confirmed calendar events → placed at their actual times
+- Deep focus work → morning (in available gaps)
 - Meetings, communications, errands → afternoon
 - Prep, planning, light tasks → evening
+- If no calendar events, fall back to task-type defaults
 
 ### Tonight's Prep For Tomorrow
 Concrete actions David should do tonight to set up tomorrow:
@@ -136,7 +151,8 @@ Find today's daily note: `C - Signal Relay/Daily/[today].md`
 If it exists, fill the **Prep For Tomorrow** section with the tonight prep items from Step 6. Format:
 ```
 ### ⏰ Time-Sensitive
-- [Any time-critical prep, e.g., "Set alarm for 6am"]
+- [Confirmed calendar events for tomorrow, e.g., "Dr. Tami at 3pm — join via SimplePractice link"]
+- [Any other time-critical prep, e.g., "Set alarm for 6am"]
 
 ### 👕 Clothing & Gear
 - [What to set out]
@@ -178,15 +194,16 @@ Check if `C - Signal Relay/Daily/[tomorrow].md` exists.
 ```
 
 ### Schedule for Today
+Place confirmed calendar events (from Step 3b) as fixed blocks first, then fill remaining slots with suggested task blocks:
 ```
 ### Morning
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 
 ### Afternoon
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 
 ### Evening
-- **[TIME]** | [Suggested activity]
+- **[TIME]** | [Calendar event or suggested activity]
 ```
 
 ### Tasks
