@@ -487,5 +487,6 @@
   "enableMdbaseSpec": false,
   "resetCheckboxesOnRecurrence": false,
   "disableCalendarOnMobile": false,
-  "enableDebugLogging": false
+  "enableDebugLogging": false,
+  "lastNotifiedReleaseVersion": "4.15.0"
 }
