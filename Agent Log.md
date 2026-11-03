@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code
+- Did: Wrote [[Claude Chat Instructions]] so Claude chat follows the same rules as AGENTS.md, and added Claude chat to the agents table.
+- Open / needs Dave: Create the "Constellation" Project in Claude, paste the instructions, and upload `Priorities.md` + `AGENTS.md`. Re-upload `Priorities.md` whenever it changes.
+
 ### 2026-11-02 · Claude Code (Canvas check)
 - Did: Read Canvas through Dave's Chrome (he signed in himself) and added a live status table to the top of [[Catch Up Plan]]. Nothing was submitted.
 - Open / needs Dave: BUS 10 has 3 missing items (Exam #1, Module 3 quiz, Hondo case), none locked. SMM "Virality and Memes" is due tonight at 11:59pm.

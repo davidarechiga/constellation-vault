@@ -58,5 +58,6 @@ Keep it to a few lines. That's how the next agent, and Dave, pick up where you l
 | Agent | How it reaches the vault | Good for |
 |-------|--------------------------|----------|
 | Claude Code | Runs in the vault folder; owns git maintenance | Vault upkeep, planning, writing |
+| Claude chat | Claude Project "Constellation" with uploaded `Priorities.md` and `AGENTS.md` (setup: [[Claude Chat Instructions]]). Can't read the vault; hands Dave log entries to paste | Thinking out loud, planning, study help |
 | ChatGPT (Plus) | Controls the always-on laptop and reads the vault folder | Computer tasks, research, drafting |
 | Gemini (Pro) | Not set up yet | TBD |
