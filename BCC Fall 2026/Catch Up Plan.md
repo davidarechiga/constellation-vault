@@ -1,5 +1,34 @@
 # School Catch-Up Prep Packet
 
+## Canvas status: Mon Nov 2, 3:30pm (checked live by Claude)
+
+**BUS 10** (live Zoom Mon/Wed 6:30pm). 95% on everything turned in, but 3 items (85 pts) are missing and none are locked yet. Counting them as zeros puts you around 35%.
+
+| Due | Item | Pts | Status |
+|-----|------|-----|--------|
+| Sat Oct 10 | Exam #1 | 50 | ❌ Missing |
+| Mon Oct 12 | Module 3 Practice Quiz | 10 | ❌ Missing |
+| Mon Oct 12 | Hondo case ("Something's Rotten") + peer replies | 25 | ❌ Missing (draft below) |
+| Sep 5 | Discussion #2 | 15 | Submitted, not graded yet |
+| Wed Nov 11 | Personal SWOT / 1- and 3-year goals | 100 | Upcoming |
+| Wed Nov 11 | Exam #2 | 50 | Upcoming |
+| no date | Module 5 Practice Quiz | 10 | Open |
+
+Done: Discussions #1–2, Module 1A, 1B and 2 quizzes.
+
+**Social Media Marketing (MM/MW-4A).** Weekly 10-pt assignments, all open until Dec 19.
+
+| Due | Item | Status |
+|-----|------|--------|
+| Mon Oct 19 | Welcome | ✅ Submitted |
+| Mon Oct 26 | Intro to SMM and Twitter | ❌ Missing |
+| **Mon Nov 2, 11:59pm (tonight)** | Virality and Memes | Not started |
+| Mon Nov 9 | User Generated Content and Social Good | Upcoming |
+
+The two lab sections (4A-L, 4LA) have no assignments in Canvas.
+
+---
+
 Prepared October 19, 2026. Nothing in this packet has been submitted to Canvas. Review, personalize, and fact-check every draft before using it.
 
 ## Immediate checklist
