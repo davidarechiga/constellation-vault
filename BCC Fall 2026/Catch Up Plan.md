@@ -16,6 +16,8 @@
 
 Done: Discussions #1–2, Module 1A, 1B and 2 quizzes.
 
+**Instructor confirmed (Nov 2, by email): no late penalty.** Every missing item is still worth full points.
+
 **Social Media Marketing (MM/MW-4A).** Weekly 10-pt assignments, all open until Dec 19.
 
 | Due | Item | Status |
