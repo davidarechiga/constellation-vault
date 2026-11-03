@@ -18,6 +18,9 @@ Done: Discussions #1–2, Module 1A, 1B and 2 quizzes.
 
 **Instructor confirmed (Nov 2, by email): no late penalty.** Every missing item is still worth full points.
 
+> [!warning] AI policy
+> The BUS 10 syllabus bans submitting AI-written work, even in part, and scans for it. The drafts lower in this packet were written by AI. Use them only to understand the assignment, then write your own. See [[BUS 10 Refresher]].
+
 **Social Media Marketing (MM/MW-4A).** Weekly 10-pt assignments, all open until Dec 19.
 
 | Due | Item | Status |
