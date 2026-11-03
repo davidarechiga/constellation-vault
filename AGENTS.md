@@ -36,6 +36,7 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 - **Wikilinks** for internal links: `[[Note Title]]`, not markdown links.
 - **No Dataview** queries.
 - **Never submit schoolwork, send messages, or post anything for Dave.** Draft it; he reviews and sends it.
+- **Schoolwork: help him learn, don't write it.** BUS 10 bans AI-written work and scans for it. Explain concepts, quiz him, and give feedback on what he wrote, but don't draft text he'll turn in. Never help with quizzes or exams. Check each class's syllabus for its AI rules.
 - **Don't run git** unless you are Claude Code. The Obsidian Git plugin backs the vault up automatically, and competing commits cause conflicts.
 - Don't delete notes. Move them to `Starting Over Archive/` if they need to go.
 
