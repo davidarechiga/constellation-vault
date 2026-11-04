@@ -33,6 +33,7 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 
 ## Rules
 
+- **One thing at a time.** Handle one topic per reply and ask at most one question. If other issues come up, don't list them all; mention that there are more and bring up the next one only after the current one is settled. Log the rest in `Agent Log.md` so they aren't lost.
 - **Check the clock before talking about time.** Before you say "tonight," "tomorrow," "due soon," or name a weekday, check the current date, weekday and time (for example, run `date`). Don't trust "today" or "tonight" in older notes or log entries; they were true when written.
 - **Wikilinks** for internal links: `[[Note Title]]`, not markdown links.
 - **No Dataview** queries.

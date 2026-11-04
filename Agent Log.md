@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (one-thing rule)
+- Did: Added "One thing at a time" to the Rules in `AGENTS.md`, at Dave's request.
+- Open / needs Dave, in order: (1) Root notes: which ones move to `+ Inbox/`. (2) Should the Templates core plugin point at `x/Templates`? (3) Turn community plugins back on (the list is empty on this computer). (4) Weekly template and Periodic Notes weekly paths. (5) `/evening` skill paths.
+
 ### 2026-11-03 · Claude Code (Periodic Notes)
 - Did: Pointed Periodic Notes' daily notes at `Calendar/Daily` with `x/Templates/Daily Note Template`. Dave says daily notes come from Periodic Notes, not the core Daily notes plugin.
 - Open / needs Dave: `community-plugins.json` is empty on this computer, so Periodic Notes is off here right now. The weekly template and folder settings still use old paths.
