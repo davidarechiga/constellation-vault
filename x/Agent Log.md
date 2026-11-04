@@ -2,6 +2,9 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-04 · Claude Code (Gemini on hold)
+- Decided: Gemini onboarding waits. Dave isn't sure Gemini CLI fits, since it has no remote-control access from his phone. The onboarding prompt is ready in the Nov 4 Claude Code session when he wants it.
+
 ### 2026-11-04 · ChatGPT Codex
 - Did: Onboarded to Constellation; read the shared rules, priorities, recent agent work, Family North Star, and sampled the active vault and pre-reset archive.
 - Decided: Top 3 fits are (1) school catch-up and learning coach, never quizzes/exams or submitted writing; (2) family-first daily priority and accountability partner; (3) technical/research release operator for *Only Talks 2 Ghosts* once the daily baseline is covered.
