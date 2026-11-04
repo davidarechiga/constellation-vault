@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (root cleanup 2)
+- Did: Moved `Priorities.md` and `Agent Log.md` into `x/` and updated their paths in `AGENTS.md` and the three vault agents. Wikilinks like [[Priorities]] still work. Snapshotted Dave's edits (deleted the quick-capture test note, added `Calendar/Daily/202611041309 Daily Note.md`).
+- Decided: `AGENTS.md`, `CLAUDE.md` and `GEMINI.md` stay at the root; the tools only read them there.
+- Open / needs Dave: Templater folder templates still point at archived paths (Dave will fix later). The new daily note is named `202611041309 Daily Note`, not `2026-11-04`, so whatever made it isn't using the Periodic Notes format. An empty `A - The Observatory/Attachments/` folder is back at the root; something may be recreating it.
+
 ### 2026-11-04 · Claude Code (general note template)
 - Did: Added `x/Templates/New Note Template.md`, a general template with empty properties (aliases, tags, type, status, related, created, modified). Keys copied from the archived New Note Template.
 - Found: Templater's folder template for `/` still points at the archived `A - The Observatory/Documentation/Templates/New Note Template.md`, and another rule points at an old `E - The Foundry` path. Dave's quick-capture widget issue is solved.

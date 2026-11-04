@@ -19,8 +19,8 @@ Dave's system isn't what usually breaks. What breaks is his focus on what matter
 
 | File | Why |
 |------|-----|
-| `Priorities.md` | What matters right now. The single source of truth. |
-| `Agent Log.md` | The last few entries: what other agents did, decided, or left open. |
+| `x/Priorities.md` | What matters right now. The single source of truth. |
+| `x/Agent Log.md` | The last few entries: what other agents did, decided, or left open. |
 | `Starting Over Archive/A - The Observatory/Documentation/Wiki De Arechiga/Arechiga Family North Star.md` | Values, life areas, priority order. Read it when making tradeoffs. |
 
 ## Where things live
@@ -29,13 +29,13 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 
 - `+ Inbox/`: where new notes land. Sort them into the folders below.
 - `Efforts/On/BCC Fall 2026/`: current classes (BUS 10 Intro to Business, Social Media Marketing)
-- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes.
+- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes, plus `Priorities.md` and `Agent Log.md`. The vault root holds only the folders and the three agent instruction files (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`), which must stay at the root because each tool looks for them there.
 - `Starting Over Archive/`: everything from before the Nov 2, 2026 reset. Read from it freely. Bring a note back out only when Dave actually needs it.
 - `x/TaskNotes/`: task plugin views and tasks
 
 ## Rules
 
-- **One thing at a time.** Handle one topic per reply and ask at most one question. If other issues come up, don't list them all; mention that there are more and bring up the next one only after the current one is settled. Log the rest in `Agent Log.md` so they aren't lost.
+- **One thing at a time.** Handle one topic per reply and ask at most one question. If other issues come up, don't list them all; mention that there are more and bring up the next one only after the current one is settled. Log the rest in `x/Agent Log.md` so they aren't lost.
 - **Check the clock before talking about time.** Before you say "tonight," "tomorrow," "due soon," or name a weekday, check the current date, weekday and time (for example, run `date`). Don't trust "today" or "tonight" in older notes or log entries; they were true when written.
 - **Wikilinks** for internal links: `[[Note Title]]`, not markdown links.
 - **No Dataview** queries.
@@ -57,19 +57,19 @@ Why the commit rules exist: a rule only counts once other sessions can read it. 
 
 1. **One place.** Work in the main vault folder on `main`. Don't start vault work in a worktree or a side branch. They keep old copies of `AGENTS.md`. If a session finds itself in one, merge `main` in first, and read the rules only after that.
 2. **Sync first.** At the start of a session, run `git fetch` and `git status -sb`. If `main` is behind `origin/main`, pull (merge, don't rebase) before reading `AGENTS.md`. Nothing else should push to `origin` now, so being behind means something is misconfigured (for example, Obsidian Git is still on somewhere). Tell Dave.
-3. **Rules go out right away.** After you edit `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `Priorities.md`, anything in `.claude/` (agents, skills, rules, commands), or `Agent Log.md`: commit and push in the same turn, before you end it. Don't leave rule changes uncommitted.
+3. **Rules go out right away.** After you edit `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `x/Priorities.md`, anything in `.claude/` (agents, skills, rules, commands), or `x/Agent Log.md`: commit and push in the same turn, before you end it. Don't leave rule changes uncommitted.
 4. **Finish with a clean sync.** After pushing, `git status -sb` must not show `ahead` or `behind`. If it does, fix it before telling Dave you're done.
 5. **Snapshot Dave's edits first.** Dave edits in Obsidian and Obsidian Sync carries those edits to this computer, but nothing commits them. At the start of a session, and before you push, look at `git status`. If there are uncommitted changes you didn't make, commit them as their own commit, "Snapshot of Dave's edits", before your own work. Add files by name. Skip `.obsidian/` settings, because Obsidian Sync handles those. Deletions Dave made are his, so commit them and name them to him; you never delete notes yourself.
 6. **Never rewrite the main folder.** In the main vault folder, don't switch branches, check out old commits, `reset`, or `restore` files unless Dave asks, because Obsidian Sync would copy that to his phone and every device. For experiments, use a worktree.
 7. **Keep rule commits separate.** One commit for rule and instruction changes, another for note content. Use a plain message that says what changed. End it with the Co-Authored-By line from the session.
-8. **Conflicts:** keep both sides. For `Agent Log.md`, keep every entry, newest on top. For anything else, never drop either version of Dave's text. Merge, don't force-push or reset.
+8. **Conflicts:** keep both sides. For `x/Agent Log.md`, keep every entry, newest on top. For anything else, never drop either version of Dave's text. Merge, don't force-push or reset.
 9. **Say what happened.** Tell Dave in one line what was committed and pushed, and name anything you left uncommitted on purpose.
 
 **For every other agent:** don't run git. When you change a rule or instruction file, add an Agent Log entry that says so, so Claude Code commits and pushes it.
 
 ## Log your work
 
-When you finish anything meaningful, add an entry to the top of `Agent Log.md`:
+When you finish anything meaningful, add an entry to the top of `x/Agent Log.md`:
 
 ```
 ### YYYY-MM-DD · Agent name

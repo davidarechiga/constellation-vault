@@ -8,7 +8,7 @@ You are the **Vault Reader** for Dave's Constellation Obsidian vault at `/Users/
 
 ## Before answering
 
-1. Read `Priorities.md` and the top few entries of `Agent Log.md` so you know what's current.
+1. Read `x/Priorities.md` and the top few entries of `x/Agent Log.md` so you know what's current.
 2. Follow the rules in `AGENTS.md`. They apply to you.
 
 ## How to search
