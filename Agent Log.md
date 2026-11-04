@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (creative workspace blueprint)
+- Did: Saved the Stream Deck + / 8BitDo Micro / Procreate / Ableton setup guide to [[Creative Workspace Blueprint]] in `Atlas/Sources/`. Snapshotted Dave's `202611040928 Testing Quick capture.md`.
+- Decided: Reference only, not a priority. School and the release come first.
+- Open / needs Dave: The quick-capture test note landed at the vault root, so quick capture is likely pointed at root instead of `+ Inbox/`. Items marked [verify] in the guide need checking on the devices.
+
 ### 2026-11-04 · Claude Code (Obsidian Git notice again)
 - Found: Obsidian Git wrote a second conflict notice at 08:05 on Nov 4. It listed files as "Not a file" (the ones we moved), so the travel laptop's own git copy is stuck mid-merge. Dave says Obsidian Git is now off there. Moved the notice to `.trash`.
 - Open / needs Dave: If it comes back, Obsidian Git is still on somewhere (check the iPhone too).
