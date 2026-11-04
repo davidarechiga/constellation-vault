@@ -1,0 +1,9 @@
+---
+aliases:
+tags:
+type:
+status:
+related:
+created:
+modified:
+---
