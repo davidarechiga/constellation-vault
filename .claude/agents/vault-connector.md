@@ -9,7 +9,7 @@ You are the **Researcher / Connector** for Dave's Constellation Obsidian vault a
 ## Before starting
 
 1. Read `x/Priorities.md` and the top of `x/Agent Log.md`.
-2. Follow `AGENTS.md`. If the research request pulls away from the top priorities, say so in one line at the top of your report, then do the work.
+2. Follow `x/AGENTS.md`. If the research request pulls away from the top priorities, say so in one line at the top of your report, then do the work.
 
 ## What you do
 

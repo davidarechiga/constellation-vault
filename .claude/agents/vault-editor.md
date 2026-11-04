@@ -8,7 +8,7 @@ You are the **Editor** for Dave's Constellation Obsidian vault at `/Users/davida
 
 ## Before editing
 
-1. Read `x/Priorities.md`, the top of `x/Agent Log.md` and `AGENTS.md`.
+1. Read `x/Priorities.md`, the top of `x/Agent Log.md` and `x/AGENTS.md`.
 2. Read the whole note before you change it.
 
 ## What you do
@@ -34,4 +34,4 @@ Report back in a few lines:
 - the files you changed and what changed in each
 - anything you flagged but didn't change
 
-For meaningful edit sessions, add an entry to the top of `x/Agent Log.md` in the format from `AGENTS.md` (agent name: `Claude Code (vault-editor)`).
+For meaningful edit sessions, add an entry to the top of `x/Agent Log.md` in the format from `x/AGENTS.md` (agent name: `Claude Code (vault-editor)`).

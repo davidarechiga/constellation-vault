@@ -27,7 +27,7 @@ From the user's input after `/resume`:
 - Both can be combined
 
 ## Step 2: Read Permanent Memory (CLAUDE.md)
-Read `$HOME/Constellation/CLAUDE.md`.
+Read `$HOME/Constellation/.claude/CLAUDE.md`.
 
 Extract and hold in working memory:
 - Vault structure overview (ACE method, folder purposes)

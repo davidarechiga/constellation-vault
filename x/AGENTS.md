@@ -29,7 +29,7 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 
 - `+ Inbox/`: where new notes land. Sort them into the folders below.
 - `Efforts/On/BCC Fall 2026/`: current classes (BUS 10 Intro to Business, Social Media Marketing)
-- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes, plus `Priorities.md` and `Agent Log.md`. The vault root holds only the folders and the three agent instruction files (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`), which must stay at the root because each tool looks for them there.
+- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes, and the vault documentation (`AGENTS.md`, `GEMINI.md`, `Priorities.md`, `Agent Log.md`). Claude Code's `CLAUDE.md` lives in `.claude/`, which Claude Code reads automatically and Obsidian hides. The vault root holds only folders.
 - `Starting Over Archive/`: everything from before the Nov 2, 2026 reset. Read from it freely. Bring a note back out only when Dave actually needs it.
 - `x/TaskNotes/`: task plugin views and tasks
 
@@ -55,9 +55,9 @@ Why the commit rules exist: a rule only counts once other sessions can read it. 
 
 **For Claude Code:**
 
-1. **One place.** Work in the main vault folder on `main`. Don't start vault work in a worktree or a side branch. They keep old copies of `AGENTS.md`. If a session finds itself in one, merge `main` in first, and read the rules only after that.
-2. **Sync first.** At the start of a session, run `git fetch` and `git status -sb`. If `main` is behind `origin/main`, pull (merge, don't rebase) before reading `AGENTS.md`. Nothing else should push to `origin` now, so being behind means something is misconfigured (for example, Obsidian Git is still on somewhere). Tell Dave.
-3. **Rules go out right away.** After you edit `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `x/Priorities.md`, anything in `.claude/` (agents, skills, rules, commands), or `x/Agent Log.md`: commit and push in the same turn, before you end it. Don't leave rule changes uncommitted.
+1. **One place.** Work in the main vault folder on `main`. Don't start vault work in a worktree or a side branch. They keep old copies of `x/AGENTS.md`. If a session finds itself in one, merge `main` in first, and read the rules only after that.
+2. **Sync first.** At the start of a session, run `git fetch` and `git status -sb`. If `main` is behind `origin/main`, pull (merge, don't rebase) before reading `x/AGENTS.md`. Nothing else should push to `origin` now, so being behind means something is misconfigured (for example, Obsidian Git is still on somewhere). Tell Dave.
+3. **Rules go out right away.** After you edit `x/AGENTS.md`, `.claude/CLAUDE.md`, `x/GEMINI.md`, `x/Priorities.md`, anything in `.claude/` (agents, skills, rules, commands), or `x/Agent Log.md`: commit and push in the same turn, before you end it. Don't leave rule changes uncommitted.
 4. **Finish with a clean sync.** After pushing, `git status -sb` must not show `ahead` or `behind`. If it does, fix it before telling Dave you're done.
 5. **Snapshot Dave's edits first.** Dave edits in Obsidian and Obsidian Sync carries those edits to this computer, but nothing commits them. At the start of a session, and before you push, look at `git status`. If there are uncommitted changes you didn't make, commit them as their own commit, "Snapshot of Dave's edits", before your own work. Add files by name. Skip `.obsidian/` settings, because Obsidian Sync handles those. Deletions Dave made are his, so commit them and name them to him; you never delete notes yourself.
 6. **Never rewrite the main folder.** In the main vault folder, don't switch branches, check out old commits, `reset`, or `restore` files unless Dave asks, because Obsidian Sync would copy that to his phone and every device. For experiments, use a worktree.

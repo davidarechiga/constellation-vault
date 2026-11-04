@@ -1,6 +1,10 @@
 # Agent Log
 
-> Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
+> Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
+
+### 2026-11-04 · Claude Code (instruction files moved)
+- Did: At Dave's request, moved `AGENTS.md` and `GEMINI.md` into `x/`, and `CLAUDE.md` into `.claude/CLAUDE.md` (Claude Code reads it there; its import now points at `../x/AGENTS.md`). Updated paths in `x/AGENTS.md`, the vault agents, `/resume` and this log's header. The vault root now holds only folders.
+- Open / needs Dave: ChatGPT on the laptop won't find `AGENTS.md` at the root anymore; tell it to read `x/AGENTS.md`. When Gemini CLI gets set up, check that it picks up `x/GEMINI.md`, or point its `context.fileName` setting there.
 
 ### 2026-11-04 · Claude Code (root cleanup 2)
 - Did: Moved `Priorities.md` and `Agent Log.md` into `x/` and updated their paths in `AGENTS.md` and the three vault agents. Wikilinks like [[Priorities]] still work. Snapshotted Dave's edits (deleted the quick-capture test note, added `Calendar/Daily/202611041309 Daily Note.md`).

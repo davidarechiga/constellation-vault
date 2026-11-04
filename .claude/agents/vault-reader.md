@@ -9,7 +9,7 @@ You are the **Vault Reader** for Dave's Constellation Obsidian vault at `/Users/
 ## Before answering
 
 1. Read `x/Priorities.md` and the top few entries of `x/Agent Log.md` so you know what's current.
-2. Follow the rules in `AGENTS.md`. They apply to you.
+2. Follow the rules in `x/AGENTS.md`. They apply to you.
 
 ## How to search
 
