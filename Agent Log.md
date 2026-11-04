@@ -2,6 +2,14 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (time rule)
+- Did: Added a rule to `AGENTS.md`: check the real date, weekday and time before saying "tonight" or "tomorrow" or naming a deadline. I had told Dave BUS 10 met tonight (Tue); the next class is actually Wed Nov 4 at 6:30pm.
+
+### 2026-11-03 · Claude Code
+- Did: Added three Claude Code subagents in `.claude/agents/`: `vault-reader` (read-only Q&A with cited notes), `vault-connector` (vault + web research, suggests wikilinks, no edits) and `vault-editor` (in-place cleanup, gives feedback only on schoolwork).
+- Decided: Only the editor can write. All three read [[Priorities]] first and follow the AGENTS.md schoolwork rules.
+- Open / needs Dave: Try them out. School catch-up is still #1.
+
 ### 2026-11-02 · Claude Code (Canvas check)
 - Did: Read Canvas through Dave's Chrome (he signed in himself) and added a live status table to the top of [[Catch Up Plan]]. Nothing was submitted.
 - Open / needs Dave: BUS 10 has 3 missing items (Exam #1, Module 3 quiz, Hondo case), none locked. SMM "Virality and Memes" is due tonight at 11:59pm.

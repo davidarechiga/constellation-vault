@@ -33,6 +33,7 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 
 ## Rules
 
+- **Check the clock before talking about time.** Before you say "tonight," "tomorrow," "due soon," or name a weekday, check the current date, weekday and time (for example, run `date`). Don't trust "today" or "tonight" in older notes or log entries; they were true when written.
 - **Wikilinks** for internal links: `[[Note Title]]`, not markdown links.
 - **No Dataview** queries.
 - **Never submit schoolwork, send messages, or post anything for Dave.** Draft it; he reviews and sends it.
