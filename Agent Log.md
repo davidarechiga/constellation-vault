@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (daily template)
+- Did: Moved `Daily Note Template.md` from the archive to `x/Templates/` and pointed `.obsidian/daily-notes.json` at it.
+- Decided: Left the template's content as is.
+- Open / needs Dave: The Daily notes core plugin is off and no community plugins are enabled, so nothing uses this setting yet. The Templates core plugin's folder still points at the old archived path. `/evening` still references the old template path.
+
 ### 2026-11-03 · Claude Code (ACE folders + inbox)
 - Did: Created `+ Inbox/`, `Atlas/`, `Calendar/Daily/`, `Efforts/` (On, Ongoing, Simmering, Sleeping) and `x/` (Templates, Attachments). Pointed new notes at `+ Inbox`, attachments at `x/Attachments`, daily notes at `Calendar/Daily` in `.obsidian/`. Added ACE rules to `CLAUDE.md`.
 - Decided: Added the rules to the existing `CLAUDE.md` instead of replacing it, so `@AGENTS.md` still loads.
