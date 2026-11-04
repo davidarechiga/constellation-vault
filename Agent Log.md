@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (restore + sync)
+- Did: Restored `Scuba/Scuba.md` and `Bicycle/Bicycle.md` in the archive from git; Dave didn't know who deleted them. Synced `main`, GitHub and all three worktrees.
+- Decided: Left `.obsidian/plugins/` settings uncommitted (Obsidian rewrites them). The Folder Notes plugin now has `autoCreate: true` and a template path to the old `Constellation/A - The Observatory/Documentation/Templates/` folder, which no longer exists. That plugin likely made or removed those stub folder notes.
+- Open / needs Dave: Decide whether Folder Notes auto-create should stay on before reorganizing. Dave wants a fresh start on a vault reorganization.
+
 ### 2026-11-03 · Claude Code (Claude chat shelved)
 - Did: Marked Claude chat as "not set up" in the `AGENTS.md` agents table and added a shelved banner to [[Claude Chat Instructions]].
 - Decided: Dave is dropping the Claude Project "Constellation" plan and will find another way for Claude chat. This replaces the earlier "create the Project" to-do below.
