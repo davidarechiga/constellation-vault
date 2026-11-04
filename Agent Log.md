@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (general note template)
+- Did: Added `x/Templates/New Note Template.md`, a general template with empty properties (aliases, tags, type, status, related, created, modified). Keys copied from the archived New Note Template.
+- Found: Templater's folder template for `/` still points at the archived `A - The Observatory/Documentation/Templates/New Note Template.md`, and another rule points at an old `E - The Foundry` path. Dave's quick-capture widget issue is solved.
+- Open / needs Dave: Point Templater's `/` folder template at `x/Templates/New Note Template.md` (Templater settings → Folder templates) so every new note gets it.
+
 ### 2026-11-04 · Claude Code (creative workspace blueprint)
 - Did: Saved the Stream Deck + / 8BitDo Micro / Procreate / Ableton setup guide to [[Creative Workspace Blueprint]] in `Atlas/Sources/`. Snapshotted Dave's `202611040928 Testing Quick capture.md`.
 - Decided: Reference only, not a priority. School and the release come first.
