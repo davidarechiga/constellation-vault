@@ -17,3 +17,4 @@ Rules for any AI agent working in this vault:
   - `Calendar/Daily/`: date-based notes
 - Never delete notes. If unsure where something goes, leave it in `+ Inbox/` and flag it.
 - Never modify `.obsidian/` without explicit instruction.
+- Every folder has a folder note named after it (`Atlas/Atlas.md`, `+ Inbox/+ Inbox.md`, etc.). Keep them, even when empty. They'll become that folder's index, overview and progress tracker. When processing the inbox, skip `+ Inbox.md`.

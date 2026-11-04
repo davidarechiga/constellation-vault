@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (folder notes)
+- Did: Committed the 17 empty folder notes in the new ACE folders. Added a `CLAUDE.md` rule to keep folder notes.
+- Decided: Dave wants folder notes. They'll become indexes, overviews and progress trackers for each folder.
+
 ### 2026-11-04 · Claude Code (Obsidian Git source)
 - Found: The old Obsidian Git backups came from `Mixeds-MacBook-Pro-2` (git user "Dee"), which Dave says is his travel laptop. That's the likely source of the Nov 3 conflict notice. This computer is `Razorleaf`.
 - Open / needs Dave: Turn off Obsidian Git on the travel laptop (Settings → Community plugins → toggle Obsidian Git off).
