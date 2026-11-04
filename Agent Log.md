@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (Claude chat shelved)
+- Did: Marked Claude chat as "not set up" in the `AGENTS.md` agents table and added a shelved banner to [[Claude Chat Instructions]].
+- Decided: Dave is dropping the Claude Project "Constellation" plan and will find another way for Claude chat. This replaces the earlier "create the Project" to-do below.
+- Open / needs Dave: The replacement for Claude chat is undecided.
+
 ### 2026-11-03 · Claude Code (commit rules)
 - Did: Added "Commit and sync rules" to `AGENTS.md`. Found why other sessions missed updates: `main` had diverged from GitHub (4 ahead, 7 behind from the other machine's Obsidian Git backups), and three worktrees in `.claude/worktrees/` sit on old commits with old copies of `AGENTS.md`. Merged and pushed `main`.
 - Decided: Rule changes get committed and pushed in the same turn. Vault work happens on `main` in the main folder, not in worktrees.
