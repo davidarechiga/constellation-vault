@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (ACE folders + inbox)
+- Did: Created `+ Inbox/`, `Atlas/`, `Calendar/Daily/`, `Efforts/` (On, Ongoing, Simmering, Sleeping) and `x/` (Templates, Attachments). Pointed new notes at `+ Inbox`, attachments at `x/Attachments`, daily notes at `Calendar/Daily` in `.obsidian/`. Added ACE rules to `CLAUDE.md`.
+- Decided: Added the rules to the existing `CLAUDE.md` instead of replacing it, so `@AGENTS.md` still loads.
+- Open / needs Dave: Confirm which root notes move to `+ Inbox/`. The daily-notes template path still points at a folder that's now archived.
+
 ### 2026-11-03 · Codex
 - Did: Read the shared agent guidance, priorities, recent log, Family North Star, current school catch-up notes, BUS 10 AI policy, and the archived system overview and Fair Play reference.
 - Decided: Use the post-reset priorities and current notes; treat archived workflows and dated plans as historical context. Support follow-through without adding systems. No git operations.
