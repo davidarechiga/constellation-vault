@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Codex
+- Did: Read the shared agent guidance, priorities, recent log, Family North Star, current school catch-up notes, BUS 10 AI policy, and the archived system overview and Fair Play reference.
+- Decided: Use the post-reset priorities and current notes; treat archived workflows and dated plans as historical context. Support follow-through without adding systems. No git operations.
+- Open / needs Dave: School status needs a fresh check before planning: the Nov 2 catch-up table marks Module 2 complete, while Priorities and the older checklist still list it as open. No priority or instruction files changed.
+
 ### 2026-11-03 · Claude Code (Obsidian Sync + git)
 - Did: Committed Dave's new notes and the deletions he confirmed (empty `Attachments.md` and the TaskNotes views, which kept erroring). Updated `AGENTS.md` and `CLAUDE.md` for the new setup.
 - Decided: Dave is starting Obsidian's configuration from scratch. Obsidian Sync moves files between his computer(s) and iPhone. Git is only for Claude Code, run from one computer via Claude remote control. The Obsidian Git plugin is off. Claude Code commits snapshots of Dave's edits, since nothing else does, and never switches branches in the main folder (Sync would copy that to every device).
