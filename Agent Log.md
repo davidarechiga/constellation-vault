@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (Templates folder)
+- Did: Pointed the Templates core plugin at `x/Templates` (`.obsidian/templates.json`).
+- Open / needs Dave: Item (2) is done. Next is (3): community plugins are off on this computer.
+
 ### 2026-11-03 · Claude Code (root cleanup)
 - Did: Moved [[Owning It - A Repair Check-In]] to `x/Templates/` and Units for Transformation to `+ Inbox/`. Moved `Test.md` (a one-line Wispr Flow test) to `.trash/` at Dave's request, so it can still be recovered.
 - Open / needs Dave: Item (1) on the list below is done. Next is (2), the Templates core plugin folder.
