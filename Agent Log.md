@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (Obsidian Git source)
+- Found: The old Obsidian Git backups came from `Mixeds-MacBook-Pro-2` (git user "Dee"), which Dave says is his travel laptop. That's the likely source of the Nov 3 conflict notice. This computer is `Razorleaf`.
+- Open / needs Dave: Turn off Obsidian Git on the travel laptop (Settings → Community plugins → toggle Obsidian Git off).
+
 ### 2026-11-04 · Claude Code (root cleanup)
 - Did: Moved `BCC Fall 2026/` to `Efforts/On/` and `Being A Better Husband/` to `Efforts/Ongoing/`; its empty `Untitled.md` went to `.trash`. Moved the TaskNotes views and the stray .wav out of `A - The Observatory/` and `TaskNotes/` into `x/`, and archived [[Claude Chat Instructions]]. Pointed the TaskNotes plugin at `x/TaskNotes`, so it stops recreating root folders. Updated paths in `AGENTS.md`, `vault-reader` and `.claudeignore`.
 - Found: At 22:54 on Nov 3, Obsidian Git on another device wrote `conflict-files-obsidian-git.md` to the root, so Obsidian Git is still on somewhere. I checked the moved TaskNotes views: none have conflict markers. The notice is now in `.trash`.
