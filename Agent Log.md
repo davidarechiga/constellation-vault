@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (plugins back on)
+- Did: Turned the community plugins back on at Dave's request: BRAT, Editing Toolbar, Folder Notes, Notebook Navigator, Omnisearch, Slash Commander, Periodic Notes, Slash Complete, TaskNotes and Templater. Obsidian Git stays off.
+- Open / needs Dave: Templater's templates folder still points at the old `A - The Observatory/Documentation/Templates`. Its folder templates point at archived paths too, but run-on-file-creation is off, so they don't fire.
+
 ### 2026-11-04 · Claude Code (weekly + /evening paths)
 - Did: Moved `Weekly Review Template.md` to `x/Templates/`, made `Calendar/Weekly/`, and pointed Periodic Notes' weekly notes at both. In `/evening`, fixed the daily note, template and North Star paths.
 - Decided: Left the `/evening` steps that read `E - The Foundry/` (Tasks, Ongoing, Active) and the Exercise Routine path alone. They have no new home until `Efforts/` has notes.
