@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (root cleanup)
+- Did: Moved [[Owning It - A Repair Check-In]] to `x/Templates/` and Units for Transformation to `+ Inbox/`. Moved `Test.md` (a one-line Wispr Flow test) to `.trash/` at Dave's request, so it can still be recovered.
+- Open / needs Dave: Item (1) on the list below is done. Next is (2), the Templates core plugin folder.
+
 ### 2026-11-03 · Claude Code (one-thing rule)
 - Did: Added "One thing at a time" to the Rules in `AGENTS.md`, at Dave's request.
 - Open / needs Dave, in order: (1) Root notes: which ones move to `+ Inbox/`. (2) Should the Templates core plugin point at `x/Templates`? (3) Turn community plugins back on (the list is empty on this computer). (4) Weekly template and Periodic Notes weekly paths. (5) `/evening` skill paths.
