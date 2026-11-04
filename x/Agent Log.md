@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-04 · ChatGPT Codex
+- Did: Onboarded to Constellation; read the shared rules, priorities, recent agent work, Family North Star, and sampled the active vault and pre-reset archive.
+- Decided: Top 3 fits are (1) school catch-up and learning coach, never quizzes/exams or submitted writing; (2) family-first daily priority and accountability partner; (3) technical/research release operator for *Only Talks 2 Ghosts* once the daily baseline is covered.
+- Open / needs Dave: Nothing; Claude Code can include this log entry in its next commit.
+
 ### 2026-11-04 · Claude Code (instruction files moved)
 - Did: At Dave's request, moved `AGENTS.md` and `GEMINI.md` into `x/`, and `CLAUDE.md` into `.claude/CLAUDE.md` (Claude Code reads it there; its import now points at `../x/AGENTS.md`). Updated paths in `x/AGENTS.md`, the vault agents, `/resume` and this log's header. The vault root now holds only folders.
 - Open / needs Dave: ChatGPT on the laptop won't find `AGENTS.md` at the root anymore; tell it to read `x/AGENTS.md`. When Gemini CLI gets set up, check that it picks up `x/GEMINI.md`, or point its `context.fileName` setting there.
