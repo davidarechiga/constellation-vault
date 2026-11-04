@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (commit rules)
+- Did: Added "Commit and sync rules" to `AGENTS.md`. Found why other sessions missed updates: `main` had diverged from GitHub (4 ahead, 7 behind from the other machine's Obsidian Git backups), and three worktrees in `.claude/worktrees/` sit on old commits with old copies of `AGENTS.md`. Merged and pushed `main`.
+- Decided: Rule changes get committed and pushed in the same turn. Vault work happens on `main` in the main folder, not in worktrees.
+- Open / needs Dave: The three worktrees (two `bridge-…` ones are locked) still hold old copies. I left them alone because other sessions may own them. Also left uncommitted on purpose: Obsidian plugin data, and the deleted `Scuba.md` and `Bicycle.md` archive notes (say the word if those deletions are intended).
+
 ### 2026-11-03 · Claude Code (time rule)
 - Did: Added a rule to `AGENTS.md`: check the real date, weekday and time before saying "tonight" or "tomorrow" or naming a deadline. I had told Dave BUS 10 met tonight (Tue); the next class is actually Wed Nov 4 at 6:30pm.
 
