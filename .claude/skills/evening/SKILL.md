@@ -13,7 +13,7 @@ You are a smart daily planning assistant for David's Constellation Obsidian vaul
 `$HOME/Constellation/`
 
 ## Daily Note Template
-`A - The Observatory/Documentation/Templates/Daily Note Template.md`
+`x/Templates/Daily Note Template.md`
 
 ---
 
@@ -23,7 +23,7 @@ You are a smart daily planning assistant for David's Constellation Obsidian vaul
 
 ## Step 1b: Load the North Star (REQUIRED)
 
-Read `A - The Observatory/Documentation/Wiki De Arechiga/Arechiga Family North Star.md` before doing anything else.
+Read `Starting Over Archive/A - The Observatory/Documentation/Wiki De Arechiga/Arechiga Family North Star.md` before doing anything else.
 
 Extract and hold in working memory:
 - **Non-Negotiables** (Layer 1) — flag any that were missed today or are at risk tomorrow
@@ -37,7 +37,7 @@ Extract and hold in working memory:
 ## Step 2: Read Recently Modified Notes
 Use Bash to find notes modified in the last 48 hours (excluding daily notes, system files, templates):
 ```
-find "$HOME/Constellation/Constellation" -name "*.md" -newer "$HOME/Constellation/C - Signal Relay/Daily/$(date -v-2d +%Y-%m-%d).md" -not -path "*/C - Signal Relay/*" -not -path "*/.obsidian/*" -not -path "*/Templates/*" -not -path "*/TaskNotes/*" -not -path "*/Archive/*"
+find "$HOME/Constellation" -name "*.md" -newer "$HOME/Constellation/Calendar/Daily/$(date -v-2d +%Y-%m-%d).md" -not -path "*/Calendar/*" -not -path "*/.obsidian/*" -not -path "*/Templates/*" -not -path "*/TaskNotes/*" -not -path "*/Archive/*"
 ```
 Read 3-5 of these files for context on what David has been working on.
 
@@ -131,7 +131,7 @@ Concrete actions David should do tonight to set up tomorrow:
 
 ## Step 7: Write to Today's Note — "Prep For Tomorrow" Section
 
-Find today's daily note: `C - Signal Relay/Daily/[today].md`
+Find today's daily note: `Calendar/Daily/[today].md`
 
 If it exists, fill the **Prep For Tomorrow** section with the tonight prep items from Step 6. Format:
 ```
@@ -164,7 +164,7 @@ Only fill sections that are relevant — leave sections blank if nothing applies
 
 ## Step 8: Create or Seed Tomorrow's Daily Note
 
-Check if `C - Signal Relay/Daily/[tomorrow].md` exists.
+Check if `Calendar/Daily/[tomorrow].md` exists.
 
 **If it doesn't exist:** Create it using the Daily Note Template structure.
 

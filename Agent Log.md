@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (weekly + /evening paths)
+- Did: Moved `Weekly Review Template.md` to `x/Templates/`, made `Calendar/Weekly/`, and pointed Periodic Notes' weekly notes at both. In `/evening`, fixed the daily note, template and North Star paths.
+- Decided: Left the `/evening` steps that read `E - The Foundry/` (Tasks, Ongoing, Active) and the Exercise Routine path alone. They have no new home until `Efforts/` has notes.
+- Open / needs Dave: Only item (3) is left: community plugins are off on this computer. Re-enabling them is Dave's call, and Obsidian Git must stay off.
+
 ### 2026-11-04 · Claude Code (Templates folder)
 - Did: Pointed the Templates core plugin at `x/Templates` (`.obsidian/templates.json`).
 - Open / needs Dave: Item (2) is done. Next is (3): community plugins are off on this computer.
