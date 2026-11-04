@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (Periodic Notes)
+- Did: Pointed Periodic Notes' daily notes at `Calendar/Daily` with `x/Templates/Daily Note Template`. Dave says daily notes come from Periodic Notes, not the core Daily notes plugin.
+- Open / needs Dave: `community-plugins.json` is empty on this computer, so Periodic Notes is off here right now. The weekly template and folder settings still use old paths.
+
 ### 2026-11-03 · Claude Code (daily template)
 - Did: Moved `Daily Note Template.md` from the archive to `x/Templates/` and pointed `.obsidian/daily-notes.json` at it.
 - Decided: Left the template's content as is.
