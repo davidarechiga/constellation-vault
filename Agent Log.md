@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-03 · Claude Code (Obsidian Sync + git)
+- Did: Committed Dave's new notes and the deletions he confirmed (empty `Attachments.md` and the TaskNotes views, which kept erroring). Updated `AGENTS.md` and `CLAUDE.md` for the new setup.
+- Decided: Dave is starting Obsidian's configuration from scratch. Obsidian Sync moves files between his computer(s) and iPhone. Git is only for Claude Code, run from one computer via Claude remote control. The Obsidian Git plugin is off. Claude Code commits snapshots of Dave's edits, since nothing else does, and never switches branches in the main folder (Sync would copy that to every device).
+- Open / needs Dave: Turn off Obsidian Git on every device, especially the other machine that made the "Vault Sync / Backup" commits. Decide whether to add `.obsidian/` to `.gitignore`.
+
 ### 2026-11-03 · Claude Code (restore + sync)
 - Did: Restored `Scuba/Scuba.md` and `Bicycle/Bicycle.md` in the archive from git; Dave didn't know who deleted them. Synced `main`, GitHub and all three worktrees.
 - Decided: Left `.obsidian/plugins/` settings uncommitted (Obsidian rewrites them). The Folder Notes plugin now has `autoCreate: true` and a template path to the old `Constellation/A - The Observatory/Documentation/Templates/` folder, which no longer exists. That plugin likely made or removed those stub folder notes.

@@ -38,23 +38,29 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 - **No Dataview** queries.
 - **Never submit schoolwork, send messages, or post anything for Dave.** Draft it; he reviews and sends it.
 - **Schoolwork: help him learn, don't write it.** BUS 10 bans AI-written work and scans for it. Explain concepts, quiz him, and give feedback on what he wrote, but don't draft text he'll turn in. Never help with quizzes or exams. Check each class's syllabus for its AI rules.
-- **Don't run git** unless you are Claude Code. The Obsidian Git plugin backs the vault up automatically, and competing commits cause conflicts.
+- **Don't run git** unless you are Claude Code. Dave's devices sync through Obsidian Sync, and git is only Claude Code's history and backup. Competing commits cause conflicts.
 - Don't delete notes. Move them to `Starting Over Archive/` if they need to go.
 
 ## Commit and sync rules
 
-Why this exists: a rule only counts once other sessions can read it. Edits that sit uncommitted, commits that never get pushed, and side worktrees frozen on old commits all hid new rules from other sessions. Only Claude Code runs git (see above); every other agent just edits files and tells Dave or Claude Code what changed.
+**How syncing works (set Nov 3, 2026):**
+- **Obsidian Sync** moves the vault between Dave's computer(s) and his iPhone. That's the only thing syncing between devices.
+- **Git** is only for Claude Code: history, backup, and making rule changes visible to every session. It runs from one computer (the one Dave reaches through Claude remote control from his phone). The Obsidian Git plugin is not used, and must stay off on every device.
+- Because Obsidian Sync copies the folder to every device, whatever Claude Code does to files in the main folder shows up on the phone too.
+
+Why the commit rules exist: a rule only counts once other sessions can read it. Edits that sit uncommitted, commits that never get pushed, and side worktrees frozen on old commits all hid new rules from other sessions. Only Claude Code runs git (see above); every other agent just edits files and tells Dave or Claude Code what changed.
 
 **For Claude Code:**
 
 1. **One place.** Work in the main vault folder on `main`. Don't start vault work in a worktree or a side branch. They keep old copies of `AGENTS.md`. If a session finds itself in one, merge `main` in first, and read the rules only after that.
-2. **Sync first.** At the start of a session, run `git fetch` and `git status -sb`. If `main` is behind `origin/main`, pull (merge, don't rebase) before reading `AGENTS.md`. The other machine's Obsidian Git backups land on `origin` constantly.
+2. **Sync first.** At the start of a session, run `git fetch` and `git status -sb`. If `main` is behind `origin/main`, pull (merge, don't rebase) before reading `AGENTS.md`. Nothing else should push to `origin` now, so being behind means something is misconfigured (for example, Obsidian Git is still on somewhere). Tell Dave.
 3. **Rules go out right away.** After you edit `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `Priorities.md`, anything in `.claude/` (agents, skills, rules, commands), or `Agent Log.md`: commit and push in the same turn, before you end it. Don't leave rule changes uncommitted.
 4. **Finish with a clean sync.** After pushing, `git status -sb` must not show `ahead` or `behind`. If it does, fix it before telling Dave you're done.
-5. **Commit only what you changed.** Add files by name. Never `git add -A`. Leave Obsidian plugin data (`.obsidian/plugins/`) and Dave's in-progress edits alone. Never stage a deletion of a note.
-6. **Keep rule commits separate.** One commit for rule and instruction changes, another for note content. Use a plain message that says what changed. End it with the Co-Authored-By line from the session.
-7. **Conflicts:** keep both sides. For `Agent Log.md`, keep every entry, newest on top. For anything else, never drop either version of Dave's text. Merge, don't force-push or reset.
-8. **Say what happened.** Tell Dave in one line what was committed and pushed, and name anything you left uncommitted on purpose.
+5. **Snapshot Dave's edits first.** Dave edits in Obsidian and Obsidian Sync carries those edits to this computer, but nothing commits them. At the start of a session, and before you push, look at `git status`. If there are uncommitted changes you didn't make, commit them as their own commit, "Snapshot of Dave's edits", before your own work. Add files by name. Skip `.obsidian/` settings, because Obsidian Sync handles those. Deletions Dave made are his, so commit them and name them to him; you never delete notes yourself.
+6. **Never rewrite the main folder.** In the main vault folder, don't switch branches, check out old commits, `reset`, or `restore` files unless Dave asks, because Obsidian Sync would copy that to his phone and every device. For experiments, use a worktree.
+7. **Keep rule commits separate.** One commit for rule and instruction changes, another for note content. Use a plain message that says what changed. End it with the Co-Authored-By line from the session.
+8. **Conflicts:** keep both sides. For `Agent Log.md`, keep every entry, newest on top. For anything else, never drop either version of Dave's text. Merge, don't force-push or reset.
+9. **Say what happened.** Tell Dave in one line what was committed and pushed, and name anything you left uncommitted on purpose.
 
 **For every other agent:** don't run git. When you change a rule or instruction file, add an Agent Log entry that says so, so Claude Code commits and pushes it.
 
