@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (root cleanup)
+- Did: Moved `BCC Fall 2026/` to `Efforts/On/` and `Being A Better Husband/` to `Efforts/Ongoing/`; its empty `Untitled.md` went to `.trash`. Moved the TaskNotes views and the stray .wav out of `A - The Observatory/` and `TaskNotes/` into `x/`, and archived [[Claude Chat Instructions]]. Pointed the TaskNotes plugin at `x/TaskNotes`, so it stops recreating root folders. Updated paths in `AGENTS.md`, `vault-reader` and `.claudeignore`.
+- Open / needs Dave: Something (likely Notebook Navigator or Folder Notes) made empty folder notes in every new folder on Nov 3 at 21:06, including `+ Inbox/+ Inbox.md` and `x/x.md`. They're uncommitted. Dave decides whether they go to `.trash`.
+
 ### 2026-11-04 · Claude Code (Templater folder)
 - Did: Pointed Templater's templates folder at `x/Templates`.
 - Open / needs Dave: Templater's folder templates still point at archived paths. They're off, so nothing breaks.

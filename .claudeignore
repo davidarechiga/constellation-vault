@@ -5,7 +5,7 @@
 .obsidian/
 
 # Media and binary attachments
-A - The Observatory/Attachments/
+x/Attachments/
 *.pdf
 *.png
 *.jpg

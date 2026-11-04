@@ -27,9 +27,11 @@ Dave's system isn't what usually breaks. What breaks is his focus on what matter
 
 Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder names have spaces).
 
-- `BCC Fall 2026/`: current classes (BUS 10 Intro to Business, Social Media Marketing)
+- `+ Inbox/`: where new notes land. Sort them into the folders below.
+- `Efforts/On/BCC Fall 2026/`: current classes (BUS 10 Intro to Business, Social Media Marketing)
+- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes.
 - `Starting Over Archive/`: everything from before the Nov 2, 2026 reset. Read from it freely. Bring a note back out only when Dave actually needs it.
-- `TaskNotes/`: task plugin views
+- `x/TaskNotes/`: task plugin views and tasks
 
 ## Rules
 
