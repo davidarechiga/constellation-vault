@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `AGENTS.md`.
 
+### 2026-11-04 · Claude Code (Obsidian Git notice again)
+- Found: Obsidian Git wrote a second conflict notice at 08:05 on Nov 4. It listed files as "Not a file" (the ones we moved), so the travel laptop's own git copy is stuck mid-merge. Dave says Obsidian Git is now off there. Moved the notice to `.trash`.
+- Open / needs Dave: If it comes back, Obsidian Git is still on somewhere (check the iPhone too).
+
 ### 2026-11-04 · Claude Code (folder notes)
 - Did: Committed the 17 empty folder notes in the new ACE folders. Added a `CLAUDE.md` rule to keep folder notes.
 - Decided: Dave wants folder notes. They'll become indexes, overviews and progress trackers for each folder.
