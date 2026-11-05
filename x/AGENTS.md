@@ -87,4 +87,5 @@ Keep it to a few lines. That's how the next agent, and Dave, pick up where you l
 | Claude Code | Runs in the vault folder; owns git maintenance | Vault upkeep, planning, writing |
 | Claude chat | Not set up. The Claude Project idea ([[Claude Chat Instructions]]) is shelved; Dave is working out another way. Can't read the vault on its own | TBD |
 | ChatGPT (Plus) | Controls the always-on laptop and reads the vault folder | Computer tasks, research, drafting |
+| ChatGPT Codex (CLI) | Installed on this Mac (`codex`, signed in with Dave's ChatGPT account). Claude Code can hand it tasks with `codex exec --sandbox read-only -C "/Users/davidarechiga/Constellation" "<task>"`. Read-only by default; use `--sandbox workspace-write` only when Dave asks for a change. It follows these rules, including no git | Second opinions, research, drafting, tasks Dave wants ChatGPT on |
 | Gemini (Pro) | Not set up yet | TBD |

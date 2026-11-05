@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-04 · Claude Code (Codex CLI)
+- Did: Installed the Codex CLI with Homebrew (`codex` 0.166.0). It was already signed in with Dave's ChatGPT account. A read-only test run worked. Added a Codex row to the agents table in `x/AGENTS.md` with the command to use.
+- Decided: Claude Code triggers Codex read-only by default; write access only when Dave asks.
+
 ### 2026-11-04 · Claude Code (Gemini on hold)
 - Decided: Gemini onboarding waits. Dave isn't sure Gemini CLI fits, since it has no remote-control access from his phone. The onboarding prompt is ready in the Nov 4 Claude Code session when he wants it.
 
