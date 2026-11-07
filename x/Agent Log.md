@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-07 · Claude Code (Project Minimize)
+- Did: Started [[Project Minimize]] in `Efforts/Simmering/`: sell and give away as much as possible before the ~July 2027 move (Camille graduates).
+- Decided: Stays Simmering until the Fall term ends; the main push starts Jan 2027. School catch-up is still #1.
+- Open / needs Dave: Whether Camille is on board with the scope; what's definitely kept.
+
 ### 2026-11-04 · Claude Code (Codex CLI)
 - Did: Installed the Codex CLI with Homebrew (`codex` 0.166.0). It was already signed in with Dave's ChatGPT account. A read-only test run worked. Added a Codex row to the agents table in `x/AGENTS.md` with the command to use.
 - Decided: Claude Code triggers Codex read-only by default; write access only when Dave asks.
