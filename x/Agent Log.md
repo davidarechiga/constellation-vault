@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-07 · Claude Code (Devices moved)
+- Did: Moved `Devices/` to `Atlas/Devices/`. `Device Registry.md` is now the folder note `Devices.md` (alias: Device Registry), linked from `Atlas/MOCs/MOCs.md`. The iPad mini is now Punknife (Cyberpunk 2077); Kepler R went back to the Name Pool. (The file moves landed in commit 2d4cdc0, mislabeled "Log Devices move".)
+- Open / needs Dave: Replace the four Dataview queries in the registry with a plain table. Add Cyberpunk 2077 to the registry's franchise table. Jackson rename still pending. Cydonia, The Eye, Neon and Argos Extractors break the one-franchise-per-domain rule.
+
 ### 2026-11-07 · Claude Code (AI Instructions)
 - Did: Added `x/AI Instructions.md`, a pasteable short version of the rules for AIs that can't read the vault. Linked it from `x/AGENTS.md`. Snapshotted Dave's `Devices/` folder.
 - Decided: Dataview isn't used (Dave confirmed). The four queries in `Devices/Device Registry.md` still need replacing.
