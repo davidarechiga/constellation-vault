@@ -1,0 +1,1 @@
+- [[Devices|Device Registry]]: every device, its name, and the naming rules

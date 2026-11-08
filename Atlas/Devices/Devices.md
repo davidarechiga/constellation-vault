@@ -1,5 +1,6 @@
 ---
 type: index
+aliases: [Device Registry]
 tags: [device, naming, moc]
 ---
 
@@ -22,7 +23,7 @@ Within a franchise: characters for things you carry, locations for things that s
 
 ```dataview
 TABLE assigned-name AS "Name", device-type AS "Device", franchise AS "Franchise", status AS "Status"
-FROM "Devices"
+FROM "Atlas/Devices"
 WHERE type = "device"
 SORT placement ASC, assigned-name ASC
 ```
@@ -31,7 +32,7 @@ SORT placement ASC, assigned-name ASC
 
 ```dataview
 TABLE device-type AS "Device", status AS "Status"
-FROM "Devices"
+FROM "Atlas/Devices"
 WHERE type = "device" AND (status = "rename-pending" OR status = "needs-name")
 SORT status ASC
 ```
@@ -40,7 +41,7 @@ SORT status ASC
 
 ```dataview
 TABLE rows.assigned-name AS "Names"
-FROM "Devices"
+FROM "Atlas/Devices"
 WHERE type = "device"
 GROUP BY placement
 ```
@@ -49,7 +50,7 @@ GROUP BY placement
 
 ```dataview
 TABLE assigned-name AS "Name", device-type AS "Device"
-FROM "Devices"
+FROM "Atlas/Devices"
 WHERE type = "device" AND account = "household"
 ```
 
