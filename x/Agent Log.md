@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-07 · Claude Code (AI Instructions)
+- Did: Added `x/AI Instructions.md`, a pasteable short version of the rules for AIs that can't read the vault. Linked it from `x/AGENTS.md`. Snapshotted Dave's `Devices/` folder.
+- Decided: Dataview isn't used (Dave confirmed). The four queries in `Devices/Device Registry.md` still need replacing.
+- Open / needs Dave: The "Right now" lines in AI Instructions copy [[Priorities]]; update them when Priorities changes. Devices integration still pending: Jackson rename, Name Pool row, where to link the registry, and four notes whose franchise breaks the registry's domain rule (Cydonia, The Eye, Neon, Argos Extractors).
+
 ### 2026-11-07 · Claude Code (Efforts index)
 - Did: Filled in `Efforts/Efforts.md` and the four state folder notes with wikilinks to every current effort.
 - Found: An untracked `Devices/` folder (Barrett, Codec, Frontier, Name Pool…) is at the vault root. Left it alone and uncommitted.

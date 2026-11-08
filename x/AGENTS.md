@@ -89,3 +89,5 @@ Keep it to a few lines. That's how the next agent, and Dave, pick up where you l
 | ChatGPT (Plus) | Controls the always-on laptop and reads the vault folder | Computer tasks, research, drafting |
 | ChatGPT Codex (CLI) | Installed on this Mac (`codex`, signed in with Dave's ChatGPT account). Claude Code can hand it tasks with `codex exec --sandbox read-only -C "/Users/davidarechiga/Constellation" "<task>"`. Read-only by default; use `--sandbox workspace-write` only when Dave asks for a change. It follows these rules, including no git | Second opinions, research, drafting, tasks Dave wants ChatGPT on |
 | Gemini (Pro) | Not set up yet | TBD |
+
+Any AI that can't read the vault (ChatGPT on the web or phone, the Claude app, Gemini) gets the short version of these rules from [[AI Instructions]]. Dave pastes it at the start of a chat or saves it as that tool's custom instructions.
