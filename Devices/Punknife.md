@@ -1,9 +1,9 @@
 ---
 type: device
-assigned-name: Kepler R
+assigned-name: Punknife
 device-type: iPad mini
-franchise: Starfield
-name-source: Ship
+franchise: Cyberpunk 2077
+name-source: Object
 placement: carried
 account: personal
 status: rename-pending
@@ -14,9 +14,9 @@ acquired:
 tags: [device, naming]
 ---
 
-# Kepler R
+# Punknife
 
 Small, punches above its size class.
 
 ## Log
--
+- 2026-11-07: Name changed from Kepler R to Punknife.

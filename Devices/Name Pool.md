@@ -16,6 +16,7 @@ Unassigned names. When one gets used, delete the row and create a device note.
 | New Atlantis | Starfield | Location | main workstation |
 | Star Eagle | Starfield | Ship | carried |
 | Wanderwell | Starfield | Ship | carried |
+| Kepler R | Starfield | Ship | carried |
 | Deimos | Starfield | Corporation | peripherals |
 | HopeTown | Starfield | Location | stationary |
 | Sarah Morgan | Starfield | Character | carried |
