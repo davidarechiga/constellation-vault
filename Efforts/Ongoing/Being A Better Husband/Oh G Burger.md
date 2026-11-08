@@ -4,7 +4,7 @@ tags: [restaurant, camille]
 ---
 # Oh G Burger
 
-Camille wants to go here.
+Camille wants to go here. Part of [[Camille]].
 
 - **What:** Smash burgers with a Korean twist (from the team behind Ohgane Korean BBQ). Burgers, fries, shakes, beer.
 - **Where:** Montclair (Oakland) and Hayward
