@@ -34,5 +34,13 @@ From the [[Camille - Master Note]] (archive):
 - Fall: carve a pumpkin, go apple picking ([[Fall Activities]])
 - Things Dave wants to share with her: car shows, county fairs, concerts, theatre, movies, bike riding, DDR at the arcade ([[Activities I love and want to share with Camille!]])
 
-## From the archive
-The old Camille folder is at `Starting Over Archive/E - The Foundry/Ongoing/2 🥰 Camille/`. Useful notes there: [[Relationship - Camille]] (Fair Play "Marriage & Romance" card, at least one intentional date a week), [[Daily Check-in Questions]], [[15 Min Daily Check-In with Camille]].
+## Notes in this folder
+- [[Relationship - Camille]]: Fair Play "Marriage & Romance" card, at least one intentional date a week
+- [[Camille - Master Note]]: what matters to her, how we work together
+- [[15 Min Daily Check-In with Camille]] and [[Daily Check-in Questions]]
+- [[All the Reasons Why...]]
+- [[Things I can do to light Camilles eyes up]], [[plan to make camille feel special]], [[What to make for Camille]]
+- [[What Can I Help Camille With]]
+- [[Activities I love and want to share with Camille!]], [[Fall Activities]]
+
+The old folder (`Starting Over Archive/E - The Foundry/Ongoing/2 🥰 Camille/`) is retired. What's left there is older or private (couples therapy, intimacy, gifts, payments) and stays archived.
