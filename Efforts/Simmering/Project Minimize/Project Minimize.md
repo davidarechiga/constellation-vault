@@ -24,6 +24,10 @@ About 8 months from Nov 7, 2026.
 - **May to Jun 2027:** Last round. Give away or donate whatever didn't sell.
 - **July 2027:** Move.
 
+## Step 1: Inventory
+
+List everything, room by room, in [[Minimize Inventory]]. Tag each item keep, sell, give, or ?. Items tagged sell go into the table below once they're ready to list.
+
 ## Decide with Camille
 
 - What we're definitely keeping
