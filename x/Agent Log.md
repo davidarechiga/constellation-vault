@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-07 · Claude Code (Efforts index)
+- Did: Filled in `Efforts/Efforts.md` and the four state folder notes with wikilinks to every current effort.
+- Found: An untracked `Devices/` folder (Barrett, Codec, Frontier, Name Pool…) is at the vault root. Left it alone and uncommitted.
+- Open / needs Dave: Where `Devices/` belongs (vault root should hold only ACE folders).
+
 ### 2026-11-07 · Claude Code (Project Minimize)
 - Did: Started [[Project Minimize]] in `Efforts/Simmering/`: sell and give away as much as possible before the ~July 2027 move (Camille graduates).
 - Decided: Stays Simmering until the Fall term ends; the main push starts Jan 2027. School catch-up is still #1.
