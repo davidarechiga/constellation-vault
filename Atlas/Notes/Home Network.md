@@ -21,7 +21,7 @@ How the house is connected. Fill in as we go; blank is fine. Devices live in [[D
 
 ## Command center
 
-- [[Razorleaf]] (MacBook Pro): where Claude Code runs and the vault is managed.
+- [[Razorleaf]] (MacBook Pro): below the living room TV, always open. Reached through Claude and VNC (Screens 5). Claude Code runs here and the vault is managed here.
 
 ## Always-on server
 
