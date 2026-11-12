@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-12 · Claude Code (24/7 Live TV scope)
+- Did: Studied spelunkertv.online (looping playlists on a shared clock, a guide computed in the browser). Rewrote [[24-7 Live TV]] with Dave's scope.
+- Decided: Household-only and private, never public. Its purpose is controlling what Cyrus watches: a mix of DVDs, VHS, CDs, records and home videos, away from all-you-can-eat streaming. Stays Simmering.
+- Open / needs Dave: Custom site vs ErsatzTV or Tunarr; how to digitize the media; which device Cyrus watches on.
+
 ### 2026-11-12 · Claude Code (24/7 Live TV)
 - Did: Added [[24-7 Live TV]] to `Efforts/Simmering/` (build a 24/7 live TV channel on the Mac mini, [[The Lodge]]). Linked from `Efforts.md` and `Simmering.md`.
 - Decided: Simmering, not On, because school catch-up is still #1 in [[Priorities]].

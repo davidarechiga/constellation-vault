@@ -9,22 +9,34 @@ related:
 
 # 24/7 Live TV
 
-Build a 24/7 live TV channel that runs on the Mac mini ([[The Lodge]]).
+A private, 90s-style cable TV channel lineup on the Mac mini ([[The Lodge]]), so Dave controls what Cyrus watches instead of all-you-can-eat streaming.
 
 ## Goal
 
-A channel that streams around the clock without Dave touching it.
+Old-school cable with a TV guide: a fixed schedule, a few channels, no endless scroll. Less algorithm, more attention span.
+
+## Decisions (Nov 12, 2026)
+
+- **Household only.** Nothing is public. Home videos stay private, always. The site is reachable only on the home network (or behind a password).
+- **Content:** a mix of DVDs, VHS tapes, CDs, records and home videos, plus Sprawling visuals. Some channels are home videos on repeat.
+- **Look:** a retro TV guide grid, channel up/down, static between channels. Reference site: spelunkertv.online (the layout and behavior are the inspiration; build from scratch, don't copy its code, fonts or branding, and leave out ads and tracking).
+
+## How it works (from studying the reference)
+
+- Each channel is a looping playlist. All channels share one clock, so a show is already in progress when you tune in.
+- The guide is computed in the browser from the clock and each video's length.
+- Player is a plain HTML5 video element.
 
 ## Open questions
 
-- What's on the channel? (Sprawling visuals, music, lore shorts, something else?)
-- Where does it stream to? (YouTube, Twitch, own server?)
-- Software for the playout loop (OBS, ffmpeg, a playout tool)?
-- Does it run on macOS or wait for the Linux conversion planned for The Lodge?
+- Which software: build a small custom site, or start from ErsatzTV or Tunarr (free tools that make scheduled channels from your own files) and style the guide?
+- How to digitize: DVD rips, a VHS capture setup, CD and record audio. Audio-only channels need something to show on screen.
+- Which device Cyrus watches on (TV, Apple TV, iPad?).
+- macOS or wait for The Lodge's Linux conversion.
 
 ## Next step
 
-Decide what the channel shows. Nothing else is blocked on school, so this stays Simmering until the Fall term ends.
+Pick the software approach. Nothing here beats school catch-up, so this stays Simmering until the Fall term ends.
 
 ## Log
 -
