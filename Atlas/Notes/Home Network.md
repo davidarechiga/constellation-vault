@@ -25,6 +25,8 @@ How the house is connected. Fill in as we go; blank is fine. Devices live in [[D
 
 ## Always-on server
 
+- Note: The Lodge is listed for sale on Facebook Marketplace (Nov 12, 2026). Update this section if it sells or comes off.
+
 - [[The Lodge]] (Mac mini): where it sits, wired or Wi-Fi:
 
 ## TVs and players

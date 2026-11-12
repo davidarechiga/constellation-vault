@@ -32,7 +32,7 @@ Old-school cable with a TV guide: a fixed schedule, a few channels, no endless s
 - Which software: build a small custom site, or start from ErsatzTV or Tunarr (free tools that make scheduled channels from your own files) and style the guide?
 - How to digitize: DVD rips, a VHS capture setup, CD and record audio. Audio-only channels need something to show on screen.
 - Which device Cyrus watches on (TV, Apple TV, iPad?).
-- macOS or wait for The Lodge's Linux conversion.
+- Which machine is the server. [[The Lodge]] is listed for sale (Nov 12), and [[Razorleaf]] is always on below the living room TV. Razorleaf could run the first test.
 
 ## Next step
 
