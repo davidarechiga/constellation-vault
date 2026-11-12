@@ -14,7 +14,7 @@ How the house is connected. Fill in as we go; blank is fine. Devices live in [[D
 ## Internet and router
 
 - Provider:
-- Router/modem (make, model):
+- Router/modem (make, model): eero (which models and how many: TBD)
 - Where it sits:
 - Wi-Fi name(s):
 - Admin login stored in: (password manager, not here)
@@ -28,6 +28,10 @@ How the house is connected. Fill in as we go; blank is fine. Devices live in [[D
 | Room | TV | Player/box | Wired or Wi-Fi |
 |---|---|---|---|
 | | | | |
+
+## Ideas (not started)
+
+- Network tracker app: list every device on the network. eero has no official API, so the likely route is scanning from [[The Lodge]] (arp-scan or nmap). Parked until school is caught up.
 
 ## Notes
 
