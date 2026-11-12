@@ -39,7 +39,7 @@ How the house is connected. Fill in as we go; blank is fine. Devices live in [[D
 
 - Network tracker app: list every device on the network. eero has no official API, so the likely route is scanning from [[The Lodge]] (arp-scan or nmap). Parked until school is caught up.
 
-- RAID NAS: holds media and shared drives, replaces external drives on [[Razorleaf]]. Could later host the [[24-7 Live TV]] server. RAID is not a backup, so home videos also need a second copy off-site or in the cloud. Parked; research models and prices before buying.
+- RAID NAS: holds media and shared drives, replaces external drives on [[Razorleaf]]. Could later host the [[24-7 Live TV]] server. RAID is not a backup, so home videos also need a second copy off-site or in the cloud. Current data: 3-5 TB (Nov 12, 2026). Target 12-16 TB usable; leaning 2-bay RAID 1 with two matching drives. Keep the existing external drives as the second copy. Parked; research models and prices before buying.
 
 ## Notes
 
