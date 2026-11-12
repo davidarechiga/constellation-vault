@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-12 · Claude Code (24/7 Live TV)
+- Did: Added [[24-7 Live TV]] to `Efforts/Simmering/` (build a 24/7 live TV channel on the Mac mini, [[The Lodge]]). Linked from `Efforts.md` and `Simmering.md`.
+- Decided: Simmering, not On, because school catch-up is still #1 in [[Priorities]].
+- Open / needs Dave: What the channel shows and where it streams. Say if it should be On instead.
+
 ### 2026-11-10 · Claude
 - Did: Talked through aversion to seafood smell on Cyrus
 - Decided: Keep seafood in his diet; handle the smell with soap-and-water cleanup, not menu changes

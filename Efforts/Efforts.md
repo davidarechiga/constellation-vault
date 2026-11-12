@@ -13,6 +13,7 @@ No end date; part of everyday life.
 ## [[Simmering]]
 Started or planned, not getting much time yet.
 - [[Project Minimize]]: sell and give away as much as we can before the ~July 2027 move. Main push starts Jan 2027.
+- [[24-7 Live TV]]: build a 24/7 live TV channel on the Mac mini ([[The Lodge]]).
 
 ## [[Sleeping]]
 Paused on purpose.
