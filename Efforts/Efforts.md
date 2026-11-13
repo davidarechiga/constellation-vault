@@ -11,7 +11,7 @@ No end date; part of everyday life.
 - [[Being A Better Husband]]: [[Camille]] notes, repair check-ins, date ideas.
 
 ## [[Simmering]]
-Started or planned, not getting much time yet.
+Started or planned, not getting much time yet. Also the project inbox for new ideas.
 - [[Project Minimize]]: sell and give away as much as we can before the ~July 2027 move. Main push starts Jan 2027.
 
 ## [[Sleeping]]
