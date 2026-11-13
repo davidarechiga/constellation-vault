@@ -4,7 +4,8 @@
 
 ### 2026-11-12 · Claude Code (Simmering inbox)
 - Did: Made [[Simmering]] the project inbox (updated its note and [[Efforts]]). Tried a separate Projects Inbox folder, then reverted it as redundant with `+ Inbox/`. Stopped tracking `.obsidian/` in git and added it to `.gitignore`.
-- Decided: New project ideas go to `+ Inbox/`, then into Simmering; they move to On or Ongoing when they get real.
+- Decided: New project ideas go to `+ Inbox/`, then into Simmering; they move to On or Ongoing when they get real. Added the one-task-per-Claude-Code-session rule to `x/AGENTS.md` and `.claude/CLAUDE.md` so context windows don't bloat; also documented Simmering as the project inbox and `.obsidian/` as untracked.
+- Open / needs Dave: Brainstorm scheduled tasks for the vault in a fresh session.
 
 ### 2026-11-12 · Claude Code (Home Network)
 - Did: Added `Atlas/Notes/Home Network.md` (router, command center, server, TVs table; network tracker idea parked). Corrected [[Razorleaf]]: it is the MacBook Pro (M1 Max, 32 GB, macOS 26.5.2) that Claude Code runs on, not an iPad.
