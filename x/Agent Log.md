@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-13 · Claude Code (mixing and mastering cheat sheet)
+- Did: Dave shared a Mastering.com sales page (Mixing & Mastering Cheat Sheet Binder). Their content is proprietary and wasn't in the PDF, so I wrote an original personal version: `Atlas/Notes/Mixing and Mastering Cheat Sheet.md` (prep, mix order, EQ, compression, reverb, vocals, problems, mastering, loudness).
+- Decided: Personal reference only, not a product. Not a copy of theirs. No printable binder or sales page.
+- Open / needs Dave: Check that the starting points match how he actually mixes and tune them. Drift note: school catch-up is still priority #1.
+
 ### 2026-11-12 · Claude Code (school catch-up walkthrough)
 - Did: Built a catch-up plan from a ChatGPT read-only Canvas report (Nov 10) and walked Dave through BUS 10 Appendix A with short question-and-answer steps (dispute settling, contract requirements, breach remedies). Added the Nov 10 Canvas status and book page map to [[Catch Up Plan]], and drafted [[SMM Late Work Email Draft]] (not sent).
 - Decided: One small step at a time, and Dave writes all graded work. Order was Nov 11 deadlines first (SWOT 100 pts, Exam #2 50 pts), then Exam #1, Hondo, Module 3 quiz, UGC, SMM. Listening to the book (ElevenReader) is fine for study time while watching Cyrus.
