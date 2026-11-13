@@ -145,4 +145,7 @@ Goal: translate the mix across systems and set the final level. Small moves only
 ## Related
 
 - [[Sprawling]]
+- [[Genre Production Guide]]
+- [[Plugin Inventory and Best Practices]]
+- [[Samples and Splice Workflow]]
 - Release project: "Only Talks 2 Ghosts" (see [[Priorities]])
