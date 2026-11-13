@@ -19,4 +19,4 @@ tags: [device, naming]
 Home base. Linux conversion / self-hosting.
 
 ## Log
--
+- 2026-11-12: Listed for sale on Facebook Marketplace; Muse manages the listing. No hits yet. Dave is open to taking it off the market. Tied to [[Project Minimize]] and [[24-7 Live TV]].
