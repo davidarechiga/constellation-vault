@@ -1,0 +1,40 @@
+# Home dashboard: tasks. Embedded in [[Home]].
+
+filters:
+  and:
+    - file.hasTag("task")
+    - status != "done"
+
+views:
+  - type: tasknotesTaskList
+    name: "Overdue and Today"
+    filters:
+      or:
+        - "(due.isEmpty() == false) && date(due) <= today()"
+        - "(scheduled.isEmpty() == false) && date(scheduled) <= today()"
+    order:
+      - status
+      - priority
+      - due
+      - scheduled
+      - projects
+      - file.name
+    sort:
+      - column: due
+        direction: ASC
+  - type: tasknotesTaskList
+    name: "Next 7 Days"
+    filters:
+      or:
+        - "(due.isEmpty() == false) && date(due) > today() && date(due) <= today() + \"7 days\""
+        - "(scheduled.isEmpty() == false) && date(scheduled) > today() && date(scheduled) <= today() + \"7 days\""
+    order:
+      - status
+      - priority
+      - due
+      - scheduled
+      - projects
+      - file.name
+    sort:
+      - column: due
+        direction: ASC
