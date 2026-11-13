@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-12 · Claude Code (school catch-up walkthrough)
+- Did: Built a catch-up plan from a ChatGPT read-only Canvas report (Nov 10) and walked Dave through BUS 10 Appendix A with short question-and-answer steps (dispute settling, contract requirements, breach remedies). Added the Nov 10 Canvas status and book page map to [[Catch Up Plan]], and drafted [[SMM Late Work Email Draft]] (not sent).
+- Decided: One small step at a time, and Dave writes all graded work. Order was Nov 11 deadlines first (SWOT 100 pts, Exam #2 50 pts), then Exam #1, Hondo, Module 3 quiz, UGC, SMM. Listening to the book (ElevenReader) is fine for study time while watching Cyrus.
+- Open / needs Dave: Exam #2 and the SWOT were due Nov 11; I don't know if they got done. Exam #2 may also include OpenStax Chapter 6 (page 201); check the syllabus. Appendix A still to cover: internet regulation, consumer protection and taxes (PDF pp 623-625). Email to the SMM instructors still needs his review and send. The OpenStax PDF (148 MB) sits in the Intro To Business folder in the main vault; it isn't tracked in git.
+
 ### 2026-11-12 · Claude Code (Simmering inbox)
 - Did: Made [[Simmering]] the project inbox (updated its note and [[Efforts]]). Tried a separate Projects Inbox folder, then reverted it as redundant with `+ Inbox/`. Stopped tracking `.obsidian/` in git and added it to `.gitignore`.
 - Decided: New project ideas go to `+ Inbox/`, then into Simmering; they move to On or Ongoing when they get real. Added the one-task-per-Claude-Code-session rule to `x/AGENTS.md` and `.claude/CLAUDE.md` so context windows don't bloat; also documented Simmering as the project inbox and `.obsidian/` as untracked.
