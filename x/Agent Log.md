@@ -2,6 +2,10 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-12 · Claude Code (Simmering inbox)
+- Did: Made [[Simmering]] the project inbox (updated its note and [[Efforts]]). Tried a separate Projects Inbox folder, then reverted it as redundant with `+ Inbox/`. Stopped tracking `.obsidian/` in git and added it to `.gitignore`.
+- Decided: New project ideas go to `+ Inbox/`, then into Simmering; they move to On or Ongoing when they get real.
+
 ### 2026-11-12 · Claude Code (Home Network)
 - Did: Added `Atlas/Notes/Home Network.md` (router, command center, server, TVs table; network tracker idea parked). Corrected [[Razorleaf]]: it is the MacBook Pro (M1 Max, 32 GB, macOS 26.5.2) that Claude Code runs on, not an iPad.
 - Open / needs Dave: eero count and models. Razorleaf is still marked `placement: carried`; change if it stays put. Everything on the 24/7 TV and network tracker waits until school catch-up is done.
