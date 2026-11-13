@@ -1,9 +1,0 @@
-{
-  "remoteServer": "ws://100.100.154.111:8765",
-  "vaultPath": "/Users/davidarechiga/Constellation",
-  "defaultFolder": "",
-  "enableRemoteAccess": true,
-  "autoStartServer": true,
-  "yoloMode": false,
-  "mobileFontSize": 16
-}

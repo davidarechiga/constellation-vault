@@ -20,3 +20,6 @@
 
 # Too big for GitHub (>100 MB); lives in the vault via Obsidian Sync only
 Efforts/On/BCC Fall 2026/Intro To Business/Introduction_to_Business_2e_-_WEB.pdf
+
+# Obsidian settings and plugins sync via Obsidian Sync, not git
+.obsidian/
