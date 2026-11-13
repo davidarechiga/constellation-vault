@@ -2,6 +2,10 @@
 
 Active work, sorted by how hot it is. Updated Nov 7, 2026.
 
+## [[Projects Inbox]]
+New project ideas waiting to be sorted into a state below.
+- (empty)
+
 ## [[On]]
 Getting real time right now.
 - [[BCC Fall 2026]]: finish the term with passing grades in [[Intro To Business]] (BUS 10) and [[Social Media Marketing]]. Catch-up: [[Catch Up Plan]].
