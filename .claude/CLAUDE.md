@@ -13,8 +13,9 @@ Rules for any AI agent working in this vault:
 - `+ Inbox/` is the only intake. Process inbox items by moving them to:
   - `Atlas/Notes/`: atomic knowledge
   - `Atlas/Sources/`: reference material
-  - `Efforts/<state>/` (`On`, `Ongoing`, `Simmering`, `Sleeping`): active work
+  - `Efforts/<state>/` (`On`, `Ongoing`, `Simmering`, `Sleeping`): active work. New project ideas go to `Simmering/`, which is the project inbox.
   - `Calendar/Daily/`: date-based notes
 - Never delete notes. If unsure where something goes, leave it in `+ Inbox/` and flag it.
+- One task per Claude Code session (see `x/AGENTS.md`). Finish, commit, push, log, then suggest archiving.
 - Never modify `.obsidian/` without explicit instruction.
 - Every folder has a folder note named after it (`Atlas/Atlas.md`, `+ Inbox/+ Inbox.md`, etc.). Keep them, even when empty. They'll become that folder's index, overview and progress tracker. When processing the inbox, skip `+ Inbox.md`.
