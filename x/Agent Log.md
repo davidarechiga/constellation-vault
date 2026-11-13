@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-12 · Claude Code (Home dashboard)
+- Did: Built `x/Home/Home.md` (folder note + dashboard) with two Bases, `Home Tasks.base` and `Home Notes.base`, embedded as sections. Turned on the Homepage plugin (added to `community-plugins.json`, pointed its `data.json` at `x/Home/Home`, Reading view).
+- Decided: Note with embedded Bases instead of a canvas, because Bases inside canvas nodes weren't verifiable here and the note scrolls well on the phone.
+- Open / needs Dave: TaskNotes `tasksFolder` still points at the pre-reset `E - The Foundry/Tasks/Inbox`, so new tasks would land in a stray folder. `obsidian-git` is still listed in `community-plugins.json` though it must stay off. Work was done on a worktree branch, so it must be merged to `main` to appear in Obsidian.
+
 ### 2026-11-10 · Claude
 - Did: Talked through aversion to seafood smell on Cyrus
 - Decided: Keep seafood in his diet; handle the smell with soap-and-water cleanup, not menu changes
