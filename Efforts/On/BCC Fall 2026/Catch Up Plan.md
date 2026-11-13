@@ -1,5 +1,32 @@
 # School Catch-Up Prep Packet
 
+## Canvas status: Tue Nov 10 (read-only report from ChatGPT; newer than the Nov 2 section below)
+
+**BUS 10** (nothing started or opened by the report):
+
+| Due | Item | Pts | Status |
+|-----|------|-----|--------|
+| Oct 10 | Exam #1 | 50 | Missing, still unlocked |
+| Oct 12 | Module 3 Practice Quiz | 10 | Missing, still unlocked |
+| Oct 12 | Hondo case discussion | 25 | Missing, still open (timeliness is only 2 of 25 rubric points) |
+| **Wed Nov 11, 11:59pm** | Personal SWOT / 1- and 3-year goals | 100 | Not started |
+| **Wed Nov 11, 11:59pm** | Exam #2 | 50 | Not started. Open now, one attempt, one sitting, 75-120 min. Covers official Chapters 4, 5, 6 + Appendix A |
+
+Veterans Day did not move either Nov 11 deadline. The 95.33% shown in Canvas counts graded work only, so it hides the missing items. New: Shark Tank team roster (Surfing Hostel in Bocas del Toro, with Itai Weinberg).
+
+**Social Media Marketing** (10 pts each, all open until Dec 19):
+
+| Due | Item | Status |
+|-----|------|--------|
+| Oct 26 | Intro to SMM and Twitter | Missing. Syllabus: more than two weeks late is not accepted |
+| Nov 9 | User Generated Content and Social Good | Missing. One week late costs one letter grade |
+| Nov 10 | Virality and Memes | Due Nov 10, 11:59pm. Not started when the report ran |
+| Nov 17 | Google Trends and Niche Markets | Not started (new since Nov 2) |
+
+Draft email asking the SMM instructors to accept late work: [[SMM Late Work Email Draft]].
+
+**Book (OpenStax, PDF in the Intro To Business folder):** Appendix A = "Understanding the Legal and Tax Environment", PDF pages 613-625. Chapter 2 starts p67, Chapter 4 p129, Chapter 5 p165, Chapter 6 p201. Printed page numbers run 14 lower than PDF pages.
+
 ## Canvas status: Mon Nov 2, 3:30pm (checked live by Claude)
 
 **BUS 10** (live Zoom Mon/Wed 6:30pm). 95% on everything turned in, but 3 items (85 pts) are missing and none are locked yet. Counting them as zeros puts you around 35%.
