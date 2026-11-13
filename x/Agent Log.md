@@ -5,7 +5,7 @@
 ### 2026-11-13 · Claude Code (genre research, plugin scan, Splice)
 - Did: Scanned `/Library/Audio/Plug-Ins` and wrote three notes in `Atlas/Notes/`: [[Plugin Inventory and Best Practices]], [[Genre Production Guide]] (electronic, UK garage, bass, shoegaze, pop-punk, emo, post-hardcore) and [[Samples and Splice Workflow]]. Linked from [[Mixing and Mastering Cheat Sheet]].
 - Decided: Sources are mostly tutorials and magazines; emo and post-hardcore specifics are thin online and flagged as such. Plugins whose vendor or function I couldn't verify are listed as "not sure" instead of guessed.
-- Open / needs Dave: Open the "not sure" plugins once and note what they do. Confirm Splice plan and where downloads live (`~/Splice/sounds` was empty). School catch-up is still priority #1.
+- Open / needs Dave: Dave is moving plugins from a shared drive to local, so the inventory in [[Plugin Inventory and Best Practices]] needs a rescan once that's done (banner added to the note). Open the "not sure" plugins once and note what they do. Confirm Splice plan and where downloads live (`~/Splice/sounds` was empty). School catch-up is still priority #1.
 
 ### 2026-11-13 · Claude Code (mixing and mastering cheat sheet)
 - Did: Dave shared a Mastering.com sales page (Mixing & Mastering Cheat Sheet Binder). Their content is proprietary and wasn't in the PDF, so I wrote an original personal version: `Atlas/Notes/Mixing and Mastering Cheat Sheet.md` (prep, mix order, EQ, compression, reverb, vocals, problems, mastering, loudness).

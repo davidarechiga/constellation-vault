@@ -6,6 +6,8 @@ created: 2026-11-13
 
 # Plugin Inventory and Best Practices
 
+> **Stale soon (Nov 13, 2026):** Dave is moving his plugins from a shared drive to local storage. Rescan `/Library/Audio/Plug-Ins` after the move and rebuild the inventory. The best-practices section should still hold.
+
 What's installed on Dave's Mac (scanned Nov 13, 2026 from `/Library/Audio/Plug-Ins`) and which plugin to reach for first. Companion to [[Mixing and Mastering Cheat Sheet]], [[Genre Production Guide]] and [[Samples and Splice Workflow]].
 
 **Main DAW:** Logic Pro (projects in `~/Music/Logic`, including "OT2G Premix Mastering"). An `Ableton` folder exists too, but no Ableton app is installed. Formats installed: AU, VST3, VST, AAX, CLAP (MiniMeters only).
