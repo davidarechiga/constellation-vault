@@ -3,13 +3,13 @@ tags:
   - task
   - baby
 title: Infant Care Basics Practice
-status: open
+status: in-progress
 priority: normal
 due: 2026-03-01
 owner: Shared
 projects:
   - "[[1 Baby Prep - Cyrus]]"
-dateModified: 2026-03-08T11:56:45.112-07:00
+dateModified: 2026-11-13T12:19:31.652-08:00
 ---
 
 # Infant Care Basics Practice

@@ -3,12 +3,14 @@ tags:
   - task
   - music
 title: Set Up LANDR Distribution
-status: open
+status: done
 priority: high
 due: 2026-03-01
 owner: David
 projects:
   - "[[Starting Over Archive/E - The Foundry/Tasks/Music Releases/Music Releases]]"
+dateModified: 2026-11-13T12:19:26.820-08:00
+completedDate: 2026-11-13
 ---
 
 # Set Up LANDR Distribution
