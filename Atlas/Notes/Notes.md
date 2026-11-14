@@ -1,1 +1,2 @@
 - [[Home Network]]: how the house is connected: router, Wi-Fi, server, TVs
+- [[Mixing and Mastering Guide]]: step-by-step workflow for mixing and mastering a track, built from the Mastering.com binder
