@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-13 · Claude Code (Mixing and Mastering Guide)
+- Did: Built [[Mixing and Mastering Guide]] (Atlas/Notes) from Dave's paid Mastering.com binder, reworded with page refs, plus a source note [[Mixing and Mastering Cheat Sheet Binder]] (Atlas/Sources) with the share-drive locations. The PDFs are in `Storage 2TB/Music Production & Performance/` (Docs/ and the root). Extracted text with PDFKit via a Swift script; poppler isn't installed and wasn't needed.
+- Decided: Guide v1 covers the binder's full mix and master workflow and tools. Kept to Atlas/Notes, no new folders. Snapshotted Dave's pending edits in their own commit first.
+- Open / needs Dave: Not yet digested: the Music Production binder (50 pp) and *The Mixing Engineer's Handbook* (313 pp). Next sessions: an Ableton version of the workflow, then handbook notes. School catch-up is still #1 in [[Priorities]].
+
 ### 2026-11-12 · Claude Code (school catch-up walkthrough)
 - Did: Built a catch-up plan from a ChatGPT read-only Canvas report (Nov 10) and walked Dave through BUS 10 Appendix A with short question-and-answer steps (dispute settling, contract requirements, breach remedies). Added the Nov 10 Canvas status and book page map to [[Catch Up Plan]], and drafted [[SMM Late Work Email Draft]] (not sent).
 - Decided: One small step at a time, and Dave writes all graded work. Order was Nov 11 deadlines first (SWOT 100 pts, Exam #2 50 pts), then Exam #1, Hondo, Module 3 quiz, UGC, SMM. Listening to the book (ElevenReader) is fine for study time while watching Cyrus.
