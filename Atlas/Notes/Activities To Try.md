@@ -16,4 +16,6 @@ Entry format: `- [ ] **Name** · where · who with · cost · when/deadline · [
 
 ## Ideas
 
+- [ ] **Go kart racing** · who with: solo or with friends (not Cyrus-friendly yet)
+
 ## Done
