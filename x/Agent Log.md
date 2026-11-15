@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-14 · Claude Code (activity-capture skill)
+- Did: Added the `activity-capture` skill (`.claude/skills/activity-capture/SKILL.md`, `/activity`) and the list it writes to, [[Activities To Try]] (Atlas/Notes). Capture is one line per entry in Booked / Soon / Ideas / Done.
+- Decided: Capture first; research and booking help only on request. Never books, pays or sends for Dave. One note, no new folders. Uses the new vault layout, not the old ACE paths.
+- Open / needs Dave: Try it on a real idea. Say if you want fields added or a calendar hook.
+
 ### 2026-11-13 · Claude Code (Mixing and Mastering Guide)
 - Did: Built [[Mixing and Mastering Guide]] (Atlas/Notes) from Dave's paid Mastering.com binder, reworded with page refs, plus a source note [[Mixing and Mastering Cheat Sheet Binder]] (Atlas/Sources) with the share-drive locations. The PDFs are in `Storage 2TB/Music Production & Performance/` (Docs/ and the root). Extracted text with PDFKit via a Swift script; poppler isn't installed and wasn't needed.
 - Decided: Guide v1 covers the binder's full mix and master workflow and tools. Kept to Atlas/Notes, no new folders. Snapshotted Dave's pending edits in their own commit first.
