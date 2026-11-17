@@ -1,618 +1,387 @@
 {
  "nodes": [
   {
-   "id": "n1",
+   "id": "title",
    "type": "text",
-   "x": 1922,
+   "x": 642,
    "y": 0,
-   "width": 400,
-   "height": 130,
-   "text": "# Bocas del Toro Surf Hostel\nBUS 10 Shark Tank project\nTeam: Dave + Itai",
+   "width": 500,
+   "height": 100,
+   "text": "# Bocas del Toro Surf Hostel\nLink map: notes, research and sources",
    "color": "6"
   },
   {
-   "id": "g-deliverables",
+   "id": "g0",
    "type": "group",
    "x": 0,
-   "y": 0,
-   "width": 436,
-   "height": 456,
-   "label": "Deliverables",
-   "color": "1"
+   "y": 140,
+   "width": 416,
+   "height": 586,
+   "label": "Start here",
+   "color": "4"
+  },
+  {
+   "id": "n1",
+   "type": "file",
+   "x": 18,
+   "y": 158,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Shark Tank Project Steps.md",
+   "color": "4"
   },
   {
    "id": "n2",
    "type": "text",
    "x": 18,
-   "y": 18,
-   "width": 400,
-   "height": 102,
-   "text": "## 3 Deliverables\n70% of points: exec summary, financials, presentation, 2 marketing sections",
-   "color": "1"
+   "y": 244,
+   "width": 380,
+   "height": 44,
+   "text": "26 steps in order, with owners (Dave / Itai / both)"
   },
   {
    "id": "n3",
-   "type": "text",
+   "type": "file",
    "x": 18,
-   "y": 132,
-   "width": 400,
-   "height": 78,
-   "text": "**Written plan** — Word/PDF, ≤10 pages, 10–12 pt, ≤1.5 spacing, APA"
+   "y": 298,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/BUS 10 Shark Tank Business Plan Project — Complete Working Summary.md",
+   "color": "4"
   },
   {
    "id": "n4",
    "type": "text",
    "x": 18,
-   "y": 222,
-   "width": 400,
-   "height": 102,
-   "text": "**Financial spreadsheet** — instructor's Excel template: startup costs + Y1 income statement"
+   "y": 384,
+   "width": 380,
+   "height": 44,
+   "text": "Canvas requirements: 3 deliverables, plan sections, open questions"
   },
   {
    "id": "n5",
-   "type": "text",
+   "type": "link",
    "x": 18,
-   "y": 336,
-   "width": 400,
-   "height": 102,
-   "text": "**Investor pitch** — Shark Tank style, slides; 10 min core, expandable to 15 (confirm)"
-  },
-  {
-   "id": "g-plan-sections",
-   "type": "group",
-   "x": 0,
-   "y": 526,
-   "width": 436,
-   "height": 640,
-   "label": "Plan sections",
+   "y": 438,
+   "width": 380,
+   "height": 80,
+   "url": "https://docs.google.com/document/d/1jPWvMpl7wgtXXlcuNpPOZUoGHFquloet1x8EF0edq-k/edit",
    "color": "4"
   },
   {
    "id": "n6",
    "type": "text",
    "x": 18,
-   "y": 544,
-   "width": 400,
-   "height": 78,
-   "text": "## Plan sections\n(follow this order)",
-   "color": "4"
+   "y": 524,
+   "width": 380,
+   "height": 44,
+   "text": "Shared brainstorm Google Doc: Dave / Itai / We decided"
   },
   {
    "id": "n7",
-   "type": "text",
+   "type": "file",
    "x": 18,
-   "y": 634,
-   "width": 400,
-   "height": 78,
-   "text": "I. Executive summary — **write last**, ≤1 page"
+   "y": 578,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Resources.md",
+   "color": "4"
   },
   {
    "id": "n8",
    "type": "text",
    "x": 18,
-   "y": 724,
-   "width": 400,
-   "height": 78,
-   "text": "II. Concept & background — mission, name, location, team bios"
+   "y": 664,
+   "width": 380,
+   "height": 44,
+   "text": "Drive link to the brainstorm doc"
   },
   {
-   "id": "n9",
-   "type": "text",
-   "x": 18,
-   "y": 814,
-   "width": 400,
-   "height": 78,
-   "text": "III. Product/service — features, price, USP"
-  },
-  {
-   "id": "n10",
-   "type": "text",
-   "x": 18,
-   "y": 904,
-   "width": 400,
-   "height": 64,
-   "text": "IV. Legal, management, operations"
-  },
-  {
-   "id": "n11",
-   "type": "text",
-   "x": 18,
-   "y": 980,
-   "width": 400,
-   "height": 78,
-   "text": "V. Marketing — NAICS, customers, market size, competition, sales, 4 Ps"
-  },
-  {
-   "id": "n12",
-   "type": "text",
-   "x": 18,
-   "y": 1070,
-   "width": 400,
-   "height": 78,
-   "text": "VI. Financials & risks — startup costs, P&L, the ask"
-  },
-  {
-   "id": "g-open-course-questions",
+   "id": "g1",
    "type": "group",
-   "x": 476,
-   "y": 0,
-   "width": 436,
-   "height": 480,
-   "label": "Open course questions",
-   "color": "2"
-  },
-  {
-   "id": "n48",
-   "type": "text",
-   "x": 494,
-   "y": 18,
-   "width": 400,
-   "height": 64,
-   "text": "## Open course questions",
-   "color": "2"
-  },
-  {
-   "id": "n49",
-   "type": "text",
-   "x": 494,
-   "y": 94,
-   "width": 400,
-   "height": 64,
-   "text": "Fall 2026 final deadline?"
-  },
-  {
-   "id": "n50",
-   "type": "text",
-   "x": 494,
-   "y": 170,
-   "width": 400,
-   "height": 64,
-   "text": "10 pages or 10–12?"
-  },
-  {
-   "id": "n51",
-   "type": "text",
-   "x": 494,
-   "y": 246,
-   "width": 400,
-   "height": 64,
-   "text": "Pitch 10 or 15 min?"
-  },
-  {
-   "id": "n52",
-   "type": "text",
-   "x": 494,
-   "y": 322,
-   "width": 400,
-   "height": 64,
-   "text": "One team upload or each student?"
-  },
-  {
-   "id": "n53",
-   "type": "text",
-   "x": 494,
-   "y": 398,
-   "width": 400,
-   "height": 64,
-   "text": "Peer evals? Rubric point values?"
-  },
-  {
-   "id": "g-how-we-stand-out",
-   "type": "group",
-   "x": 476,
-   "y": 550,
-   "width": 436,
-   "height": 584,
-   "label": "How we stand out",
+   "x": 456,
+   "y": 140,
+   "width": 416,
+   "height": 446,
+   "label": "Research notes",
    "color": "6"
-  },
-  {
-   "id": "n41",
-   "type": "text",
-   "x": 494,
-   "y": 568,
-   "width": 400,
-   "height": 78,
-   "text": "## How we stand out\n(ideas, not decided)",
-   "color": "6"
-  },
-  {
-   "id": "n42",
-   "type": "text",
-   "x": 494,
-   "y": 658,
-   "width": 400,
-   "height": 64,
-   "text": "Smoothie/juice bar, build-your-own bowls"
-  },
-  {
-   "id": "n43",
-   "type": "text",
-   "x": 494,
-   "y": 734,
-   "width": 400,
-   "height": 64,
-   "text": "Free breakfast, outdoor communal kitchen"
-  },
-  {
-   "id": "n44",
-   "type": "text",
-   "x": 494,
-   "y": 810,
-   "width": 400,
-   "height": 64,
-   "text": "Panamanian food nights, seafood dinners"
-  },
-  {
-   "id": "n45",
-   "type": "text",
-   "x": 494,
-   "y": 886,
-   "width": 400,
-   "height": 78,
-   "text": "Ocean-view coffee shop, surfer meal plans"
-  },
-  {
-   "id": "n46",
-   "type": "text",
-   "x": 494,
-   "y": 976,
-   "width": 400,
-   "height": 64,
-   "text": "Refill stations, late-night menu"
-  },
-  {
-   "id": "n47",
-   "type": "text",
-   "x": 494,
-   "y": 1052,
-   "width": 400,
-   "height": 64,
-   "text": "Pitch idea: short video"
-  },
-  {
-   "id": "g-team-and-roles",
-   "type": "group",
-   "x": 952,
-   "y": 0,
-   "width": 436,
-   "height": 432,
-   "label": "Team & roles",
-   "color": "5"
-  },
-  {
-   "id": "n13",
-   "type": "text",
-   "x": 970,
-   "y": 18,
-   "width": 400,
-   "height": 64,
-   "text": "## Team & roles",
-   "color": "5"
-  },
-  {
-   "id": "n14",
-   "type": "text",
-   "x": 970,
-   "y": 94,
-   "width": 400,
-   "height": 78,
-   "text": "Itai — Business & operations, Market research"
   },
   {
    "id": "n15",
-   "type": "text",
-   "x": 970,
-   "y": 184,
-   "width": 400,
-   "height": 64,
-   "text": "Dave — Finance, Design system"
+   "type": "file",
+   "x": 474,
+   "y": 158,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Bocas Hostel Research.md",
+   "color": "6"
   },
   {
    "id": "n16",
    "type": "text",
-   "x": 970,
-   "y": 260,
-   "width": 400,
-   "height": 78,
-   "text": "Both — Coordinator/editor, Marketing, Presentation"
+   "x": 474,
+   "y": 244,
+   "width": 380,
+   "height": 44,
+   "text": "Prices, tourists, surf season, occupancy, foreign ownership, rent, commissions"
   },
   {
    "id": "n17",
-   "type": "text",
-   "x": 970,
-   "y": 350,
-   "width": 400,
-   "height": 64,
-   "text": "Internal deadlines: **not set yet**"
-  },
-  {
-   "id": "g-brainstorm-worksheet",
-   "type": "group",
-   "x": 952,
-   "y": 502,
-   "width": 436,
-   "height": 664,
-   "label": "Brainstorm worksheet",
-   "color": "3"
+   "type": "file",
+   "x": 474,
+   "y": 298,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/bocas_surf_hostel_location_research.md",
+   "color": "6"
   },
   {
    "id": "n18",
    "type": "text",
-   "x": 970,
-   "y": 520,
-   "width": 400,
-   "height": 102,
-   "text": "## Brainstorm worksheet\nSections to fill (Dave / Itai / We decided)",
-   "color": "3"
+   "x": 474,
+   "y": 384,
+   "width": 380,
+   "height": 44,
+   "text": "Area comparison, surf breaks, competitors, scuba, property, ranking, gaps"
   },
   {
    "id": "n19",
-   "type": "text",
-   "x": 970,
-   "y": 634,
-   "width": 400,
-   "height": 78,
-   "text": "1. Concept — type, island, beds, extras, story, mission, name"
+   "type": "file",
+   "x": 474,
+   "y": 438,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Bocas Surf Hostel - Carenero Research.md",
+   "color": "6"
   },
   {
    "id": "n20",
    "type": "text",
-   "x": 970,
-   "y": 724,
-   "width": 400,
-   "height": 78,
-   "text": "2. Guests & problem — who, need, booking, season, length of stay"
+   "x": 474,
+   "y": 524,
+   "width": 380,
+   "height": 44,
+   "text": "Walk and boat times to breaks; Carenero properties for sale"
+  },
+  {
+   "id": "g2",
+   "type": "group",
+   "x": 912,
+   "y": 140,
+   "width": 416,
+   "height": 446,
+   "label": "Carenero property listings",
+   "color": "5"
   },
   {
    "id": "n21",
-   "type": "text",
-   "x": 970,
-   "y": 814,
-   "width": 400,
-   "height": 78,
-   "text": "3. Operations — rooms, surf services, building, island basics, staff, legal"
+   "type": "link",
+   "x": 930,
+   "y": 158,
+   "width": 380,
+   "height": 80,
+   "url": "https://www.encuentra24.com/panama-en/real-estate-for-sale-business/for-sale-b-amp-b-hotel-concession-on-isla-carenero-bocas-del-toro-6/32097415",
+   "color": "5"
   },
   {
    "id": "n22",
    "type": "text",
-   "x": 970,
-   "y": 904,
-   "width": 400,
-   "height": 64,
-   "text": "4. Competition table + USP"
+   "x": 930,
+   "y": 244,
+   "width": 380,
+   "height": 44,
+   "text": "B&B concession, $740K (Encuentra24)"
   },
   {
    "id": "n23",
-   "type": "text",
-   "x": 970,
-   "y": 980,
-   "width": 400,
-   "height": 78,
-   "text": "5. Money — prices, beds, occupancy, revenue, startup, ask, valuation"
+   "type": "link",
+   "x": 930,
+   "y": 298,
+   "width": 380,
+   "height": 80,
+   "url": "https://international-properties.unitedcountry.com/properties/bo/over-water-hotel-on-isla-carenero-bocas-del-toro/1072398/",
+   "color": "5"
   },
   {
    "id": "n24",
    "type": "text",
-   "x": 970,
-   "y": 1070,
-   "width": 400,
-   "height": 78,
-   "text": "6. Marketing — 4 Ps, first target group, NAICS"
-  },
-  {
-   "id": "g-shark-questions",
-   "type": "group",
-   "x": 1428,
-   "y": 0,
-   "width": 436,
-   "height": 674,
-   "label": "Shark questions",
-   "color": "2"
+   "x": 930,
+   "y": 384,
+   "width": 380,
+   "height": 44,
+   "text": "Over-water hotel, about $695K (United Country)"
   },
   {
    "id": "n25",
-   "type": "text",
-   "x": 1446,
-   "y": 18,
-   "width": 400,
-   "height": 78,
-   "text": "## Shark questions\n(answers mostly blank)",
-   "color": "2"
+   "type": "link",
+   "x": 930,
+   "y": 438,
+   "width": 380,
+   "height": 80,
+   "url": "https://homeslandcountrypropertyforsale.com/luxury-homes/properties/over-the-caribbean-sea-isla-carenero-bnb",
+   "color": "5"
   },
   {
    "id": "n26",
    "type": "text",
-   "x": 1446,
-   "y": 108,
-   "width": 400,
-   "height": 78,
-   "text": "Why Bocas? → prof picked it (USD economy)"
+   "x": 930,
+   "y": 524,
+   "width": 380,
+   "height": 44,
+   "text": "Over the Caribbean Sea B&B, about $620K (Homelands)"
+  },
+  {
+   "id": "g4",
+   "type": "group",
+   "x": 912,
+   "y": 656,
+   "width": 416,
+   "height": 446,
+   "label": "Class (BUS 10)",
+   "color": "1"
+  },
+  {
+   "id": "n9",
+   "type": "file",
+   "x": 930,
+   "y": 674,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Syllabus.md",
+   "color": "1"
+  },
+  {
+   "id": "n10",
+   "type": "text",
+   "x": 930,
+   "y": 760,
+   "width": 380,
+   "height": 44,
+   "text": "Syllabus: AI-written work is banned"
+  },
+  {
+   "id": "n11",
+   "type": "file",
+   "x": 930,
+   "y": 814,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Course Outline.md",
+   "color": "1"
+  },
+  {
+   "id": "n12",
+   "type": "text",
+   "x": 930,
+   "y": 900,
+   "width": 380,
+   "height": 44,
+   "text": "Course outline"
+  },
+  {
+   "id": "n13",
+   "type": "file",
+   "x": 930,
+   "y": 954,
+   "width": 380,
+   "height": 80,
+   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 Refresher.md",
+   "color": "1"
+  },
+  {
+   "id": "n14",
+   "type": "text",
+   "x": 930,
+   "y": 1040,
+   "width": 380,
+   "height": 44,
+   "text": "Class refresher"
+  },
+  {
+   "id": "g3",
+   "type": "group",
+   "x": 1368,
+   "y": 140,
+   "width": 416,
+   "height": 586,
+   "label": "Surf guides",
+   "color": "3"
   },
   {
    "id": "n27",
-   "type": "text",
-   "x": 1446,
-   "y": 198,
-   "width": 400,
-   "height": 64,
-   "text": "Flat surf / low season income?"
+   "type": "link",
+   "x": 1386,
+   "y": 158,
+   "width": 380,
+   "height": 80,
+   "url": "https://bocas-del-toro.org/activities/surfing.htm",
+   "color": "3"
   },
   {
    "id": "n28",
    "type": "text",
-   "x": 1446,
-   "y": 274,
-   "width": 400,
-   "height": 64,
-   "text": "Where do occupancy numbers come from?"
+   "x": 1386,
+   "y": 244,
+   "width": 380,
+   "height": 44,
+   "text": "Surfing at Bocas del Toro"
   },
   {
    "id": "n29",
-   "type": "text",
-   "x": 1446,
-   "y": 350,
-   "width": 400,
-   "height": 64,
-   "text": "Year-1 bookings with zero reviews?"
+   "type": "link",
+   "x": 1386,
+   "y": 298,
+   "width": 380,
+   "height": 80,
+   "url": "https://thesurfatlas.com/panama-surf/bocas-del-toro-surf/",
+   "color": "3"
   },
   {
    "id": "n30",
    "type": "text",
-   "x": 1446,
-   "y": 426,
-   "width": 400,
-   "height": 64,
-   "text": "Who runs it day to day from California?"
+   "x": 1386,
+   "y": 384,
+   "width": 380,
+   "height": 44,
+   "text": "The Surf Atlas: Bocas del Toro"
   },
   {
    "id": "n31",
-   "type": "text",
-   "x": 1446,
-   "y": 502,
-   "width": 400,
-   "height": 64,
-   "text": "Biggest risk + plan?"
+   "type": "link",
+   "x": 1386,
+   "y": 438,
+   "width": 380,
+   "height": 80,
+   "url": "https://www.tourismpanama.com/blog/post/the-best-surf-spots-in-bocas-del-toro",
+   "color": "3"
   },
   {
    "id": "n32",
    "type": "text",
-   "x": 1446,
-   "y": 578,
-   "width": 400,
-   "height": 78,
-   "text": "Why worth the valuation? What's the money for?"
-  },
-  {
-   "id": "g-next-step-and-files",
-   "type": "group",
-   "x": 1428,
-   "y": 744,
-   "width": 436,
-   "height": 370,
-   "label": "Next step and files",
-   "color": "4"
-  },
-  {
-   "id": "n56",
-   "type": "text",
-   "x": 1446,
-   "y": 762,
-   "width": 400,
-   "height": 102,
-   "text": "**Next step:** fill your Dave column in the brainstorm doc, then compare with Itai",
-   "color": "4"
-  },
-  {
-   "id": "n54",
-   "type": "file",
-   "x": 1446,
-   "y": 876,
-   "width": 400,
-   "height": 104,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/BUS 10 Shark Tank Business Plan Project — Complete Working Summary.md"
-  },
-  {
-   "id": "n55",
-   "type": "file",
-   "x": 1446,
-   "y": 992,
-   "width": 400,
-   "height": 104,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Resources.md"
-  },
-  {
-   "id": "g-research-findings",
-   "type": "group",
-   "x": 1904,
-   "y": 200,
-   "width": 436,
-   "height": 942,
-   "label": "Research findings",
-   "color": "1"
+   "x": 1386,
+   "y": 524,
+   "width": 380,
+   "height": 44,
+   "text": "Tourism Panama: best surf spots"
   },
   {
    "id": "n33",
-   "type": "text",
-   "x": 1922,
-   "y": 218,
-   "width": 400,
-   "height": 64,
-   "text": "## Research to do",
-   "color": "1"
+   "type": "link",
+   "x": 1386,
+   "y": 578,
+   "width": 380,
+   "height": 80,
+   "url": "https://en.wannasurf.com/spot/Central_America/Panama/silver_back",
+   "color": "3"
   },
   {
    "id": "n34",
    "type": "text",
-   "x": 1922,
-   "y": 294,
-   "width": 400,
-   "height": 78,
-   "text": "Dorm/private prices at Bocas hostels\n→ dorm ~$12–20, private ~$40–90"
-  },
-  {
-   "id": "n35",
-   "type": "text",
-   "x": 1922,
-   "y": 384,
-   "width": 400,
-   "height": 102,
-   "text": "Tourist numbers + busiest months\n→ Panama 3M (2025); Bocas 100K+/yr (old); peak Dec–Jan"
-  },
-  {
-   "id": "n36",
-   "type": "text",
-   "x": 1922,
-   "y": 498,
-   "width": 400,
-   "height": 78,
-   "text": "Surf season for main breaks\n→ Dec–Mar main, Jun–Aug mini"
-  },
-  {
-   "id": "n37",
-   "type": "text",
-   "x": 1922,
-   "y": 588,
-   "width": 400,
-   "height": 102,
-   "text": "Hostel occupancy rates (Panama/C. America)\n→ Bocas hotels 70.4% (2026)"
-  },
-  {
-   "id": "n38",
-   "type": "text",
-   "x": 1922,
-   "y": 702,
-   "width": 400,
-   "height": 102,
-   "text": "Foreign business ownership rules, Panama\n→ 100% foreign OK; work permit needed; no retail"
-  },
-  {
-   "id": "n39",
-   "type": "text",
-   "x": 1922,
-   "y": 816,
-   "width": 400,
-   "height": 102,
-   "text": "Rent/property costs in Bocas\n→ operating hostels $375–455K to buy; lease = gap"
-  },
-  {
-   "id": "n40",
-   "type": "text",
-   "x": 1922,
-   "y": 930,
-   "width": 400,
-   "height": 78,
-   "text": "Booking-site commission rates\n→ Hostelworld 15%, Booking ~15%"
-  },
-  {
-   "id": "research-note",
-   "type": "file",
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Bocas Hostel Research.md",
-   "x": 1922,
-   "y": 1020,
-   "width": 400,
-   "height": 104,
-   "color": "4"
+   "x": 1386,
+   "y": 664,
+   "width": 380,
+   "height": 44,
+   "text": "Silverbacks (Wannasurf)"
   }
  ],
  "edges": []
