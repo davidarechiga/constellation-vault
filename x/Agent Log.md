@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-17 · Claude Code (Skills To Learn)
+- Did: Added [[Skills To Learn]] (Atlas/Notes): one list for hobbies and skills, with an "only one Active" rule against hobby-hopping. Blender is in Parked.
+- Decided: One note, no skill and no new folders. Blender waits behind school catch-up and the album release.
+- Open / needs Dave: Pick the first small Blender project tied to a real Sprawling piece. Say if you want a `/learn` capture skill like `/activity`.
+
 ### 2026-11-16 · Claude Code (Bocas surf hostel research)
 - Did: Wrote [[Bocas Surf Hostel - Carenero Research]] (Efforts/On/BCC Fall 2026/Intro To Business): walk and boat times from Carenero to beginner, intermediate and advanced breaks, plus Carenero properties for sale. All web-sourced and unverified. Also added the property listings to the "Commercial rent" research item in the team's Google Doc brainstorm before Dave said vault only; left in place.
 - Decided: One note in the class folder, no new folders.
