@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-16 · Claude Code (Bocas surf hostel research)
+- Did: Wrote [[Bocas Surf Hostel - Carenero Research]] (Efforts/On/BCC Fall 2026/Intro To Business): walk and boat times from Carenero to beginner, intermediate and advanced breaks, plus Carenero properties for sale. All web-sourced and unverified. Also added the property listings to the "Commercial rent" research item in the team's Google Doc brainstorm before Dave said vault only; left in place.
+- Decided: One note in the class folder, no new folders.
+- Open / needs Dave: Which canvas did he mean by "folder canvas"? Only two exist (Archive Weekly.canvas, one in .trash). Say whether to remove the Google Doc line.
+
 ### 2026-11-14 · Claude Code (activity-capture skill)
 - Did: Added the `activity-capture` skill (`.claude/skills/activity-capture/SKILL.md`, `/activity`) and the list it writes to, [[Activities To Try]] (Atlas/Notes). Capture is one line per entry in Booked / Soon / Ideas / Done.
 - Decided: Capture first; research and booking help only on request. Never books, pays or sends for Dave. One note, no new folders. Uses the new vault layout, not the old ACE paths.
