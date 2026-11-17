@@ -5,7 +5,7 @@
 
 ## Bottom line
 
-After the business is selected, the class project is to form a team and develop the idea into a realistic startup. The team must research the opportunity, explain how the company would operate, model its finances, and pitch it to classmates and the instructor as potential investors.
+After the business is selected, the class project is to form a team and develop the idea into a realistic startup. The team must research the opportunity, explain how the company would operate, model its finances, and pitch it to classmates and the instructor as potential investors. 
 
 The final submission has **three separate deliverables**:
 
@@ -24,20 +24,15 @@ Canvas says the **executive summary, financial statements, presentation, and two
 - Before beginning detailed work, confirm the final business, team members, each member's responsibilities, and the team's internal deadlines.
 
 ## Deliverable 1: Written business plan
-
 ### Format
-
 - Submit as Microsoft Word or a PDF exported from Google Docs.
 - The detailed template says **no more than 10 pages**, including the cover page and table of contents.
 - Use 10–12 point font and no more than 1.5 line spacing.
 - Number all pages and include page numbers in the table of contents.
 - The separate financial spreadsheet and presentation are not included in the written-plan page count.
 - Use APA-style citations for researched information.
-
 ### Cover page
-
 The cover should say **Business Plan** and include:
-
 - Names of all team members
 - Business name
 - Business address: Berkeley City College, 2050 Center St., Berkeley, CA
@@ -45,16 +40,11 @@ The cover should say **Business Plan** and include:
 - A fictitious business telephone number
 - Business email address
 - Date the plan was completed or revised
-
 ### Table of contents
-
 - List each major section and its starting page.
 - Finish the table of contents after the plan has been assembled and paginated.
-
 ### Section I — Executive summary
-
 Write this section last and keep it to one page or less. It should answer:
-
 - Who is on the team?
 - What business is the company in?
 - Why should someone invest in the product or service?

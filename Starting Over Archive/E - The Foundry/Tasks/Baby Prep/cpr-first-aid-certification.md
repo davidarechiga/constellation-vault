@@ -2,12 +2,14 @@
 tags:
   - task
   - safety
-title: "CPR/First Aid Certification"
-status: open
+title: CPR/First Aid Certification
+status: done
 priority: high
-due: "2026-04-15"
+due: 2026-04-15
 owner: Shared
 projects: []
+dateModified: 2026-11-14T00:56:24.723-08:00
+completedDate: 2026-11-14
 ---
 
 # CPR/First Aid Certification

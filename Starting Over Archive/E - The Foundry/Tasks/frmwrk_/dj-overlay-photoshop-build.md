@@ -3,12 +3,14 @@ tags:
   - task
   - frmwrk
 title: DJ Overlay — Photoshop Production Build
-status: in-progress
+status: done
 priority: high
 due: 2026-03-30
 owner: David
 projects:
   - "[[Starting Over Archive/E - The Foundry/Tasks/frmwrk_/frmwrk_]]"
+completedDate: 2026-11-14
+dateModified: 2026-11-14T00:55:53.432-08:00
 ---
 
 # DJ Overlay — Photoshop Production Build
