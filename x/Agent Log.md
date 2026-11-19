@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-19 · Claude Code (rename Constellation app to Lens)
+- Did: The app (code at `~/Developer/personal-ops-dashboard`, repo `davidarechiga/constellation-app`) is now **Lens**; "Constellation" stays the name of this vault. Merged PR #104 (visible name, manifest, wordmark, onboarding, "Lens by Arechiga House" byline on login). Renamed the Vercel project to `lens` (team `arechiga-house`) and added `lens-ah.vercel.app` (main) and `lens-arechiga.vercel.app`. The old `constellation-app-gamma.vercel.app` is kept on purpose.
+- Decided: Vault keeps "Constellation"; the GitHub repo name is unchanged for now. Dave wants Obsidian as the backend for Lens; that is a separate task in its own session. Finding: the app has its own Supabase database (migrations up to 0050), alpha signup and multi-user admin, so this is an architecture question, not a swap.
+- Open / needs Dave: If login redirects or notification links break, add `https://lens-ah.vercel.app` to Supabase's allowed redirect URLs. Remove the extra `lens-arechiga` domain and the old `-gamma` domain when ready. Decide whether to rename the GitHub repo.
+
 ### 2026-11-19 · ChatGPT Codex (multi-model workflow)
 - Did: Added root `AGENTS.md` for automatic instruction discovery and documented the shared multi-model workflow in `x/AGENTS.md`.
 - Decided: Provider-neutral skills live once in `.agents/skills/`; Claude Code reaches them through `.claude/skills/` symlinks. Moved `activity-capture` and `learn-capture`; left the stale or Claude-specific skills in place.
