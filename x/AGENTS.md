@@ -29,9 +29,18 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 
 - `+ Inbox/`: where new notes land. Sort them into the folders below.
 - `Efforts/On/BCC Fall 2026/`: current classes (BUS 10 Intro to Business, Social Media Marketing)
-- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). Simmering doubles as the project inbox for new project ideas. `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes, and the vault documentation (`AGENTS.md`, `GEMINI.md`, `Priorities.md`, `Agent Log.md`). Claude Code's `CLAUDE.md` lives in `.claude/`, which Claude Code reads automatically and Obsidian hides. The vault root holds only folders.
+- `Efforts/`: active work, by state (On, Ongoing, Simmering, Sleeping). Simmering doubles as the project inbox for new project ideas. `Atlas/`: knowledge and sources. `Calendar/`: daily and weekly notes. `x/`: templates, attachments, TaskNotes, and the canonical vault documentation (`AGENTS.md`, `GEMINI.md`, `Priorities.md`, `Agent Log.md`). Claude Code's `CLAUDE.md` lives in `.claude/`, which Claude Code reads automatically and Obsidian hides. The root normally holds only folders; `AGENTS.md` is the intentional exception that bootstraps instruction discovery.
 - `Starting Over Archive/`: everything from before the Nov 2, 2026 reset. Read from it freely. Bring a note back out only when Dave actually needs it.
 - `x/TaskNotes/`: task plugin views and tasks
+
+## Multi-model team workflow
+
+- `x/AGENTS.md` is the canonical team contract. Root `AGENTS.md` is a small discovery bootstrap that tells Codex and other agents to load it.
+- `.agents/skills/` is the single source of truth for provider-neutral shared skills. Codex discovers skills there directly.
+- Claude Code gets each shared skill through a symlink in `.claude/skills/`. Do not maintain copied skill bodies in both locations.
+- Keep genuinely Claude-specific skills as real folders in `.claude/skills/`. Keep genuinely Codex-specific skills as real folders in `.agents/skills/` and label them clearly in the description.
+- Shared skills must use provider-neutral instructions and standard `SKILL.md` frontmatter. Put model-specific tool syntax in that model's own instructions, not in the shared skill.
+- `x/Priorities.md` coordinates what matters now. `x/Agent Log.md` is the asynchronous handoff between agents. Read both before meaningful work and log meaningful changes when finished.
 
 ## Rules
 
@@ -42,17 +51,17 @@ Vault path: `/Users/davidarechiga/Constellation/` (quote paths, since folder nam
 - **No Dataview** queries.
 - **Never submit schoolwork, send messages, or post anything for Dave.** Draft it; he reviews and sends it.
 - **Schoolwork: help him learn, don't write it.** BUS 10 bans AI-written work and scans for it. Explain concepts, quiz him, and give feedback on what he wrote, but don't draft text he'll turn in. Never help with quizzes or exams. Check each class's syllabus for its AI rules.
-- **Don't run git** unless you are Claude Code. Dave's devices sync through Obsidian Sync, and git is only Claude Code's history and backup. Competing commits cause conflicts.
+- **Git has one routine owner.** Claude Code owns normal git maintenance. Another agent may run git only when Dave explicitly asks that agent to commit in the current session; it must then follow the same snapshot, separation, sync and safety rules below.
 - Don't delete notes. Move them to `Starting Over Archive/` if they need to go.
 
 ## Commit and sync rules
 
 **How syncing works (set Nov 3, 2026):**
 - **Obsidian Sync** moves the vault between Dave's computer(s) and his iPhone. That's the only thing syncing between devices.
-- **Git** is only for Claude Code: history, backup, and making rule changes visible to every session. It runs from one computer (the one Dave reaches through Claude remote control from his phone). The Obsidian Git plugin is not used, and must stay off on every device.
+- **Git** is normally owned by Claude Code: history, backup, and making rule changes visible to every session. It runs from one computer (the one Dave reaches through Claude remote control from his phone). The Obsidian Git plugin is not used, and must stay off on every device. A different agent uses git only when Dave explicitly requests that agent to commit in that session.
 - Because Obsidian Sync copies the folder to every device, whatever Claude Code does to files in the main folder shows up on the phone too.
 
-Why the commit rules exist: a rule only counts once other sessions can read it. Edits that sit uncommitted, commits that never get pushed, and side worktrees frozen on old commits all hid new rules from other sessions. Only Claude Code runs git (see above); every other agent just edits files and tells Dave or Claude Code what changed.
+Why the commit rules exist: a rule only counts once other sessions can read it. Edits that sit uncommitted, commits that never get pushed, and side worktrees frozen on old commits all hid new rules from other sessions. Claude Code normally runs git; another agent does so only under Dave's explicit per-session request.
 
 **For Claude Code:**
 
@@ -66,7 +75,7 @@ Why the commit rules exist: a rule only counts once other sessions can read it. 
 8. **Conflicts:** keep both sides. For `x/Agent Log.md`, keep every entry, newest on top. For anything else, never drop either version of Dave's text. Merge, don't force-push or reset.
 9. **Say what happened.** Tell Dave in one line what was committed and pushed, and name anything you left uncommitted on purpose.
 
-**For every other agent:** don't run git. When you change a rule or instruction file, add an Agent Log entry that says so, so Claude Code commits and pushes it.
+**For every other agent:** don't run git unless Dave explicitly asks you to commit in that session. When you change a rule or instruction file, add an Agent Log entry. If Dave did not ask you to commit, leave the changes for Claude Code to commit and push.
 
 ## Log your work
 
@@ -88,7 +97,7 @@ Keep it to a few lines. That's how the next agent, and Dave, pick up where you l
 | Claude Code | Runs in the vault folder; owns git maintenance | Vault upkeep, planning, writing |
 | Claude chat | Not set up. The Claude Project idea ([[Claude Chat Instructions]]) is shelved; Dave is working out another way. Can't read the vault on its own | TBD |
 | ChatGPT (Plus) | Controls the always-on laptop and reads the vault folder | Computer tasks, research, drafting |
-| ChatGPT Codex (CLI) | Installed on this Mac (`codex`, signed in with Dave's ChatGPT account). Claude Code can hand it tasks with `codex exec --sandbox read-only -C "/Users/davidarechiga/Constellation" "<task>"`. Read-only by default; use `--sandbox workspace-write` only when Dave asks for a change. It follows these rules, including no git | Second opinions, research, drafting, tasks Dave wants ChatGPT on |
+| ChatGPT Codex | Runs in the vault through the Codex app or CLI. The root `AGENTS.md` bootstraps these instructions; shared skills live in `.agents/skills/`. Read-only by default; use workspace write only when Dave asks for a change. Claude Code owns routine git, but Codex may commit when Dave explicitly requests it for that session. | Second opinions, research, computer tasks, drafting, and scoped vault changes |
 | Gemini (Pro) | Not set up yet | TBD |
 
 Any AI that can't read the vault (ChatGPT on the web or phone, the Claude app, Gemini) gets the short version of these rules from [[AI Instructions]]. Dave pastes it at the start of a chat or saves it as that tool's custom instructions.

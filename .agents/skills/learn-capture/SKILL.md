@@ -1,6 +1,6 @@
 ---
 name: learn-capture
-description: Capture hobbies, skills or tools Dave wants to learn (Blender, a new instrument, a language, a craft) into one list with an "only one Active" rule. Use when Dave runs "/learn", or says things like "I want to learn X", "I should get into X", "add X to my learn list", "I'm thinking about picking up X", or "I want to switch to X". Capture first, plan second.
+description: Capture a hobby, skill, or tool Dave wants to learn into one list with an only-one-Active rule. Use when he wants to learn, pick up, save, or switch to a new skill. Capture first; plan only when requested.
 version: 1.0.0
 ---
 
@@ -47,4 +47,4 @@ Only on request:
 - Don't create files at the vault root or new folders.
 - A buildable project (an album, an app, a class he's enrolling in) belongs in `+ Inbox/` and then `Efforts/Simmering/`, not here. Say so in one line. A skill he wants for a project stays here.
 - Don't log each capture in `x/Agent Log.md`. Log only when this skill itself changes.
-- Commit rule: Claude Code commits the note change at the end of the session. Skill edits are committed and pushed in the same turn, following `x/AGENTS.md`.
+- Git ownership follows `x/AGENTS.md`: Claude Code owns routine commits; another agent uses git only when Dave explicitly requests it in that session.

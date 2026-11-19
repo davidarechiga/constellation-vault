@@ -1,6 +1,6 @@
 ---
 name: activity-capture
-description: Capture activities, outings, classes, shows, trips or experiences Dave wants to try or book, into one running list. Use when Dave runs "/activity", or says things like "I want to try X", "add to my try list", "we should go to X", "save this place", "remind me to book X", or pastes a link or screenshot of something to do. Capture first, research and booking help second.
+description: Capture an activity Dave wants to try, visit, save, or book. Use for outings, classes, shows, trips, restaurants, and similar experiences. Capture first; research or booking help only when requested.
 version: 1.0.0
 ---
 
@@ -73,4 +73,4 @@ Only do these on request:
 - Don't create files at the vault root or new folders.
 - If something Dave pastes is really a project idea (a build, a release, a class he's enrolling in), it belongs in `+ Inbox/` and then `Efforts/Simmering/`, not here. Say so in one line.
 - Don't log each capture in `x/Agent Log.md`. Log only when this skill itself changes.
-- Commit rule: Claude Code commits the note change at the end of the session with a plain message, such as "Add activity to try list". Rule or skill edits are committed and pushed in the same turn, following `x/AGENTS.md`.
+- Git ownership follows `x/AGENTS.md`: Claude Code owns routine commits; another agent uses git only when Dave explicitly requests it in that session.

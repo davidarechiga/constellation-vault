@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-19 · ChatGPT Codex (multi-model workflow)
+- Did: Added root `AGENTS.md` for automatic instruction discovery and documented the shared multi-model workflow in `x/AGENTS.md`.
+- Decided: Provider-neutral skills live once in `.agents/skills/`; Claude Code reaches them through `.claude/skills/` symlinks. Moved `activity-capture` and `learn-capture`; left the stale or Claude-specific skills in place.
+- Open / needs Dave: Pilot the two shared skills in fresh Codex and Claude Code sessions before migrating any others.
+
 ### 2026-11-17 · Claude Code (Skills To Learn)
 - Did: Added [[Skills To Learn]] (Atlas/Notes): one list for hobbies and skills, with an "only one Active" rule against hobby-hopping. Blender is in Parked.
 - Also added the `learn-capture` skill (`/learn`, `.claude/skills/learn-capture/SKILL.md`). Capture goes to Parked; Active needs a why, a what-I'd-make and a first step.
