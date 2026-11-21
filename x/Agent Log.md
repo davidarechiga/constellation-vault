@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-20 · Claude Code (Post-Hardcore EP blueprint)
+- Did: Documented Dave's EP cheat sheet as [[Post-Hardcore EP Production Blueprint]] (Atlas/Notes), original text kept and expanded with bar math, drum grids, voicing tables, a session template and a tracking-to-mix checklist. Linked from [[Notes]] and [[Mixing and Mastering Guide]].
+- Decided: No separate "Music Production" folder exists in the new layout (the old one is in the archive), so it sits beside the Mixing and Mastering Guide. Committed on the worktree branch, not main.
+- Open / needs Dave: Fill in the influence and reference-track tables. Check the "Check these" section (pre-amp delay advice, Circles kit names, label claims). New EP is not in [[Priorities]]; "Only Talks 2 Ghosts" release and school catch-up come first.
+
 ### 2026-11-19 · ChatGPT Codex (multi-model workflow)
 - Did: Added root `AGENTS.md` for automatic instruction discovery and documented the shared multi-model workflow in `x/AGENTS.md`.
 - Decided: Provider-neutral skills live once in `.agents/skills/`; Claude Code reaches them through `.claude/skills/` symlinks. Moved `activity-capture` and `learn-capture`; left the stale or Claude-specific skills in place.
