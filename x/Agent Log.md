@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-20 · Claude Code (Lyric and Melody Writing Tips)
+- Did: Added [[Lyric and Melody Writing Tips]] (Atlas/Notes): melody, lyrics, combining them, habits, done-checklist. No tips doc existed; only old lyric drafts in the archive. Linked from [[Notes]] and the EP blueprint.
+- Decided: Done in the same session as the EP blueprint because the session-offer card couldn't be shown. Tips are general craft; no lyrics written for Dave.
+- Open / needs Dave: Add your own rules and favorite song structures as you find them.
+
 ### 2026-11-20 · Claude Code (Post-Hardcore EP blueprint)
 - Did: Documented Dave's EP cheat sheet as [[Post-Hardcore EP Production Blueprint]] (Atlas/Notes), original text kept and expanded with bar math, drum grids, voicing tables, a session template and a tracking-to-mix checklist. Linked from [[Notes]] and [[Mixing and Mastering Guide]].
 - Decided: No separate "Music Production" folder exists in the new layout (the old one is in the archive), so it sits beside the Mixing and Mastering Guide. Committed on the worktree branch, not main.

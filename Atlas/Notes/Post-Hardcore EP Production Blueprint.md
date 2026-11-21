@@ -328,3 +328,4 @@ Things I couldn't confirm from the cheat sheet or the vault. None of them block 
 
 - [[Mixing and Mastering Guide]]: mix and master workflow for the finished tracks
 - [[Mixing and Mastering Cheat Sheet Binder]]: the source binder behind that guide
+- [[Lyric and Melody Writing Tips]]: melody and lyric craft for the songs themselves
