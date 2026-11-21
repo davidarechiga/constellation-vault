@@ -139,3 +139,7 @@ Goal, Style, Placement (near or far), Width, Tone. Ask them for every reverb.
 - Chapter notes from *The Mixing Engineer's Handbook* (2nd ed.) in the same `Music Production` share folder.
 - The *Music Production Cheat Sheet Binder* (50 pages, also in `Docs/`) for the production side.
 - A checklist for "Only Talks 2 Ghosts": which references, target LUFS, and who masters it.
+
+## Related
+
+- [[Post-Hardcore EP Production Blueprint]]: writing, arranging and tracking for the new EP, before this mix workflow starts
