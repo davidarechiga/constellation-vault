@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 <span style="color:#000ff;">My Disaster</span>
 
 <span style="color:#000ff;">intro x1 Bb F# C# C</span>

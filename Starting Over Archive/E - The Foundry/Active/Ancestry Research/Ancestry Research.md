@@ -2,6 +2,7 @@
 tags:
   - project
   - ancestry
+  - archive/foundry/active/ancestry-research
 title: Ancestry Research
 status: active
 priority: normal

@@ -2,6 +2,7 @@
 tags:
   - task
   - studio
+  - archive/foundry/tasks/pixel-glitch
 title: Refresh Portfolio Website
 status: open
 priority: normal

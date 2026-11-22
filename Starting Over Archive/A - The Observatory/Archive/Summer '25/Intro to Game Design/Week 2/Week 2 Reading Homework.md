@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/summer-25]
+---
 
 1. What is my favorite Brainstorm technique from the chapter? Why? 
 My favorite brainstorming technique by far is to mix and match categories because most of the time you will end up with an idea that is completely fresh. I love the idea of writing lists of different components like how we did the Matrix game ideas exercises. I feel this is a great way to start the brainstorming process because you will immediately have a variety of different options to start with and you can start the iteration process fast. 

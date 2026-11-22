@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 1. Please provide two different 4-6 sentence descriptions of pieces of information that you saw/heard from this section's presentation that you found interesting. In these descriptions, cover what the topic discussed and detail why you found these facts interesting. Note: you should NOT directly quote anything (use your own words). --5 points
 
 **Something that was interesting to me in the lecture was the criteria for the different anxiety disorders that were talked about, specifically the length of time. For Generalized Anxiety Disorder, symptoms must be present for a minimum of 6 months and although not mentioned in the lecture directly, the DSM states 6 months is the length for most phobias. Panic disorders have a much shorter timeframe of 1 month. This means that although treatment in the beginning stages of these disorders is similar, not all anxiety is a disorder. As someone who knows little about anxiety disorder diagnoses, this was interesting because I am realizing that most treatment of GAD, Panic Disorder and phobias is going to be highly individual (as should most treatments healthcare issues). I believe humans need to start individualizing treatments in order to successfully resolve these kinds of disorders.

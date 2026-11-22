@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 # Thanksgiving Feast
 
 Starters:

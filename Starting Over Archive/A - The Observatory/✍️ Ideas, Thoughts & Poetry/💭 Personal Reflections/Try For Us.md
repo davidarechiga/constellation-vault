@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 Try For Us
 
 Will you believe I do my best?

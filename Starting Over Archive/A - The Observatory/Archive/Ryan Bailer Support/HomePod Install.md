@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 # HomePod Install
 
 Nicole will tell us Location

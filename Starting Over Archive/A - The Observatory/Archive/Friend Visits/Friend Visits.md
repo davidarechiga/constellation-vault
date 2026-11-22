@@ -4,6 +4,7 @@ cssclasses:
 title: Friend Visits
 tags:
   - 
+  - archive/observatory/archive/friend-visits
 description:
 created: 2026-03-08
 aliases:

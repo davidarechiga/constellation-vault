@@ -2,6 +2,7 @@
 tags:
   - task
   - career
+  - archive/foundry/tasks/career-transition
 title: Create Professional Email
 status: open
 priority: high

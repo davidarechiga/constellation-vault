@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Never felt 
 winds like these 
 They push me around

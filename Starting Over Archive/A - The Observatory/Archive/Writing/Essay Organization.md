@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 # Essay Organization
 
 ## Introduction Paragraphs

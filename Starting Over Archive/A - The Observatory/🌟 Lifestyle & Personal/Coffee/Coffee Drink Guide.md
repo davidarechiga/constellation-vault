@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/coffee]
+---
 ### Table of Contents
 1. Introduction to Coffee Culture
 2. Espresso-Based Drinks

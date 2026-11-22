@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 Angostura
 
 - 2oz Tequila (ideally Blanco)

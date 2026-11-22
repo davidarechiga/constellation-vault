@@ -4,6 +4,7 @@ tags:
   - recipe
   - breakfast
   - brunch
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Cranberry plum french toast (incomplete — needs ingredients filled in)
 status: draft
 created: 2026-03-28

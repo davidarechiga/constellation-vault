@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 You want to draft up a holiday message to everyone? Asking them to reboot before they go, follow these XX steps if they get a new phone, and no drinking egg non next to the machine or slobbering new borns.
 
 Hi Team!

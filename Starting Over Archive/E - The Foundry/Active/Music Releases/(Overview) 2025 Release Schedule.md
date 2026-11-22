@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 # 2025 Release Schedule - Progress Summary
 
 **Status:** In Progress

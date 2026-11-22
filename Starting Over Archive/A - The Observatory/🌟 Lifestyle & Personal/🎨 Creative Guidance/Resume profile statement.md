@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 Resume profile statement
 
 Passionate self starter with 10+ years  technical support experience. Looking to bring my passion for problem solving to a well developed company on the rise. 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 nothing new
 She only wants to be a friend
 it's nothing new

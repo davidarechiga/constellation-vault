@@ -4,6 +4,7 @@ description: Tone, voice, formatting rules, and things to avoid when writing for
 type: reference
 tags:
   - agent-context
+  - archive/observatory/documentation/agent-context
 created: 2026-03-30
 ---
 

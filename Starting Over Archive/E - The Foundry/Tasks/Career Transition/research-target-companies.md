@@ -3,6 +3,7 @@ tags:
   - task
   - career
   - research
+  - archive/foundry/tasks/career-transition
 title: Research 5 Target Companies
 status: open
 priority: normal

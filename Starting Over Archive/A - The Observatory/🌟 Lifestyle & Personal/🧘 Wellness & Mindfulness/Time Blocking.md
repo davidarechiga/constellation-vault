@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 168 hours total per week
 
 Sleep 56-60 hours per week

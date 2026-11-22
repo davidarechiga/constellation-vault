@@ -2,6 +2,7 @@
 tags:
   - task
   - music
+  - archive/foundry/tasks/music-releases
 title: The Lost Freelance Album Reissue
 status: open
 priority: low

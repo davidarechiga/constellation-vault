@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 never knew who I was
 Til I disappeared
 Took my last damn dollar down 

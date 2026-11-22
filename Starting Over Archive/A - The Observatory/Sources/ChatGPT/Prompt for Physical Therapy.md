@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/sources/chatgpt]
+---
 
 ChatGPT as my physical therapist and personal trainer for the last 2 months - amazing
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 She has me convinced
 I don’t contribute
 No matter what I do

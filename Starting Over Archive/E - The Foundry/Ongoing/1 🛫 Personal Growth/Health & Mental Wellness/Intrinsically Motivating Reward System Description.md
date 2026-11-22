@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Related Notes:
 [[Intrinsic Motivation]]
 Creating an effective, intrinsically motivating reward system to fuel productivity involves understanding your own preferences, setting meaningful goals, and incorporating rewards that genuinely inspire and energize you. Here are some steps to help you build a personalized and effective reward system:

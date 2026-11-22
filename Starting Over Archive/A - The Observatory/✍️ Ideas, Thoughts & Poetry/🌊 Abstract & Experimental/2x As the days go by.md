@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 2x As the days go by
  they throw more shade 
 we just see sun shine an 

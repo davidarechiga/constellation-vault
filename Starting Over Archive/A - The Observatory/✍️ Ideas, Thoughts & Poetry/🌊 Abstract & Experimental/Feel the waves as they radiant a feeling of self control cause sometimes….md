@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">Feel the waves as they radiant a feeling of self control cause sometimes love is a crazy thing that we can't keep on hold or it will get away.</span>

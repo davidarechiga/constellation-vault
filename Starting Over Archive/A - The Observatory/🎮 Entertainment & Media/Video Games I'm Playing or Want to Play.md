@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/entertainment-and-media]
+---
 1. Starfield
 2. Prince Of Persia: The Lost Crown
 3. Gran Turismo

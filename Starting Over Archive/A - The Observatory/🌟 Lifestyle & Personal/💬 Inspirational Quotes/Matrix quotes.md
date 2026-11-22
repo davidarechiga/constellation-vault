@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 Matrix quotes
 
 Splinter in the mind

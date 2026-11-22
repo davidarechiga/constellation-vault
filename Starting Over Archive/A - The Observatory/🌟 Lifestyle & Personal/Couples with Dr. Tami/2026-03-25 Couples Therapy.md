@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/lifestyle-and-personal/couples-with-dr-tami
 type: reference
 status: draft
 related:

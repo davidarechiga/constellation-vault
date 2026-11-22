@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/vbp-2021-sept-oct]
+---
 # Tell ALP
 
 Finishing up fire system on 7th floor

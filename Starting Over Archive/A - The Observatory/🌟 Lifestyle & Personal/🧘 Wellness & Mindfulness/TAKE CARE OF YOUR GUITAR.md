@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 **TAKE CARE OF YOUR GUITAR**
 
 - Clean and polish the top, sides and back of your guitar regularly. You can use a top-of-the line furniture polish to apply to your guitar, or your can buy any number of polishes offered by guitar companies specifically for the guitar application. If you establish a regular clean and polish regimen, your guitar will always look good. The beauty of the woods will be enhanced, and if you should ever decide to part with your guitar, it will bring a premium price because of your efforts.  

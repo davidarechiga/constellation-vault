@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Onboarding FreshService
 
 Retire Project now has a deadline

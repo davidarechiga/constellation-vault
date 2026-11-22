@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production]
+---
 1. The heart pt 6 -  javid
 2. Sanctuary by Capyac - jasmine
 3. Perfect, Simple Plan - John

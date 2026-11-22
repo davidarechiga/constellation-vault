@@ -2,6 +2,7 @@
 tags:
   - atlas
   - moc
+  - archive/observatory
 ---
 
 # The Observatory

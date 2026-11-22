@@ -4,6 +4,7 @@ cssclasses:
 title: Therapy
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/other
 description:
 created: 2026-03-30
 aliases:

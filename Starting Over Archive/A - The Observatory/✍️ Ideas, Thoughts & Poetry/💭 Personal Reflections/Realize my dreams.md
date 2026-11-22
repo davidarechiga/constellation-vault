@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 Realize my dreams
 Realize my self esteem
 

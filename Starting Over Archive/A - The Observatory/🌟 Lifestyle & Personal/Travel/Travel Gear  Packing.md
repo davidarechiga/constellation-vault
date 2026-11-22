@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 # Travel Gear / Packing
 
 ## Resources / Gear 

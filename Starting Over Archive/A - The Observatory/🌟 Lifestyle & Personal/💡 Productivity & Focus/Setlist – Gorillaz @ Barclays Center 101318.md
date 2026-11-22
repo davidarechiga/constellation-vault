@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 Setlist – Gorillaz @ Barclays Center 10/13/18
 M1 A1
 Tranz

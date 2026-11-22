@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-06-17-bcc-summer]
+---
 Week 3 Lecture Music 15A  
 Assignments this week:  
 Read: Week 3 Material in Canvas (here)  

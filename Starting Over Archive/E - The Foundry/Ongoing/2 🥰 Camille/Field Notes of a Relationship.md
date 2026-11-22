@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 It’s important to understand that different moods Have different Needs.
 Right now Camille is more than just upset with me rightfully so I have broken the trust that she had for me. I have not been doing right by her I should be putting her first 
 

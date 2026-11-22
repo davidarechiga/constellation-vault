@@ -1,3 +1,6 @@
+---
+tags: [archive/signal-relay]
+---
 Chronological log of Claude Code sessions in this vault.
 
 ### 2026-03-31 — Implemented Claude Code + Obsidian workflow from Reddit guide

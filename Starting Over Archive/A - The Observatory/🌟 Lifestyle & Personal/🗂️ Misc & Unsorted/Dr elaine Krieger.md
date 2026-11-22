@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 Dr elaine Krieger
 
 this tuesday at 5:30pm

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 # trackstarter-trapsoul-cmin.wav
 
 ![[trackstarter-trapsoul-cmin.wav]]

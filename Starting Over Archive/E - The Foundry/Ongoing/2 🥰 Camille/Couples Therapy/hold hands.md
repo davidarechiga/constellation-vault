@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 hold hands
 walk away
 listen to books and watch video

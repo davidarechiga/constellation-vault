@@ -7,6 +7,7 @@ created: 2026-04-16
 description: "All human thinking and behavior unfolds within one of countless physical environments with distinct characteristics. From noisy, crowded offices to quiet, open fields, from one’s private bedroom to the whole of the natural world, the environment can be dissected at multiple levels, each of which has important connections to psychology."
 tags:
   - "clippings"
+  - archive/clippings
 ---
 ![My Good Images/Shutterstock](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/shutterstock_134407094.jpg?itok=PJi8X_g3 "My Good Images/Shutterstock")
 

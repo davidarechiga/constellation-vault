@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 # PARA
 
 The only reward to reading a book like is putting everything into action

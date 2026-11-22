@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Dear [Hiring Manager’s Name],
  
 Thank you so much for taking the time to talk to me about the position of [the position you’re applying for] with [Company Name] this morning. It was a pleasure to learn more about your [innovative strategy / upcoming challenges / core values / industry insights].

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 1. In 4-6 sentences, provide a hypothetical example of a mental health issue where the diathesis-stress model would apply.  Be sure to define both of these components in your own words while explaining how each component is playing a role in this issue in this hypothetical scenario. --4 points
 
 	An example of a mental health disorder where the diathesis-stress model would apply is depression. Diathesis-Stress Model is where an individual may be predisposed to a specific mental disorder (diathesis) so when they are exposed to a certain level of stress in their environment, the mental disorder may activate. In the example of depression, two individuals when have differing levels of predisposition to depression. If these two individuals are exposed two the same amount of environmental stress (this is the stress component), only one may develop the mental disorder where as the other individual maybe not. A real world example of this would be two children in the same family. Although the two children may both be predisposed due to hereditary, the predisposition levels may differ. The outcome is one child may develop depression while the other may be able to keep composed during the rise of environmental stress.

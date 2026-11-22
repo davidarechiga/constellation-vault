@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # [Monday.com](http://Monday.com) Interview
 
 

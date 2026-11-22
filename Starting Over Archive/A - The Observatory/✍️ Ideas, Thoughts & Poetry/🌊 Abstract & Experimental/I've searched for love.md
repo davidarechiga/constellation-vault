@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">I've searched for love</span>
 <span style="color:#000ff;">and gave my all</span>
 <span style="color:#000ff;">You took my heart</span>

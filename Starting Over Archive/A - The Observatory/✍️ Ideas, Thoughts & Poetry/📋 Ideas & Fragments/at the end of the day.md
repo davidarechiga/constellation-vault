@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/ideas-and-fragments]
+---
 at the end of the day
 you only have yourself
 to look in the eyes

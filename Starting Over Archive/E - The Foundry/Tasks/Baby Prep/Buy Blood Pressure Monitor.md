@@ -4,6 +4,7 @@ priority: medium
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 projects:
   - "[[1 Baby Prep - Cyrus]]"
 due: 2026-03-01

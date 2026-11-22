@@ -2,6 +2,7 @@
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 title: Complete Nursery Setup
 status: done
 priority: normal

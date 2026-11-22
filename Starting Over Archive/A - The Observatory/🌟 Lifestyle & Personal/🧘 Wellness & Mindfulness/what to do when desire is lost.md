@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 what to do when desire is lost
 
 jumping into a car at high speed

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Signs of Burnout
 
 Stop feeling like yourself

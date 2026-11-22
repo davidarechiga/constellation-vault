@@ -4,6 +4,7 @@ cssclasses:
 title: Projects
 tags:
   - 
+  - archive/foundry/tasks/projects
 description:
 created: 2026-03-08
 aliases:

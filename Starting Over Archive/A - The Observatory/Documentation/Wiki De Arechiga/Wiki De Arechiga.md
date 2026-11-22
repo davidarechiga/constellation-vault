@@ -2,6 +2,7 @@
 tags:
   - wiki
   - family
+  - archive/observatory/documentation/wiki-de-arechiga
 ---
 
 # Wiki De Arechiga

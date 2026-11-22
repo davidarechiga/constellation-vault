@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 When passing information to your groomsmen, make sure to cover the following points:
 1. Wedding date and location
 2. Attire requirements (e.g. tuxedo, suit, specific color)

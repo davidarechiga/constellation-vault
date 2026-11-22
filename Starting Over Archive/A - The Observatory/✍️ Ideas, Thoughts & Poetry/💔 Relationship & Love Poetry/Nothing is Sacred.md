@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">Nothing is Sacred</span>
 <span style="color:#000ff;">until we feel it in our bones</span> 
 <span style="color:#000ff;">the wind in her hair</span> 

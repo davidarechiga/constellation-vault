@@ -4,6 +4,7 @@ tags:
   - household
   - baby
   - recurring
+  - archive/foundry/tasks/household
 title: Birthday Celebrations (Cyrus)
 status: open
 priority: high

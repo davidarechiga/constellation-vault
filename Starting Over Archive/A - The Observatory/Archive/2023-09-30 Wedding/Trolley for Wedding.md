@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Trolley for Wedding
 
 Speak Easy is available 1:45pm - 5:45pm

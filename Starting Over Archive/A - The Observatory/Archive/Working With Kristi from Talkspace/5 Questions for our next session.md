@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/working-with-kristi-from-talkspace]
+---
 
 I have some questions for you that might help us move forward a little more and give me a little more information (I know it can be a lot so take your time with them). It is important for me to get a sense of your goals for therapy so that I can develop a treatment plan to make sure we are meeting those goals! 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Building Your Own Internal Support System
 
 ## Creating a Sense of Safety

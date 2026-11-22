@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 [115bpm_Emin]BorderLine.mp3
 
 ![[[115bpm_Emin]BorderLine.mp3]]

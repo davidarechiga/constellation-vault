@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/coffee]
+---
 1. **Sparkling Caramel Macchiato**: A traditional caramel macchiato turned effervescent. Prepare it with a shot of espresso, vanilla syrup, and steamed milk, but add a twist with a splash of sparkling water. Top it with a drizzle of caramel for a fizzy, sweet delight.
 
 2. **Lavender Honey Latte**: This latte combines the aromatic essence of lavender with the sweetness of honey. Start with a shot of espresso and steamed milk, then infuse it with lavender syrup and a spoonful of honey. Perfect for those who enjoy floral notes in their coffee.

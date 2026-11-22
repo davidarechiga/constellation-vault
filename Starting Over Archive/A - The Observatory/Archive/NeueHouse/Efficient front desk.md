@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 # Efficient front desk
 
 Check in process is inconsistent.

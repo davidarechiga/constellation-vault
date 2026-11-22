@@ -3,6 +3,7 @@ aliases:
 tags:
   - collecting
   - pokemon
+  - archive/foundry/someday/start-pokemon-card-collection
 type: reference
 status: active
 related:

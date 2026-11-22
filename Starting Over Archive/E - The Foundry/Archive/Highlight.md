@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 <span style="color:#000ff;">Highlight</span>
 <span style="color:#000ff;">Light</span>
 <span style="color:#000ff;">Shade</span>

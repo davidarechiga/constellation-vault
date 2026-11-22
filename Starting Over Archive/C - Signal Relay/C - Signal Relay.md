@@ -1,6 +1,7 @@
 ---
 tags:
   - dashboard
+  - archive/signal-relay
 ---
 
 # 📡 Signal Relay

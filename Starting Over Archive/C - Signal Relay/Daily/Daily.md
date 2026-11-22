@@ -4,6 +4,7 @@ cssclasses:
 title: Daily
 tags:
   - 
+  - archive/signal-relay/daily
 description:
 created: 2026-03-08
 aliases:

@@ -4,6 +4,7 @@ tags:
   - habit
   - personal
   - pet
+  - archive/foundry/tasks/personal
 title: "Morning Routine + River Care"
 status: open
 priority: normal

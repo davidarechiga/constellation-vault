@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Send an email 
 cc bill and dorothea
 

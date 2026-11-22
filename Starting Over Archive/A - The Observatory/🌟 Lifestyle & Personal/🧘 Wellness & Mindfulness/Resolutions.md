@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 Resolutions
 
 a firm decision to do or not to do something

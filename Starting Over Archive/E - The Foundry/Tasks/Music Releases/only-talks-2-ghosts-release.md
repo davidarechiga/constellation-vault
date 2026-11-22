@@ -3,6 +3,7 @@ tags:
   - music
   - musicrelease
   - task
+  - archive/foundry/tasks/music-releases
 title: Only Talks 2 Ghosts Album Release
 status: open
 priority: high

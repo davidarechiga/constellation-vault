@@ -2,6 +2,7 @@
 aliases:
 tags:
   - dj
+  - archive/observatory/music-and-audio-production
 type:
 status: draft
 related:

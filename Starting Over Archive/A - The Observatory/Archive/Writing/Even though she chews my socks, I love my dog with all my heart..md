@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 Even though she chews my socks, I love my dog with all my heart.
 
 I love my dog with all my heart even though she chews all my socks.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 <span style="color:#000ff;">projects</span>
 
 <span style="color:#000ff;">2014</span>

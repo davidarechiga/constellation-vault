@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 would it be alright for me
 to come scoop you
 we could drive up the coast

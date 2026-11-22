@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 This is a highly visible role functioning as the face of IT Support for Nasdaq Senior Executives. The work environment is dynamic, robust, and demanding of quality results through proven problem and time management.
 The Executive Technology Support Specialist reports to the Director of Executive Technology Support.
 - Establishes trust and maintain a high level of confidentiality for all VIP operation activities/tasks

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Security Applications and Devices
 
 ### Software Firewalls (OBJ 3.2)

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 2
 
 ## Notes From Reading

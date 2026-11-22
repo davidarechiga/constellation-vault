@@ -4,6 +4,7 @@ tags:
   - recipe
   - dinner
   - chicken
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Chicken recipe from Eric W's cookbook
 status: draft
 created: 2026-03-08

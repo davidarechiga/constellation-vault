@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 1. Throwing Snow - A Cloud Mountain
 2. Wake N Break - Flex
 3. Model/Actriz - Cinderella

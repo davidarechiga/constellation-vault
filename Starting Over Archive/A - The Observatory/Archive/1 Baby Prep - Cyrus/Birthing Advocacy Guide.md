@@ -3,6 +3,7 @@ tags:
   - baby
   - birth
   - advocacy
+  - archive/observatory/archive/1-baby-prep-cyrus
 ---
 
 # Birthing Advocacy Guide

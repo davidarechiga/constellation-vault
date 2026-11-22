@@ -4,6 +4,7 @@ cssclasses:
 title: Career Development Index
 description: Index of career knowledge notes in the Observatory
 created: 2026-03-25
+tags: [archive/observatory/career-development]
 ---
 
 # 💼 Career Development — Index

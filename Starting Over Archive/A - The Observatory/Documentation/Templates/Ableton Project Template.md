@@ -4,6 +4,7 @@ tags:
   - music
   - production
   - ableton
+  - archive/observatory/documentation/templates
 type: project
 status: active
 related:

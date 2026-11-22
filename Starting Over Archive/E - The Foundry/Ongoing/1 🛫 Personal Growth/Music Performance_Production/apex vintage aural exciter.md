@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 <span style="color:#000ff;">apex vintage aural exciter</span>
 <span style="color:#000ff;">scheps 73 analog</span> 
 <span style="color:#000ff;">h delay</span>

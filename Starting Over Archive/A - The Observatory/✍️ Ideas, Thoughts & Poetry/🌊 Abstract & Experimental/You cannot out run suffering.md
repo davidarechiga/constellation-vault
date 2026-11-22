@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 You cannot out run suffering
 You cannot out run misery
 You cannot out run loneliness

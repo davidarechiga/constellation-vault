@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Python Notes
 
 To be helpful, you need a script that is not locally run.

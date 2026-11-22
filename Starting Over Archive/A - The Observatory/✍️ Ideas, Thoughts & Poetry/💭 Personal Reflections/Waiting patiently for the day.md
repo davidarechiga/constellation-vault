@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 Waiting patiently for the day
 I’ll stop reaching for the love
 I already put into a grave.

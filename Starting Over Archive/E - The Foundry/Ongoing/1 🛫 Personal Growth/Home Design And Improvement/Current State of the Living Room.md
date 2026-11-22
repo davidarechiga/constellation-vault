@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Current State of the Living Room
 
 ![[IMG_0947.jpg]]

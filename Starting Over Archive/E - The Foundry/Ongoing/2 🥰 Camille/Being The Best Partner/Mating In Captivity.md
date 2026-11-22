@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Mating In Captivity
 
 Reconciling the Erotic and the Domestic

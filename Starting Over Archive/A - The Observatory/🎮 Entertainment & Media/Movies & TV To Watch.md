@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/entertainment-and-media]
+---
 # Movies & TV To Watch
 
 A comprehensive collection of movies, watchlists, and viewing guides.

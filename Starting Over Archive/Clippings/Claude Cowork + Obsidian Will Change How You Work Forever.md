@@ -8,6 +8,7 @@ created: 2026-03-30
 description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
 tags:
   - "clippings"
+  - archive/clippings
 ---
 ![](https://www.youtube.com/watch?v=qo4YZvC1q5I)
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # All is know is my life is better when I assume people are doing their best.
 
 Focus on what is and not what should or could be.

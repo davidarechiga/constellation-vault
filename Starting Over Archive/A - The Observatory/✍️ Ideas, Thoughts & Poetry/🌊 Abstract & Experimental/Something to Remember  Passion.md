@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">Something to Remember / Passion</span>
 
 <span style="color:#000ff;">This is just the beginning. The Easy Part.</span> 

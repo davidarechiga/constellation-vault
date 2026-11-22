@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-22-freshservice-obpoc]
+---
 # FS Onboarding
 
 https://support.freshservice.com/en/support/solutions/articles/50000002365-creating-onboarding-tickets

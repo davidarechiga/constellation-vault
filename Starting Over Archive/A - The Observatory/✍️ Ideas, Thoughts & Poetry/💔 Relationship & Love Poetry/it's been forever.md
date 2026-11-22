@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">it's been forever</span>
 
 <span style="color:#000ff;">Intro- Ab Bb F C#</span>

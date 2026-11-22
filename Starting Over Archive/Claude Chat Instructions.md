@@ -1,3 +1,6 @@
+---
+tags: [archive/root]
+---
 # Claude Chat Instructions
 
 > **Shelved (Nov 3, 2026).** Dave decided not to use a Claude Project for this and will find another way to connect Claude chat. Kept for reference. Don't ask him to set it up.

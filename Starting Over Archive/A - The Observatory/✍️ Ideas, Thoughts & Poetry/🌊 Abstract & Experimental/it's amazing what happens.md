@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 it's amazing what happens
 when you put in a little practice
 from f to c to a

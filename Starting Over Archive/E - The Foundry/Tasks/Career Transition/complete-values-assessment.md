@@ -2,6 +2,7 @@
 tags:
   - task
   - career
+  - archive/foundry/tasks/career-transition
 title: Complete Values/Career Assessment
 status: open
 priority: normal

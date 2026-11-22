@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Tell me about yourself? 
 
 **I started my career at the apple store where I was a Genius repair technician for over 10 years. I became very comfortable with user support, not only technically but also from a customer service perspective. in 2019, I left apple to join NeueHouse, a luxury co working space and social house where I was a level 1 IT support specialist. It was here that I was able to work with technology other than Apple. my responsibilities included being first touch point for all technology related issues, from office365 issues, internet connectivity and general computer/mobile device troubleshooting.**

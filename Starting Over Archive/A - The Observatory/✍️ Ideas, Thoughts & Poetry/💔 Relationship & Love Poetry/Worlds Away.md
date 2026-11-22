@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">Worlds Away</span>
 
 <span style="color:#000ff;">have you seen</span> 

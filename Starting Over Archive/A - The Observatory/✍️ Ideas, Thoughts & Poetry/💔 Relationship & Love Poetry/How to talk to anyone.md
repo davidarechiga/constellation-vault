@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">How to talk to anyone</span>
 
 <span style="color:#000ff;">Communication is a minefield but your future opportunities, success and happiness depend on your interaction with other people</span>

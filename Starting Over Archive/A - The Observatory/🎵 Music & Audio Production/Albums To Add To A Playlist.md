@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production]
+---
 I find so lame that you can't post images here, but based on your personal favorites this is what I would recommend:
 
 Boys Night Out - Trainwreck

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # La La karoke
 
 2 weeks in advance

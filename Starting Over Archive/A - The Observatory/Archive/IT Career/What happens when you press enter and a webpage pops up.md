@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/it-career]
+---
 What happens when you press enter and a webpage pops up
 
 1. You type maps.google.com into the address bar of your browser

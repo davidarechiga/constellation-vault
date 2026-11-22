@@ -4,6 +4,7 @@ cssclasses:
 title: Progress Measuring
 tags:
   - 
+  - archive/observatory/archive/progress-measuring
 description:
 created: 2026-03-08
 aliases:

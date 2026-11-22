@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 ![[everyday-is-a-pattern_Am.wav]]
 
  

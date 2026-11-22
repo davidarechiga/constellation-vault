@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 
 
 1. Summarize this section's chapter and presentation in 6 to 9 paragraphs. Cover the general message of the presentation, as well as some of the important terms and concepts. Note: don't forget to summarize the <a href="https://www.youtube.com/watch?v=rdrKCilEhC0" rel="noopener" class="external-link" target="_blank"><u>Obedience video.</u></a>

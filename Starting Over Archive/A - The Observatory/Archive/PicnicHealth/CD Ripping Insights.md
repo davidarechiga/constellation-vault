@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/picnichealth]
+---
 # CD Ripping Insights
 
 Manually entering CD when received

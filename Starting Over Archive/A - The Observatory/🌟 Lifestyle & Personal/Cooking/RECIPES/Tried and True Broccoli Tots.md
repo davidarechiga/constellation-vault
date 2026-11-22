@@ -5,6 +5,7 @@ tags:
   - snack
   - side-dish
   - vegetarian
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Broccoli tots baked in a mini muffin tin — healthy play on tater tots
 status: draft
 created: 2026-03-28

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/fall-2025]
+---
 
 Tim Burners Lee - Created the webpage as we know it
 	still alive

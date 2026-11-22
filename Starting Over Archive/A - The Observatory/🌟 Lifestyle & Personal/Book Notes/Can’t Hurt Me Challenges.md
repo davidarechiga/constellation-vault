@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 1. Journal your story of why you are blocked from achieving your dreams
 2. Take inventory of your excuses
 

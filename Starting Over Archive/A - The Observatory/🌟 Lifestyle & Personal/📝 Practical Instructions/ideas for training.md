@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 ideas for training
 
 case studies

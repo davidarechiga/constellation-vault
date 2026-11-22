@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/5-household]
+---
 **2022 Kia Seltos**
 
   

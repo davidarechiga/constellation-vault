@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing]
+---
 ## Active Projects (January 2026)
 
 ![[Untitled.base]]

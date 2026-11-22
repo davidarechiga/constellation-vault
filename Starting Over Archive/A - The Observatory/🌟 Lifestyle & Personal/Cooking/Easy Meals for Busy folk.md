@@ -2,6 +2,7 @@
 tags:
   - easyprep
   - traderjoes
+  - archive/observatory/lifestyle-and-personal/cooking
 ---
 # The 7 Best Trader Joe’s Freezer Meals for Busy Families
 

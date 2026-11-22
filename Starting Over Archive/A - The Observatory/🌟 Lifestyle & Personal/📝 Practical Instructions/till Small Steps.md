@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 <span style="color:#000ff;">till Small Steps</span>
 
 - <span style="color:#000ff;">Eat a vegetable at dinner every day.</span>

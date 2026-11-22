@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/individual-therapy]
+---
 # Notes From Therapy 09/20/2023
 
 Expressing your feelings of hurt has really good vaule in conversations with Camille

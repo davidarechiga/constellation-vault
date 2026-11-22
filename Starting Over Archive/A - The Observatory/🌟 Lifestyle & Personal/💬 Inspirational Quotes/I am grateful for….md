@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 # I am grateful for…
 🙌🏼 rescuing my dog River
 🙌🏼 Morning Walks with River

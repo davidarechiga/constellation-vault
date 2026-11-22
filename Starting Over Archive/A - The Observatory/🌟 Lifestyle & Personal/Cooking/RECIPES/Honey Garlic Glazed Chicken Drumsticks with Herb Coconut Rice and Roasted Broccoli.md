@@ -5,6 +5,7 @@ tags:
   - dinner
   - asian
   - chicken
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Full weeknight meal — sticky glazed drumsticks, coconut herb rice, and crispy roasted broccoli
 status: draft
 created: 2026-03-28

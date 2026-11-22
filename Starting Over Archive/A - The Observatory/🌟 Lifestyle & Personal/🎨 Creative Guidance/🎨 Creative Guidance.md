@@ -4,6 +4,7 @@ cssclasses:
 title: 🎨 Creative Guidance
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/creative-guidance
 description:
 created: 2026-03-30
 aliases:

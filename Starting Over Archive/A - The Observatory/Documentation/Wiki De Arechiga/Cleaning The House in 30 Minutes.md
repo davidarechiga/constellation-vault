@@ -2,6 +2,7 @@
 tags:
   - wiki
   - family
+  - archive/observatory/documentation/wiki-de-arechiga
 wiki-category: operations
 created: 2024-01-01
 updated: 2026-03-10

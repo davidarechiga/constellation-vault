@@ -4,6 +4,7 @@ cssclasses:
 title: RECIPES
 tags:
   - recipe
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Recipe collection for the Arechiga household
 created: 2026-03-08
 status: active

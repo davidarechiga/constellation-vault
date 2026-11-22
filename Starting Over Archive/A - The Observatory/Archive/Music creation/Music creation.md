@@ -4,6 +4,7 @@ cssclasses:
 title: Music creation
 tags:
   - 
+  - archive/observatory/archive/music-creation
 description:
 created: 2026-03-08
 aliases:

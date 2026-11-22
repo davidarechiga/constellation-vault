@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # When asking for help as an IT support specialist, it's important to follow these rules:
 
 1. Clearly define the issue: Provide a concise and accurate description of the problem, including error messages and any troubleshooting steps you've already taken.

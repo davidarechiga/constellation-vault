@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/possible-hobbies]
+---
 # Fundamentals
 
 Anticipating disruption of opponents plans

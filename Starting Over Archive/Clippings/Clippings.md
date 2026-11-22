@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/clippings
 type:
 status: draft
 related:

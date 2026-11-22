@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 # Stay composed, all, this isn't a trial
 It's akin to a reverie, a fleeting while
 Let the emotions ebb, don't rush the attack

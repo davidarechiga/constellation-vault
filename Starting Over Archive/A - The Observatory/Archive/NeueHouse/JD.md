@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 # JD
 
 - Create Member Wi-Fi credentials for Meraki 802.1x authentication using Windows Active Directory

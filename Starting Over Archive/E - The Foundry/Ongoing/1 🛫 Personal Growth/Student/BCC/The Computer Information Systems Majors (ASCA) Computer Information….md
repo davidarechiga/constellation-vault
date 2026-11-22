@@ -1,1 +1,4 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 The Computer Information Systems Majors (AS/CA) Computer Information Systems majors include area specializations in Applied Computer Information Systems and Web Programming, one of the most highly demanded skills in public and private sector organizations. For information, phone (510) 981-2921, or contact Dr. Paramsothy Thananjeyan, department chair, at BCC-CISBUSECON@peralta.edu.

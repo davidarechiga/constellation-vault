@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 - Hip Hop is around 80-115 BPM
 - Triphop / Downtempo around 90-110 BPM
 - Concert marches are typically ~120 BPM.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive]
+---
 
 *Task Inbox is currently empty - all tasks have been triaged and moved to appropriate project homes.*
 

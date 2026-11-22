@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 ![[TRANSFER TO TRANSFER_2.wav]]
 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Virtualization
 ### Virtualization (OBJ 2.2)
 Definition: Creation of a virtual resource

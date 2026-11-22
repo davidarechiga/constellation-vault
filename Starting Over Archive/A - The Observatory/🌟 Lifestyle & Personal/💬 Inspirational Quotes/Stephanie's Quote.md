@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 <span style="color:#000ff;">Stephanie's Quote</span>
 
 <span style="color:#000ff;">"Isn't it strange that princes and kings</span>

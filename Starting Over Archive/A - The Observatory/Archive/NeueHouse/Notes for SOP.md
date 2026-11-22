@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 Notes for SOP
 
 Change template folder names to templates forms and checklists - general already changed

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 Lost At Sea
 
 in a row boat, purpose is the horizon

@@ -1,5 +1,5 @@
 ---
-tags: [project]
+tags: [project, archive/foundry/active/music-releases]
 title: Music Releases 2026
 status: active
 category: creative

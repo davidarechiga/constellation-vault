@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/5-household]
+---
 ### Vin
 KNDETCA21N7255897
 ### Lease

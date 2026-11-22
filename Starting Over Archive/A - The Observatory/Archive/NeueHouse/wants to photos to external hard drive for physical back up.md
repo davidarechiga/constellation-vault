@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 # wants to photos to external hard drive for physical back up
 
 phones - 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 # NYC Recommendations
 
 List of places for Archie to visit:

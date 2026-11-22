@@ -6,6 +6,7 @@ tags:
   - asian
   - ramen
   - pork
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Complex curry broth ramen with chashu pork belly and golden raisin garnish
 status: draft
 created: 2026-03-28

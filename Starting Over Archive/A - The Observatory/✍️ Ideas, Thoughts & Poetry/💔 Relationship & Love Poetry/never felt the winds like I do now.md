@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">never felt the winds like I do now</span>
 <span style="color:#000ff;">they push me around</span>
 <span style="color:#000ff;">stories of a better place</span>

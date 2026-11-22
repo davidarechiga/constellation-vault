@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/constellation-mobile]
+---
 # Claude Code Mobile Setup
 
 > Access Claude Code from your iPhone to work with your Obsidian vault, using your old Mac/PC as an always-on home server.

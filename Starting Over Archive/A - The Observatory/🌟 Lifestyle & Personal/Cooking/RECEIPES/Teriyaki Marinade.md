@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 - 1/2 cup soy sauce
 - 3 tablespoons brown sugar
 - 2 tablespoons honey

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Notes FIRECHAT
 
 David and RIck Board member an investor 

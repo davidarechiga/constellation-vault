@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/it-career]
+---
 **Clean install of windows 10 OS on new SSD-best procedure for eliminating current windwos 10 OS on old hard drive**
 
 Don't try to copy the old OS from the HDD, it is much better to clean install Windows 10 on the SSD

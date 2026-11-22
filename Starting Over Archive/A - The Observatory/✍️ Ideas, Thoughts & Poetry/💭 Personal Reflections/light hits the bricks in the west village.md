@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 ![[sunlit in the west village 150bpm BbMaj.wav]]
 
 

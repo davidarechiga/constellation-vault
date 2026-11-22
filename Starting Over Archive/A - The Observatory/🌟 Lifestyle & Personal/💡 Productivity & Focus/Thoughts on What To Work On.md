@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 # Thoughts on What To Work On
 
 ## Focus On [[Rituals]]

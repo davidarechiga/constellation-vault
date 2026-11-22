@@ -1,6 +1,7 @@
 ---
 tags:
   - efforts
+  - archive/foundry/someday
 ---
 
 # Someday Efforts

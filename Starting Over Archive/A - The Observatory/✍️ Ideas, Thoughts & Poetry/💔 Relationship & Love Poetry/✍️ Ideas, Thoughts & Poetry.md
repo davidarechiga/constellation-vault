@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 # Poetry & Lyric Collection
 
 A treasure trove of poetic fragments, lyric ideas, and creative writing - over 500 pieces ready to inspire songs, visuals, or other creative work.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/scuba]
+---
 # break water
 30 feet visibility
 20 ft depth

@@ -4,6 +4,7 @@ tags:
   - recipe
   - snack
   - dessert
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Sophisticated sweet-savory combo
 status: draft
 created: 2026-03-28

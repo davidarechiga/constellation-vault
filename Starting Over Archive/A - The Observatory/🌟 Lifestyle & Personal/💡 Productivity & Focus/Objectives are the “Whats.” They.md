@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 Objectives are the “Whats.” They:
 
 - express goals and intents; are aggressive yet realistic

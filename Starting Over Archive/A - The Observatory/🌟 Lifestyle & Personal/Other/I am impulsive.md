@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/other]
+---
 # I am impulsive
 
 

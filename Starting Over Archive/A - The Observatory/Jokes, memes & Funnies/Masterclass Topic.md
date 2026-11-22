@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/jokes-memes-and-funnies]
+---
 # Masterclass Topic
 
 ## Mastering the Art of Awkward Small talk

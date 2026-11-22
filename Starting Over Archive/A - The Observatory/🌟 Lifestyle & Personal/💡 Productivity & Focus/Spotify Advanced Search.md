@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 <span style="color:#000ff;">Spotify Advanced Search</span>
 
 <span style="color:#000ff;">You can refine your searches in Spotify by adding extra terms into the search box. Note: search terms are not case sensitive.</span>

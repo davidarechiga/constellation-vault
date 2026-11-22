@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 1. "The Matriarch" - Could explore patterns of emotional distance or overprotection passed down through maternal lines
 2. "The Keeper & The Echo” - Someone who holds family secrets & child who repeats patterns they swore to break
 3. “The Raven” - recognizing you’re about to repeat a destructive pattern

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/frameloop]
+---
 # Frameloop - Phase Summary & YouTube Series
 
 This document tracks the YouTube video series documenting Frameloop's development phases.

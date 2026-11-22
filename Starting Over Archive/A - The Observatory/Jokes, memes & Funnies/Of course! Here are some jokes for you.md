@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/jokes-memes-and-funnies]
+---
 # Of course! Here are some jokes for you:
 
 1. Why did the scarecrow win an award? Because he was outstanding in his field!

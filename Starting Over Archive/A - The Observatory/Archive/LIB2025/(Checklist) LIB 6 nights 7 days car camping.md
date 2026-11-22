@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/lib2025]
+---
 #outdoor
 
 

@@ -3,6 +3,7 @@ aliases:
   - Financial Accounts
 tags:
   - finance
+  - archive/foundry/ongoing/5-household
 type: reference
 status: draft
 related:

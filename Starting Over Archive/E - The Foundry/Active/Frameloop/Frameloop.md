@@ -1,5 +1,5 @@
 ---
-tags: [project]
+tags: [project, archive/foundry/active/frameloop]
 title: "Frameloop"
 status: active
 category: creative

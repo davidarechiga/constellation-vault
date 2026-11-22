@@ -1,6 +1,7 @@
 ---
 tags:
   - moc
+  - archive/observatory/documentation/mocs
 ---
 
 # MOC - Health & Wellness

@@ -1,6 +1,7 @@
 ---
 tags:
   - tasks
+  - archive/foundry/tasks
 ---
 
 # Tasks

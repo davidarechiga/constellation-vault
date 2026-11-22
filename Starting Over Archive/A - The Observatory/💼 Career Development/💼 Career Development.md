@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/career-development]
+---
 # 💼 Career Development
 
 > Central navigation for career development - building a unified Creative Technologist path that combines design, technical skills, and creative production.

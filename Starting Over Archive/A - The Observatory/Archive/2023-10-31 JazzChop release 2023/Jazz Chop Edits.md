@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-10-31-jazzchop-release-2023]
+---
 # Jazz Chop Edits
 
 

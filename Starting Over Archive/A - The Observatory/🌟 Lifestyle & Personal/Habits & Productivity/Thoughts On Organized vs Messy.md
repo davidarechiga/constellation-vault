@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/habits-and-productivity]
+---
 # Thoughts On Organized vs Messy
 
 Minimal 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 locked away the tools of my passion
 safe to say they’re better left I sharpened
 they’ve become a danger to my obligations

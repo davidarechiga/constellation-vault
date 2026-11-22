@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Wedding Gift Spending
 
 $8000

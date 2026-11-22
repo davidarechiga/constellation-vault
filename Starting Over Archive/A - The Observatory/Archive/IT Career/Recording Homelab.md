@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/it-career]
+---
 # Recording Homelab
 
 Timeline:

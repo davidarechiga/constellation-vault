@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">Swam Too Far</span>
 
 <span style="color:#000ff;">I don't trust anyone</span>

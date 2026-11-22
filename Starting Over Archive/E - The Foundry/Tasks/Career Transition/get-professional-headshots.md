@@ -2,6 +2,7 @@
 tags:
   - task
   - career
+  - archive/foundry/tasks/career-transition
 title: Get Professional Headshots
 status: open
 priority: normal

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Thank you for dreaming
 Thank you for not giving me a hand
 I learned I have my own 

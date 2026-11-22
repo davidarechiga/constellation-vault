@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 ## **Road trip** 
 
 <b><u>ROUTE</u></b>

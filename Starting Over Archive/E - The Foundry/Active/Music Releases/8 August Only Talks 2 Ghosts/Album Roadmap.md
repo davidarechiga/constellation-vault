@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 Last Release: August 2017 [[Bossa Nova Nights]]
 
 

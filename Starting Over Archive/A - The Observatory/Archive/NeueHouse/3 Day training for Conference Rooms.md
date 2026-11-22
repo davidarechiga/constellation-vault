@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 # 3 Day training for Conference Rooms
 
 Day 1: Training

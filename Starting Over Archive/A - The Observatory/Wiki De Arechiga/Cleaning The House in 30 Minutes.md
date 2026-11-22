@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/wiki-de-arechiga]
+---
 **Cleaning The House in 30 Minutes**
  
 **You will need:**

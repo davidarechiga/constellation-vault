@@ -4,6 +4,7 @@ cssclasses:
 title: A+Study
 tags:
   - 
+  - archive/observatory/archive/aplusstudy
 description:
 created: 2026-03-08
 aliases:

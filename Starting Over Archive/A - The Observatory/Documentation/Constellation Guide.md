@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/documentation]
+---
 # Constellation Guide
 
 > A comprehensive guide to navigating and using your personal knowledge management system.

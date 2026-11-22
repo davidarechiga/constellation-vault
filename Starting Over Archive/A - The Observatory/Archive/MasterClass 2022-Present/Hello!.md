@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 Hello!
 
 I'm currently out of the office snorkeling through tectonic plates in Iceland through May 12th.

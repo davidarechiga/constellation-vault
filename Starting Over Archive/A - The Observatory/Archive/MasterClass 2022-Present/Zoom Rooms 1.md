@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Zoom Rooms
 
 Managed with Zoom and Jamf

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 # fSMM: Week 2
 
 **Participation Self-Reflection** 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 1. Describe a personality characteristic about you that is noteworthy.  After this, describe how Freud would explain that behavior in 2 to 3 paragraphs. --4 points
 
 - As part of my personality, I consider myself an anxious but very independent person. 

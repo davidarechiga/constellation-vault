@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/new-album-2022]
+---
 ![[2. Louie-108bpm-FSharpMaj-Horse Tracks Across A Field-V2.wav]]
 
 

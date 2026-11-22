@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 Yo it’s April 14th, 
 And you know what that means,
 It’s Suzanne Olvey’s Birthday 

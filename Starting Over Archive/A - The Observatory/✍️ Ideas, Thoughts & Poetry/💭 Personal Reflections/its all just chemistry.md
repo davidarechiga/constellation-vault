@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 its all just chemistry 
 the feelings human beings feel
 But a lot of times feelings are learned 

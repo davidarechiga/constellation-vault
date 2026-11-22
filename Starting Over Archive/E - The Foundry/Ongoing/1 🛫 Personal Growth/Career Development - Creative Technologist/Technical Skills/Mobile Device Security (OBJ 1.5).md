@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Mobile Device Security (OBJ 1.5)
 
 ### Securing Wireless Devices (OBJ 3.4 & 3.5)

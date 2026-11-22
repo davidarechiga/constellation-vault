@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/entertainment-and-media]
+---
 
 | Date       | Artist | Venue         | City          |
 | ---------- | ------ | ------------- | ------------- |

@@ -4,6 +4,7 @@ cssclasses:
 title: Writing
 tags:
   - 
+  - archive/observatory/archive/writing
 description:
 created: 2026-03-08
 aliases:

@@ -5,6 +5,7 @@ tags:
   - dinner
   - chicken
   - mediterranean
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Lemon-herb marinated drumsticks with garlic couscous, honey-glazed roasted veggies, and cucumber-yogurt salad
 status: draft
 created: 2026-03-28

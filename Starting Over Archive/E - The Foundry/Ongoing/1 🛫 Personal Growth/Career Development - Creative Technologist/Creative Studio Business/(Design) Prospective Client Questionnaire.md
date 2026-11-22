@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 *Hello! Thank you for considering us for your graphic design needs. To help us understand your project better and tailor our services to your specific requirements, please take a moment to fill out this questionnaire. Your insights will enable us to create designs that perfectly align with your vision and goals.*
 
 1. **General Information:**

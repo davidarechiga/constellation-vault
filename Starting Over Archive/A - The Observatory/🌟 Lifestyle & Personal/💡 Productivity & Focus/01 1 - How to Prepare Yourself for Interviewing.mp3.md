@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 01 1 - How to Prepare Yourself for Interviewing.mp3
 
 ![[01 1 - How to Prepare Yourself for Interviewing.mp3]]

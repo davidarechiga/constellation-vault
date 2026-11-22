@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 I’m sorry you and Camille are going through this. It’s clear you care deeply for her, and your support means so much during such a tough time. Here’s a step-by-step guide on how you can help as her husband:
 
   

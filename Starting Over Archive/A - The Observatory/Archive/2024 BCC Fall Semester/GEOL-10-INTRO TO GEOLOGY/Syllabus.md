@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-bcc-fall-semester]
+---
 
 - **Student engagement expected weekly and REMOTELY.  This course is asynchronous (no set class hours) but Mid-term and Final Tests have due dates.**
 - **Instructor:  Steve Self; e-mail:**  [**steve.geo10.coa@gmail.com**](mailto:peter.geo10.coa@gmail.com)**, or stephenself@peralta.edu**

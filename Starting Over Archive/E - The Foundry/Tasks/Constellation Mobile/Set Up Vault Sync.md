@@ -4,6 +4,7 @@ priority: medium
 tags:
   - task
   - personal
+  - archive/foundry/tasks/constellation-mobile
 projects:
   - "[[Starting Over Archive/E - The Foundry/Tasks/Constellation Mobile/Constellation Mobile]]"
 due: 2026-03-31

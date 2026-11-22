@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 ### Review work and provide feedback
 ### Analyze Tasks And Identify Items Ripe For Automation
 

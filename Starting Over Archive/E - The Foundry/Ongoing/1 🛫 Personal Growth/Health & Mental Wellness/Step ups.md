@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 <span style="color:#000ff;">Step ups</span>
 <span style="color:#000ff;">Star</span>
 <span style="color:#000ff;">Sidesteps</span>

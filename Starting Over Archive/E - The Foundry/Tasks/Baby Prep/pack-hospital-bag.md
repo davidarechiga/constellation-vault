@@ -2,6 +2,7 @@
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 title: Pack Hospital Bag
 status: done
 priority: high

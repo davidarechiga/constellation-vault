@@ -6,6 +6,7 @@ aliases:
 tags:
   - productivity
   - self-improvement
+  - archive/observatory/lifestyle-and-personal/habits-and-productivity
 type: reference
 status: complete
 related:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/picnichealth]
+---
 # Jamf
 
 Apple Business Manager

@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/making-a-zine-dilettante
 title: Making A Zine - Dilettante
 status: someday
 priority: low

@@ -5,6 +5,7 @@ tags:
   - task
   - baby
   - critical
+  - archive/foundry/tasks/baby-prep
 projects:
   - "[[1 Baby Prep - Cyrus]]"
 due: 2026-02-11

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/networkplus-study]
+---
 # Network+ Study
 
 ## New Study Material

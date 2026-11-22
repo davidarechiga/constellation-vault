@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 # trauma_loop-C#min.wav
 
 ![[trauma_loop-C#min.wav]]

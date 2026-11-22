@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 she doesn't get a chance to breathe 
 as she walks tightly on a string
 she believes in forever

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 
 #### List of All Daily Habits
 - Shower

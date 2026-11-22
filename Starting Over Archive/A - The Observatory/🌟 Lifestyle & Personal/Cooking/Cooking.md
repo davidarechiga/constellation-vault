@@ -5,6 +5,7 @@ title: Cooking
 tags:
   - cooking
   - hub
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Cooking hub — recipes, meal planning, pantry, and kitchen knowledge
 status: active
 created: 2026-03-28

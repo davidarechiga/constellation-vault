@@ -2,6 +2,7 @@
 tags:
   - task
   - personal
+  - archive/foundry/tasks/constellation-mobile
 title: Configure SSH Access from Mobile
 status: open
 priority: normal

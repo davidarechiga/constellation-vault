@@ -4,6 +4,7 @@ cssclasses:
 title: 2 🥰 Camille
 tags:
   - 
+  - archive/foundry/ongoing/2-camille
 description:
 created: 2026-03-08
 aliases:

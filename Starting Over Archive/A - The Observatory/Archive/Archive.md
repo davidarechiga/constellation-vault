@@ -4,6 +4,7 @@ cssclasses:
 title: Archive
 tags:
   - 
+  - archive/observatory/archive
 description:
 created: 2026-03-08
 aliases:

@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 When I think about my resume, I run away. The answer to everything is within me. I find myself seeking advice to runaway from my own criticisms. Using friends and family as scape goats. What are these criticisms? Criticisms are elusive fugitives hiding around every corner. What’s the difference between constructive criticism and just being negative.

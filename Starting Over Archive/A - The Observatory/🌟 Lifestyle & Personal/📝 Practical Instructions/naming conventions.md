@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 # naming conventions
 
 Mayo - phone

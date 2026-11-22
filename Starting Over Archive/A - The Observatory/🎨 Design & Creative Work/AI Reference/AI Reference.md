@@ -4,6 +4,7 @@ cssclasses:
 title: AI Reference
 tags:
   - 
+  - archive/observatory/design-and-creative-work/ai-reference
 description:
 created: 2026-03-08
 aliases:

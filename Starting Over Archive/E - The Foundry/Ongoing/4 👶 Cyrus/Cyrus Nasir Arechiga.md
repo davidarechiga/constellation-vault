@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/4-cyrus]
+---
 # Cyrus Nasir Arechiga
 
 ## Quick Info

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Marcos referral note:
 
 I have worked professionally with Archie for 4 years while he was a Genius at SoHo and myself a Lead Genius.

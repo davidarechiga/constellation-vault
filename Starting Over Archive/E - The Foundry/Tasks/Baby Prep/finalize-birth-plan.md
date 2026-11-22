@@ -2,6 +2,7 @@
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 title: Finalize Birth Plan
 status: done
 priority: normal

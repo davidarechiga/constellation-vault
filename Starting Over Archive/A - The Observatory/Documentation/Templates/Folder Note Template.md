@@ -3,6 +3,7 @@ cssclasses:
   - folder-note
 title: Decide whether or not to renew archiedonuts.com
 tags:
+  - archive/observatory/documentation/templates
   -
 description:
 created: 2026-03-31

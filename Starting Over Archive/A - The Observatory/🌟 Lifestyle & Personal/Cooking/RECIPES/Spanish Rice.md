@@ -5,6 +5,7 @@ tags:
   - dinner
   - side-dish
   - mexican
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Simple cumin basmati rice with Rotel tomatoes, plus a bonus chili pie recipe
 status: draft
 created: 2026-03-28

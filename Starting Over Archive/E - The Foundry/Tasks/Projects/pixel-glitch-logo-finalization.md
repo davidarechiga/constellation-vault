@@ -4,6 +4,7 @@ tags:
   - project
   - design
   - pixelglitch
+  - archive/foundry/tasks/projects
 title: "Pixel Glitch - Logo Finalization"
 status: open
 priority: low

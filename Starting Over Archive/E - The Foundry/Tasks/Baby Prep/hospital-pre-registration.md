@@ -3,6 +3,7 @@ tags:
   - task
   - baby
   - critical
+  - archive/foundry/tasks/baby-prep
 title: Hospital Pre-Registration
 status: done
 priority: high

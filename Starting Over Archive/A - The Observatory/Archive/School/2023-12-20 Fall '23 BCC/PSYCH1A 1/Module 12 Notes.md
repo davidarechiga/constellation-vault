@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 Write Up: [[Module 12 Write Up]] 
 ## From Textbook:
 ### 15.2 Anxiety Disorders and Obsessive-Compulsive Disorder

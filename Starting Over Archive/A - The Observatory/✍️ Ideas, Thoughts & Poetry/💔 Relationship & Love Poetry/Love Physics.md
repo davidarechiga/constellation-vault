@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 # Love Physics
 
 # Don’t let your curiosity get you in trouble

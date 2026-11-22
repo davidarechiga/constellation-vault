@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/fall-2025]
+---
 
 Directions for Answering the Questions
 

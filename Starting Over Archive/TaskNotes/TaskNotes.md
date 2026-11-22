@@ -4,6 +4,7 @@ cssclasses:
 title: TaskNotes
 tags:
   - 
+  - archive/tasknotes
 description:
 created: 2026-03-31
 aliases:

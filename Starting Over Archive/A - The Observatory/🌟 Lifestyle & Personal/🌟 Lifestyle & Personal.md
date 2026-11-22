@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 # 🌟 Lifestyle & Personal
 
 A unified hub for family, partnership, wellness, and daily life — everything that makes up the personal fabric of life.

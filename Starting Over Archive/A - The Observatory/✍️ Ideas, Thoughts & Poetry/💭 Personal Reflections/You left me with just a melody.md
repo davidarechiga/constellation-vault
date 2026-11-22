@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 You left me with just a melody
 a sinking ship at sea
 endless waves

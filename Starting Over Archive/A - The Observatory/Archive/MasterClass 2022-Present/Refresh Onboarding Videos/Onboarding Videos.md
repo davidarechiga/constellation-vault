@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Onboarding Videos
 
 Adobe Stock for stock videos and samples

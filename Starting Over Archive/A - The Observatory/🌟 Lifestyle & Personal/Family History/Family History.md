@@ -4,6 +4,7 @@ cssclasses:
 title: Family History
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/family-history
 description:
 created: 2026-03-08
 aliases:

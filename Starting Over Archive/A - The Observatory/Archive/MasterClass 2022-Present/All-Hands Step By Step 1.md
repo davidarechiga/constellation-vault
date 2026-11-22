@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # All-Hands Step By Step
 
 1. Dry Run

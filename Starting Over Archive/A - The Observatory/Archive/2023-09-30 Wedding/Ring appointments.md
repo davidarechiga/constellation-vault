@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Ring appointments
 
 2:30pm pradis

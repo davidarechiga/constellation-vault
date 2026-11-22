@@ -5,6 +5,7 @@ aliases:
 tags:
   - design
   - aesthetic
+  - archive/observatory/design-and-creative-work/design-aesthetics
 type: reference
 status: complete
 related:

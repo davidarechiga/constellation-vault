@@ -4,6 +4,7 @@ tags:
   - project
   - frameloop
   - development
+  - archive/foundry/tasks/projects
 title: "Frameloop - Phase 2-3 Development"
 status: open
 priority: low

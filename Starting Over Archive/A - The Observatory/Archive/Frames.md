@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive]
+---
 # Frames 
 
 ## **24x18**:

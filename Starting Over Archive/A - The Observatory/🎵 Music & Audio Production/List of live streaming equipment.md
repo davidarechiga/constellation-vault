@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/music-and-audio-production
 type:
 status: draft
 related:

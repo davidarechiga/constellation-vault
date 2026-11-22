@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/parker-raid-setup-2021q4]
+---
 Parker Nas Server
 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive]
+---
 ### Address
 180 Machi Rd, Whitethorn CA
 https://maps.app.goo.gl/5KzxLRdF6WktjXER6?g_st=ic

@@ -1,6 +1,6 @@
 ---
 aliases:
-tags:                   # lowercase, e.g. #reference #idea #person
+tags: [archive/observatory/documentation/templates]   # lowercase, e.g. reference, idea, person
 type:                   # note | reference | moc | source | person | place
 status: draft           # draft | active | complete | archived
 related:                # [[Wikilink]] to related notes

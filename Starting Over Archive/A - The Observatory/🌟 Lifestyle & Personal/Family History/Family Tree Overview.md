@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/family-history]
+---
 # Family Tree Overview
 
 A living map of the Arechiga/Cassady family tree. Updated as research progresses.

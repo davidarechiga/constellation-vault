@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 # To make a good decision...
 
 you need to have a sense of two things: 

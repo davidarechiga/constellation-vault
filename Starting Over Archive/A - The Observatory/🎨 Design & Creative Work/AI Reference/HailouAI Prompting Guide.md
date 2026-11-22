@@ -4,6 +4,7 @@ tags:
   - contentcreation
   - ai
   - hailouai
+  - archive/observatory/design-and-creative-work/ai-reference
 type: reference
 status: draft
 related:

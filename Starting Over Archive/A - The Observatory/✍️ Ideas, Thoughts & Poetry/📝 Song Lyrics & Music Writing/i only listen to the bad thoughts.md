@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 i only listen to the bad thoughts
 hard to find someone who cares
 

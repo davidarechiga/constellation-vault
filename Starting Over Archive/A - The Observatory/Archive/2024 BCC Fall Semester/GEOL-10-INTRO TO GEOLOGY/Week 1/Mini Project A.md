@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-bcc-fall-semester]
+---
 [A Tale of Two Hurricanes Finds More That Differs Than Is the Same](https://www.nytimes.com/2024/10/13/us/hurricane-milton-helene-florida-north-carolina.html)
 
 

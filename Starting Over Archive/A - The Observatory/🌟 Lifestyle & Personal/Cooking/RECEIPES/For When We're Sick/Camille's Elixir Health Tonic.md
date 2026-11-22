@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 # Camille's Elixir Health Tonic
 
 ## Ingredients

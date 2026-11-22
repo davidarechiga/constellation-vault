@@ -4,6 +4,7 @@ cssclasses:
 title: 🎮 Entertainment & Media
 tags:
   - 
+  - archive/observatory/entertainment-and-media
 description:
 created: 2026-03-08
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 # Japanese Words & Concepts
 #learning #japan #japanese #vocab
 

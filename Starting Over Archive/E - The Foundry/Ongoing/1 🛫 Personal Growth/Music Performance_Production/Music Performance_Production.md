@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Music Performance & Production
 
 Your complete music production knowledge base - techniques, gear, and creative resources.

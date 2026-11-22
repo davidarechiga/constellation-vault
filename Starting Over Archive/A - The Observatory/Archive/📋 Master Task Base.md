@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive]
+---
 # 📋 Master Task Base
 
 > Last updated: 2026-02-01

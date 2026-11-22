@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/lifestyle-and-personal/scuba
 type:
 status: draft
 related:

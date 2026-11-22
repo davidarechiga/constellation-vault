@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 # Habit Database
 
 # Google sheet

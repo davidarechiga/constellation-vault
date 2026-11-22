@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 life is what we make of it
 so i stay steady tryna make a hit
 ima make it kid

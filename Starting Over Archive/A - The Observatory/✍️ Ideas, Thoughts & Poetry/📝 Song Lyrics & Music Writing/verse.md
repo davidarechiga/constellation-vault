@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 **verse**
 everybody stay calm
 this is not a test

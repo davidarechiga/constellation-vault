@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/picnichealth]
+---
 # JAMF Now meeting notes
 
 

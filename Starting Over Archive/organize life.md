@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/root
 type:
 status: draft
 related:

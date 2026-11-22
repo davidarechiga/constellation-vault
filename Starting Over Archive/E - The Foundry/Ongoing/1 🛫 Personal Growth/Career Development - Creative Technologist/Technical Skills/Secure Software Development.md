@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Secure Software Development
 ### Software Development (OBJ 2.1 & 2.3)
 SDLC - Software Development Lifecycle

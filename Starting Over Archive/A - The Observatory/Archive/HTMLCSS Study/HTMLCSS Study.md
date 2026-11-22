@@ -4,6 +4,7 @@ cssclasses:
 title: Attachments
 tags:
   - 
+  - archive/observatory/archive/htmlcss-study
 description:
 created: 2026-03-08
 aliases:

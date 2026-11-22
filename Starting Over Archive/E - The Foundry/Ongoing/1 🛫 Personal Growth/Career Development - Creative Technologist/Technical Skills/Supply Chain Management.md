@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Supply Chain Management
 
 ### Supply Chain Assessment (OBJ 1.2, 1.5 & 1.6)

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 Ground rules for communication 
 
 Use I statements instead of you’re

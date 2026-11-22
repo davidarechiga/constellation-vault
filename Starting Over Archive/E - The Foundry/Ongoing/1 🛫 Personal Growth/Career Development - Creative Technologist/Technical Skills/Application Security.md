@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Application Security
 ### Web Browser Security (OBJ 3.2 & 3.3)
 Ensure you web browser is up-to-date with patches…

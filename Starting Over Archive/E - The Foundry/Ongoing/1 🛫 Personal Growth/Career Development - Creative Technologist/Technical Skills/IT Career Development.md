@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # IT Career Development
 
 Your IT career knowledge base - experience, certifications, job search, and professional growth.

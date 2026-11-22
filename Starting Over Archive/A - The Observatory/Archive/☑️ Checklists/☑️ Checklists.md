@@ -4,6 +4,7 @@ cssclasses:
 title: Apple  Genius Bar 2007-2019
 tags:
   - 
+  - archive/observatory/archive/checklists
 description:
 created: 2026-03-08
 aliases:

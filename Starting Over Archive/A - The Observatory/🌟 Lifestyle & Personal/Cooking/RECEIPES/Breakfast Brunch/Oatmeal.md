@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 ## Ingredients (3 servings)
 - 1½ cups rolled oats
 - 3 cups liquid (water/milk)

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # 23Q1 OKR **[Discovery] Streamline Onboarding Process**
 We chatted via Slack, but let’s focus on these in the next few days 
 - Go through slack history to check for communication gaps/application workflow breakdowns

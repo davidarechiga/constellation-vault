@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/dashboard]
+---
  🗂️ COMPREHENSIVE PROJECT CATALOG
 
   Constellation Vault - All Projects (Active, Future, and Archived)

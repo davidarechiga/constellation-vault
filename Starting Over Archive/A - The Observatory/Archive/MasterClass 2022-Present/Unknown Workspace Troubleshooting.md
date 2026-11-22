@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Unknown Workspace Troubleshooting
 
 ![[20007592930.png]]

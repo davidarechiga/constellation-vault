@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Im starting to realize how unhygienic I have become
 
 Some habits that help me realize this:

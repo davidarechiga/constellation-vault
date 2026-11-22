@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 We are looking for a creative and detail-oriented Short-Form Video Editor to join our content team. This role will focus on producing engaging, high-quality short clips for platforms like TikTok, Instagram Reels, and YouTube Shorts, helping spread Simon's message of entrepreneurship and purpose.  
   
 **Responsibilities:**  

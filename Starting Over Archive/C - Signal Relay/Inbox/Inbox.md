@@ -4,6 +4,7 @@ cssclasses:
 title: Inbox
 tags:
   - 
+  - archive/signal-relay/inbox
 description:
 created: 2026-03-08
 aliases:

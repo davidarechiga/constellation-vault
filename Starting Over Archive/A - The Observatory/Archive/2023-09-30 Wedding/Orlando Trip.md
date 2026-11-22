@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Orlando Trip
 ### [09/24-10/02](x-apple-data-detectors://embedded-result/13)
 

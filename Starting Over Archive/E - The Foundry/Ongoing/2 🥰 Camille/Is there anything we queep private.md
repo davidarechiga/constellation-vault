@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 Is there anything we queep private?
 
 i'm sorry i stopped checking this. i still really love it. it's better then texting because it saves everything after restoring.

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Formstorming
 - Leads to higher levels of formal and conceptual innovation
 - Act of visual thinking

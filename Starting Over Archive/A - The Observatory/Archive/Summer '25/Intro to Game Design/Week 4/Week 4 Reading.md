@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/summer-25]
+---
 
 # Question 1: Building your first Game - What Tips could you share with others?
 

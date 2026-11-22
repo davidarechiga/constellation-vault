@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 4 Write Up
 
 1. List two characteristics/traits that you think define who you are. Then, try to determine how those characteristics/traits might have been caused by operant or classical conditioning. Make sure to use the terminology from the class, you will be graded based on your assessment of the concepts and correct use of the terminology. Please note, there IS WRONG ANSWERS for these.  Being able to successfully identify how and when these concepts apply is a critical part of this question. --5 points

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-22-intimate-videos-in-the-style-of-a24]
+---
 # Chat GPT Prompt of Shot list
 
 Creating intimate videos can be a personal and creative endeavor. Here are some cinematic shot ideas that draw inspiration from A24 films:

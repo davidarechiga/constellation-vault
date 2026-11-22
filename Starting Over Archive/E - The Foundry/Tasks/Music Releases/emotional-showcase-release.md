@@ -2,6 +2,7 @@
 tags:
   - task
   - music
+  - archive/foundry/tasks/music-releases
 title: Emotional Showcase EP Release
 status: open
 priority: high

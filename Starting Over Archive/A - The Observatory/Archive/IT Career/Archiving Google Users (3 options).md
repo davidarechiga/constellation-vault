@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/it-career]
+---
 # Archiving Google Users (3 options)
 
 1. Archiving mailbox externally (offline on external hard drive or SSD) via export tool and deleting the user

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-22-intimate-videos-in-the-style-of-a24]
+---
 # video production checklist
 covers both pre and post-production stages:
 

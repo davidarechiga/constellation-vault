@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # notes on computer setup
 
 1. Move all local files to google drive. https://masterclass.freshservice.com/support/solutions/articles/20000029428

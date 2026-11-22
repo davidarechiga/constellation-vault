@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Absolutely, incorporating timed sets can be effective for maintaining workout intensity. Here's your revised workout plan with timed segments:
 
 **Monday - Upper Body + Cardio**

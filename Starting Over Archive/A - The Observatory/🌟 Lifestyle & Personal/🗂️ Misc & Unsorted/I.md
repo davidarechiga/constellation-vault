@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 <span style="color:#000ff;">I</span>
 
 <span style="color:#000ff;">SAW</span>

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Linked in description
 
 As a Technical Specialist, I am I charge of:

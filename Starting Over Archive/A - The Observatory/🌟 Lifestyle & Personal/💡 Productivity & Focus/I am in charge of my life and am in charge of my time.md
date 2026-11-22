@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 I am in charge of my life and am in charge of my time
 
 Fresh direct

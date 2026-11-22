@@ -2,6 +2,7 @@
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 title: Infant Care Basics Practice
 status: in-progress
 priority: normal

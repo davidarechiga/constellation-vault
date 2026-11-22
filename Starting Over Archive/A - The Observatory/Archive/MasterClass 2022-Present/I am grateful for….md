@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # I am grateful for…
 🙌🏼 Pop-Punk
 🙌🏼 Morning Coffee

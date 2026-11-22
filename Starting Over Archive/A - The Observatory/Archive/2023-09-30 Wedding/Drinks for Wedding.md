@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Drinks for Wedding
 
 Granny Cranny

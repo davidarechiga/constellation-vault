@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 # SMM: Week 5
 
 **Participation Self-Reflection** 

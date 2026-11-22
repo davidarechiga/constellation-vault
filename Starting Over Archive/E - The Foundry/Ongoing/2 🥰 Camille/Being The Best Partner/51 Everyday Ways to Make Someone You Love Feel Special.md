@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # 51 Everyday Ways to Make Someone You Love Feel Special
 
 #showup

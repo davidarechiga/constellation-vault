@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 
 Criteria is interesting to me, specifically the mount of time. 
 	GAD

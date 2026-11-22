@@ -2,6 +2,7 @@
 tags:
   - task
   - personal
+  - archive/foundry/tasks/constellation-mobile
 title: Create Project Documentation
 status: open
 priority: low

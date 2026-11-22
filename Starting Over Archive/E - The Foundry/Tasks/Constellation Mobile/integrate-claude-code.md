@@ -2,6 +2,7 @@
 tags:
   - task
   - personal
+  - archive/foundry/tasks/constellation-mobile
 title: Integrate Claude Code on Mobile
 status: open
 priority: normal

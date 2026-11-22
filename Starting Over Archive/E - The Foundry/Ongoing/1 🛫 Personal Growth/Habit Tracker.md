@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Habit Tracker
 
 Track daily habits and visualize your progress over time.

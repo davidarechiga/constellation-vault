@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/observatory/documentation/templates
 title: Decide whether or not to renew archiedonuts.com
 status: someday
 priority: normal

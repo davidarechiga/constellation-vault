@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/make-a-sprawling-zine
 title: Make a Sprawling Zine
 status: someday
 priority: low

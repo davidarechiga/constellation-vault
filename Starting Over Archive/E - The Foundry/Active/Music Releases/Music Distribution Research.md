@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 # Music Distribution Research for Independent Record Label 2025
 
 ## Executive Summary

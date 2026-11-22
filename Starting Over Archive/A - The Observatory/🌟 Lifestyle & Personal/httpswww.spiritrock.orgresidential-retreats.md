@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 https://www.spiritrock.org/residential-retreats
 
 Shira Steinberg to Everyone (May 3, 2023, 3:45 PM)

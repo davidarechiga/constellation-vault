@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/archie-and-the-butterflies]
+---
 BOSSA NOVA NIGHTS Credits
 
 1. Like At First Wing

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/apple-genius-bar-2007-2019]
+---
 Scheduling follow up call for appointments
 
 Customer focus

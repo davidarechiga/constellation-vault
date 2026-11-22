@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/entertainment-and-media]
+---
 1. Starfield
 2. Spider-Man 2
 3. Prince Of Persia: The Lost Crown

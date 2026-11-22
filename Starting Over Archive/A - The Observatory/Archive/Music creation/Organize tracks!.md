@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/music-creation]
+---
 Organize tracks!
 
 **ARCHIE AND THE BUTTER FLIES**

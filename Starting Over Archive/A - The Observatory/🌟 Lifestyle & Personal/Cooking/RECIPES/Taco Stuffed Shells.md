@@ -4,6 +4,7 @@ tags:
   - recipe
   - dinner
   - mexican
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Pasta shells stuffed with taco filling
 status: draft
 created: 2026-03-08

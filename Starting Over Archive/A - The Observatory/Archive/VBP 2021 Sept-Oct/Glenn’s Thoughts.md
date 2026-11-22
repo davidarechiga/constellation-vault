@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/vbp-2021-sept-oct]
+---
 # Glenn’s Thoughts
 
 PC speaker for sale

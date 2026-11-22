@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-22-intimate-videos-in-the-style-of-a24]
+---
 # ChatGPT prompt with camera positions
 
 Certainly, here's a list of shots with detailed camera placement and color scheme suggestions:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/design-and-creative-work/microwriting-social-media]
+---
 # Kendoll 
 
 #microstorytelling, #showerthoughts

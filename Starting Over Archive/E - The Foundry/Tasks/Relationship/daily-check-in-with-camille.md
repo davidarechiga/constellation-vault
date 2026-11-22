@@ -3,6 +3,7 @@ tags:
   - task
   - relationship
   - habit
+  - archive/foundry/tasks/relationship
 title: "Daily 15-Min Check-In with Camille"
 status: open
 priority: normal

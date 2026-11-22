@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 # **Think Again Highlights**
 
 **Prologue**

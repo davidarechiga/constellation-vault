@@ -5,6 +5,7 @@ tags:
   - dinner
   - vegan
   - pasta
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Avocado-based dairy-free mac and "cheese" with nutritional yeast
 status: draft
 created: 2026-03-28

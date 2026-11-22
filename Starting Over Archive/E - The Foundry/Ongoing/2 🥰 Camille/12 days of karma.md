@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 12 days of karma
 
 Each day has a song as the inspiration

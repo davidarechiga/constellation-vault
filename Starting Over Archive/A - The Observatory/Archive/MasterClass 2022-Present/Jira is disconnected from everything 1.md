@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Jira is disconnected from everything
 
 JIRA is old and not used any more

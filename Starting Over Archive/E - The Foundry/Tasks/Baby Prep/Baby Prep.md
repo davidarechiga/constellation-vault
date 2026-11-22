@@ -4,6 +4,7 @@ cssclasses:
 title: Baby Prep
 tags:
   - 
+  - archive/foundry/tasks/baby-prep
 description:
 created: 2026-03-08
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Rehearsal Dinner Food
 
 Large Smoked paprika chicken: $243

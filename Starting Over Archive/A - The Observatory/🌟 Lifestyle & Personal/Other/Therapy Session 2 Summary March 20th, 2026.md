@@ -3,6 +3,7 @@ aliases:
 tags:
   - therapy
   - 
+  - archive/observatory/lifestyle-and-personal/other
 type:
 status: draft
 related:

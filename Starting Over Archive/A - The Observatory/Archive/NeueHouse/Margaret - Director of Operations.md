@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 Margaret - Director of Operations
 
 Kaitlin - Member Experience Manager - Front Desk

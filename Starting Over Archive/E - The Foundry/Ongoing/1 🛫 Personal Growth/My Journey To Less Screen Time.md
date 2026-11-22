@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 I need a reel script and shot list for a new series I want to create.
 
 Title: My Journey to Less Screen Time, More Gratitude, and a New Found Sense of Self Part 1

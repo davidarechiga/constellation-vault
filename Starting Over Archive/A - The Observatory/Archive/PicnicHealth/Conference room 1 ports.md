@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/picnichealth]
+---
 # Conference room 1 ports
 
 001-005

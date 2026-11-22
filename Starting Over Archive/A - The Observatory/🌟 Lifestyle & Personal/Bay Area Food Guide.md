@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 # Bay Area Food Guide
 
 > A comprehensive guide to the best restaurants, cafes, and food spots across the San Francisco Bay Area. Updated January 2026.

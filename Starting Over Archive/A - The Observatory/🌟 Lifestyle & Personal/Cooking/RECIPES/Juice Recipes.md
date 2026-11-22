@@ -4,6 +4,7 @@ tags:
   - recipe
   - drinks
   - healthy
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Green and orange fresh juice formulas from Camille
 status: draft
 created: 2026-03-28

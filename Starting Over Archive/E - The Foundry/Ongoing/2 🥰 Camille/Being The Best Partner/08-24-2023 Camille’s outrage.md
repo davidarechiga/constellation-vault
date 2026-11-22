@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # 08-24-2023 Camille’s outrage
 
 Camille Anne Fulmore:

@@ -4,6 +4,7 @@ tags:
   - recipe
   - breakfast
   - brunch
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Sausage, egg, and cheese crescent roll burritos
 status: draft
 created: 2026-03-28

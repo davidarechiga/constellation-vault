@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-07-bachelor-party]
+---
 # BACHELOR
 
 <b><u>LOCATION:</u></b>

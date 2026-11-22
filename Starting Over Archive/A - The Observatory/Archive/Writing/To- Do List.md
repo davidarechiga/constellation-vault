@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 To- Do List:
 - Add your topic sentences to your thesis statement (THINK adding “B” to your “Although C, A because of B” format)
 - Finish writing body paragraphs

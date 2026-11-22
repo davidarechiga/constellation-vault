@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # OKR Scope! 8/15/2023
 
 Setting up a new meetings for OKR Kick off!!

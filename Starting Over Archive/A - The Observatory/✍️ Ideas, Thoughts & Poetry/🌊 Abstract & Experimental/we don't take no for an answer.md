@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 we don't take no for an answer
 put your money where your mouth is
 tell me is you bout this life

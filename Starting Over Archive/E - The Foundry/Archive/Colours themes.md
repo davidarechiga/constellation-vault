@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 <span style="color:#000ff;">Colours themes</span>
 
 <span style="color:#000ff;">The Struggle Is Real</span>

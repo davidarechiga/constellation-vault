@@ -3,6 +3,7 @@ tags:
   - task
   - household
   - recurring
+  - archive/foundry/tasks/household
 title: Money Manager
 status: open
 priority: high

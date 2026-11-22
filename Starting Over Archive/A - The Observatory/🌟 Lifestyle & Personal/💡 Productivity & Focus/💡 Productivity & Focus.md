@@ -4,6 +4,7 @@ cssclasses:
 title: 💡 Productivity & Focus
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/productivity-and-focus
 description:
 created: 2026-03-30
 aliases:

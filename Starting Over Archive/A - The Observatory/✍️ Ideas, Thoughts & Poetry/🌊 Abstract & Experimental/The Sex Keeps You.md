@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">The Sex Keeps You</span> 
 
 <span style="color:#000ff;">Distant and unamused</span>

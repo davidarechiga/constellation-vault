@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 # Complete Shopping List for Mediterranean Dinner
 
 ## Produce

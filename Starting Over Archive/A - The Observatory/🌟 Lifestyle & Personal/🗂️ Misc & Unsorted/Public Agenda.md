@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 <span style="color:#000ff;"><b>Public Agenda</b></span>
 <span style="font-family:.SFUIDisplay-Regular;font-size:29pt;color:#000ff;">hey! have you heard of the public agenda?</span>
 <span style="font-family:.SFUIDisplay-Semibold;font-size:29pt;color:#000ff;"><b>Public Awareness</b></span>

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/family-history]
+---
 # Arechiga Line
 
 Paternal family line research. Mexican heritage.

@@ -4,6 +4,7 @@ cssclasses:
 title: Constellation Mobile
 tags:
   - 
+  - archive/foundry/tasks/constellation-mobile
 description:
 created: 2026-03-08
 aliases:

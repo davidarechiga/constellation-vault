@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/tasknotes/tasks
 type:
 status: draft
 related:

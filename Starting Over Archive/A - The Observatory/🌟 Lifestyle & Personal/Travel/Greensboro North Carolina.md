@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 # Greensboro North Carolina
 
 # Boxcar cafe

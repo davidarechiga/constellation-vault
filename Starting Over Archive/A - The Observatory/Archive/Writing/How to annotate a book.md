@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 ## How to annotate a book
 
 **Prepare before reading**

@@ -4,6 +4,7 @@ cssclasses:
 title: Observatory Index
 description: Navigation index for The Observatory — all knowledge areas, system docs, and reference folders
 created: 2026-03-30
+tags: [archive/observatory]
 ---
 
 # A — The Observatory — Index

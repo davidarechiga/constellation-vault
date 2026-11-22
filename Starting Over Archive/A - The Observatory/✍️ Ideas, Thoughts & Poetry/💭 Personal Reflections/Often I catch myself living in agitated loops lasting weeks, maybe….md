@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 # Often I catch myself living in agitated loops lasting weeks, maybe even months. I am struggling to create and hold up boundaries for the promises/goals I have made for myself.  these boundaries will help me to stay grounded in reality and focus on what’s in front of me. I tend to create cognitive distortions when I allow others over step my boundaries. These distortions come in the form of insecurities surrounding work and pleasure.

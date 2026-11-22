@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 Notes for call with Gurvinder
 
 Things to note:

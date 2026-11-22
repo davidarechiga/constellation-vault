@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory]
+---
 # Wellness Hub
 
 A unified hub for health, mental wellness, daily rituals, nutrition, and self-care practices.

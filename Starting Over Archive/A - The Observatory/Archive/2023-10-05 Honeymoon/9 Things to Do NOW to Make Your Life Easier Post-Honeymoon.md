@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-10-05-honeymoon]
+---
 # 9 Things to Do NOW to Make Your Life Easier Post-Honeymoon
 ### [Article Link](https://www.weddingwire.com/wedding-ideas/9-things-to-do-now-to-make-your-life-easier-post-honeymoon)
 

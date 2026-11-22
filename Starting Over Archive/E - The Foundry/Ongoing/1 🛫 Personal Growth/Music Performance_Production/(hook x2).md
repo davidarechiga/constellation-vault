@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 (hook x2)
 sitting on the curb in your hood
 head looking down

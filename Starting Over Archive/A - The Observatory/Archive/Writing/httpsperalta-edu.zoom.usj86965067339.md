@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 # [**https://peralta-edu.zoom.us/j/86965067339**](https://peralta-edu.zoom.us/j/86965067339)
 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 sometimes i'm lost in imaginary worlds
 deep enough to question
 life and it's existence

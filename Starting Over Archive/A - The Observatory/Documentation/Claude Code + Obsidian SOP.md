@@ -3,6 +3,7 @@ tags:
   - documentation
   - sop
   - claude-code
+  - archive/observatory/documentation
 created: 2026-03-31
 ---
 

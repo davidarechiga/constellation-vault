@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 Infinite sigh
 
 1. NO ONE CAN SAVE YOU

@@ -3,6 +3,7 @@ title: Camille's Recipes
 tags:
   - recipe
   - collection
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Camille's recipe links and favorites
 status: draft
 created: 2026-03-28

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/living-in-nyc-2015-2021]
+---
 Room  for rent near Prospect Park! 
 
 

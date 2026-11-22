@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 modem info:
 
 enter this as url: 10.0.0.1

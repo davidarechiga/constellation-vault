@@ -4,6 +4,7 @@ cssclasses:
 title: Mr. Laracy
 tags:
   - 
+  - archive/observatory/archive/mr-laracy
 description:
 created: 2026-03-08
 aliases:

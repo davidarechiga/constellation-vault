@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 I am a stranger to my own bed
 Cursed by books I bought and never read
 Aspirations quickly fade

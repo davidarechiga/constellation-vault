@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 
 1. Get sunlight before screen light
 2. Less consuming, more creating

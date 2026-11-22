@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 ## Pre-Assessment Exam
 1. C (Right) - Encryption is the best chose to provide confidentiality of any type of information, including Personally Identifiable Information (PII) stored in a database. Hashing will support a use case of supporting integrity. Digital Signatures will support a use case of supporting non-repudiation. A smart card will support a use case of supporting authentication
 2. B (right) -  Integrity provides assurances that data has not been modified and integrity is commonly enforced with hashing. Confidentiality prevents unauthorized disclosure of data but doesn’t address modifications of data. Availability ensures systems are up and operational when needed and uses fault tolerance and redundancy method. Authentication provides proof that users are who they claim to be

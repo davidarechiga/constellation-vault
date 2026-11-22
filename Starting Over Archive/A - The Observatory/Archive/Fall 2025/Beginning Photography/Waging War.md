@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/fall-2025]
+---
 
 Choose one memorable photo from each of these three wars: World War I, World War 11 and the Vietnam War.
 Describe each photo and explain in your Canvas post why you consider this photo to be the most memorable one you saw in the documentary. Use information from the video in your post and not information from the internet.

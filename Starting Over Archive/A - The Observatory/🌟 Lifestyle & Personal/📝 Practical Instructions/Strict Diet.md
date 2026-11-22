@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 <span style="color:#000ff;"><b>Strict Diet</b></span>
 
 <span style="color:#000ff;"><b>Fruits & Vegetables</b></span>

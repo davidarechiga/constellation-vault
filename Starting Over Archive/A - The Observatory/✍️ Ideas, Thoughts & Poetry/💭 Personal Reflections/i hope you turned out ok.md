@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 i hope you turned out ok
 though it was out of my hands
 did everything i could

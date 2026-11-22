@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/htmlcss-study]
+---
 # When I see you in my dreams
 
 When I see you in my dreams

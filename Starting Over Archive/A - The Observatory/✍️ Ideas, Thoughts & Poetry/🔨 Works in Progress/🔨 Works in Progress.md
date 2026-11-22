@@ -4,6 +4,7 @@ cssclasses:
 title: 🔨 Works in Progress
 tags:
   - 
+  - archive/observatory/ideas-thoughts-and-poetry/works-in-progress
 description:
 created: 2026-03-08
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 Certainly! Here's an updated description that incorporates wedding rings and the date of your wedding:
 
 "I would like to commission a unique enamel pin as a special gift for attendees at my upcoming wedding. The pin should artfully combine several elements that hold deep meaning for my partner and me. Firstly, we would love for the pin to incorporate an apple, symbolizing our love for New York City, where our journey began. The apple can be vibrant red and exquisitely designed. Additionally, we would like to include a microphone to represent our shared passion for karaoke, displayed in a stylish and artistic manner.

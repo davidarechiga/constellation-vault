@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 # Lonely Only (working title)
 
 ![[135bpmOutro 145bpm-walletlost-Am.mp3]]

@@ -2,6 +2,7 @@
 tags:
   - task
   - career
+  - archive/foundry/tasks/career-transition
 title: Complete LinkedIn Profile
 status: open
 priority: high

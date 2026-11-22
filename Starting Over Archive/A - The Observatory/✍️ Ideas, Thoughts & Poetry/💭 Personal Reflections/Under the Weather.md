@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 # Under the Weather
 
 Your skin, like knocking on a door, soft and tender

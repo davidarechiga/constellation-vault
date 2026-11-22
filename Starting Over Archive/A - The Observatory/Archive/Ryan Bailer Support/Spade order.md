@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 # Spade order
 
 1x https://eshop.macsales.com/item/OWC/ENVPROC2N80/ 8TB SSD for Photos

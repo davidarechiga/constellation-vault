@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 ![[IMG_1507.png]]
 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/checklists]
+---
 # video production checklist
 ### covers both pre and post-production stages
 

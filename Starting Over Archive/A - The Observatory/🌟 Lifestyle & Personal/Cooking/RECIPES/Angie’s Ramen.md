@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 
 Difficulty scale: Maybe a 4 out of 10 just bc you have to have all the ingredients - it’s super easy! 
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 Constantly defensive climbing over fences
 to pull some flowers from your garden
 I spent my last few dollars

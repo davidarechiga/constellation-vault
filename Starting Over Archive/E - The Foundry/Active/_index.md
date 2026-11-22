@@ -4,6 +4,7 @@ cssclasses:
 title: Active Projects Index
 description: All active projects with current phase and next action — update when project status changes
 created: 2026-03-25
+tags: [archive/foundry/active]
 ---
 
 # Active Projects — Index

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 # Writing out what draws me to this relationship
 
 Letter writing: goals for relationship, what keeps me, in tune with myself

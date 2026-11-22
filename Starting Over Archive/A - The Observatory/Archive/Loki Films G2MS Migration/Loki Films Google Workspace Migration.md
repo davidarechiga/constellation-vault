@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/loki-films-g2ms-migration]
+---
 # <span style="font-family:.AppleSystemUIFont;font-size:28pt;">Loki Films Google Workspace Migration</span>
 
 <span style="font-family:.AppleSystemUIFont;font-size:28pt;">Support with Aliases, forwarding auto responding and groups</span>

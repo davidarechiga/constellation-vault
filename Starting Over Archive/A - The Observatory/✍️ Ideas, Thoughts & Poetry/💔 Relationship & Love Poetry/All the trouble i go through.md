@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">All the trouble i go through</span>
 <span style="color:#000ff;">Just to hold your hand</span>
 <span style="color:#000ff;">I didn't mind the fire</span>

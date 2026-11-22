@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 like a dream
 you don’t know exactly when it started
 somewhere down the road

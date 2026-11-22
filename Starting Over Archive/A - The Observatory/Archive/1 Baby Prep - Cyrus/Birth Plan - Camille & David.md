@@ -3,6 +3,7 @@ tags:
   - baby
   - birth
   - planning
+  - archive/observatory/archive/1-baby-prep-cyrus
 ---
 
 # BIRTH PLAN - Camille & David

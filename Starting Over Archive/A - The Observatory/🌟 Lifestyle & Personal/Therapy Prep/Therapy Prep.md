@@ -4,6 +4,7 @@ cssclasses:
 title: Therapy Prep
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/therapy-prep
 description:
 created: 2026-03-30
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/entertainment-and-media]
+---
 Build Theme:
 - Stealthy Ninja Scientist
 - Crafting

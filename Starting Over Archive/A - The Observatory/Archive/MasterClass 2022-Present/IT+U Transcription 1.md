@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # <span style="font-size:25pt;"><b>IT+U Transcription</b></span>
 
 <span style="font-size:18pt;">Asked about setup</span>

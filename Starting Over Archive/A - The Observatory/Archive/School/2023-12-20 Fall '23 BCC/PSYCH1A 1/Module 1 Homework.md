@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 1 Homework
 
 1. Please provide a brief introduction of yourself and what led you to this class. --2 points

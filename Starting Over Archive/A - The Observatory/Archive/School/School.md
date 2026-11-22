@@ -4,6 +4,7 @@ cssclasses:
 title: School
 tags:
   - 
+  - archive/observatory/archive/school
 description:
 created: 2026-03-08
 aliases:

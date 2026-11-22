@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 ## Need to have
 Visibility/Engagement into tickets for non-agents
 - We are building out a template for New Hire tracking and we need to be able to loop in managers and other stakeholders

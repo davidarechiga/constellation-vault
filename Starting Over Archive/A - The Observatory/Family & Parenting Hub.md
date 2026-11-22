@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory]
+---
 # Family & Parenting Hub
 
 A central hub for all family, parenting, and household-related notes.

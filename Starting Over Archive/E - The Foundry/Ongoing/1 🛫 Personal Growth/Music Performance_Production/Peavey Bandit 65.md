@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Peavey Bandit 65
 
 https://assets.peavey.com/literature/manuals/80300095.pdf

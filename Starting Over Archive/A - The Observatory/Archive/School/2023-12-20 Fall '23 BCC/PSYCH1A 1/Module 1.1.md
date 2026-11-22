@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 1.1
 
 Psychology = Greek Root *Psyche* meaning soul or mind

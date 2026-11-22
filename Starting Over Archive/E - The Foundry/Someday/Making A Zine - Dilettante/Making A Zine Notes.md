@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/someday/making-a-zine-dilettante]
+---
 # Making A Zine
 
 Title: dilettante

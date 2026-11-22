@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 ## Japanese
 ### Ramen
 Shoyu (Japanese soy sauce)

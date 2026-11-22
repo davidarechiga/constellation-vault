@@ -4,6 +4,7 @@ cssclasses:
 title: Checklists
 tags:
   - 
+  - archive/observatory/checklists
 description:
 created: 2026-03-08
 aliases:

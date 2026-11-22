@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Steps for Aprimo Users:
 
 1. A ticket is created and Approval Emails are Sent.

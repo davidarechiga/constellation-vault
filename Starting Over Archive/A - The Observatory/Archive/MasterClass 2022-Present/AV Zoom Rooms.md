@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # A/V Zoom Rooms
 
 Network connectivity

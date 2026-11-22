@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 Release Preparation Checklist
 
 I see the question asked a lot about what to do in order to have a successful release.  My band is about a month out from our next release, so a lot of this stuff is fresh in my mind.  I've put together a checklist for what I think the minimum requirements are for a successful release.  It's not an exhaustive list, but this is a good starting point for what you should be prepared to do, or at least heavily consider doing when releasing music.  You should also consider the timing of all when all of this needs to be done well before your release.  Most of this needs to be done 1-2 months before the release. If anyone is interested, I have a [google sheet](https://docs.google.com/spreadsheets/d/107tp0VS-H-HRYCA1WHSbR2sRJGgqxnhl0NpFziZV0B4/edit?usp=sharing) of this checklist that you can copy and make your own.

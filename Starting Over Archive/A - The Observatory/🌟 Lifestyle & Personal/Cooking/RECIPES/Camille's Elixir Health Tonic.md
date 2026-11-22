@@ -5,6 +5,7 @@ tags:
   - sick
   - wellness
   - drinks
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Camille's health tonic — boil and simmer for 2 hours (ingredients TBD)
 status: draft
 created: 2026-03-28
