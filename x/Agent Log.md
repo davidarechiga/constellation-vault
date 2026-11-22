@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-22 · Claude Code (Archive tagging)
+- Did: Added a `tags: [archive/<area>/<folder>]` property to all 2,124 notes in `Starting Over Archive/` (merged into existing tags on the 365 that already had frontmatter). Example: HYGIENE ROUTINE TO DOS AND TIPS is tagged `archive/observatory/lifestyle-and-personal/misc-and-unsorted`.
+- Decided: Tags come from the folder path only, so the tagging was mechanical and no note bodies were read. Search `tag:#archive` for everything, or a deeper tag for one area. Notes Dave wants to keep get pulled out of the archive into `+ Inbox/` and sorted; no flag property.
+- Open / needs Dave: Topic tags (by subject rather than folder) would need a read of every note; not started. Dave's deletion of `Atlas/Notes/Mixing and Mastering Guide.md` was committed as a snapshot.
+
 ### 2026-11-19 · ChatGPT Codex (multi-model workflow)
 - Did: Added root `AGENTS.md` for automatic instruction discovery and documented the shared multi-model workflow in `x/AGENTS.md`.
 - Decided: Provider-neutral skills live once in `.agents/skills/`; Claude Code reaches them through `.claude/skills/` symlinks. Moved `activity-capture` and `learn-capture`; left the stale or Claude-specific skills in place.
