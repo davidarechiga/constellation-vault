@@ -1,388 +1,45 @@
 {
- "nodes": [
-  {
-   "id": "title",
-   "type": "text",
-   "x": 642,
-   "y": 0,
-   "width": 500,
-   "height": 100,
-   "text": "# Bocas del Toro Surf Hostel\nLink map: notes, research and sources",
-   "color": "6"
-  },
-  {
-   "id": "g0",
-   "type": "group",
-   "x": 0,
-   "y": 140,
-   "width": 416,
-   "height": 586,
-   "label": "Start here",
-   "color": "4"
-  },
-  {
-   "id": "n1",
-   "type": "file",
-   "x": 18,
-   "y": 158,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Shark Tank Project Steps.md",
-   "color": "4"
-  },
-  {
-   "id": "n2",
-   "type": "text",
-   "x": 18,
-   "y": 244,
-   "width": 380,
-   "height": 44,
-   "text": "26 steps in order, with owners (Dave / Itai / both)"
-  },
-  {
-   "id": "n3",
-   "type": "file",
-   "x": 18,
-   "y": 298,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/BUS 10 Shark Tank Business Plan Project — Complete Working Summary.md",
-   "color": "4"
-  },
-  {
-   "id": "n4",
-   "type": "text",
-   "x": 18,
-   "y": 384,
-   "width": 380,
-   "height": 44,
-   "text": "Canvas requirements: 3 deliverables, plan sections, open questions"
-  },
-  {
-   "id": "n5",
-   "type": "link",
-   "x": 18,
-   "y": 438,
-   "width": 380,
-   "height": 80,
-   "url": "https://docs.google.com/document/d/1jPWvMpl7wgtXXlcuNpPOZUoGHFquloet1x8EF0edq-k/edit",
-   "color": "4"
-  },
-  {
-   "id": "n6",
-   "type": "text",
-   "x": 18,
-   "y": 524,
-   "width": 380,
-   "height": 44,
-   "text": "Shared brainstorm Google Doc: Dave / Itai / We decided"
-  },
-  {
-   "id": "n7",
-   "type": "file",
-   "x": 18,
-   "y": 578,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Resources.md",
-   "color": "4"
-  },
-  {
-   "id": "n8",
-   "type": "text",
-   "x": 18,
-   "y": 664,
-   "width": 380,
-   "height": 44,
-   "text": "Drive link to the brainstorm doc"
-  },
-  {
-   "id": "g1",
-   "type": "group",
-   "x": 456,
-   "y": 140,
-   "width": 416,
-   "height": 446,
-   "label": "Research notes",
-   "color": "6"
-  },
-  {
-   "id": "n15",
-   "type": "file",
-   "x": 474,
-   "y": 158,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Bocas Hostel Research.md",
-   "color": "6"
-  },
-  {
-   "id": "n16",
-   "type": "text",
-   "x": 474,
-   "y": 244,
-   "width": 380,
-   "height": 44,
-   "text": "Prices, tourists, surf season, occupancy, foreign ownership, rent, commissions"
-  },
-  {
-   "id": "n17",
-   "type": "file",
-   "x": 474,
-   "y": 298,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/bocas_surf_hostel_location_research.md",
-   "color": "6"
-  },
-  {
-   "id": "n18",
-   "type": "text",
-   "x": 474,
-   "y": 384,
-   "width": 380,
-   "height": 44,
-   "text": "Area comparison, surf breaks, competitors, scuba, property, ranking, gaps"
-  },
-  {
-   "id": "n19",
-   "type": "file",
-   "x": 474,
-   "y": 438,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/Bocas Surf Hostel - Carenero Research.md",
-   "color": "6"
-  },
-  {
-   "id": "n20",
-   "type": "text",
-   "x": 474,
-   "y": 524,
-   "width": 380,
-   "height": 44,
-   "text": "Walk and boat times to breaks; Carenero properties for sale"
-  },
-  {
-   "id": "g2",
-   "type": "group",
-   "x": 912,
-   "y": 140,
-   "width": 416,
-   "height": 446,
-   "label": "Carenero property listings",
-   "color": "5"
-  },
-  {
-   "id": "n21",
-   "type": "link",
-   "x": 930,
-   "y": 158,
-   "width": 380,
-   "height": 80,
-   "url": "https://www.encuentra24.com/panama-en/real-estate-for-sale-business/for-sale-b-amp-b-hotel-concession-on-isla-carenero-bocas-del-toro-6/32097415",
-   "color": "5"
-  },
-  {
-   "id": "n22",
-   "type": "text",
-   "x": 930,
-   "y": 244,
-   "width": 380,
-   "height": 44,
-   "text": "B&B concession, $740K (Encuentra24)"
-  },
-  {
-   "id": "n23",
-   "type": "link",
-   "x": 930,
-   "y": 298,
-   "width": 380,
-   "height": 80,
-   "url": "https://international-properties.unitedcountry.com/properties/bo/over-water-hotel-on-isla-carenero-bocas-del-toro/1072398/",
-   "color": "5"
-  },
-  {
-   "id": "n24",
-   "type": "text",
-   "x": 930,
-   "y": 384,
-   "width": 380,
-   "height": 44,
-   "text": "Over-water hotel, about $695K (United Country)"
-  },
-  {
-   "id": "n25",
-   "type": "link",
-   "x": 930,
-   "y": 438,
-   "width": 380,
-   "height": 80,
-   "url": "https://homeslandcountrypropertyforsale.com/luxury-homes/properties/over-the-caribbean-sea-isla-carenero-bnb",
-   "color": "5"
-  },
-  {
-   "id": "n26",
-   "type": "text",
-   "x": 930,
-   "y": 524,
-   "width": 380,
-   "height": 44,
-   "text": "Over the Caribbean Sea B&B, about $620K (Homelands)"
-  },
-  {
-   "id": "g4",
-   "type": "group",
-   "x": 912,
-   "y": 656,
-   "width": 416,
-   "height": 446,
-   "label": "Class (BUS 10)",
-   "color": "1"
-  },
-  {
-   "id": "n9",
-   "type": "file",
-   "x": 930,
-   "y": 674,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Syllabus.md",
-   "color": "1"
-  },
-  {
-   "id": "n10",
-   "type": "text",
-   "x": 930,
-   "y": 760,
-   "width": 380,
-   "height": 44,
-   "text": "Syllabus: AI-written work is banned"
-  },
-  {
-   "id": "n11",
-   "type": "file",
-   "x": 930,
-   "y": 814,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Course Outline.md",
-   "color": "1"
-  },
-  {
-   "id": "n12",
-   "type": "text",
-   "x": 930,
-   "y": 900,
-   "width": 380,
-   "height": 44,
-   "text": "Course outline"
-  },
-  {
-   "id": "n13",
-   "type": "file",
-   "x": 930,
-   "y": 954,
-   "width": 380,
-   "height": 80,
-   "file": "Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 Refresher.md",
-   "color": "1"
-  },
-  {
-   "id": "n14",
-   "type": "text",
-   "x": 930,
-   "y": 1040,
-   "width": 380,
-   "height": 44,
-   "text": "Class refresher"
-  },
-  {
-   "id": "g3",
-   "type": "group",
-   "x": 1368,
-   "y": 140,
-   "width": 416,
-   "height": 586,
-   "label": "Surf guides",
-   "color": "3"
-  },
-  {
-   "id": "n27",
-   "type": "link",
-   "x": 1386,
-   "y": 158,
-   "width": 380,
-   "height": 80,
-   "url": "https://bocas-del-toro.org/activities/surfing.htm",
-   "color": "3"
-  },
-  {
-   "id": "n28",
-   "type": "text",
-   "x": 1386,
-   "y": 244,
-   "width": 380,
-   "height": 44,
-   "text": "Surfing at Bocas del Toro"
-  },
-  {
-   "id": "n29",
-   "type": "link",
-   "x": 1386,
-   "y": 298,
-   "width": 380,
-   "height": 80,
-   "url": "https://thesurfatlas.com/panama-surf/bocas-del-toro-surf/",
-   "color": "3"
-  },
-  {
-   "id": "n30",
-   "type": "text",
-   "x": 1386,
-   "y": 384,
-   "width": 380,
-   "height": 44,
-   "text": "The Surf Atlas: Bocas del Toro"
-  },
-  {
-   "id": "n31",
-   "type": "link",
-   "x": 1386,
-   "y": 438,
-   "width": 380,
-   "height": 80,
-   "url": "https://www.tourismpanama.com/blog/post/the-best-surf-spots-in-bocas-del-toro",
-   "color": "3"
-  },
-  {
-   "id": "n32",
-   "type": "text",
-   "x": 1386,
-   "y": 524,
-   "width": 380,
-   "height": 44,
-   "text": "Tourism Panama: best surf spots"
-  },
-  {
-   "id": "n33",
-   "type": "link",
-   "x": 1386,
-   "y": 578,
-   "width": 380,
-   "height": 80,
-   "url": "https://en.wannasurf.com/spot/Central_America/Panama/silver_back",
-   "color": "3"
-  },
-  {
-   "id": "n34",
-   "type": "text",
-   "x": 1386,
-   "y": 664,
-   "width": 380,
-   "height": 44,
-   "text": "Silverbacks (Wannasurf)"
-  }
- ],
- "edges": []
+	"nodes":[
+		{"id":"title","type":"text","x":642,"y":0,"width":500,"height":100,"text":"# Bocas del Toro Surf Hostel\nLink map: notes, research and sources","color":"6"},
+		{"id":"g0","type":"group","x":0,"y":140,"width":416,"height":586,"label":"Start here","color":"4"},
+		{"id":"n1","type":"file","x":18,"y":158,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Shark Tank Project Steps.md","color":"4"},
+		{"id":"n2","type":"text","x":18,"y":244,"width":380,"height":44,"text":"26 steps in order, with owners (Dave / Itai / both)"},
+		{"id":"n3","type":"file","x":18,"y":298,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/BUS 10 Shark Tank Business Plan Project — Complete Working Summary.md","color":"4"},
+		{"id":"n4","type":"text","x":18,"y":384,"width":380,"height":44,"text":"Canvas requirements: 3 deliverables, plan sections, open questions"},
+		{"id":"n5","type":"link","x":18,"y":438,"width":380,"height":80,"url":"https://docs.google.com/document/d/1jPWvMpl7wgtXXlcuNpPOZUoGHFquloet1x8EF0edq-k/edit","color":"4"},
+		{"id":"n6","type":"text","x":18,"y":524,"width":380,"height":44,"text":"Shared brainstorm Google Doc: Dave / Itai / We decided"},
+		{"id":"n7","type":"file","x":18,"y":578,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Resources.md","color":"4"},
+		{"id":"n8","type":"text","x":18,"y":664,"width":380,"height":44,"text":"Drive link to the brainstorm doc"},
+		{"id":"g1","type":"group","x":456,"y":140,"width":416,"height":446,"label":"Research notes","color":"6"},
+		{"id":"n15","type":"file","x":474,"y":158,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/Bocas Hostel Research.md","color":"6"},
+		{"id":"n16","type":"text","x":474,"y":244,"width":380,"height":44,"text":"Prices, tourists, surf season, occupancy, foreign ownership, rent, commissions"},
+		{"id":"n17","type":"file","x":474,"y":298,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Boccas Del Toro Surfing Hostel Presentation/bocas_surf_hostel_location_research.md","color":"6"},
+		{"id":"n18","type":"text","x":474,"y":384,"width":380,"height":44,"text":"Area comparison, surf breaks, competitors, scuba, property, ranking, gaps"},
+		{"id":"n19","type":"file","x":474,"y":438,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/Bocas Surf Hostel - Carenero Research.md","color":"6"},
+		{"id":"n20","type":"text","x":474,"y":524,"width":380,"height":44,"text":"Walk and boat times to breaks; Carenero properties for sale"},
+		{"id":"g2","type":"group","x":912,"y":140,"width":416,"height":446,"label":"Carenero property listings","color":"5"},
+		{"id":"n21","type":"link","x":930,"y":158,"width":380,"height":80,"url":"https://www.encuentra24.com/panama-en/real-estate-for-sale-business/for-sale-b-amp-b-hotel-concession-on-isla-carenero-bocas-del-toro-6/32097415","color":"5"},
+		{"id":"n22","type":"text","x":930,"y":244,"width":380,"height":44,"text":"B&B concession, $740K (Encuentra24)"},
+		{"id":"n23","type":"link","x":930,"y":298,"width":380,"height":80,"url":"https://international-properties.unitedcountry.com/properties/bo/over-water-hotel-on-isla-carenero-bocas-del-toro/1072398/","color":"5"},
+		{"id":"n24","type":"text","x":930,"y":384,"width":380,"height":44,"text":"Over-water hotel, about $695K (United Country)"},
+		{"id":"n25","type":"link","x":930,"y":438,"width":380,"height":80,"url":"https://homeslandcountrypropertyforsale.com/luxury-homes/properties/over-the-caribbean-sea-isla-carenero-bnb","color":"5"},
+		{"id":"n26","type":"text","x":930,"y":524,"width":380,"height":44,"text":"Over the Caribbean Sea B&B, about $620K (Homelands)"},
+		{"id":"g4","type":"group","x":912,"y":656,"width":416,"height":446,"label":"Class (BUS 10)","color":"1"},
+		{"id":"n9","type":"file","x":930,"y":674,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Syllabus.md","color":"1"},
+		{"id":"n10","type":"text","x":930,"y":760,"width":380,"height":44,"text":"Syllabus: AI-written work is banned"},
+		{"id":"n11","type":"file","x":930,"y":814,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 - Course Outline.md","color":"1"},
+		{"id":"n12","type":"text","x":930,"y":900,"width":380,"height":44,"text":"Course outline"},
+		{"id":"n13","type":"file","x":930,"y":954,"width":380,"height":80,"file":"Efforts/On/BCC Fall 2026/Intro To Business/BUS 10 Refresher.md","color":"1"},
+		{"id":"n14","type":"text","x":930,"y":1040,"width":380,"height":44,"text":"Class refresher"},
+		{"id":"g3","type":"group","x":1368,"y":140,"width":416,"height":586,"label":"Surf guides","color":"3"},
+		{"id":"n27","type":"link","x":1386,"y":158,"width":380,"height":80,"url":"https://bocas-del-toro.org/activities/surfing.htm","color":"3"},
+		{"id":"n28","type":"text","x":1386,"y":244,"width":380,"height":44,"text":"Surfing at Bocas del Toro"},
+		{"id":"n29","type":"link","x":1386,"y":298,"width":380,"height":80,"url":"https://thesurfatlas.com/panama-surf/bocas-del-toro-surf/","color":"3"},
+		{"id":"n30","type":"text","x":1386,"y":384,"width":380,"height":44,"text":"The Surf Atlas: Bocas del Toro"},
+		{"id":"n31","type":"link","x":1386,"y":438,"width":380,"height":80,"url":"https://www.tourismpanama.com/blog/post/the-best-surf-spots-in-bocas-del-toro","color":"3"},
+		{"id":"n32","type":"text","x":1386,"y":524,"width":380,"height":44,"text":"Tourism Panama: best surf spots"},
+		{"id":"n33","type":"link","x":1386,"y":578,"width":380,"height":80,"url":"https://en.wannasurf.com/spot/Central_America/Panama/silver_back","color":"3"},
+		{"id":"n34","type":"text","x":1386,"y":664,"width":380,"height":44,"text":"Silverbacks (Wannasurf)"}
+	],
+	"edges":[]
 }
