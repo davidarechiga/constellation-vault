@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry]
+---
 
 *Do you think peace requires an end to war?*
 *Or tigers eating only vegetables?*

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 > [!info] 
 > Crispy Outside, Cakey Inside - IBS-Conscious
 

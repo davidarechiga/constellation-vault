@@ -4,6 +4,7 @@ cssclasses:
 title: 💔 Relationship & Love Poetry
 tags:
   - 
+  - archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry
 description:
 created: 2026-03-08
 aliases:

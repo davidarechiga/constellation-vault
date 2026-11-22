@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production/4-day-music-weekend]
+---
 # Joshua Tree Music weekend
 ### 2024 Q1-Q2
 

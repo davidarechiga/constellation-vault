@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 - Washing dishes
 - Loading/unloading the dishwasher
 - Cooking or preparing meals

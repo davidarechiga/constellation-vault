@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">nothing is scared</span>
 <span style="color:#000ff;">but we feel it in our bones</span>
 <span style="color:#000ff;">the underlying statements</span>

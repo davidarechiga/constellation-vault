@@ -4,6 +4,7 @@ cssclasses:
 title: Ongoing Life Areas Index
 description: Life areas requiring continuous attention — update when focus shifts
 created: 2026-03-25
+tags: [archive/foundry/ongoing]
 ---
 
 # Ongoing Life Areas — Index

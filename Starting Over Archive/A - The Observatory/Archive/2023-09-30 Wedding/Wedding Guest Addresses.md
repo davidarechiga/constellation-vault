@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Wedding Guest Addresses:
 - Home Base: 2035 28th Ave n Saint Petersburg
 - Dani, Sophie, Oscar, Gabby: 1121 21st Ave N, St. Petersburg, FL 33704, USA

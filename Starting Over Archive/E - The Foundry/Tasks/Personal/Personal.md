@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/foundry/tasks/personal
 type:
 status: draft
 related:

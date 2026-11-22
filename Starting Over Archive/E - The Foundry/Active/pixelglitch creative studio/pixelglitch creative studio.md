@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/active/pixelglitch-creative-studio
 title: Pixel Glitch Studio Operations
 status: active
 category: studio

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 # Living up to a first impression 
 Never finished the last song you heard me play
 Everyday I ram away

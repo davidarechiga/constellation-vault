@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 Tacos/Burritos
 Bowl of Ramen
 Lasagna 

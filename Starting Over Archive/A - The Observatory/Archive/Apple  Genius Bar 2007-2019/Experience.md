@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/apple-genius-bar-2007-2019]
+---
 # Experience
 To be considered a true success, your participation in this experience **must have a far-reaching impact**: on you, on your team, and on your entire store. Start each shift by challenging yourself to make a positive impact on the world around you. 
 

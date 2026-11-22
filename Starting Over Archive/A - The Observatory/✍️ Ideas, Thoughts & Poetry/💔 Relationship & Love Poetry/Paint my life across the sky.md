@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Paint my life across the sky
 Page for page
 What are the words I will recognize?

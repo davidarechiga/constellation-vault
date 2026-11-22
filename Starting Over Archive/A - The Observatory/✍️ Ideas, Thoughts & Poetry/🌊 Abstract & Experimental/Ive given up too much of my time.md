@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 Ive given up too much of my time
 To be this unhappy
 Been Kick into a corner

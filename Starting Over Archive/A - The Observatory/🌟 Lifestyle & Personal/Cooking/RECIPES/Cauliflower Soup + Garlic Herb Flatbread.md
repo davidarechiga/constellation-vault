@@ -5,6 +5,7 @@ tags:
   - dinner
   - vegetarian
   - soup
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Roasted cauliflower and red pepper soup with coconut milk, paired with homemade garlic herb flatbread
 status: draft
 created: 2026-03-28

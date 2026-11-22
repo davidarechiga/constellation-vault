@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Nova Meeting 08/21/23
 
 Guest count for drinks and food: 139 (including us)

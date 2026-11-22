@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # notes for 1:1
 
 Sony Sharma Ticket

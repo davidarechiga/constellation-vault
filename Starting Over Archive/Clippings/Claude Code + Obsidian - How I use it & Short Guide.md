@@ -8,6 +8,7 @@ created: 2026-03-31
 description:
 tags:
   - "clippings"
+  - archive/clippings
 ---
 ![r/ClaudeAI - Cluade Code <3 Obsidian](https://preview.redd.it/claude-code-obsidian-how-i-use-it-short-guide-v0-jsgje5a9jggg1.gif?width=1080&crop=smart&auto=webp&s=c303766f1c8117a7b6f0e945e8a2905e288f66e3)
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/personal-website]
+---
 # Squarespace vs Shopify for Online Store
 
 https://zapier.com/blog/shopify-vs-squarespace/

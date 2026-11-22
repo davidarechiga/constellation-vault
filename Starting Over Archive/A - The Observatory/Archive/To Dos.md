@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive]
+---
 To Dos
 
 Tell Joseph to tell Briana 4:30pm trolly pickup at Vinoy

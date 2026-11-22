@@ -4,6 +4,7 @@ cssclasses:
 title: 🧘 Wellness & Mindfulness
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/wellness-and-mindfulness
 description:
 created: 2026-03-30
 aliases:

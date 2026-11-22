@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 My North Star is dim tonight
 I feel alone in someone else’s life
 A character defined by lies

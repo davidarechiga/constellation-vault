@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Perimeter Security
 Security devices focused on the boundary between the LAN and the WAN in your organization’s network
 Perimeter security riles on several different devices

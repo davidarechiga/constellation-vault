@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Remember I told you I needed two nights by myself, you agreed to it. 
 
 # There are 7 nights of the week and there’s plenty of time together.

@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/other]
+---
 For the first time in a while, I cried. I was reading your well written letter to a forgotten love and it made me remember begging you to leave your life for something better. I asked you to take a leap of faith because that’s what I was doing. I never questioned my strength because I was always the strongest of my peers. Able to withstand stress with patience.

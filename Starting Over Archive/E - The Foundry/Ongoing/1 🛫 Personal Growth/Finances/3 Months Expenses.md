@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 | **Name**                 | **Cost (3 Months)** |
 | ------------------------ | ------------------- |
 | Rent                     | $4725               |

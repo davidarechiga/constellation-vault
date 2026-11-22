@@ -2,6 +2,7 @@
 tags:
   - task
   - household
+  - archive/foundry/tasks/household
 title: Home Furnishings & Décor
 status: open
 priority: low

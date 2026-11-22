@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 # Attached book notes
 
 Chapter 2 Dependency 

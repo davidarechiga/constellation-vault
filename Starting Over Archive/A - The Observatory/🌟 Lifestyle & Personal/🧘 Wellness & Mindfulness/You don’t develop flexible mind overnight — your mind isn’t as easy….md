@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 <span style="font-family:Georgia;color:#262626ff;">You don’t develop flexible mind overnight — your mind isn’t as easy to change as your outfit. You have to develop mental habits with small changes, consistently over time.</span>
  
 <span style="font-family:Georgia;color:#262626ff;">Here’s how:</span>

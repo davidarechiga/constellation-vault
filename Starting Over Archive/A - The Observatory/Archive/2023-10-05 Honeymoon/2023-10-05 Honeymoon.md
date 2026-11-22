@@ -4,6 +4,7 @@ cssclasses:
 title: 2023-10-05 Honeymoon
 tags:
   - 
+  - archive/observatory/archive/2023-10-05-honeymoon
 description:
 created: 2026-03-08
 aliases:

@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/lifestyle-and-personal/practical-instructions
 type:
 status: draft
 related:

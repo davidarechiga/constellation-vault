@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 - **Part 1**
 	- How did you participate?
 		- I shared my screen in breakout groups with Marcus, Thais and other students (still learning names). I contributed to conversations aboutThe Defining Decade including who Erik Erikson was and what he believed in.

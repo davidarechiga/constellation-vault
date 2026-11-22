@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Let's see... Some essentials would be:
 
 Neumann:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 # <span style="font-family:.AppleSystemUIFont;font-size:18pt;">PaperCut Credential Cut Over</span>
 <span style="font-size:13pt;"><b><u>Prepare Cut Over</u></b></span>
 

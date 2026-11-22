@@ -3,6 +3,7 @@ tags:
   - task
   - career
   - networking
+  - archive/foundry/tasks/career-transition
 title: Reach Out to Former Colleagues
 status: open
 priority: normal

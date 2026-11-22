@@ -3,6 +3,7 @@ title: Try This Tasty Cauliflower and Sausage Roast
 tags:
   - recipe
   - dinner
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Cauliflower and sausage roast with cheddar cheese
 status: draft
 created: 2026-03-28

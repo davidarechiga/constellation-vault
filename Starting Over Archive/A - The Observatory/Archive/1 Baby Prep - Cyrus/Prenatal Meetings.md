@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/1-baby-prep-cyrus]
+---
 ## Week 2 with Verenice (1/18/2026)
 
 ### Stages of Labor

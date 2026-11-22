@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 # the key to getting ideas out of my head is to start with I should… I need to… I ought to… I’m going to…
 
 **all of these are open loops**

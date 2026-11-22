@@ -1,2 +1,5 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 ![[F86353E9-7411-4842-9676-957729408C8F.jpg]]
 ![[98C3C01B-1251-4B73-A697-D6C1441DC5A3.jpg]]

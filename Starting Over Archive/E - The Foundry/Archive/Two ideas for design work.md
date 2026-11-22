@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 First idea
 Use my outline of life’s priorities/question to make graphic art now yes, it’s not necessarily graphic design because it’s not made to communicate something other than my own feelings so I will call it graphic art for now
 

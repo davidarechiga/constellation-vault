@@ -4,6 +4,7 @@ tags:
   - reference
   - cooking
   - framework
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Flexible cooking framework — anchor to a freezer protein, reduce decision fatigue
 status: draft
 created: 2026-03-28

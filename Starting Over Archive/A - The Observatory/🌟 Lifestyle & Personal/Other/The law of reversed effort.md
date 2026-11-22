@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/other]
+---
 The law of reversed effort
 Backwards law
 - “whosoever would save his soul shall lose it”

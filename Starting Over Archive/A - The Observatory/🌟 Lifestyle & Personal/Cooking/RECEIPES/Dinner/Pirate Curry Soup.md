@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 Here’s a simple Pirate Curry Soup recipe with 20oz of potatoes:
 
 ### Ingredients:

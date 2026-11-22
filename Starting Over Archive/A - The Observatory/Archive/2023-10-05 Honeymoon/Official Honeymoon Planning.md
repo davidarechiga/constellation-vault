@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-10-05-honeymoon]
+---
 # Official Honeymoon Planning
 ### [Bali Locations in Google Maps](https://goo.gl/maps/QLV4YCPgCUJ11tZx5)
 

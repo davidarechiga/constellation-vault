@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/picnichealth]
+---
 Please take it to Fedex and use the account # provided in the ticket.  They will charge the box and shipping to us.
 
 Here is the Fedex account number: 900694377.

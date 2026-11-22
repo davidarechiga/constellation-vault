@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/habits-and-productivity]
+---
 Folders are for organizing, not necessarily for finding anything
 
 More for tidiness

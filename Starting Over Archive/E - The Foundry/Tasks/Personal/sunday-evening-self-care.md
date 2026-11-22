@@ -4,6 +4,7 @@ tags:
   - habit
   - personal
   - wellness
+  - archive/foundry/tasks/personal
 title: "Sunday Evening Self-Care Ritual"
 status: open
 priority: normal

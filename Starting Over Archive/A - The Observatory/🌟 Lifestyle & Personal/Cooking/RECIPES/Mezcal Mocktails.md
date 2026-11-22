@@ -4,6 +4,7 @@ tags:
   - recipe
   - drinks
   - mocktail
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Non-alcoholic mezcal mocktail recipes with CBD-infused spirit options
 status: draft
 created: 2026-03-28

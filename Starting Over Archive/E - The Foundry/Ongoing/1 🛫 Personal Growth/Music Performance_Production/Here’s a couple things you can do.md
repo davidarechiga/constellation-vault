@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Here’s a couple things you can do
 
 1. Compartmentalize your workflow. Split your projects into recording, mixing, and mastering sessions. Use as low buffer size as you can when tracking, focus on gain staging to make sure nothing is too hot, and minimize the amount of plugins you use in recording session. After you’re done recording, export every track as audio and put them into mixing session, here, you can use a high buffer size.

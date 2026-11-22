@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # <span style="font-size:21pt;"><b>Module 7 Notes</b></span>
 
 ## <span style="font-size:17pt;"><b>9.1 Intelligence and Intelligence Tests</b></span>

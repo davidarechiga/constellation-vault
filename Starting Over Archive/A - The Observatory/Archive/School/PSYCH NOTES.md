@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 <span style="font-family:.SFUIDisplay-Semibold;font-size:81pt;"><b>PSYCH NOTES</b></span>
 
 <span style="font-family:.SFUIDisplay-Regular;font-size:25pt;">basic research - contributes to the scientific knowledge base.</span>

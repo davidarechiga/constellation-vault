@@ -5,6 +5,7 @@ tags:
   - documentation
   - claude-code
   - system
+  - archive/observatory/documentation
 description: How the Constellation vault is wired for token-efficient Claude Code sessions
 created: 2026-03-25
 ---

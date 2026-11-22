@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Network Design
 ### OSI Model
 Used to explain network communications between a host and remote device over a LAN or WAN

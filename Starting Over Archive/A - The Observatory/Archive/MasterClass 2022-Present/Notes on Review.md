@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Notes on Review 
 
 What is Tier 1 and What is Tier 2

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 Write me a plan for Weight loss with diet-low-fat, low-carbohydrate to fight fatty liver diease. my CAP is 297 dB/m and E: 8.1 kPa
 
 

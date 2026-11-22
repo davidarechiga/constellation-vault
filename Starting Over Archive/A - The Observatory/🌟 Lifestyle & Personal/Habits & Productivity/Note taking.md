@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/habits-and-productivity]
+---
 # Note taking 
 
 Your choice of pencils/pens/paper are pretty personal.

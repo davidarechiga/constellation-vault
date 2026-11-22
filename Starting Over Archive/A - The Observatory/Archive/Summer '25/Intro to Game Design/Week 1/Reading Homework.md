@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/summer-25]
+---
 
 You are a game designer
 

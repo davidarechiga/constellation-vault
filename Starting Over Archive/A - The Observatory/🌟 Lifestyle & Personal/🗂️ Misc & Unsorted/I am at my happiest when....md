@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 # I am at my happiest when...
 
 I am in tune with my mind body and soul

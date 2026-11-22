@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory]
+---
 # Partnership Hub
 
 A hub dedicated to nurturing the relationship with Camille - love, connection, and growing together.

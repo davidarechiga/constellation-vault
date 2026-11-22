@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/couples-class-trip
 title: Couples Class Trip
 status: someday
 priority: low

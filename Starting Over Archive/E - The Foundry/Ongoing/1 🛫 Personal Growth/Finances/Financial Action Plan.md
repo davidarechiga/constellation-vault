@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Week 1
 1. Get credit report and score
 2. Setup Credit Card

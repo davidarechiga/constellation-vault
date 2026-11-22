@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # How to write teammate feedback!
 
 All feedback will be seen by the teammate’s managers, not by themselves.

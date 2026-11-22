@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 The following serials are marked as institutional but are not in ABM or Redprint. I think this is likely someone accidentally marking their device as company-owned.
 
 DNPFG1780D81

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 Costco gas 11/03/2023
 
 ![[9D8D9BBB-AA27-42AD-B9A7-408AC821C015.jpg]]

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-21-wedding-rings]
+---
 # Wedding Rings
 ### About This Project
 

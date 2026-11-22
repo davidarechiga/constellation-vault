@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/dashboard]
+---
 # Projects Base Setup - Complete ✅
 
 **Completed:** February 8, 2026

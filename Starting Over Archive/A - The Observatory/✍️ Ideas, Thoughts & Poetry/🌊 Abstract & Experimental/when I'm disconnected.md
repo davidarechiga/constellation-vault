@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">when I'm disconnected</span>
 <span style="color:#000ff;">I can still connect to you</span>
 

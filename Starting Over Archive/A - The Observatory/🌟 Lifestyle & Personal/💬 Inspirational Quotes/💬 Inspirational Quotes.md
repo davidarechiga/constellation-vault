@@ -4,6 +4,7 @@ cssclasses:
 title: 💬 Inspirational Quotes
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/inspirational-quotes
 description:
 created: 2026-03-30
 aliases:

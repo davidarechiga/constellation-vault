@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 1. Dear [Name], we are deeply touched by your generous [Gift]. Having you travel so far to celebrate with us added to our day's joy. Thank you for being an integral part of our love story.
 
 2. To [Name], your presence and thoughtful [Gift] truly made our wedding day special. Your effort to come from afar means the world to us. Thank you for your love and support.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/design-and-creative-work]
+---
 # 🎨 Design & Creative Work
 
 A central hub connecting all creative work across the vault - music, design, poetry, video, and writing.

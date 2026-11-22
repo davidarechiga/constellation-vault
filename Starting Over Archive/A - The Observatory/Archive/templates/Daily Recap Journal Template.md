@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/templates]
+---
 # Daily Recap Journal Template
 ### 2023-09-04
 

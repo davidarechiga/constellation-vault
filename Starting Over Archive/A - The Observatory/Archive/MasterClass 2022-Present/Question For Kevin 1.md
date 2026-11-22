@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Question For Kevin
 https://masterclass.freshservice.com/a/tickets/4812?current_tab=details
 1password recollective

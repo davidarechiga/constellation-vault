@@ -4,6 +4,7 @@ cssclasses:
 title: PicnicHealth
 tags:
   - 
+  - archive/observatory/archive/picnichealth
 description:
 created: 2026-03-08
 aliases:

@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/foundry/someday/make-a-sprawling-zine
 type:
 status: draft
 related:

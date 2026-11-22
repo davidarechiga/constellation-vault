@@ -3,6 +3,7 @@ tags:
   - task
   - project
   - constellation
+  - archive/foundry/tasks/projects
 title: Constellation Mobile - Claude Code Setup
 status: open
 priority: normal

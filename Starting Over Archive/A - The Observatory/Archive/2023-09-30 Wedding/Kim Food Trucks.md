@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Kim Food Trucks
 
 2 truck setup for 120 people

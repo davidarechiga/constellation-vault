@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Windows MDM Rollout
 
 Small Subset of Windows users

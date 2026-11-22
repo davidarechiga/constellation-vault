@@ -4,6 +4,7 @@ cssclasses:
 title: 🗂️ Misc & Unsorted
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/misc-and-unsorted
 description:
 created: 2026-03-30
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Notes on Google Groups/Documentation/Audit
 
 Setting sepcific parameters/goals for the Quarter

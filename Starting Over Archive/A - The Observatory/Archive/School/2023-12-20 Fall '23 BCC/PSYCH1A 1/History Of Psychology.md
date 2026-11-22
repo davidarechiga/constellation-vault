@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # History Of Psychology
 
 - Began as a deliberate attempt to start a new science. Saw how other sciences were evolving and wanted to evolve the studies of mental processes

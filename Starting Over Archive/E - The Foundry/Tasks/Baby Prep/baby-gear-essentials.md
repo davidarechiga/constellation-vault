@@ -3,6 +3,7 @@ tags:
   - task
   - baby
   - critical
+  - archive/foundry/tasks/baby-prep
 title: Baby Gear & Essentials
 status: done
 priority: high

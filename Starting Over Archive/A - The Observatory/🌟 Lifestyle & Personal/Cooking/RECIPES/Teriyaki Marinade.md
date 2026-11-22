@@ -4,6 +4,7 @@ tags:
   - recipe
   - sauce
   - asian
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Soy-honey-ginger teriyaki marinade with chili crisp and sesame oil
 status: draft
 created: 2026-03-28

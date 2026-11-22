@@ -4,6 +4,7 @@ tags:
   - music
   - production
   - reference
+  - archive/observatory/music-and-audio-production
 type: reference
 status: active
 related:

@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/make-a-stop-motion-film
 title: Make a Stop Motion Film
 status: someday
 priority: low

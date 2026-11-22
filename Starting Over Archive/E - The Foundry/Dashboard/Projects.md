@@ -1,5 +1,5 @@
 ---
-tags: [project-hub]
+tags: [project-hub, archive/foundry/dashboard]
 title: Projects Master Base
 ---
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Laying in bed last night
 Noticing triggers
 Being spoken to in a commanding aggressive voice

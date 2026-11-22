@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 I told myself I would be home at noon
 I told myself that would make me happy
 I didn’t listen and now I’m stuck

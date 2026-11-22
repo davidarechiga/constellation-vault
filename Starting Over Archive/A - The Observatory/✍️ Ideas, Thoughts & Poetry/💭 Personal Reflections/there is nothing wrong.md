@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 there is nothing wrong
 it’s just me who is confused
 was it a bad dream

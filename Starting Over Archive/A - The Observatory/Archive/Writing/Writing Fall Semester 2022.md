@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 Writing Fall Semester 2022
 
 example of meaning

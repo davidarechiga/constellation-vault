@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/works-in-progress]
+---
 <span style="color:#000ff;">Nothing is Sacred</span>
 <span style="color:#000ff;">until we feel it in our bones</span>
 <span style="color:#000ff;">with underlying statements</span>

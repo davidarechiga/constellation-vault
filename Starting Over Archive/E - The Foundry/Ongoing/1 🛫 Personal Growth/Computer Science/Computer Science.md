@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Computer Science & Programming
 
 Your programming and computer science learning resources.

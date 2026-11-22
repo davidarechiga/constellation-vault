@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/bicycle]
+---
 bicycle
 
 pull up bar for mounting bike 

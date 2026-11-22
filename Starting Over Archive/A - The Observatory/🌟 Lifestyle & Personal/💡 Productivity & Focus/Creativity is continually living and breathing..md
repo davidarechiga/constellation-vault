@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 Creativity is continually living and breathing.
 
 Minimalism Organization

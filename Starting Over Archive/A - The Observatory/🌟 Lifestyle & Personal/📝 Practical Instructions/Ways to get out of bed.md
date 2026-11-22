@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 
 ### Rules
 1. Start winding down early

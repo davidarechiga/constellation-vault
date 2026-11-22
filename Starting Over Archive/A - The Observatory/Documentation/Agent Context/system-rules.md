@@ -4,6 +4,7 @@ description: Vault conventions and tool constraints that all agents must follow
 type: reference
 tags:
   - agent-context
+  - archive/observatory/documentation/agent-context
 created: 2026-03-30
 ---
 

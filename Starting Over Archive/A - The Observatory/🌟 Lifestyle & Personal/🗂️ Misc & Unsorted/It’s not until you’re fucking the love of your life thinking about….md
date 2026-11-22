@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 It’s not until you’re fucking the love of your life thinking about another woman that you finally understand what people mean when they say “there’s no such thing as the perfect one”

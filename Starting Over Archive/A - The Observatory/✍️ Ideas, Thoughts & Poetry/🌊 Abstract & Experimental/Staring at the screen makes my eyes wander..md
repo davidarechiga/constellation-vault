@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">Staring at the screen makes my eyes wander.</span>
 <span style="color:#000ff;">easy taking paper</span>
 <span style="color:#000ff;">and keeping more</span>

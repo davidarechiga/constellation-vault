@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 # **The Creative Act**
 
 You can’t step into the same stream twice because it is always flowing.

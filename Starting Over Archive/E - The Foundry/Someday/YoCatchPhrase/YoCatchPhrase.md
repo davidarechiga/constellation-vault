@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/yocatchphrase
 title: YoCatchPhrase
 status: someday
 priority: low

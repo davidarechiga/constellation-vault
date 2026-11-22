@@ -5,6 +5,7 @@ tags:
   - dinner
   - chicken
   - cuban-inspired
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Cuban-style one-pot chicken and rice with cumin — weeknight fast, deeply savory
 status: draft
 created: 2026-03-28

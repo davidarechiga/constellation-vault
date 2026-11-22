@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 https://www.spiritrock.org/residential-retreats
 
 Shira Steinberg to Everyone (May 3, 2023, 3:45 PM)

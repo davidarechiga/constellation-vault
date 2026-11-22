@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 ### Feeling good makes us more productive
 
 _Feel-Good Productivity_ isn’t about doing more at all costs, but doing more of what matters to you.

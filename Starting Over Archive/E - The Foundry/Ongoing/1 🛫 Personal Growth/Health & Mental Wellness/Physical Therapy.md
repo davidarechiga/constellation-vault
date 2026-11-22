@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 <span style="color:#000ff;">Physical Therapy</span>
 <span style="color:#000ff;">3x a day</span>
 

@@ -4,6 +4,7 @@ cssclasses:
 title: IT Career
 tags:
   - 
+  - archive/observatory/archive/it-career
 description:
 created: 2026-03-08
 aliases:

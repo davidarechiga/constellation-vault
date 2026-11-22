@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 <span style="color:#000ff;">Practicing mindfulness.</span>
 
 <span style="color:#000ff;">Why?</span>

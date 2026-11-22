@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/bossa-nova-nights-2017]
+---
 tracklist 
 
 (intro)

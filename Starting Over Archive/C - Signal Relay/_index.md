@@ -4,6 +4,7 @@ cssclasses:
 title: Signal Relay Index
 description: Quick pointers to today's daily note, this week's weekly note, and the inbox
 created: 2026-03-25
+tags: [archive/signal-relay]
 ---
 
 # C - Signal Relay — Index

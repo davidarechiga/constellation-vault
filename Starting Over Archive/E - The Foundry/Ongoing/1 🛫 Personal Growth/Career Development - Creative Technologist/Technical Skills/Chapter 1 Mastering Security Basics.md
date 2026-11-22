@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Chapter 1 Mastering Security Basics
 ## Core Security Goals
 <u>What is a Use Case?</u>

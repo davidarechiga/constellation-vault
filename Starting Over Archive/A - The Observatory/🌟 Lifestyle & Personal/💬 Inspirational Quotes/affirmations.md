@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 **Morning**
 
 I am grateful to wake up.

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/3-river]
+---
 More energy 
 Reset often when River isn’t paying attention
 Get her moving (Brisk Pace)

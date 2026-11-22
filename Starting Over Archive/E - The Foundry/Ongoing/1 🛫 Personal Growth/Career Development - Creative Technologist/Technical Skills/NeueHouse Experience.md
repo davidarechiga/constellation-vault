@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 NeueHouse Experience
 
 Windows Server 2012

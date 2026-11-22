@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 seven years like an flash of light
 trade them all for a flash of eyes
 

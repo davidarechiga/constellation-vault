@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/foundry/ongoing
 type:
 status: draft
 related:

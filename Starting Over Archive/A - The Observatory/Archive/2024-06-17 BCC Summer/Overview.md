@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-06-17-bcc-summer]
+---
 Summer 2024 Important Dates
 
 • First Day of Class: Tuesday, June 17

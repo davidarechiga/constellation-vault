@@ -4,6 +4,7 @@ cssclasses:
 title: Coffee
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal/coffee
 description:
 created: 2026-03-08
 aliases:

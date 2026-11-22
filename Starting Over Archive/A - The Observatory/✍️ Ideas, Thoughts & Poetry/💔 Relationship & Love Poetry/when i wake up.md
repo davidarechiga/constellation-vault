@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 when i wake up
 will familiar be hard to recognize
 blank space between blank faces

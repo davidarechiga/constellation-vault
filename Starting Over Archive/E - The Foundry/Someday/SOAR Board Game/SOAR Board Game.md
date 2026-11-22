@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/soar-board-game
 title: SOAR Board Game
 status: someday
 priority: low

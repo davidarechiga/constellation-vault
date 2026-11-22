@@ -1,6 +1,7 @@
 ---
 tags:
   - sources
+  - archive/observatory/sources
 ---
 
 # Sources

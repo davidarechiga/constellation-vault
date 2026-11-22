@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 we paint ourselves pretty little pictures
 never knowing the whole damn thing
 

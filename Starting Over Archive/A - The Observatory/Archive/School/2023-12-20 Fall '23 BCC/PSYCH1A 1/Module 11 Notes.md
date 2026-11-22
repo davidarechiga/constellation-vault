@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 ## From Textbook:
 ### Module 15.1 An Overview of Abnormal Behavior
 - medical student's disease

@@ -2,6 +2,7 @@
 tags:
   - note
   - project
+  - archive/observatory/documentation
 title: Vault Restructure — Running Todo
 ---
 

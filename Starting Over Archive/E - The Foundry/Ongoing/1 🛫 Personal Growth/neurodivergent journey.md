@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 For World Mental Health Day, I wanted to speak a little bit about my mental health journey and how neurodivergence played a much bigger role than I realized growing up. Although I didn’t know it at the time, my journey started in elementary school. 
 
 From the moment I started having conversations, I’ve had a speech impediment. It wasn’t completely debilitating but it was enough that, in second and third grade, most kids thought I would be a famous rapper or DJ. Because of this I started to feel different. When the class began reading aloud, I would scramble to look ahead in the text, counting the rows of students and aligning it with each paragraph so I knew exactly which paragraph I was supposed to read. When we got to the paragraph, I found that I wasn’t present with the material, but outside myself, worried about what the class thought.

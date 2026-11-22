@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/1-baby-prep-cyrus]
+---
 # Hospital Bag Checklist
 
 > **Quick Access:** [[1 Baby Prep - Cyrus]] | [[Baby Prep Master Checklist]]

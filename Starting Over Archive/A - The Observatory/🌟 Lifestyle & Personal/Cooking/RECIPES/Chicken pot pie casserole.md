@@ -5,6 +5,7 @@ tags:
   - dinner
   - comfort-food
   - chicken
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Biscuit-topped chicken pot pie casserole baked in a 9x13 dish
 status: draft
 created: 2026-03-28

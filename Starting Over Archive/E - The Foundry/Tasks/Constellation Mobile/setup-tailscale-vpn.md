@@ -2,6 +2,7 @@
 tags:
   - task
   - personal
+  - archive/foundry/tasks/constellation-mobile
 title: Set Up Tailscale VPN
 status: open
 priority: normal

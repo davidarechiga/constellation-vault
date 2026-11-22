@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 NYC New York
 
 smith street / dozen

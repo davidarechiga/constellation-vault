@@ -5,6 +5,7 @@ tags:
   - sauce
   - condiment
   - mexican
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Charred salsa with tomatillos, chiles, and cilantro — molcajete or blender method
 status: draft
 created: 2026-03-28

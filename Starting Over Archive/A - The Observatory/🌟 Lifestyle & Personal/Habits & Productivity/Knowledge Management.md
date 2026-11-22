@@ -6,6 +6,7 @@ aliases:
 tags:
   - productivity
   - knowledge-management
+  - archive/observatory/lifestyle-and-personal/habits-and-productivity
 type: reference
 status: complete
 related:

@@ -1,5 +1,5 @@
 ---
-tags: [project]
+tags: [project, archive/foundry/active/constellation-mobile]
 title: "Constellation Mobile"
 status: active
 category: personal

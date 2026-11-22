@@ -4,6 +4,7 @@ cssclasses:
 title: 🏃 Hobbies & Activities
 tags:
   - 
+  - archive/foundry/tasks/career-transition
 description:
 created: 2026-03-08
 aliases:

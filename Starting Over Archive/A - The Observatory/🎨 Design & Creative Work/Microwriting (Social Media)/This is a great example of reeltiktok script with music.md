@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/design-and-creative-work/microwriting-social-media]
+---
 This is a great example of reel/tiktok script with music
 
 

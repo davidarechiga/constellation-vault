@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 Absolutely, expanding on the thoughtful gestures through messages can deeply enrich your partner's day. Here's a comprehensive list:
 
 1. "Good morning, my love. Wishing you a day as lovely as you are."

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 # I am grateful for…
 🙌🏼 Alex, our scuba instructor, and Alfonso , our dive master, who made sure we did not fail the certification
 🙌🏼 the beautiful and calming ocean

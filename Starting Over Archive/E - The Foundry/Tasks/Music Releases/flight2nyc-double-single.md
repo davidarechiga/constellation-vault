@@ -2,6 +2,7 @@
 tags:
   - task
   - music
+  - archive/foundry/tasks/music-releases
 title: Flight2NYC Double Single Release
 status: open
 priority: normal

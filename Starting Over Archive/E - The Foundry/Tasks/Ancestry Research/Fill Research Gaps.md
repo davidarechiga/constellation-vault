@@ -2,6 +2,7 @@
 tags:
   - task
   - ancestry
+  - archive/foundry/tasks/ancestry-research
 title: Fill Research Gaps
 status: open
 priority: normal

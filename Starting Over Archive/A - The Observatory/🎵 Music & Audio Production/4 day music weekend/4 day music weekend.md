@@ -4,6 +4,7 @@ cssclasses:
 title: 4 day music weekend
 tags:
   - 
+  - archive/observatory/music-and-audio-production/4-day-music-weekend
 description:
 created: 2026-03-08
 aliases:

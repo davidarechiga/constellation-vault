@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/mr-laracy]
+---
 # 4/24 recap
 
 Sonos recap

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 Thoughts while walking through a book store
 
 I will never be able to finish a book

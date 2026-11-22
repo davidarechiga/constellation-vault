@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 top 100 favorite albums
 
 1. ixora -copeland

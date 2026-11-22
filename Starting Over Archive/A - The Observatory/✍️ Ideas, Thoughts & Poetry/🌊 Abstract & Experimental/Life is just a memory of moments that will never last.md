@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 Life is just a memory of moments that will never last
 I came to you with a sadness many cannot live past 
 I was sick and I was tired

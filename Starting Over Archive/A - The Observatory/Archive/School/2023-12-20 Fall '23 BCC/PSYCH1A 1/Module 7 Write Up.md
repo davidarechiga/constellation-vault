@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 7 Write Up
 
 1. Describe your take on the nature versus nurture debate on intelligence in 2-3 paragraphs. Be sure to back your arguments up with details from the material. There are no wrong opinions in this, but clear use of the content is required for full credit. --3 points

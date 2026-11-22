@@ -3,6 +3,7 @@ tags:
   - task
   - household
   - recurring
+  - archive/foundry/tasks/household
 title: "Weekly Waste Management"
 status: open
 priority: low

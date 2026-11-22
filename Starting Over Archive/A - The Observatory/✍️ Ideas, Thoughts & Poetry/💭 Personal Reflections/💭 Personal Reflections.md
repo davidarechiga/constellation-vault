@@ -4,6 +4,7 @@ cssclasses:
 title: 💭 Personal Reflections
 tags:
   - 
+  - archive/observatory/ideas-thoughts-and-poetry/personal-reflections
 description:
 created: 2026-03-08
 aliases:

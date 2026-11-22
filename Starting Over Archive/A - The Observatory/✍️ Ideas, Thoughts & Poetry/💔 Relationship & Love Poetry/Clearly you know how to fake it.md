@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 Clearly you know how to fake it
 Clearly I know how to run
 Love got me under the gun

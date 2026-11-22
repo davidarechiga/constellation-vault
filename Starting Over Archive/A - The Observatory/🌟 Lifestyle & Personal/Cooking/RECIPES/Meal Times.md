@@ -3,6 +3,7 @@ title: Meal Times
 tags:
   - reference
   - cooking
+  - archive/observatory/lifestyle-and-personal/cooking
 description: How meal-time and category tags work in this recipe system — use these tags on recipe notes instead of folders
 status: draft
 created: 2026-03-28

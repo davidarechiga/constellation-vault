@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 i know you were only treating me
  how your father treated you
 you didn’t know better

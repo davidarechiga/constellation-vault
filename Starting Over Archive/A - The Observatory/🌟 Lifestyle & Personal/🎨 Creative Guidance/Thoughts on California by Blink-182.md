@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 Thoughts on California by Blink-182
 
 4/30/2016

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">breathless</span> 
 
 <span style="color:#000ff;">as much as I wanted you to believe</span>

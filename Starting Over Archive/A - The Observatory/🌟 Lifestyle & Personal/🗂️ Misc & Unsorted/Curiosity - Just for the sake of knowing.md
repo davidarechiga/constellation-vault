@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/lifestyle-and-personal/misc-and-unsorted
 type:
 status: draft
 related:

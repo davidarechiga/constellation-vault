@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 <span style="color:#000ff;">I believe in looking past the cynicism and admitting to actually liking things</span>
 
 <span style="color:#000ff;">I believe everyone is beautiful</span>

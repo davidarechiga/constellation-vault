@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/why-not-2018-dwayne-bishop]
+---
 Why not (album)
 
 

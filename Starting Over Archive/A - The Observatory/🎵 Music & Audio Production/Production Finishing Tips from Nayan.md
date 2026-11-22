@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production]
+---
 Here's some things I try to implement in my workflow: 
 
 1. Write as fast as you can - once you have a 8-16 bar loop, start making an arrangement quickly (i'd suggest using another track to get arrangement inspo)

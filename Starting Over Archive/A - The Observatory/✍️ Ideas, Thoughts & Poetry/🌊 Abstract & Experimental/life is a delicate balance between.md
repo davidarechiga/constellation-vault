@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 life is a delicate balance between 
 reality and immersive dreams
 the line between give and take is grey

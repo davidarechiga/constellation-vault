@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 Names of ethernet 
 
 Port 6 kitchen

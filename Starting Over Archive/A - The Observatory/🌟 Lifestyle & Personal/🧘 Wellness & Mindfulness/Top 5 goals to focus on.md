@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 Top 5 goals to focus on
 
 1. Mind Body and Soul

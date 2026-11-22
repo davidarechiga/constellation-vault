@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">Love is only half a man</span>
 <span style="color:#000ff;">he's half on drugs</span>
 <span style="color:#000ff;">Most of us dont even understand</span>

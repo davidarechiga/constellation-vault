@@ -4,6 +4,7 @@ cssclasses:
 title: 2023-09-22 Google Groups Audit & Documentation
 tags:
   - 
+  - archive/observatory/archive/2023-09-22-google-groups-audit-and-documentation
 description:
 created: 2026-03-08
 aliases:

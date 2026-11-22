@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry]
+---
 ## Active Projects
 
 ![[Ongoing Active Projects]]

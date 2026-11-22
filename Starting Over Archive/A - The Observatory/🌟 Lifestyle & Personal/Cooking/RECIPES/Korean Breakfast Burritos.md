@@ -5,6 +5,7 @@ tags:
   - breakfast
   - korean
   - mealprep
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Korean-inspired meal prep breakfast burritos with gochujang eggs, kimchi, and sweet potato hash
 status: draft
 created: 2026-03-28

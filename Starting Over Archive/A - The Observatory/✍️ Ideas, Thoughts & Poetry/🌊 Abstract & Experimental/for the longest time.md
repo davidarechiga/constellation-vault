@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">for the longest time</span>
 <span style="color:#000ff;">I couldn't find my voice</span>
 <span style="color:#000ff;">through all the noise</span>

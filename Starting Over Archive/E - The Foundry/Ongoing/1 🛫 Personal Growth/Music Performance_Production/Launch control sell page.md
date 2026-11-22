@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Launch control sell page
 
 Selling my Launch Control XL

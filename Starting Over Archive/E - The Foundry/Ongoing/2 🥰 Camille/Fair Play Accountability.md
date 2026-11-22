@@ -3,6 +3,7 @@ tags:
   - fair-play
   - accountability
   - relationship
+  - archive/foundry/ongoing/2-camille
 title: Fair Play Accountability
 status: ongoing
 owner: David

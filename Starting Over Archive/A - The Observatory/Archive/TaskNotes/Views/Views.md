@@ -4,6 +4,7 @@ cssclasses:
 title: Views
 tags:
   - 
+  - archive/observatory/archive/tasknotes
 description:
 created: 2026-03-30
 aliases:

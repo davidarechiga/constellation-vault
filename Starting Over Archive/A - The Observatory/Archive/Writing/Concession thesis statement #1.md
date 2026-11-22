@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 Concession thesis statement #1:
 
 Despite the falling interest and high risk dangers of space exploration, I am choosing to pursue the career of an astronaut because of the excitement of traveling through space, the reward of overcoming life-threatening challenges, and national acclaim I would receive for completing space missions.

@@ -1,5 +1,5 @@
 ---
-tags: [ongoing, pets]
+tags: [ongoing, pets, archive/foundry/ongoing/3-river]
 title: River
 status: active
 owner: David

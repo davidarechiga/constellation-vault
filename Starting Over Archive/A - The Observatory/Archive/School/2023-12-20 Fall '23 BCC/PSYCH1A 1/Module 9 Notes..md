@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 ## From Textbook:
 ### Module 14.1 Personality Theories
 - Are people good or bad by nature?

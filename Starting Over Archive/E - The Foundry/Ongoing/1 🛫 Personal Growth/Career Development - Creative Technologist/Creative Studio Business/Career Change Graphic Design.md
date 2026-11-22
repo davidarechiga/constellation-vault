@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Career Change: Graphic Design
 
 Your graphic design learning journey - fundamentals, typography, branding, and creative business.

@@ -4,6 +4,7 @@ cssclasses:
 title: Microwriting (Social Media)
 tags:
   - 
+  - archive/foundry/tasks/household
 description:
 created: 2026-03-08
 aliases:

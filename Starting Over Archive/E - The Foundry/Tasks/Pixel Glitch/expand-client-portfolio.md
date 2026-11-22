@@ -2,6 +2,7 @@
 tags:
   - task
   - studio
+  - archive/foundry/tasks/pixel-glitch
 title: Expand Client Portfolio
 status: open
 priority: normal

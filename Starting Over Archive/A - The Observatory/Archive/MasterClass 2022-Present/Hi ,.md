@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 Hi ,
 After looking at your request and the computer’s history, we have determined it is time to replace your computer. Before we send out the computer, we have a few questions/requests:
 1. Is the listed address still a good address and will you be available for the next 1-2 weeks to receive the computer? The package will require a signature upon delivery.

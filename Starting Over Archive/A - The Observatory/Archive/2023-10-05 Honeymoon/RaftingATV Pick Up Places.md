@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-10-05-honeymoon]
+---
 # Rafting/ATV Pick Up Places
 
 Complimentary pickup and drop off included at areas below:

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Pay Camille Back
 
 60% of payments pay back

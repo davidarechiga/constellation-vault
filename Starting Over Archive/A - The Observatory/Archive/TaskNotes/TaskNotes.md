@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/archive/tasknotes
 type:
 status: draft
 related:

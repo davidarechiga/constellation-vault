@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 nobody smiles
 
 Bb c d E F g a(dim) Bb

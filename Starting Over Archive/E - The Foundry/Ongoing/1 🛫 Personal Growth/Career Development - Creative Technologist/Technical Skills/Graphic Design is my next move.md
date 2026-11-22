@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Graphic Design is my next move
 
 I’ve done it before and was pretty good

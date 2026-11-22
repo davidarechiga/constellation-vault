@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Origin Webinar on Stock Options!
 
 ## What is a stock?

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Using emojis to signify parameters in our calendar
 
 Glanceable

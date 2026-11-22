@@ -1,6 +1,7 @@
 ---
 tags:
   - dashboard
+  - archive/foundry/dashboard
 ---
 
 # Dashboard

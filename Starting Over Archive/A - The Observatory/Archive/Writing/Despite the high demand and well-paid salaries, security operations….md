@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/writing]
+---
 Despite the high demand and well-paid salaries, security operations analyst is not a career I want to pursue because of the frequent burn-out, the long on-call hours, and the high-stress environment that comes with the job. 
 
 Even-though cyber security is in high demand, high turnover rates lead me to believe I won’t enjoy the job. 

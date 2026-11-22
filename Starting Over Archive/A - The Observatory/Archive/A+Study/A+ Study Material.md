@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/aplusstudy]
+---
 # A+ Study Material
 
 ## Missed Questions 6/30/2020

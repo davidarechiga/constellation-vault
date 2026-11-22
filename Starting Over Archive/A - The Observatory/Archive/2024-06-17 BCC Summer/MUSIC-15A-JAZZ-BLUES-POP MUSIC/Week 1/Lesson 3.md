@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-06-17-bcc-summer]
+---
 ### Rural Blues and Urban Blues
 #### Introduction
 12-bar blues one of the most popular forms of African American musical expression during the twentieth century

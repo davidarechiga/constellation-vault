@@ -4,6 +4,7 @@ cssclasses:
 title: TaskNotes
 tags:
   - 
+  - archive/observatory/tasknotes
 description:
 created: 2026-03-08
 aliases:

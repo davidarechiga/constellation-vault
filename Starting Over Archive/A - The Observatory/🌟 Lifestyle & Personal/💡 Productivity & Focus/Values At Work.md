@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/productivity-and-focus]
+---
 Integrity
 - the quality of being honest and having strong moral principles; moral uprightness: *he is known to be a man of integrity*.
 

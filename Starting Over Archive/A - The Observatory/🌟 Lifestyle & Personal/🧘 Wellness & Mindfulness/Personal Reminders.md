@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 # Personal Reminders & Wisdom
 
 A collection of 200+ personal reminders, philosophies, practical notes, and life wisdom gathered over time.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-21-wedding-rings]
+---
 # Wedding Band for Camille
 [**Milgrain Diamond Channel Band**](https://dandhjewelers.com/product/milgrain-diamond-channel-band/)
 Invoice paid 

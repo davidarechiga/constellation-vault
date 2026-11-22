@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Wedding Tunes
  
 # <b><u>String Quartet Selections</u></b>

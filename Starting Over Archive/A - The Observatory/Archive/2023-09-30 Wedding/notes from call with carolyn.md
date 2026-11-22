@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # notes from call with carolyn
 
 Why are they charging a venue fee and management fee?

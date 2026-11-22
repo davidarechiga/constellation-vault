@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # <span style="font-size:32pt;"><b>Questions for KW</b></span>
 
 1. <span style="font-size:25pt;">What are some emerging trends or technologies in the IT industry that you think we should be paying attention to?</span>

@@ -2,6 +2,7 @@
 tags:
   - task
   - ancestry
+  - archive/foundry/tasks/ancestry-research
 title: Interview Living Relatives
 status: open
 priority: normal

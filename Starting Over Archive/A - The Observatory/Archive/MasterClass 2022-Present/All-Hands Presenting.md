@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # <span style="font-size:33pt;"><b>All-Hands Presenting</b></span>
 
 1. <span style="font-size:26pt;">Tech check</span>

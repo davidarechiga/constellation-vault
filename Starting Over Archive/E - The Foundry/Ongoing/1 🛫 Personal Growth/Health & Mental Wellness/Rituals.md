@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Rituals
 
 A ritual is a set of actions, behaviors, or practices that are performed in a specific and often repetitive manner. Rituals are symbolic and hold meaning for individuals or groups. They can serve various purposes, such as celebrating, marking transitions, providing comfort, or fostering a sense of belonging.

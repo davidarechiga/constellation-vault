@@ -4,6 +4,7 @@ cssclasses:
 title: Archie & The Butterflies
 tags:
   - 
+  - archive/observatory/archive/archie-and-the-butterflies
 description:
 created: 2026-03-08
 aliases:

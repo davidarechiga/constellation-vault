@@ -4,6 +4,7 @@ cssclasses:
 title: Tasks Index
 description: TaskNotes organized by project subfolder — index of all task subfolders
 created: 2026-03-25
+tags: [archive/foundry/tasks]
 ---
 
 # Tasks — Index

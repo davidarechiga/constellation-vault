@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="color:#000ff;">our endless summers</span>
 <span style="color:#000ff;">forgotten</span>
 <span style="color:#000ff;">turned rotten</span>

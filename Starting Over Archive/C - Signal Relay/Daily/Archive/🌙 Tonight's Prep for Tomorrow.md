@@ -1,3 +1,6 @@
+---
+tags: [archive/signal-relay/daily/archive]
+---
 # 🌙 Tonight's Prep for Tomorrow (Jan 7th)
 
 > Complete these tasks tonight to set yourself up for success tomorrow morning

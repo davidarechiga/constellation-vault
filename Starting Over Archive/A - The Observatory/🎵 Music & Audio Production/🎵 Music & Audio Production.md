@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production]
+---
 # Music Ecosystem Hub
 
 > Central navigation for all music-related work - connecting active projects, ongoing practice, and reference materials across your Second Brain.

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 	# Module 6 Notes
 
 ### Chapters 5.1-5.2

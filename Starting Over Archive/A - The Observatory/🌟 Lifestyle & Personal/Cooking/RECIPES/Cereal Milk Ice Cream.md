@@ -4,6 +4,7 @@ tags:
   - recipe
   - dessert
   - ice-cream
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Homemade cereal milk ice cream
 status: draft
 created: 2026-03-28

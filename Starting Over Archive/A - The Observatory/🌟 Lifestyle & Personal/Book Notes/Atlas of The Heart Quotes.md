@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 ## **Key notes:**
 Reader’s note: this section is all about how languages is so important in defining our emotions which helps us navigate through them effectively
 - To form meaningful connections with others, we must first connect with ourselves

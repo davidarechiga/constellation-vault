@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 <span style="color:#000ff;">Juice Recipes</span>
 
  <span style="color:#000ff;">Yes the green one is 5 celery stalks (leaves attached) 1 cucumber peeled 5 leaves of red lettuce ( you can also use romaine or kale) 1 apple Grammy smith :)</span> 

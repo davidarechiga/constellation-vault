@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/aplusstudy]
+---
 # A+ Topics to cover
 
 ## Given a scenario, install components within the display of a laptop.

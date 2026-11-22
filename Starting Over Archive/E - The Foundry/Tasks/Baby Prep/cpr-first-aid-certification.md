@@ -2,6 +2,7 @@
 tags:
   - task
   - safety
+  - archive/foundry/tasks/baby-prep
 title: CPR/First Aid Certification
 status: done
 priority: high

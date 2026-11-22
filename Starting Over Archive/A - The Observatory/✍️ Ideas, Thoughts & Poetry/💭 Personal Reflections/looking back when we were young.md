@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 looking back when we were young
 we did whatever we wanted 
 nothing to prove

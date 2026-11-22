@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 ## Brené Brown and James Clear notes
 
 (41:03)

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 #podcast_notes 
 * This episode of the Huberman Lab podcast features Dr. Martha Beck, a renowned expert in personal development.
 

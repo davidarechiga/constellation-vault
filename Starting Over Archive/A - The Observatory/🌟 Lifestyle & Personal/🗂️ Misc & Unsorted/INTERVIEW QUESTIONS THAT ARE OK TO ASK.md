@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 INTERVIEW QUESTIONS THAT ARE OK TO ASK: 
 • What are your strengths/weaknesses?
 Strengths:

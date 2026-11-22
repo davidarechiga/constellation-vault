@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 **(error reading attachment)**
 # **Here's your gift card!**
 Expires on 27/09/24

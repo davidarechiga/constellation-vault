@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Zach’s Recommendation
 
 I never knew what having an effective and compassionate manager meant until I became Zach’s direct report. 

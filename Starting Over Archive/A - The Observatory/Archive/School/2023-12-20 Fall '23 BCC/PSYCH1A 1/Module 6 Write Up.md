@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 6 Write Up
 
 For this module's activity, we are going to run a "case study".  In this case study, you are asked to write a report of a hypothetical multifaceted test you ran that addresses all of the components described below. Demonstrating comprehension, clarity, and depth in your descriptions of this case study is critical to earn full credit for this activity. Please note that these "case studies" can be formatted and written in many ways.  Creativity in your writing is strongly encouraged, as is exploring the different ways case studies can be written.  I really want you to get out of your comfort zone in this and try something new, so please research these a bit before writing this post.

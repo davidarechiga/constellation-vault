@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 # everyday-is-a-pattern_Am-instrumental11_06.wav
 
 ![[everyday-is-a-pattern_Am-instrumental11_06.wav]]

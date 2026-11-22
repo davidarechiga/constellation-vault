@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/inspirational-quotes]
+---
 # Gratitude
 I am grateful for…
 🙌🏼 Waking up (and on time at that!)

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/other]
+---
 # Notes with for therapy
 
 Goals:

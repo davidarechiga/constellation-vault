@@ -1,5 +1,5 @@
 ---
-tags: [project]
+tags: [project, archive/foundry/active/frmwrk]
 title: "frmwrk_"
 status: active
 category: creative

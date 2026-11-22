@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/someday/yocatchphrase]
+---
 Excuse me
 We’re out here turning catchphrases into songs, you got one to share?
 

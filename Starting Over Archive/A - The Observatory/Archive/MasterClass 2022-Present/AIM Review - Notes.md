@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # <span style="font-size:25pt;"><b>AIM Review - Notes</b></span>
 
 ## <span style="font-size:21pt;"><b>Strengths</b></span>

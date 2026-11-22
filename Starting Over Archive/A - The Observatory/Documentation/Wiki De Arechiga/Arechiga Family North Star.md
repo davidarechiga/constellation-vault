@@ -4,6 +4,7 @@ tags:
   - family
   - values
   - goals
+  - archive/observatory/documentation/wiki-de-arechiga
 type: reference
 status: draft
 created: 2026-03-26

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/it-career]
+---
 # White glove treatment
 
 Talking to Joseph about JGL

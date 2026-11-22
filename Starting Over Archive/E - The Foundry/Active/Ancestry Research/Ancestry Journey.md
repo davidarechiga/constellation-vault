@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/ancestry-research]
+---
 # Ancestry Journey
 
 > This is a log of my personal journey through researching family history.

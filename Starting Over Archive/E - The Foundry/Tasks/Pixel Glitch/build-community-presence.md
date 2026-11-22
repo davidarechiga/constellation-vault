@@ -2,6 +2,7 @@
 tags:
   - task
   - studio
+  - archive/foundry/tasks/pixel-glitch
 title: Build Community Presence
 status: open
 priority: low

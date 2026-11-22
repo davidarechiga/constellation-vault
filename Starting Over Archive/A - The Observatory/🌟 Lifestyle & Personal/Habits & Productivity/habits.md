@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/habits-and-productivity]
+---
 habits
 
 1 mistake

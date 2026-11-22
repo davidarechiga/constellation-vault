@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Loretta Chen Device setup
 
 logged into OL Fine, added two factor fine, reset password fine

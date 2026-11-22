@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 This is a big question with probably an even bigger answer. 😎
 
 That said, based off the toolsets you've listed, there are some good foundational things to start building up for detecting and responding to threats.

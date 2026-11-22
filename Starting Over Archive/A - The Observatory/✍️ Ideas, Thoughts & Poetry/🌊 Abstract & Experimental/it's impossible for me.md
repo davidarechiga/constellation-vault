@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">it's impossible for me</span>
 <span style="color:#000ff;">to become attached to anything</span>
 <span style="color:#000ff;">it's important that you understand, as much as it hurts, you have to run</span>

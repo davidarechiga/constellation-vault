@@ -2,6 +2,7 @@
 tags:
   - efforts
   - fair-play
+  - archive/foundry/ongoing
 type: hub
 status: active
 related:

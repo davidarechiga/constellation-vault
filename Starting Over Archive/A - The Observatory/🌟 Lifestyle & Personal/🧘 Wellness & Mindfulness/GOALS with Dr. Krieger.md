@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 <span style="font-size:28pt;">GOALS</span> <span style="font-size:22pt;">with Dr. Krieger</span>
 **time management**
 **assertiveness**

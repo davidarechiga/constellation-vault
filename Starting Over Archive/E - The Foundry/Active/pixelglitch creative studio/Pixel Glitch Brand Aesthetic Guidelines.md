@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/pixelglitch-creative-studio]
+---
 # Pixel Glitch Creative Studio
 
 ## Progress Summary

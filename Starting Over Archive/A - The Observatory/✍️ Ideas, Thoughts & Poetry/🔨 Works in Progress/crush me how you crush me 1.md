@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/works-in-progress]
+---
 crush me how you crush me
 break me in two
 why do i always run away girl

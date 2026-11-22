@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/friend-visits]
+---
 # Get Ready for Ben & Marissa
 
 <b><u>8/7</u></b>

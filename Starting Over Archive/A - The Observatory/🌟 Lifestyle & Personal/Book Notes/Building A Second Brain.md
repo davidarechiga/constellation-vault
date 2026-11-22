@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 # Building A Second Brain
 
 https://www.buildingasecondbrain.com/resources

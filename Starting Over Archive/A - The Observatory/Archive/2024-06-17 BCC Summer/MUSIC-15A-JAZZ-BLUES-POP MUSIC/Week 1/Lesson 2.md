@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-06-17-bcc-summer]
+---
 ### The Birth of Tin Pan Alley
 
 19th Century into the 20th century

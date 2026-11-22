@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Album Visual Concepts
 Interstellar
 Mid 90s

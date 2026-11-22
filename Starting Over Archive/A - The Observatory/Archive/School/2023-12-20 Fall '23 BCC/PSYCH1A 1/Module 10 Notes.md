@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 ## From Textbook:
 ### Module 14.2 Personality Traits
 - Psychologists want to study personality to predict individuals behavior

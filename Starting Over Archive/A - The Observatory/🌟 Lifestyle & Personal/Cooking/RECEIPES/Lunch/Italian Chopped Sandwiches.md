@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 # Italian Chopped Sandwiches 
 
 ## Ingredients

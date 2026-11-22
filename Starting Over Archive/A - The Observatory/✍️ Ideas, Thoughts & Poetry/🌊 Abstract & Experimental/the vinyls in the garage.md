@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">the vinyls in the garage</span>
 <span style="color:#000ff;">I gave them up</span>
 <span style="color:#000ff;">every memory</span>

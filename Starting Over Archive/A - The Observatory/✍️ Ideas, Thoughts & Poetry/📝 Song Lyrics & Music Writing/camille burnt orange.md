@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 camille: burnt orange
 Ive been suffering
 you know where I’m coming from

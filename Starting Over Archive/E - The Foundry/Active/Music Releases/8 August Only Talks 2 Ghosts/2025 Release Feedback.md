@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/active/music-releases]
+---
 Sent to:
 Matias
 Ben W

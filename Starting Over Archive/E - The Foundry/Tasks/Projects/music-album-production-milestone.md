@@ -3,6 +3,7 @@ tags:
   - task
   - project
   - music
+  - archive/foundry/tasks/projects
 title: "Music Album Production - Next Milestone"
 status: open
 priority: low

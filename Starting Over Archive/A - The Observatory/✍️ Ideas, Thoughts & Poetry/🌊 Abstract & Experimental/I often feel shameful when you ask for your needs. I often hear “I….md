@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 # I often feel shameful when you ask for your needs. I often hear “I don’t someone who has bad breathe. I dont want someone who I have to remind to brush their teeth.” I believe both requests are valid but i often only hear these requests in the form of stress. You get stressed about life and I seem to be the person closest to you  so i feel

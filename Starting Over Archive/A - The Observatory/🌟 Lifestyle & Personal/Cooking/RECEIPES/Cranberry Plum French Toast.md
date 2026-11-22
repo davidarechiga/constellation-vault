@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 **Cranberry Plum French Toast**
 **Yield: 4 to 6 servings**
 **For the Plums**

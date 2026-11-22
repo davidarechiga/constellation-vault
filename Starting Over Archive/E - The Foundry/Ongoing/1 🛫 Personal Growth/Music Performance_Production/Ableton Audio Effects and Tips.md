@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Ableton Audio Effects and Tips
 
 I made a walkthrough of my work process for some of my friends who wanted to start again with producing in Ableton. I think this will help a lot of producers who are on a beginner to intermediate level. This walkthrough will give a short description of all the audio effects I tend to use on my different tracks. Most important will be to train your ear to find the frequencies that not sound right. A big part of producing for me is to use your EQ right and make the correct cuts so every sound has its place in the mix.  

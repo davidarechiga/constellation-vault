@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Certainly! Here are some differences between short 15-minute conversations and longer conversations in the context of a romantic relationship, along with examples for each:
 
 **Short 15-Minute Conversations:**

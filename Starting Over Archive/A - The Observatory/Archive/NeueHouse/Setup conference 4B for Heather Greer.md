@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 Setup conference 4B for Heather Greer
 Assisted Mackenzie from Isabel Hidrobo’s studio with computer support
 Researched changing the hold music for NeueHouse. We will make a plan to change the music with something different or with a pre recorded voice message

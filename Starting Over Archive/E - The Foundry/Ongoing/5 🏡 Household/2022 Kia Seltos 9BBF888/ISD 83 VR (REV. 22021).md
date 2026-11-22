@@ -1,1 +1,4 @@
+---
+tags: [archive/foundry/ongoing/5-household]
+---
 ![[2B935070-A01E-49A6-A6EC-F2431947725B.jpg]]

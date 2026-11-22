@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/summer-25]
+---
 Tips:
 1. Framing
 - F key to frame an object

@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/archive/tonali-branding
 title: Tonali Branding
 status: someday
 priority: low

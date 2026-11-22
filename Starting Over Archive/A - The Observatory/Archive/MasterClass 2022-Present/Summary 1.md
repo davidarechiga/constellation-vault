@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 ## Summary
 We are still in the process of gathering the most up-to-date information regarding the onboarding process from both the IT and PeopleOps processes.
 ## What we've accomplished

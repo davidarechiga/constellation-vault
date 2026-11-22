@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/ryan-bailer-support]
+---
 @Archie Archie, this is fantastic.
 
 So, the  questions we want to resolve before we move forward are below. Most of these are just double and triple checking to make sure.

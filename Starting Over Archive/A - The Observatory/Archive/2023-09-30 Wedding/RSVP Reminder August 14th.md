@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # RSVP Reminder August 14th
 
 Hey hey! Hope all is well! Camille’s and my wedding is in just over a month and a half and you are invited! When you get a chance, will you please submit your RSVP for the wedding at www.weddingaf.love? All the details are there. Some important details: 

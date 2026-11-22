@@ -6,6 +6,7 @@ tags:
   - design
   - aesthetic
   - MOC
+  - archive/observatory/design-and-creative-work/design-aesthetics
 type: reference
 status: complete
 related:

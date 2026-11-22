@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 About section canoe filled out
 	good first sentence
 	what I’m looking to do

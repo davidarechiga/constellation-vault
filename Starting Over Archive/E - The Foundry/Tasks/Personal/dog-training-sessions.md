@@ -3,6 +3,7 @@ tags:
   - task
   - habit
   - pet
+  - archive/foundry/tasks/personal
 title: "Dog Training Sessions with River"
 status: open
 priority: low

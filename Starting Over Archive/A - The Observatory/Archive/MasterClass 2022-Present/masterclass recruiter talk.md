@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # masterclass recruiter talk
 
 online edu space - captivating

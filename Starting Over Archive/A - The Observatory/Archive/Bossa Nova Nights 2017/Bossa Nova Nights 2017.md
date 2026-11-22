@@ -4,6 +4,7 @@ cssclasses:
 title: Bossa Nova Nights 2017
 tags:
   - 
+  - archive/observatory/archive/bossa-nova-nights-2017
 description:
 created: 2026-03-08
 aliases:

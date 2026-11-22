@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 ## Syllabus and other information
 
 ###### **Course Schedule**

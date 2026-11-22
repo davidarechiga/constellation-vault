@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Stand Ad
 
 2-Tier Keyboard Stand

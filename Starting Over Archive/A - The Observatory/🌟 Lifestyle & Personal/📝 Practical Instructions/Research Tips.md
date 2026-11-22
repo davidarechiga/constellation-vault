@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/practical-instructions]
+---
 # Research Tips
 
 Jenny's pro-tips about finding a research topic: Choose a topic that 1) you're genuinely curious about, 2) is not too broad or too narrow, 3) is researchable, 4) is debatable. 👏

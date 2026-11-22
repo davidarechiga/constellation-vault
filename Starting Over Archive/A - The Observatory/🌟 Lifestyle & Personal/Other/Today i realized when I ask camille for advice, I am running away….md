@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/other]
+---
 Today i realized when I ask camille for advice, I am running away from my overly critical part of myself just to find more criticism. I find it so easy to criticize myself and attack myself for not being good enough. Why is it so important for me to be critical?

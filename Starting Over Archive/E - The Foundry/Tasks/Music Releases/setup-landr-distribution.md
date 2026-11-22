@@ -2,6 +2,7 @@
 tags:
   - task
   - music
+  - archive/foundry/tasks/music-releases
 title: Set Up LANDR Distribution
 status: done
 priority: high

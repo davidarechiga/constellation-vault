@@ -4,6 +4,7 @@ tags:
   - project
   - someday
   - collecting
+  - archive/foundry/someday/start-pokemon-card-collection
 type: project
 status: someday
 related:

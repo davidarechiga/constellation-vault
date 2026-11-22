@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/habits-and-productivity]
+---
 # **zen habits**
 **By** [**Leo Babauta**](http://leobabauta.com/)
 There’s a ton to be gained by getting good at Getting Stuff Done (GSD).

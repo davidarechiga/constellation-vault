@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 I don’t know how to be your man
 I do my best and you just don’t care
 

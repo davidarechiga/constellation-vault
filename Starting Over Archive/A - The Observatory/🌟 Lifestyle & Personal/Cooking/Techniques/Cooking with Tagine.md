@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 Ah, cooking with a tagine is like orchestrating a symphony of flavors in a beautifully designed clay pot! Its conical lid is not just a statement of art but a functional design that circulates steam and gently cooks the food, infusing it with layers of flavors. Let's dive into the culinary journey of using a tagine and whisk up some dish ideas.
 
 ### How to Cook with a Tagine:

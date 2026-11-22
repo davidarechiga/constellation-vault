@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="color:#000ff;">First impressions</span>
 
 <span style="color:#000ff;">Forget first impressions</span>

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 i know you're having a hard time and i hate to see that. i have always had mad respect for you since the day we met and i will do everything i can to never let you down. i will only ever be honest with you and will respect your trust and privacy... 
 
 no matter what we are doing, i'm having fun

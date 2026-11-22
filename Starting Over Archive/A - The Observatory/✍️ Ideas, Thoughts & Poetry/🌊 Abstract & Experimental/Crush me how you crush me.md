@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 Crush me how you crush me
 And I’ll be forever yours
 Swear to god I love you

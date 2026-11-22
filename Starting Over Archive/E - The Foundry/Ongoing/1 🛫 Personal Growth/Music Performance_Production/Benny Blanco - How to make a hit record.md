@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Benny Blanco - How to make a hit record
 
 ### https://www.fastcompany.com/1681191/master-class-how-to-make-a-hit-record-from-moves-like-jagger-writer-benny-blanco

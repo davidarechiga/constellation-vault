@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Schedule People Ops meeting for first week of March
 
 Start with Shira and Annelise

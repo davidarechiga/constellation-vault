@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/dan-and-cebeles-weekend]
+---
 # Notes on Stern Grove for Flaming Lips
 The concert itself is free and open to the public, and starts at 2 pm
 Stuff to Bring

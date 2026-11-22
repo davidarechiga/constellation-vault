@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Front step ups
 <span style="color:#000ff;">Side step up & hold</span>
 <span style="color:#000ff;">Bridging with knee ext</span>

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Game one (The 8s Challenge)
 
 8 Tracks

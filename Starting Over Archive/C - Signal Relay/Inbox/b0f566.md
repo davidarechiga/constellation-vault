@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/signal-relay/inbox
 type:
 status: draft
 related:

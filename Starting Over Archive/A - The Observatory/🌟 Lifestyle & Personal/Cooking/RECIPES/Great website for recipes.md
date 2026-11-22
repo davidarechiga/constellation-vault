@@ -3,6 +3,7 @@ title: Great Website for Recipes
 tags:
   - reference
   - cooking
+  - archive/observatory/lifestyle-and-personal/cooking
 description: NinjaCue recipe website and Instagram
 status: draft
 created: 2026-03-28

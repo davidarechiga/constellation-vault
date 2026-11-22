@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/book-notes]
+---
 ## **Introduction:**
 
 **“Building a Second Brain”** by Tiago Forte released in 2022, is your ultimate guide to hacking your productivity and creativity. With fifteen years of Forte’s coolest tips and tricks packed into one book, you’ll learn how to manage all your info like a pro. Ready to amp up your game and get creative? Dive into this book and start building your super-powered second brain!

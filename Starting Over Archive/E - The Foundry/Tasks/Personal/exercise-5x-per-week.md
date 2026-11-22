@@ -4,6 +4,7 @@ tags:
   - habit
   - personal
   - fitness
+  - archive/foundry/tasks/personal
 title: "Exercise 5x Per Week"
 status: open
 priority: normal

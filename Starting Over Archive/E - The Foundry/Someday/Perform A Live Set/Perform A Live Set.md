@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/perform-a-live-set
 title: Perform A Live Set
 status: someday
 priority: low

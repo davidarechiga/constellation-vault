@@ -4,6 +4,7 @@ tags:
   - habit
   - personal
   - pet
+  - archive/observatory/documentation/templates
 title: "Morning Routine + River Care"
 status: open
 priority: normal

@@ -4,6 +4,7 @@ cssclasses:
 title: templates
 tags:
   - 
+  - archive/observatory/lifestyle-and-personal
 description:
 created: 2026-03-30
 aliases:

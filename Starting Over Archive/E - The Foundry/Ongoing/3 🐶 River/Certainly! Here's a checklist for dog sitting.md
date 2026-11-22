@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/3-river]
+---
 # Certainly! Here's a checklist for dog sitting:
 
 1. **Meet and Greet**:

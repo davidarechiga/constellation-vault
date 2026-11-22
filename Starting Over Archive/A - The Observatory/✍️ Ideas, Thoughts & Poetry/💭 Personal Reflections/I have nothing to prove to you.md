@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 I have nothing to prove to you
 only to me
 gotta be better than I believe

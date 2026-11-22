@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 <span style="font-size:24pt;"><b>Out Of Control</b></span>
 
 <span style="font-size:24pt;"><b>Verse</b></span>

@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 ## Tape notes
 ### Jungle
 - Never start with tempo

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 if you don't like what you see
 whatchu doing here
 don't let these fantasies ruin you

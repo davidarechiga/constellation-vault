@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/neuehouse]
+---
 <p style="text-align:center;margin:0">
 
 <b>Randall Kane</b>

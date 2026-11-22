@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry]
+---
 > [!summary]+
 > This file will capture all possible projects that are imagined. If I have the idea, I should write it down to evaluate later.
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/music-and-audio-production]
+---
 
 hellifiknow
 

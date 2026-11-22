@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/1-baby-prep-cyrus]
+---
 The Bishop score is a 0-13 point system that assesses cervical readiness for labor by evaluating five factors:
 
 1. **Cervical dilation** (0-3 points: closed to 5+ cm)

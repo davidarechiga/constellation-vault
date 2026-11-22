@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="font-size:24pt;color:#000ff;">so tell me love did you</span>
 <span style="font-size:24pt;color:#000ff;">find an answer for all your</span>
 <span style="font-size:24pt;color:#000ff;">questions about love and laughter</span>

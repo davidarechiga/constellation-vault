@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/relationship-and-love-poetry]
+---
 <span style="font-size:18pt;color:#000ff;"><b>The Modern Gentleman is driven.</b></span>
 <span style="color:#000ff;">This is the single greatest flaw I see with men of my generation. When did it become cool to be in your mid-20s and have no vision?</span>
 <span style="color:#000ff;">Sure, you post motivational quotes on Facebook, along with pictures of what you consider to be the good life, but why are you spending your Friday and Saturday nights piss drunk or hungover?</span>

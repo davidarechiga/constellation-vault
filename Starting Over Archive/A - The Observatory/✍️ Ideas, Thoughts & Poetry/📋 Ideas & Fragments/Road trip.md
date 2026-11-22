@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/ideas-and-fragments]
+---
 Road trip
 
 Back of the bar

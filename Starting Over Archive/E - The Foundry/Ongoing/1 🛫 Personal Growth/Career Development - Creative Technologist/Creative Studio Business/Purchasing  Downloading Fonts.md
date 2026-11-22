@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Purchasing / Downloading Fonts
 
 Reposting what I said in another thread recently:

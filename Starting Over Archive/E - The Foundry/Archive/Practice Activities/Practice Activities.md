@@ -4,6 +4,7 @@ cssclasses:
 title: Practice Activities
 tags:
   - 
+  - archive/foundry/archive/practice-activities
 description:
 created: 2026-03-08
 aliases:

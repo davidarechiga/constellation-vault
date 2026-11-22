@@ -1,3 +1,6 @@
+---
+tags: [archive/root]
+---
 # 🌌 Constellation
 
 > *A personal knowledge system built on connections, not categories.*

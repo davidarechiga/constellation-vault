@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 <span style="color:#000ff;">There are three states of being. Not knowing, action and completion.</span>
 <span style="color:#000ff;">Accept that everything is a draft. It helps to get it done.</span>
 <span style="color:#000ff;">There is no editing stage.</span>

@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/documentation/agent-context
 type:
 status: draft
 related:

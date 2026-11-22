@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/foundry/someday/start-pokemon-card-collection
 type:
 status: draft
 related:

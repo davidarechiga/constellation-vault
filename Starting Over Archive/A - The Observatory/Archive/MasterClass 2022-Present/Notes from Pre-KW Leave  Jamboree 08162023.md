@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Notes from Pre-KW Leave / Jamboree 08/16/2023
 
 Capture Goals and QUestions

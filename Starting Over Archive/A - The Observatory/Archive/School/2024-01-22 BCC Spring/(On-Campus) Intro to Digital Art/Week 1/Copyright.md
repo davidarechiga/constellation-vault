@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 
 Ideas are not copyrightable, only their physical expression
 Protecting IP

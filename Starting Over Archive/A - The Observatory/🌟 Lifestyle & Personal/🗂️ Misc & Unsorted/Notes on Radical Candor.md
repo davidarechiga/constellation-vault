@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 # Notes on Radical Candor
 
 Everyone who you are talking to is different

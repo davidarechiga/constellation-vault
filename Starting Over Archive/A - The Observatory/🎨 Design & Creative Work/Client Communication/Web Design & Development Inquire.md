@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/design-and-creative-work/client-communication]
+---
 To get a clearer picture of your needs and provide an accurate quote,  can I ask a couple of questions:
 1. What is the primary goal of your website? (e.g., client bookings, showcasing services, information hub)
 2. Who is your target audience? (e.g., businesses, individuals, legal/medical clients)

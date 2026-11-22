@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 in the moments I found out
 you walked into my subway train
 we sat quiet as if life was still the same

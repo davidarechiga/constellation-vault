@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Branding Design Spec
 Font: euna 01 Seminole
 

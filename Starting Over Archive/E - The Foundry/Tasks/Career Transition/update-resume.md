@@ -2,6 +2,7 @@
 tags:
   - task
   - career
+  - archive/foundry/tasks/career-transition
 title: Update Resume for Creative Technologist Roles
 status: open
 priority: high

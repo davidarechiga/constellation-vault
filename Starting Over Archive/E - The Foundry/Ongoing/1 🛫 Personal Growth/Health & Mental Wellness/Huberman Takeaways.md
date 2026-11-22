@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 ***Thoughts in italics***
 
 Alcohol is poison 

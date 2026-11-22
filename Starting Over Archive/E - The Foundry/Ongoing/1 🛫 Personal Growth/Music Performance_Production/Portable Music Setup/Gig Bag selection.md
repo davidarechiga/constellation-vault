@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Gig Bag selection
 
 ## [Classic FlyBy Ultra Backpack](https://monocreators.com/products/classic-flyby-ultra-backpack-black) $299

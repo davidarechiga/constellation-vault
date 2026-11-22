@@ -2,6 +2,7 @@
 tags:
   - task
   - baby
+  - archive/foundry/tasks/baby-prep
 title: Pediatrician Selection
 status: done
 priority: normal

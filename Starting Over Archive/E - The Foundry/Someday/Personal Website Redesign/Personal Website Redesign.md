@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/personal-website-redesign
 title: Personal Website Redesign
 status: someday
 priority: low

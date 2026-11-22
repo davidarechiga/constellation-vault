@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Google Groups
 
 Goal with the project: Bigger than it sounds like

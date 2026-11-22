@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/fall-2025]
+---
 
 When I am photographing, the three elements I consider depend heavily on the reason the photograph is being taken. The three following considerations will be in the context of hobbyist street photography as this is my primary reason for photographing and where most of my experience comes from. These top considerations are in order from least prioritized or most prioritized for me.
 

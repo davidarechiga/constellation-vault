@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/documentation]
+---
 # Documentation
 
 System knowledge and configuration for the Constellation vault.

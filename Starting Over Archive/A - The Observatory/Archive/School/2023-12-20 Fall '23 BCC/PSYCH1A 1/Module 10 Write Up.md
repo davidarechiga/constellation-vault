@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 1. Please provide two different 4-6 sentence descriptions of pieces of information from the traits section that you saw/heard that you found interesting. In these descriptions, cover what the topic discussed and detail why you found these facts interesting. Note: you should NOT directly quote anything (use your own words). --4 points
 
 

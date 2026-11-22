@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/sources/chatgpt]
+---
 Prompt
 I have a project i need your help with. Before I tell you what the project is, I want you to ask me 20 questions about it so you better understand the project. Act as a scientist using the scientific method.
 

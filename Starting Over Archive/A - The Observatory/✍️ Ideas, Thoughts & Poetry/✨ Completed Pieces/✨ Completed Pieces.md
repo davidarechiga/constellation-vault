@@ -4,6 +4,7 @@ cssclasses:
 title: Family History
 tags:
   - 
+  - archive/observatory/ideas-thoughts-and-poetry/completed-pieces
 description:
 created: 2026-03-08
 aliases:

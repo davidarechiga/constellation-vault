@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/wellness-and-mindfulness]
+---
 **Take Care Of Yourself**
 
 **Daily Health and Maintenance** 

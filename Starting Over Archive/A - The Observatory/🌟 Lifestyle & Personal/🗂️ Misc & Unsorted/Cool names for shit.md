@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/misc-and-unsorted]
+---
 Rain Or Shine
 Rain No Shine
 All Rain No Shine

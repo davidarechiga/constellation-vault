@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Intrinsic motivation refers to engaging in an activity or behavior for the inherent satisfaction, pleasure, or personal fulfillment it provides, rather than relying on external rewards or pressures. It is the drive that comes from within an individual, often arising from their inherent interest in the activity, a sense of competence, autonomy, or a desire for personal growth and mastery.
 
 Key characteristics of intrinsic motivation include:

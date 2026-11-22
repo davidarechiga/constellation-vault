@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/personal-reflections]
+---
 I can't be accounted for
 what happens in the summer
 spaced out nights

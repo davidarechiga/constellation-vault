@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/5-household]
+---
 # Household Routines
 
 > **Quick Access:** [[5 🏡 Household]]

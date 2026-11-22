@@ -5,6 +5,7 @@ tags:
   - side-dish
   - asian
   - ramen
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Curry-spiced soft-boiled ramen eggs (ajitsuke tamago) — 6.5 min cook, 4-24 hr marinade
 status: draft
 created: 2026-03-28

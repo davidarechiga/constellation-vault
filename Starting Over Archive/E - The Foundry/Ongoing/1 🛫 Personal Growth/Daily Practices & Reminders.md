@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # Daily Practices & Reminders
 
 A comprehensive guide for daily rituals, reminders, reflections, and weekly reviews.

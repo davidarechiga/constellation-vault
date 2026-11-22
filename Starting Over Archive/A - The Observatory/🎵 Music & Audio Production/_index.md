@@ -4,6 +4,7 @@ cssclasses:
 title: Music & Audio Production Index
 description: Index of all notes in the Music & Audio Production knowledge folder
 created: 2026-03-25
+tags: [archive/observatory/music-and-audio-production]
 ---
 
 # 🎵 Music & Audio Production — Index

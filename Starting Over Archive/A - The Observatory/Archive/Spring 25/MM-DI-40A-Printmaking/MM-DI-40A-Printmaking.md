@@ -4,6 +4,7 @@ cssclasses:
 title: MM-DI-40A-Printmaking
 tags:
   - 
+  - archive/observatory/archive/spring-25
 description:
 created: 2026-03-08
 aliases:

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/ideas-and-fragments]
+---
 # String Theory
 
 You are always connected

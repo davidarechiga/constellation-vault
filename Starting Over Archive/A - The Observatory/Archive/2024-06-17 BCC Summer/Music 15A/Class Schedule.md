@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2024-06-17-bcc-summer]
+---
 
 
 **Week 1: June 17-22 - Due 11pm Saturday, June 22**  

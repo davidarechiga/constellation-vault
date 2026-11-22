@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 # How to Become a Graphic Designer in 2023
 [**How to Become a Graphic Design Freelancer (2023)**](https://blog.shillingtoneducation.com/how-to-become-a-graphic-design-freelancer/)
 

@@ -4,6 +4,7 @@ cssclasses:
 title: Working With Kristi from Talkspace
 tags:
   - 
+  - archive/observatory/archive/working-with-kristi-from-talkspace
 description:
 created: 2026-03-08
 aliases:

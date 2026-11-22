@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 ADHD Symptoms
 
 - carelessness and lack of attention to detail

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/1-baby-prep-cyrus]
+---
 ## Chronological Birth Summary
 
 ### Pre-Birth Preparation (By Week 32-36)

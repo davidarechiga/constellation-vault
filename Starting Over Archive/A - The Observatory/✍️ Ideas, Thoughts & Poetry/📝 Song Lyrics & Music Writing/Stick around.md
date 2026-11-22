@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/song-lyrics-and-music-writing]
+---
 <span style="color:#000ff;">Stick around</span>
 
 <span style="color:#000ff;">Intro and Verses- Ab, F, C#</span>

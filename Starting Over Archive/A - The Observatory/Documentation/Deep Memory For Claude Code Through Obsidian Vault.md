@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - archive/observatory/documentation
 type:
 status: draft
 related:

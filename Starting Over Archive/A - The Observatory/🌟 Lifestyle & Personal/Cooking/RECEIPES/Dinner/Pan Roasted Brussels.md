@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/cooking]
+---
 Brilliant, let's get roasting! Here’s a simple yet scrumptious recipe for your Brussels sprouts with tomato chipotle butter:
 
 ### Pan-Roasted Brussels Sprouts with Tomato Chipotle Butter

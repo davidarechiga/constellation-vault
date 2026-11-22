@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/hockey]
+---
 Measurements
 
 Head 23 inches

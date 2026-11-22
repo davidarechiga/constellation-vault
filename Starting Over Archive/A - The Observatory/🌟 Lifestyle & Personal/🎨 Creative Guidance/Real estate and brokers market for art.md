@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/creative-guidance]
+---
 <span style="color:#000ff;">Real estate and brokers market for art</span>
 <span style="color:#000ff;">Medical offices</span>
 

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 <a href="https://share.1password.com/s#cT0rx3Z4bjWiQSn3u1H3cL03h-dtaGhfpFk99pNeNPM" rel="noopener" class="external-link" target="_blank" style="color:#e4afaff;">https://share.1password.com/s#gyQkPgyHPsgPFQzDQj-19tQ6c_AU45Qmz8dlkgWKO4o</a>
 
 Hey Danielle and Kathy!

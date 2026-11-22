@@ -1,3 +1,6 @@
+---
+tags: [archive/signal-relay]
+---
 1. gratitude,  Mantras, Meditation, Journaling
 2. Health & Wellness Dashboard
 3. Daily Dashboard

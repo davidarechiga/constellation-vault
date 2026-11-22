@@ -2,6 +2,7 @@
 tags:
   - task
   - ancestry
+  - archive/foundry/tasks/ancestry-research
 title: Export Ancestry Data
 status: open
 priority: high

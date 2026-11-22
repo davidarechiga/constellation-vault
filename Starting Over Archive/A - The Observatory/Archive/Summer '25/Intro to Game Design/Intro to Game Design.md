@@ -4,6 +4,7 @@ cssclasses:
 title: Intro to Game Design
 tags:
   - 
+  - archive/observatory/archive/summer-25
 description:
 created: 2026-03-08
 aliases:

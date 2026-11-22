@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/aplusstudy]
+---
 # A+ Incorrect Answer Study
 ## 5 - Hardware Network Troubleshooting
 ### **5.1 - Th**H**e Troubleshooting Process**

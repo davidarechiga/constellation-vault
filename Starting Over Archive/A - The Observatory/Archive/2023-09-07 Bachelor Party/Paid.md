@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-07-bachelor-party]
+---
 ## Paid
 ### Going
 1. Dan

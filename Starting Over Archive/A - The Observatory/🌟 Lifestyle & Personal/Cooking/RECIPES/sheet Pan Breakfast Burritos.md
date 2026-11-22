@@ -4,6 +4,7 @@ tags:
   - recipe
   - breakfast
   - mealprep
+  - archive/observatory/lifestyle-and-personal/cooking
 description: Sheet pan egg and sausage burritos — freezer-friendly, 8 servings
 status: draft
 created: 2026-03-28

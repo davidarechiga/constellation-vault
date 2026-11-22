@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/someday/soar-board-game]
+---
 ## SOAR: The Supersonic Grand Prix
 
 ### BACKSTORY & GAME INTRO

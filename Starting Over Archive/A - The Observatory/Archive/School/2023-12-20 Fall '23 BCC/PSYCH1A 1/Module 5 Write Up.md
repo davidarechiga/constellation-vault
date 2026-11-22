@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 5 Write Up
 
 1. Please provide your own example in 6-10 sentences of how all 3 types of memory (sensory, short-term, long-term) play a role in a conversation.  Be sure the description defines each type of memory in your own words, and describes how they interact. --5 points

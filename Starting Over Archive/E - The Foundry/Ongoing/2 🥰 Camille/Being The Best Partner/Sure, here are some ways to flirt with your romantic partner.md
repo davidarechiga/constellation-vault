@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/2-camille]
+---
 # Sure, here are some ways to flirt with your romantic partner:
 
 1. Compliments: Give genuine compliments about their appearance, personality, or something they've done.

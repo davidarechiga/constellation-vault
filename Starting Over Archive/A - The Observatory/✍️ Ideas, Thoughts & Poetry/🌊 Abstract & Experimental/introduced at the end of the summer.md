@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/abstract-and-experimental]
+---
 ### draft thought 
 introduced at the end of the summer
 these summer girls really don't last

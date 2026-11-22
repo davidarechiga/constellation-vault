@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/parker-raid-setup-2021q4]
+---
 A typical 7200 RPM HDD will deliver a read/write speed of 80-160MB/s. On the other hand, a typical SSD will deliver read/write speed of between 200 MB/s to 550 MB/s.
 
 

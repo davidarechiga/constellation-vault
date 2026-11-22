@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Fs Onboarding Notes & Questions
 
 1. Is there an easy way to delete all the tickets?

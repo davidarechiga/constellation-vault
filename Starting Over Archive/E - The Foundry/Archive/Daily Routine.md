@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/archive]
+---
 # Daily Routine
 ## Morning
 ### 10m Coffee & Snack

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/apple-genius-bar-2007-2019]
+---
 Hi Archie,
 
 Before our next connection, I would love for you to reflect back on your lead experience. I would love to see a final recap highlighting your key achievements during your experience. Some things to think about -

@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/ideas-thoughts-and-poetry/ideas-and-fragments]
+---
 when all the lights are dim, where do we go. down the rabbit hole. who knows how far i chased you

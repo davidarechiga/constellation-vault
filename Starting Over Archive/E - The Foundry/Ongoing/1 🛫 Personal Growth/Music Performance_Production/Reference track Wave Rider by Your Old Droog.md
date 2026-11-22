@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/1-personal-growth]
+---
 Reference track: Wave Rider by Your Old Droog
 
 Hook?

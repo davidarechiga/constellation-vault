@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/active/career-transition-2026
 title: Career Transition 2026
 status: active
 category: work

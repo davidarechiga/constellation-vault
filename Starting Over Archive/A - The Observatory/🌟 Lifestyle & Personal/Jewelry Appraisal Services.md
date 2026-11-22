@@ -1,1 +1,4 @@
+---
+tags: [archive/observatory/lifestyle-and-personal]
+---
 ![[7F51AEE5-3D6E-4775-9937-75B216FE4FEE.jpg]]

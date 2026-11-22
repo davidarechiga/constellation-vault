@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/masterclass-2022-present]
+---
 # Lenovo Repair Steps
 
 Once a computer is determined to need a physical repair, proceed with these steps:

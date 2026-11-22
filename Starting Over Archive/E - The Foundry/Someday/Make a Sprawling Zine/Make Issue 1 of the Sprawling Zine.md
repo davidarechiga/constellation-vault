@@ -1,6 +1,7 @@
 ---
 tags:
   - project
+  - archive/foundry/someday/make-a-sprawling-zine
 title: Project Name
 status: active
 priority: normal

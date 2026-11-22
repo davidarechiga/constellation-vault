@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/2023-09-30-wedding]
+---
 # Nova 535 
 Doorman- itemized bill? What is the responsibility of the doorman?
 Management- what does that fee entail? What are their responsibilities?

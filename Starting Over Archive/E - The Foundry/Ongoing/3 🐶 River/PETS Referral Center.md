@@ -1,3 +1,6 @@
+---
+tags: [archive/foundry/ongoing/3-river]
+---
 ![[FF3CDDD9-EDDE-4A56-9CC8-B33FFFAFEF13.jpg]]
 ![[356E5E5A-4AE4-4C47-9A12-2DD667D30AFE.jpg]]
 ![[9CDD07F3-8300-45F9-BC04-C31148436B3A.jpg]]

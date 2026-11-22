@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/1-baby-prep-cyrus]
+---
 APGAR scores are a quick assessment done on newborns at 1 and 5 minutes after birth (sometimes 10 minutes if needed). It evaluates five things:
 
 - **A**ppearance (skin color)

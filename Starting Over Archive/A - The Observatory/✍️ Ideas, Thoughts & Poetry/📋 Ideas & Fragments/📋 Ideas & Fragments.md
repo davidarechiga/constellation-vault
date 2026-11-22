@@ -4,6 +4,7 @@ cssclasses:
 title: 📋 Ideas & Fragments
 tags:
   - 
+  - archive/observatory/ideas-thoughts-and-poetry/ideas-and-fragments
 description:
 created: 2026-03-08
 aliases:

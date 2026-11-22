@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 # Module 3 Write Up
 
 1. Please provide two different 4-6 sentence descriptions of pieces of information that you saw/heard from this section's presentation that you found interesting. In these descriptions, cover what the topic discussed and detail why you found these facts interesting. Note: you should NOT directly quote anything (use your own words). --5 points (2.5 points per topic, half of the credit is for the amount of content covered, the other half is for the clarity of your description) *Note: If your topic isn't related to what was covered, you will receive no credit for this section.

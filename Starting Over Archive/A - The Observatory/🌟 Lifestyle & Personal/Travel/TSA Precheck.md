@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/lifestyle-and-personal/travel]
+---
 # TSA Precheck
 
 KTN = Known traveler number to your account

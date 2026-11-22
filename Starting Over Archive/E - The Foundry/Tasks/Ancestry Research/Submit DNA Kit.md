@@ -4,6 +4,7 @@ priority: high
 tags:
   - task
   - ancestry
+  - archive/foundry/tasks/ancestry-research
 projects:
   - "[[Starting Over Archive/E - The Foundry/Tasks/Ancestry Research/Ancestry Research]]"
 due: 2026-03-17

@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/school]
+---
 
 **Terminology/Identifications (IDs)**
 

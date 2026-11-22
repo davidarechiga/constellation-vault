@@ -1,3 +1,6 @@
+---
+tags: [archive/observatory/archive/summer-25]
+---
 juggler converntion
 drop without shame
 safespace to experiment
