@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-22 · Claude Code (Logic Pro in plug-in catalog)
+- Did: Added a "Logic Pro (built-in)" section to `Atlas/Documentation/Music Production Workflow/inventory/plugin-catalog.md`. Logic Pro 12.4 is installed. Names are marked "on disk" (confirmed by `/Library/Application Support/Logic/Plug-In Settings`) or "stock" (standard lineup, unverified). Includes overlap notes against Guitar Rig, NI Solid, Arturia, Ozone and others.
+- Decided: Logic's plug-ins live inside the app, so they are not added to the bundle scan counts. `auval -a` hangs on this machine, so no registry dump.
+- Open / needs Dave: Dave was weighing a Slate Digital subscription; the catalog showed the roles are already covered. Verify the "stock" names in Logic's Plug-in Manager sometime.
+
 ### 2026-11-22 · Claude Code (Archive tagging)
 - Did: Added a `tags: [archive/<area>/<folder>]` property to all 2,124 notes in `Starting Over Archive/` (merged into existing tags on the 365 that already had frontmatter). Example: HYGIENE ROUTINE TO DOS AND TIPS is tagged `archive/observatory/lifestyle-and-personal/misc-and-unsorted`.
 - Decided: Tags come from the folder path only, so the tagging was mechanical and no note bodies were read. Search `tag:#archive` for everything, or a deeper tag for one area. Notes Dave wants to keep get pulled out of the archive into `+ Inbox/` and sorted; no flag property.
