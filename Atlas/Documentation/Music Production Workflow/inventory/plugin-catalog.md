@@ -82,6 +82,38 @@ Serum and Serum 2 are both installed. Their project-compatibility roles need sep
 - Synchro Arts: VocAlign 6 Pro.
 - Vital Audio: Vital.
 
+### Logic Pro (built-in)
+
+Logic Pro **12.4** is installed at `/Applications/Logic Pro.app`. Its stock plug-ins and instruments live inside the app. They do not show up as separate AU, VST or AAX bundles, so the scan counts above do not include them, and they appear to load only inside Logic, not in Ableton Live (not verified in Live). They come with Logic, with no separate subscription.
+
+Source for this list: the `Plug-In Settings` preset folders on disk (`/Library/Application Support/Logic/Plug-In Settings`) confirm the names marked **(on disk)**. Names marked **(stock)** are part of Logic's standard lineup but have no preset folder to confirm them here, so treat them as unverified until Logic's plug-in manager is checked. `auval -a` hung when tried on 2026-11-22, so there is no registry dump.
+
+**Instruments**
+- Synths: Alchemy (on disk), ES2 (on disk), Retro Synth (on disk), Sculpture (on disk), Quick Sampler (on disk), Sampler (on disk), ES1, ES E, ES M, ES P, EVOC 20 PolySynth (stock)
+- Drums and percussion: Ultrabeat (on disk), Drum Kit Designer (on disk), Klopfgeist (on disk), Drum Machine Designer, Drum Synth (stock)
+- Keys and acoustic: Studio Piano (on disk), Studio Bass (on disk), Vintage Electric Piano (on disk), Vintage B3, Vintage Clav, Vintage Mellotron, Studio Horns, Studio Strings (stock)
+- Session Players: Drummer, Bass Player, Keyboard Player (stock; the synth and guitar players, if any, are unverified)
+
+**Effects**
+- Reverb: ChromaVerb, Space Designer (on disk), PlatinumVerb (on disk), SilverVerb (on disk), EnVerb (on disk)
+- Delay: Delay Designer (on disk), Echo (on disk), Modulation Delay (on disk), Sample Delay (on disk), Stereo Delay (on disk), Tape Delay (on disk), Loopback (stock)
+- Dynamics: Compressor (on disk), Adaptive Limiter (on disk), Limiter (on disk), Multipressor (on disk), Enveloper (on disk), Gain (on disk), DeEsser 2 (on disk), Noise Gate, Expander, Ducker (stock)
+- EQ: Channel EQ (on disk), Linear Phase EQ (on disk), Vintage Console EQ (on disk), Vintage Graphic EQ (on disk), Vintage Tube EQ (on disk), Match EQ, Fat EQ (stock)
+- Distortion and amps: Distortion (on disk), Distortion II (on disk), Clip Distortion (on disk), Bitcrusher (on disk), Phase Distortion (on disk), Overdrive (on disk), Amp Designer (on disk), Bass Amp Designer (on disk), Pedalboard (on disk)
+- Modulation: Chorus (on disk), Phaser (on disk), Tremolo (on disk), Ringshifter (on disk), Spreader (on disk), Flanger, Ensemble, Microphaser, Rotor Cabinet, Scanner Vibrato (stock)
+- Filter: Auto Filter, Fuzz-Wah, Spectral Gate, EVOC 20 Filterbank (stock)
+- Pitch and vocal: Pitch Correction (on disk), Pitch Shifter (on disk), Vocal Transformer (stock)
+- Mastering and tone: Mastering Assistant (on disk), ChromaGlow (on disk), Phat FX (on disk), Exciter (on disk), SubBass (on disk), Enhance Timing (on disk), Direction Mixer (on disk)
+- Utility: Tuner (on disk), BPM Counter (on disk), MultiMeter, Level Meter, Loudness Meter, Test Oscillator (stock)
+
+**MIDI FX**
+- Arpeggiator (on disk), Chord Trigger (on disk), Scripter (on disk, listed as Scripted Instruments), Note Repeater, Randomizer, Transposer, Velocity Processor, Modifier, Modulator (stock)
+
+**Overlap with installed third-party tools**
+- Amps, cabs and pedals: Logic's Amp Designer, Bass Amp Designer and Pedalboard overlap with Guitar Rig 5 and 6 and Ableton's own Amp and Cabinet.
+- Bus compression, EQ and saturation: Logic's Compressor, Vintage EQs and Distortion family overlap with the NI Solid series, Arturia FX, Audified and Soundtoys.
+- Mastering and limiting: Mastering Assistant, ChromaGlow and Adaptive Limiter overlap with Ozone, LANDR Mastering Pro and Goodhertz Faraday Limiter.
+
 ## Shells and incomplete enumeration
 
 Waves WaveShell bundles for versions 10, 11, and 14 are installed. A shell does not reveal the licensed product list from its filename, so individual Waves products remain **pending enumeration** through Waves Central or a successful host scan.
