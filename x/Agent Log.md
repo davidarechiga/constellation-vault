@@ -2,6 +2,11 @@
 
 > Shared log for every AI agent working in this vault. Newest entry on top. Format and rules: `x/AGENTS.md`.
 
+### 2026-11-27 · Claude Code (Journal folder and template)
+- Did: Added `Calendar/Journal/` (with folder note `Journal.md`) and `x/Templates/Journal Entry Template.md`. Entries are named `YYYY-MM-DD Journal`. The template has feeling, on my mind, what happened, gratitude and one thing for tomorrow.
+- Decided: Lives under Calendar since entries are date-based. Kept it light and left the Daily Note's Journal section alone for quick notes.
+- Open / needs Dave: The template uses `{{date:YYYY-MM-DD}}`, which works if the core Templates plugin is on. Tell me if you want different prompts.
+
 ### 2026-11-22 · Claude Code (Archive tagging)
 - Did: Added a `tags: [archive/<area>/<folder>]` property to all 2,124 notes in `Starting Over Archive/` (merged into existing tags on the 365 that already had frontmatter). Example: HYGIENE ROUTINE TO DOS AND TIPS is tagged `archive/observatory/lifestyle-and-personal/misc-and-unsorted`.
 - Decided: Tags come from the folder path only, so the tagging was mechanical and no note bodies were read. Search `tag:#archive` for everything, or a deeper tag for one area. Notes Dave wants to keep get pulled out of the archive into `+ Inbox/` and sorted; no flag property.
